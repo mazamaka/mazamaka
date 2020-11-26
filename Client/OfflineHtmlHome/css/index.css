@@ -1,0 +1,708 @@
+/* normalize css */
+
+html {
+  font-family: "Poppins", sans-serif;
+  background-color: transparent;
+}
+
+* {
+  box-sizing: border-box;
+  background-color: transparent;
+}
+
+body,
+p,
+ul,
+h1 {
+  margin: 0;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  color: inherit;
+  /* 1 */
+  font: inherit;
+  /* 2 */
+  margin: 0;
+  /* 3 */
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+td,
+th,
+p,
+ul,
+h1 {
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+* {
+  user-select: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+button,
+input {
+  line-height: normal;
+  outline: none;
+  border: none;
+}
+
+img {
+  width: 100%;
+}
+
+/* !normalize css end */
+
+.flex {
+  display: flex;
+}
+
+.spaceBetween {
+  justify-content: space-between;
+}
+
+.perfectCenter {
+  align-items: center;
+  justify-content: center;
+}
+
+.hrtlCenter {
+  justify-content: center;
+}
+
+.vrtlCenter {
+  align-items: center;
+}
+
+.flex .grow {
+  flex-grow: 1;
+}
+
+.flex.grow {
+  flex-grow: 1;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.container {
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 100vh;
+  width: 100vw;
+  color: #fff;
+  padding: 25px 2vw 0px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.4);
+}
+
+.Assets.container.library {
+  background-image: url("../images/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.header {
+  margin-bottom: 25px;
+}
+
+.margin-right-25 {
+  margin-right: 25px;
+}
+
+.margin-right-20 {
+  margin-right: 2vw;
+}
+
+.navBar li a.activeLink {
+  border-bottom: 2px solid #008bef;
+  padding-bottom: 5px;
+  opacity: 1;
+}
+
+.navBar li a {
+  opacity: 0.6;
+  color: #fff;
+  transition: all 0.2s ease-in-out;
+  font-size: 20px;
+}
+
+.helpCenter {
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.searchBox.dullGreyBorder {
+  border: 1px solid #777995;
+}
+
+.searchBox {
+  min-width: 255px;
+  padding-right: 12px;
+  width: 22%;
+}
+
+.searchBox .transparent {
+  background: transparent;
+}
+
+.textbox {
+  padding: 9px 12px;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+}
+
+.icon.searchIcon {
+  width: 16px;
+  height: 16px;
+  background-size: 16px 16px;
+  background-image: url("../images/searchIcon.png");
+  background-repeat: no-repeat;
+  flex-shrink: 0;
+}
+
+.container .contentSection {
+  overflow-x: hidden;
+  flex-grow: 1;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.container .contentSection .library {
+  overflow-y: overlay;
+  overflow-x: hidden;
+}
+
+.heading.sectionHeading {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.container .contentSection #library {
+  overflow-y: overlay;
+  overflow-x: hidden;
+}
+
+.stickyScrollHeader {
+  background-image: url("../images/wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  z-index: 999999;
+  padding-bottom: 10px;
+}
+
+.flex.wrap {
+  flex-wrap: wrap;
+}
+
+.gameListContainer {
+  margin-right: -2vw;
+}
+
+.gameList.wrap li {
+  margin-bottom: 30px;
+  flex-shrink: 0;
+  flex: unset;
+}
+
+.gameList li {
+  flex: 1 1;
+  position: relative;
+  margin-right: 2vw;
+  z-index: 99999;
+}
+
+.gameList li:hover {
+  transform: translateY(-2px);
+}
+
+.installedGame {
+  position: relative;
+  margin-bottom: 8px;
+  height: 100px;
+}
+
+.ellipsis {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.gameName {
+  font-size: 14px;
+}
+
+.gameList.bsApps li .imageContainer {
+  height: 128px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.3);
+  margin-bottom: 8px;
+}
+
+.helpIcon {
+  width: 24px;
+  height: 24px;
+  background-size: 24px 24px;
+  background-image: url("../images/helpIcon.png");
+  margin-right: 10px;
+}
+
+.reload {
+  width: 24px;
+  background-size: 24px 24px;
+  margin-left: 10px;
+  z-index: 9999999;
+}
+
+.reload img{
+  vertical-align: middle;
+}
+
+#noInternet {
+  display: none;
+  flex-grow: 1;
+  position: relative;
+  text-align: center;
+}
+
+.offlineText {
+  font-size: 20px;
+  color: rgba(256, 256, 256, 0.6);
+  position: absolute;
+  top: 45%;
+  width: 100%;
+}
+
+.Assets .appSleeveContainer.gameCenterBg {
+  background: linear-gradient(218.78deg, #20233a 33.97%, #3a2034 100.71%);
+}
+
+.appSleeveContainer {
+  height: 100px;
+  width: 100%;
+  border: 1px solid #777995;
+}
+
+.appSleeveContainer .appSleeveCollector {
+  height: 100%;
+  justify-content: space-evenly;
+}
+
+.appSleeveContainer .slideIcon {
+  width: 36px;
+  height: 36px;
+}
+
+.transparentBg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999999 !important;
+}
+
+.Assets .folderPopup.gameCenterBg {
+  background: linear-gradient(218.78deg, #20233a 33.97%, #3a2034 100.71%);
+}
+
+.folderPopup {
+  max-width: 621px;
+  max-height: 440px;
+  background-color: #292e3d;
+  border: 1px solid #333a4c;
+  overflow-x: hidden;
+  flex-grow: 1;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+  padding: 24px;
+  z-index: 999999999;
+}
+
+.modalHeading {
+  margin-bottom: 15px;
+}
+
+.folderPopup .folderCloseContainer {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 6px;
+  display: flex;
+  align-items: center;
+}
+
+.folderPopup .folderCloseIcon {
+  width: 32px;
+  height: 32px;
+}
+
+.folderPopup .folderAppsContainer {
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.folderPopup .folderAppsContainer li img {
+  width: 84px;
+  height: 84px;
+}
+
+.modalContainer {
+  display: none;
+  color: #fff;
+}
+
+.folderPopup .folderAppsContainer li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 10px;
+  width: 128px;
+}
+
+.helpText {
+  opacity: 0.6;
+}
+
+.helpCenter:hover .helpText {
+  opacity: 1;
+}
+
+.navBar li:hover a {
+  opacity: 1;
+}
+
+.menuOptions {
+  margin-left: 5px;
+  flex-direction: column;
+  position: relative;
+  padding: 5px;
+}
+
+.menuOptions .dot {
+  width: 2px;
+  height: 2px;
+  border-radius: 100% !important;
+  background: #fff;
+  margin-bottom: 2px;
+}
+
+.menuOptions .dot:last-child {
+  margin-bottom: 0px;
+}
+
+.menuOptionsContainer {
+  display: none;
+}
+
+.optionsList {
+  position: absolute;
+  left: 15px;
+  top: -2px;
+  background: rgba(0, 0, 0, 0.9);
+  width: 100px;
+  z-index: 999999;
+  font-size: 12px;
+}
+
+.menuOptions .optionsList:before {
+  position: absolute;
+  border: 5px solid rgba(0, 0, 0, 0.9);
+  border-right-color: transparent;
+  border-top-color: transparent;
+  content: "";
+  top: 8px;
+  left: -5px;
+  transform: rotate(45deg);
+}
+
+.menuOptions .optionsList li {
+  padding: 5px 10px;
+}
+
+.menuOptions .optionsList li:hover {
+    background-color: rgba(31, 31, 31, 0.9);
+}
+
+.deleteOverlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999999 !important;
+}
+
+.deleteText {
+  font-size: 16px;
+}
+
+.deleteText.modalHeading {
+  color: #a4abc2;
+}
+
+.uninstallPopup {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999999 !important;
+  padding: 15px;
+  max-width: 380px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.Assets .uninstallPopup {
+  background-color: #232642;
+  border: 1px solid #232642;
+}
+
+.whiteButton {
+  width: 120px;
+  margin-right: 15px;
+  background: #fff;
+  padding: 6px;
+  text-align: center;
+  color: #1f232e;
+  font-size: 14px;
+  font-weight: 600;
+  z-index: 99999;
+}
+
+.warningButton {
+  background: #ff432e;
+  padding: 6px;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  width: 120px;
+}
+
+.flex.flexEnd {
+  justify-content: flex-end;
+}
+
+.gameList .deleteButton {
+  position: absolute;
+  bottom: 30px;
+  width: calc(100% - 30px);
+  left: 15px;
+  background: #ff432e;
+  z-index: 99999;
+  padding: 6px;
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  display: none;
+}
+
+.uninstallPopup .closeIcon {
+  width: 16px;
+  height: 16px;
+}
+
+.closeIcon {
+  width: 32px;
+  height: 32px;
+}
+
+.installLoader {
+  display: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  border: 2px solid #008bef;
+  animation: spin 2000ms forwards linear infinite;
+  border-bottom-color: transparent;
+}
+
+.installLoader.show {
+  display: block;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.installText, .retryText {
+  font-size: 14px;
+  font-weight: 600;
+  color: #008bef;
+  margin-top: 5px;
+}
+
+.installIndicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background: #008bef;
+  margin-right: 10px;
+}
+
+.installFailed {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  flex-direction: column;
+  align-items: center;
+}
+
+.installFailed.show {
+  display: flex;
+}
+
+.retryIcon {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  border: 2px solid #008bef;
+  position: relative;
+}
+.retryIcon:after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  content: "i";
+}
+
+.downloadProgress {
+  display: none;
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  width: 80%;
+}
+
+.downloadProgress.show {
+  display: block;
+}
+
+.outerProgress {
+  position: relative;
+  width: 100%;
+  height: 6px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.innerProgress {
+  position: relative;
+  height: 6px;
+  border-radius: 8px;
+  background: #008bef;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: auto;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  top: calc(100% + 5px);
+  right: 0;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  font-size: 12px;
+}
+
+.tooltip .tooltiptext::before {
+  content: "";
+  position: absolute;
+  bottom: 100%;
+  right: 8px;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:  transparent transparent #555 transparent;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+

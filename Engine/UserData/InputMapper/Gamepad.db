@@ -1,0 +1,96 @@
+{
+	"GamePad": [{
+			"ProductName": "[BETOP CONTROLLER]",
+			"PropertyData": [
+				0,
+				1426395584
+			],
+			"A": "B3",
+			"B": "B2",
+			"X": "B4",
+			"Y": "B1",
+			"LB": "B5",
+			"RB": "B6",
+			"Start": "B10",
+			"Back": "B9",
+			"LTB": "B11",
+			"RTB": "B12",
+			"LT": "B7",
+			"RT": "B8",
+			"LX": "Axis1",
+			"LY": "Axis2",
+			"RX": "Axis3",
+			"RY": "Axis6",
+			"POV": "Pov1"
+		},
+		{
+			"ProductName": "Wireless Controller",
+			"PropertyData": [
+				164365644
+			],
+			"A": "B2",
+			"B": "B3",
+			"X": "B1",
+			"Y": "B4",
+			"LB": "B5",
+			"RB": "B6",
+			"Start": "B10",
+			"Back": "B9",
+			"LTB": "B11",
+			"RTB": "B12",
+			"LT": "B7",
+			"RT": "B8",
+			"LX": "Axis1",
+			"LY": "Axis2",
+			"RX": "Axis3",
+			"RY": "Axis6",
+			"POV": "Pov1"
+		},
+		{
+			"ProductName": "BETOP 2175 BFM",
+			"PropertyData": [
+				1426071740
+			],
+			"A": "B1",
+			"B": "B2",
+			"X": "B4",
+			"Y": "B5",
+			"LB": "B7",
+			"RB": "B8",
+			"Start": "B12",
+			"Back": "B11",
+			"LTB": "B14",
+			"RTB": "B15",
+			"LT": "B9",
+			"RT": "B10",
+			"LX": "Axis1",
+			"LY": "Axis2",
+			"RX": "Axis3",
+			"RY": "Axis6",
+			"POV": "Pov1"
+		},
+		{
+			"ProductName": "Flydigi 2.4G Android",
+			"PropertyData": [
+				605029556
+			],
+			"A": "B1",
+			"B": "B2",
+			"X": "B3",
+			"Y": "B4",
+			"LB": "B7",
+			"RB": "B8",
+			"Start": "B12",
+			"Back": "B11",
+			"LTB": "B13",
+			"RTB": "B14",
+			"LT": "B9",
+			"RT": "B10",
+			"LX": "Axis1",
+			"LY": "Axis2",
+			"RX": "Axis3",
+			"RY": "Axis6",
+			"POV": "Pov1"
+		}
+	]
+}

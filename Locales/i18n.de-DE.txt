@@ -1,0 +1,3643 @@
+﻿STRING_RESTART = Neustarten
+
+STRING_QUIT_BLUESTACKS = Beenden
+
+STRING_UPLOAD_DEBUG_LOGS = Problem melden
+
+STRING_INSTALL_UPDATES = Updates installieren
+
+STRING_APPS = Apps
+
+STRING_APP = App
+
+STRING_INSTALLED = Installiert
+
+STRING_FULL_SCREEN_BUTTON_TOOLTIP = In Vollbildmodus wechseln
+
+STRING_LOADING_MESSAGE = Wird geladen
+
+STRING_SYSTEM_APP = System App
+
+STRING_BROWSER_APP = Browser
+
+STRING_SETTINGS = Einstellungen
+
+STRING_SETTING_APP = Einstellungen
+
+STRING_CAMERA_APP = Kamera
+
+STRING_GOOGLE_PLAY_GAMES_APP = Google Play Spiele
+
+STRING_MEDIA_MANAGER_APP = Media-Manager
+
+STRING_GOOGLE_PLAY_STORE_APP = Google Play
+
+STRING_RETURN_APP = Zurück
+
+STRING_HELP_CENTER_APP = Hilfecenter
+
+STRING_INSTANCE_MANAGER_APP = Instanzen-Manager
+
+STRING_MACRO_RECORDER_APP = Makro-Rekorder
+
+STRING_INITIALIZING = Initialisierung
+
+STRING_FULL_SCREEN_TOAST = @@STRING_PRODUCT_NAME@@ befindet sich im Vollbildmodus. Drücke F11 um den Vollbildmodus zu beenden.
+
+STRING_SNAPSHOT_ERROR_TOAST = Keine App zum teilen von Snapshots installiert
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT_CAPTION = Eine PC-Antiviren- oder Sicherheitsanwendung verhindert die Ausführung von @@STRING_PRODUCT_NAME@@
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT = Bitte beende die Antivirus- oder Sicherheitsanwendung deines PCs, die @@STRING_PRODUCT_NAME@@ daran hindert, ausgeführt zu werden
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_SUCCESS = wurde installiert
+
+STRING_UNINSTALL_SUCCESS = wurde deinstalliert
+
+STRING_INSTALL_FAIL = Installation fehlgeschlagen
+
+STRING_USER_WAIT = Apk wird installiert
+
+STRING_FORM = App-Player-Support-Tool
+
+STRING_ATTACHMENT_SIZE_EXCEEDS_LIMIT = Die Datei, die Sie versuchen anzuhängen, überschreitet die erlaubte Höchstgrenze von MB. Wählen Sie bitte eine andere Datei.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Die Datei, die Sie anhängen möchten, ist kein Bild. Bitte hängen Sie einen Screenshot des Problems an und versuchen Sie es erneut.
+
+STRING_STATUS_INITIAL = Collector wird gestartet
+
+STRING_STATUS_COLLECTING_PRODUCT = Sammle Produktinformationen
+
+STRING_STATUS_COLLECTING_HOST = Sammle Host-Informationen
+
+STRING_STATUS_COLLECTING_GUEST = Sammle Android Informationen
+
+STRING_STATUS_ARCHIVING = Erstelle Support Archiv
+
+STRING_STATUS_SENDING = Sende Problembericht
+
+STRING_APP_NAME = App-Namen eingeben
+
+STRING_FINISH_CAPT = Support Tool abgeschlossen
+
+STRING_FINISH_REPORT_SEND = Ihr Problembericht wurde gesendet. Wir werden uns bald wieder bei Ihnen melden.
+
+STRING_PROMPT = Konnte Problembericht nicht senden. Eine Datei mit dem Namen BlueStacks-Support.zip wurde auf dem Desktop erstellt. Bitte mailen Sie diese Datei zusammen mit einer kurzen Beschreibung Ihres Problems an support@bluestacks.com.
+
+STRING_RPC_FORM = Fehlerbehebung bei Google-Anmeldefehlern
+
+STRING_STUCK_AT_INITIALIZING_FORM = Fehlerbehebung Blockierung bei der Initialisierung
+
+STRING_WORK_DONE = Fertig, wenn das Problem weiterhin besteht, dannmelden Sie bitte ein Problem
+
+STRING_PROGRESS = Warten Sie bitte, wir versuchen, das Problem zu beheben
+
+STRING_TROUBLESHOOTER = Problembehandlung und versuchen, mein Problem automatisch zu beheben
+
+STRING_LOGCOLLECTOR_RUNNING = Das Problembericht-Tool wird bereits ausgeführt
+
+STRING_CATEGORY = Kategorie
+
+STRING_ZIP_NAME = BlueStacks-Support.zip
+
+STRING_RESTART_UTILITY_TITLE = @@STRING_PRODUCT_NAME@@ Neustart-Dienstprogramm
+
+STRING_RESTART_UTILITY_RESTARTING = @@STRING_PRODUCT_NAME@@ wird neu gestartet
+
+STRING_RESTART_UTILITY_CANNOT_START = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden.
+
+STRING_RESTART_UTILITY_UNHANDLED_EXCEPTION = Unbehandelte Ausnahme festgestellt. Bitte überprüfen Sie das Protokoll auf Details.
+
+STRING_APKINSTALLER_ALREADY_RUNNING = Eine App ist bereits installiert. Bitte warten Sie, während die Installation beendet wird.
+
+STRING_UPDATER_UTILITY_NO_UPDATE_TITLE = @@STRING_PRODUCT_NAME@@ Updater
+
+STRING_UPDATER_UTILITY_ASK_TO_INSTALL = Möchten Sie auf die neueste Version von @@STRING_PRODUCT_NAME@@ aktualisieren?
+
+STRING_UPDATE_SUCCESS = wurde aktualisiert
+
+STRING_MINIMIZE_TOOLTIP = Minimieren
+
+STRING_CLOSE = Schließen
+
+STRING_SET_LOCATION = Standort festlegen
+
+STRING_TOOLBAR_CAMERA = Screenshot machen
+
+ANDROID = Android
+
+STRING_FINISH = Abgeschlossen
+
+STRING_START_BLUESTACKS = @@STRING_PRODUCT_NAME@@ starten
+
+STRING_DOWNLOADING = Wird heruntergeladen
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BACK = Zurück
+
+STRING_EXIT = Beenden
+
+STRING_WELCOME_TO_BLUESTACKS = Willkommen bei @@STRING_PRODUCT_NAME@@
+
+STRING_BLUESTACKS_APK_HANDLER_TITLE = @@STRING_PRODUCT_NAME@@ APK-Handler
+
+STRING_SNAPSHOT_SHARE_STRING = geteilt über @@STRING_PRODUCT_NAME@@ App-Player (www.bluestacks.com)
+
+STRING_LOADING_SCREEN_APP_TITLE = @@STRING_PRODUCT_NAME@@ App Player
+
+STRING_CLOSE_MESSAGE_PROMPT = Möchten Sie das Streamen beenden?
+
+STRING_CLOSE_WHILE_STREAMING_TOOLTIP = Stream wird beendet
+
+STRING_BLACKSCREEN_FORM = Fehler beheben schwarzer Bildschirm
+
+STRING_SELECT_APP_NAME = Name der Anwendung auswählen
+
+STRING_SELECT = Auswählen
+
+STRING_CREATE_BLUESTACKS_REGISTRY = @@STRING_PRODUCT_NAME@@ Registry erstellen
+
+STRING_CREATE_SHORTCUTS = @@STRING_PRODUCT_NAME@@-Verknüpfungen werden erstellt
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = @@STRING_PRODUCT_NAME@@ konnte deine Daten leider nicht wiederherstellen, da es mindestens folgendes erfordert
+
+STRING_CORRUPT_INSTALLATION_MESSAGE = Leider scheint es, dass @@STRING_PRODUCT_NAME@@ nicht starten kann und neu installiert werden muss. Bitte deinstalliere @@STRING_PRODUCT_NAME@@ und reinstalliere die neueste Version von https://bluestacks.com.
+
+STRING_SUBCATEGORY = Unterkategorie
+
+STRING_FILTER_UPDATE_TITLE = @@STRING_PRODUCT_NAME@@ Filter Aktualisierer
+
+STRING_INITIALIZING_DOWNLOADER = Downloader wird initialisiert
+
+STRING_DOWNLOADING_0_of_1 = Herunterladen {0} von {1}...
+
+STRING_DOWNLOADED = Download abgeschlossen
+
+STRING_APPLYING = Anwenden des Themas, bitte warten.
+
+STRING_LATER_BUTTON = Später
+
+STRING_DOWNLOAD_ERROR = Ups! Ein Fehler ist aufgetreten. Die Filter werden beim nächsten Start aktualisiert
+
+STRING_STOP_STREAMING_REQUIRED = Dieses Update erfordert einen Streaming-Stopp
+
+STRING_OBS_ERROR = Huch! Etwas ist schief gelaufen. Möchten Sie es erneut probieren?
+
+STRING_OBS_ALREADY_RUNNING = Eine weitere OBS-Instanz läuft bereits. Bitte beenden Sie diese, bevor Sie live gehen.
+
+STRING_RESTORE_BUTTON = Wiederherstellen
+
+STRING_RECOMMENDED = Empfohlen
+
+STRING_BLUESTACKS_WARNING_PROMPT = @@STRING_PRODUCT_NAME@@ Warnung
+
+STRING_SELECT_BACKUP = Wähle einen Ordner, in welchem du das Backup hinterlegen möchtest
+
+STRING_SELECT_RESTORE = Wähle einen Ordner, aus welchem du ein Backup wiederherstellen möchtest
+
+STRING_QUITTING = @@STRING_PRODUCT_NAME@@ wird beendet
+
+STRING_ANDROID_BACKUP = Android Backup wird erstellt
+
+STRING_ANDROID_RESTORE = Android Backup wird wiederhergestellt
+
+STRING_USER_DATA_BACKUP = Nutzerdaten Backup wird erstellt
+
+STRING_USER_DATA_RESTORE = Nutzerdaten Backup wird wiederhergestellt
+
+STRING_BACKUP_COMPLETE = Backup abgeschlossen
+
+STRING_RESTORE_COMPLETE = Wiederherstellung abgeschlossen
+
+STRING_BACKUP_FAILED = Backup fehlgeschlagen. Bitte versuche es später noch einmal.
+
+STRING_RESTORE_FAILED = @@STRING_PRODUCT_NAME@@ konnte deine Daten leider nicht wiederherstellen, da es mindestens folgendes erfordert
+
+STRING_DATA_MANAGER = @@STRING_PRODUCT_NAME@@ Daten Manager
+
+STRING_APP_PLAYER_ONLINE = App Player Online
+
+STRING_MANAGE_NOTIFICATION = Benachrichtigungen verwalten
+
+STRING_MUTE_NOTIFICATION_TOOLTIP = Stummschaltung
+
+STRING_HOUR = 1 Stunde
+
+STRING_WEEK = 1 Woche
+
+STRING_DAY = 1 Tag
+
+STRING_FOREVER = Immer
+
+STRING_CLEAR = Löschen
+
+STRING_NO_NEW_NOTIFICATION = Keine Benachrichtigungen
+
+STRING_NOTIFICATION = Benachrichtigungen
+
+STRING_SHOW = Zeigen
+
+STRING_AUTO_HIDE = Automatisch verstecken
+
+STRING_SHOW_NOTIFICATIONS = Desktop-Benachrichtigungen anzeigen
+
+STRING_AUTO_HIDE_TOOLTIP = Benachrichtigung nach 10 Sekunden ausgeblendet.
+
+STRING_DISMISS_TOOLTIP = Verwerfen
+
+STRING_SHOW_NOTIFICATION_TOOLTIP = Benachrichtigung anzeigen
+
+STRING_RESET_APPS_AND_DATA = Zurücksetzen aller Anwendungen und Daten.
+
+STRING_AUTO = Automatisch
+
+STRING_WEBCAM_SOURCE_STRING = Webcam Quelle
+
+STRING_STREAM_QUALITY_DETAILS = Dies wirkt sich nicht auf den Vorschau-Bildschirm auf der linken Seite aus
+
+STRING_STREAM_QUALITY = Stream Qualität
+
+STRING_SERVER_LOCATION = Wähle einen Serverplatz, der deinem am nächsten liegt
+
+STRING_LBL_RESTORE_DEFAULT = Zurück zu Werkeinstellungen
+
+STRING_LBL_COMPUTER_SOUND = Computer-Sound
+
+STRING_LBL_MICROPHONE_SOUND = Mikrofon-Sound
+
+STRING_LBL_MICROPHONE_SOURCE = Mikrofonquelle
+
+STRING_LABEL_STREAM_AUDIO_SOURCE = Stream-Audio-Quelle
+
+STRING_LABEL_STREAM_AUDIO_SOURCE_DETAIL = Dies betrifft nur das, was deine Zuschauer hören werden
+
+STRING_LBL_ADVANCED_STREAM_SETTINGS = Erweiterte Stream-Einstellungen
+
+STRING_AUDIO_BUTTON = Audio
+
+STRING_VIDEO_BUTTON = Video
+
+STRING_OTHER_BUTTON = Andere
+
+STRING_VIDEO_BUTTON_TOOLTIP = Videoeinstellungen können live nicht verändert werden
+
+STRING_OTHER_BUTTON_TOOLTIP = Andere Einstellungen können live nicht verändert werden
+
+NONE = Keine
+
+STRING_ACCOUNT = Account
+
+STRING_NAVIGATE_FAILED = Navigation fehlgeschlagen
+
+STRING_RETRY = Wiederholen
+
+STRING_INCORRECT_LOGIN_DETAILS = Wiederherstellen des Backups ist fehlgeschlagen! Das mit diesem Backup verknüpfte @@STRING_PRODUCT_NAME@@-Konto unterscheidet sich vom aktuell angemeldeten Konto.
+
+STRING_INCORRECT_PATH = Leider war die Wiederherstellung nicht erfolgreich. Bitte wähle den korrekten Pfad aus.
+
+STRING_RESTORE_FAILURE = Datenwiederherstellung fehlgeschlagen
+
+STRING_BACKUP_SUCCESSFUL = Deine Daten wurden erfolgreich gesichert. Du findest diese unter:
+
+STRING_RESTORE_SUCCESSFUL = Deine Daten wurden erfolgreich wiederhergestellt.
+
+STRING_ADVANCED_SETTINGS = Erweiterte Einstellungen
+
+STRING_EXIT_BLUESTACKS = Möchten Sie @@STRING_PRODUCT_NAME@@ verlassen?
+
+STRING_YES = Ja
+
+STRING_NO = Nein
+
+STRING_HOME = Home
+
+STRING_SHAKE = Schütteln
+
+STRING_LOCATION = Standort
+
+STRING_LOADING_ENGINE = Engine laden
+
+STRING_SEARCH = Suche
+
+STRING_APP_CENTER = App Center
+
+STRING_GIFT = Geschenke
+
+STRING_FEEDBACK = Hilfe und Unterstützung
+
+STRING_ENGINE_VERSION = Engine Version
+
+STRING_OK = OK
+
+STRING_SAVE = Speichern
+
+STRING_CPU_CORES = CPU-Kerne
+
+STRING_MEMORY = Arbeitsspeicher
+
+STRING_APPLY = Anwenden
+
+STRING_GOOGLE_LOGIN_MESSAGE = Mit Ihrem Google-Account einloggen um @@STRING_PRODUCT_NAME@@ zu benutzen
+
+STRING_MORE_GOOGLE_SEARCH_RESULT = Mehr Google-Suchergebnisse für
+
+STRING_F11_EXIT_FULL_SCREEN = F11 drücken um den Vollbildmodus zu verlassen.
+
+STRING_ESC_EXIT_FULL_SCREEN = Esc drücken um den Vollbildmodus zu verlassen.
+
+STRING_WARNING = Warnung
+
+STRING_BEGINNERS_GUIDE = Anleitung für Beginner
+
+STRING_VOLUME_CONTROL = Lautstärkeregler
+
+STRING_ALWAYS_ON_TOP = Immer oben
+
+STRING_KEY_MAPPING_ENABLED = KeyMapping aktiviert
+
+STRING_KEY_MAPPING_DISABLED = KeyMapping deaktiviert
+
+STRING_MULTIINSTANCE_DELETE = Möchten Sie diese Instanz löschen?
+
+STRING_UNINSTALL_APP_ASK = Möchten Sie die App deinstallieren?
+
+STRING_MAP = Karten
+
+STRING_SOME_ERROR_OCCURED = Leider ist etwas schief gelaufen Bitte versuche es erneut.
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@-Datenpfad
+
+STRING_INSTALL_NOW = Jetzt installieren
+
+STRING_SPACE_REQUIRED = Platz benötigt
+
+STRING_SPACE_AVAILABLE = Platz vorhanden
+
+STRING_FOLDER = Ordner
+
+STRING_INSTALL_DONE = Installation komplett
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Möchten Sie diese Installation abbrechen?
+
+STRING_SELECT_FOLDER = Bitte wähle einen anderen Ordner aus
+
+STRING_AGREE_WITH_LICENSE = Deine Zustimmung zu unseren allgemeinen Geschäftsbedingungen ist erforderlich, um fortzufahren
+
+STRING_PRE_INSTALL_CHECKS = Systemanforderungen überprüfen
+
+STRING_INSTALLING_ENGINE = Engine installieren
+
+STRING_EXTRACTING_FILES = Dateien extrahieren
+
+STRING_INSTALL_FINISH = Installation abgeschlossen
+
+STRING_CUSTOM = Installation anpassen
+
+STRING_SOFTWARE_LICENSE = Softwarelizenz
+
+STRING_AGREE = Akzeptieren
+
+STRING_UNINSTALL_FINISHED = Deinstallation abgeschlossen
+
+STRING_CANCEL = Abbrechen
+
+STRING_UNINSTALL = Deinstallieren
+
+STRING_ENGINE_UNINSTALL = Engine wird deinstalliert
+
+STRING_CLIENT_UNINSTALL = Klient wird deinstalliert
+
+STRING_FINISHED = Abgeschlossen
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Vielen Dank für die Verwendung von @@STRING_PRODUCT_NAME@@
+
+STRING_REASON_FOR_UNINSTALL = Vielen Dank, dass Du @@STRING_PRODUCT_NAME@@ benutzt hast. Bitte nenne uns einen Grund für die Deinstallation:
+
+STRING_INSTALL_ENGINE_FAIL = Engine konnte nicht installiert werden
+
+STRING_INSTALL_GAME_FAIL = Spiel konnte nicht installiert werden
+
+STRING_CONFLICT_WITH_OTHERS = Konflikt mit anderer Software
+
+STRING_START_ENGINE_FAIL = Engine hat nicht gestartet
+
+STRING_GAME_LAG = Verzögertes Spielverhalten
+
+STRING_BLACK_SCREEN = Schwarzer Bildschirm
+
+STRING_CANNOT_FIND_GAME = Spiel konnte nicht gefunden werden
+
+STRING_APP_CRASH = App Crash
+
+STRING_EXE_CRASH = .exe Crash
+
+STRING_OTHER_REASON = Andere Gründe oder Informationen wie Spielname etc.
+
+STRING_INSTANCE_ALREADY_RUNNING_DELETE_IT = Diese Instanz läuft bereits! Möchten Sie sie wirklich löschen?
+
+STRING_GUEST_NOT_BOOTED = Engine ist nicht bereit. Bitte warten
+
+STRING_MULTIINSTANCE = Multi-Instanz
+
+STRING_INSTALL_APK = Apk installieren
+
+STRING_UNINSTALL_APP = App deinstallieren
+
+STRING_DELETE = Löschen
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_01 = Für diese App ist eine Anpassung der Tastaturbelegung möglich.
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_02 = Bitte unten klicken, um zu prüfen oder zu bearbeiten.
+
+STRING_DOWNLOAD_GOOGLE_APP_POPUP_STRING_04 = Nicht mehr anzeigen
+
+STRING_UPGRADE_NOW = Jetzt updaten
+
+STRING_INSTALLATION_ERROR = Installationsfehler
+
+STRING_TRY_RESTARTING_MACHINE = Starten Sie Ihren Computer neu und versuchen Sie es noch einmal
+
+STRING_MULTI_INSTANCE_CREATE_ERROR = Leider konnte @@STRING_PRODUCT_NAME@@ keine Instanz erstellen.
+
+STRING_ARE_YOU_SURE = Bist du dir sicher?
+
+STRING_RESTART_MACHINE_PROMPT = Möchten Sie Ihren PC neu starten?
+
+STRING_OPEN_KEYMAPPING_UI = KeyMapper öffnen
+
+STRING_MAXIMIZE_TOOLTIP = Maximieren
+
+STRING_VERION_DOWNGRADE = Downgrade
+
+STRING_VERSION_ALREADY_INSTALLED = Neuste Version bereits installiert
+
+STRING_CANT_USE_THIS_FOLDER = Leider kann der ausgewählte Ordner nicht zur Installation von @@STRING_PRODUCT_NAME@@ verwendet werden.
+
+STRING_NO_DISK_SPACE = Leider gibt es nicht genügend Speicherplatz
+
+STRING_MULTI_INSTANCE_CREATE_BUSY = Eine neue Instanz wird bereits erstellt. Bitte warte, bis der Vorgang abgeschlossen ist
+
+STRING_MULTI_INSTANCE_DELETE_BUSY = Eine Instanz wird bereits gelöscht. Bitte warte, bis der Vorgang abgeschlossen ist
+
+STRING_UNINSTALL_BLUESTACKS = Möchten Sie @@STRING_PRODUCT_NAME@@ deinstallieren?
+
+STRING_CLIENT_VERSION = Klient-Version
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Minimale Systemanforderungen werden nicht erfüllt
+
+STRING_RESTART_NOW = Jetzt neu starten
+
+STRING_EXIT_INSTANCE = Möchten Sie diese Instanz schließen?
+
+STRING_INSTANCE_CLOSE_TITLE = Instanz schließen
+
+STRING_BLUESTACKS_UPDATE_AVAILABLE = @@STRING_PRODUCT_NAME@@ Updater
+
+STRING_DOWNLOADING_BLUESTACKS_UPDATE = @@STRING_PRODUCT_NAME@@ Update wird herunter geladen
+
+VERSION = Version
+
+STRING_ERROR = Fehler
+
+STRING_SCREEN1_TEXT1 = Klicke auf den > Button auf deinem Screen, um dich mit den nützlichen Features vertraut zu machen
+
+STRING_DIRECTX = DirectX
+
+STRING_OPENGL = OpenGL
+
+STRING_ENGINE_FAIL_HEADER = Engine konnte nicht gestartet werden
+
+STRING_ENGINE_RESTART = Du kannst versuchen Deine Engine oder Deinen Rechner neu zu starten.
+
+STRING_CREATING_BACKUP = Backup wird erstellt
+
+STRING_BACKUP_PLEASE_WAIT = Bitte warte, während wir deine @@STRING_PRODUCT_NAME@@-Daten in dem ausgewählten Ordner sichern.
+
+STRING_RESTORE_BACKUP = Backup wiederherstellen
+
+STRING_RESTORING_BACKUP = Backup wird wiederhergestellt.
+
+STRING_RESTORE_PLEASE_WAIT = Bitte warte, während wir deine @@STRING_PRODUCT_NAME@@-Daten aus dem ausgewählten Ordner wiederherstellen.
+
+STRING_MAKE_SURE_LATEST_WARNING = Bitte sichere deine neuesten @@STRING_PRODUCT_NAME@@-Daten (Instanzen, Einstellungen, installierte Spiele, Spieldaten und Tastatursteuerungen), bevor du eine andere Sicherung wiederherstellst. Andernfalls könnest du diese verlieren und nicht wiederherstellen.
+
+STRING_BACKUP_WARNING = Backup Warnung
+
+STRING_BLUESTACKS_BACKUP_PROMPT = Du wirst nicht in der Lage sein, @@STRING_PRODUCT_NAME@@ während des Prozesses zu verwenden, bist du sicher, dass du fortfahren möchtest?
+
+STRING_QUITTING_BLUESTACKS_WHILE_BACKUP_PROMPT = Du bist dabei, @@STRING_PRODUCT_NAME@@ beim Erstellen eines Backups zu beenden. Bist du dir sicher, dass du weitermachen willst ?
+
+STRING_BLANK_NOTIFICATION = Deine App hat eine Benachrichtigung
+
+STRING_QUITTING_BLUESTACKS_WHILE_RESTORE_PROMPT = Bitte warte, während wir @@STRING_PRODUCT_NAME@@ beenden, es wird automatisch gestartet, wenn die Wiederherstellung abgeschlossen ist.
+
+STRING_SUCCESS = Erfolg
+
+STRING_LAUNCHING_BLUESTACKS = Starte @@STRING_PRODUCT_NAME@@
+
+STRING_RUNNING_COMMANDS = Ausführen von Befehlen
+
+STRING_COMMANDS_ERROR = Ein Fehler ist aufgetreten, der Fehler Code ist
+
+STRING_TOOL_SUCCESS = Erfolgreich beendet.
+
+STRING_DELETING_BACKUP = Lösche Backup
+
+STRING_DELETING_BACKUP_INFO = Bitte warte, während wir dein Backup abbrechen.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMPT_TEXT1 = Ein anderes @@STRING_PRODUCT_NAME@@-Programm läuft bereits.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMPT_TEXT2 = Klicke OK, um das vorhandene @@STRING_PRODUCT_NAME@@-Programm zu schließen und fortzufahren.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Backup in diesem Pfad fehlgeschlagen. Du hast keine Schreibrechte
+
+STRING_BACKUP_FAILURE = Backup fehlgeschlagen
+
+STRING_DATA_MANAGER_INVALID_OEM = Fehler - Leider war die Wiederherstellung nicht erfolgreich! Das ist ein ungültiges Backup, das nicht mit dieser @@STRING_PRODUCT_NAME@@-Version übereinstimmt.
+
+STRING_UNINSTALL_TITLE = @@STRING_PRODUCT_NAME@@ deinstallieren
+
+STRING_UNINSTALL_BLUESTACKS_WARNING = Deine Daten gehen dabei verloren. Deine Daten kannst du unter Einstellungen > Backup & Wiederherstellung sichern.
+
+STRING_BLUESTACKS_UPDATE = @@STRING_PRODUCT_NAME@@ Update
+
+STRING_RESTART_PC = PC neu starten
+
+STRING_RESTART_ENGINE = Engine neu starten
+
+STRING_INVALID_PATH = Ungültiger Pfad. Der Dateiname muss eine jpg oder jpeg Endung haben.
+
+STRING_INVALID_CHARACTER = Leider sind nur Buchstaben erlaubt.
+
+STRING_BOOT_TIME = Abhängig von der Leistung deines PCs kann dies einige Sekunden dauern
+
+STRING_BOOTING_ENGINE = Starte @@STRING_PRODUCT_NAME@@, bitte warte.
+
+STRING_FIRST_BOOT = Abhängig von Deiner Rechnerleistung, kann der erste Start bis zu 2-3 Minuten dauern
+
+STRING_INSTANCE = Instanz
+
+STRING_DYNAMIC_RAM = Arbeitsspeicher automatisch zuweisen
+
+STRING_CONNECTION_ISSUE_TEXT1 = Es gab ein Verbindungsproblem.
+
+STRING_CONNECTION_ISSUE_TEXT2 = Bitte versuche es nochmal.
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Nochmal versuchen
+
+STRING_REMOVE_ACCOUNT_ON_EXIT = Möchtest du dein Google-Konto und den gesamten zugehörigen Inhalt von @@STRING_PRODUCT_NAME@@ entfernen?
+
+STRING_CLOSING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ schließen
+
+STRING_EXIT_BLUESTACKS3 = Spannendes BlueStacks 3
+
+STRING_PERF_WARNING = Leistungswarnung
+
+STRING_MIN_REQ_NOT_MET = Leider erfüllt dein PC nicht die Mindestanforderungen um @@STRING_PRODUCT_NAME@@ leistungsfähig zu nutzen. Die Leistung könnte etwas schlechter sein.
+
+STRING_CREATE_INSTANCE = Instanz erstellen
+
+STRING_CLONE_INSTANCE = Instanz kopieren
+
+STRING_DONT_CREATE = Nicht erstellen
+
+STRING_SPEEDUP_BLUESTACKS = @@STRING_PRODUCT_NAME@@ beschleunigen
+
+STRING_SPEEDUP_SUGGESTION_INSTANCE = @@STRING_PRODUCT_NAME@@ empfiehlt, die Virtualisierung auf deinem PC zu aktivieren, um mehrere Instanzen auszuführen zu können. Solltest du dies nicht tun, so kann das in einer langsameren Leistung resultieren.
+
+STRING_INSTALLATION_ROLLBACK = Installation Rollback
+
+STRING_UNINSTALLING_WAIT = @@STRING_PRODUCT_NAME@@ wird deinstalliert. Bitte warten
+
+STRING_CLEANER_TITLE = @@STRING_PRODUCT_NAME@@ Reiniger
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Neu installieren
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Altes behalten
+
+STRING_REC_MEM = Empfohlen
+
+STRING_DISPLAY_SETTINGS = Display
+
+STRING_ENGINE_SETTING = Engine
+
+STRING_BOSSKEY_SETTING = Boss Key
+
+STRING_NOTIFICATION_SETTING = Benachrichtigungseinstellungen
+
+STRING_BACKUPRESTORE_SETTING = Backup & Wiederherstellen
+
+STRING_UPDATE_SETTING = Update
+
+STRING_ABOUT_SETTING = Über
+
+STRING_DEVICEPROFILE_SETTING = Geräteprofil
+
+STRING_KEEP_BLUESTACKS_UPDATED = Halte @@STRING_PRODUCT_NAME@@ auf dem neuesten Stand, damit du deine Spiele schneller ausführen und die neuesten Features nutzen kannst.
+
+STRING_LATEST_VERSION = Du bist auf der neuesten Version
+
+STRING_LATEST_VERSION_INSTALLED = Die neueste Version von @@STRING_PRODUCT_NAME@@ ist bereits auf deinem PC installiert.
+
+STRING_CHECK_UPDATES = Nach Updates suchen
+
+STRING_NEW_UPDATE = Neues Update ist verfügbar
+
+STRING_DOWNLOAD = Download
+
+STRING_ASPECT_RATIO_NEW = Auflösung
+
+STRING_DPI = DPI
+
+STRING_SYSTEM_DEFAULT = Systemstandard
+
+STRING_CUSTOM_SIZE = Benutzerdefiniertes Format
+
+STRING_LOW = Gering
+
+STRING_HIGH = Hoch
+
+STRING_CREATE_BACKUP = Backup erstellen
+
+STRING_VERSION_FOUR = Version 4
+
+STRING_ABOUT_BLUESTACKS = Über @@STRING_PRODUCT_NAME@@
+
+STRING_RESTORE_BLUESTACKS_DATA = Wiederherstellung von der Sicherung von @@STRING_PRODUCT_NAME@@-Instanzen, Einstellungen, installierten Apps und Spielen, deren Daten- und Tastatursteuerung.
+
+STRING_CHANGES_APPLY_RESTART = Änderungen werden beim nächsten Start angezeigt
+
+STRING_PREFERENCES = Vorlieben
+
+STRING_PLATFORM_SETTINGS = Platform Einstellung
+
+STRING_ADD_ICONS = Füge Desktop-Icons für installierte Apps hinzu
+
+STRING_SETUP_BOSSKEY = Boss Key Einstellung
+
+STRING_BOSSKEY_SHORTCUT = STRG + Alt +
+
+STRING_BOSSKEY_DESCRIPTION = Mit der Cheftaste können Sie @@STRING_PRODUCT_NAME@@ schnell verstecken / anzeigen
+
+STRING_CHOOSE_GRAPHICS_MODE = Wähle Graphik Modus
+
+STRING_BETTER_GRAPHICS = Bessere Graphiken
+
+STRING_MORE_COMPATIBLE = Kompatibler
+
+STRING_CPU_AND_RAM_ALLOCATION = CPU & RAM Zuweisung
+
+STRING_CHOOSE_BETWEEN_ONE_TO = Wähle zwischen 1-
+
+STRING_CHANGELOG = Änderungsprotokoll
+
+STRING_CHANGES_APPLY_AUTOMATIC = Änderungen werden automatisch gespeichert
+
+STRING_DOWNLOAD_UPDATE = Lade das Update herunter
+
+STRING_CONTINUE_PRESENT = Weitermachen
+
+STRING_INSTALL_UPDATE = Update installieren
+
+STRING_NEW_UPDATE_READY = Eine neue Version von @@STRING_PRODUCT_NAME@@ ist heruntergeladen und bereit zur Installation. Möchtest du sie installieren?
+
+STRING_UPDATE_NEXT_BOOT = Update beim nächsten Bootvorgang
+
+STRING_INSTALLED_APPS = Installierte Apps
+
+STRING_CUSTOM_NOTIFICATION_SETTING = Verwende die benutzerdefinierte Benachrichtigungseinstellung für installierte Apps
+
+STRING_REPORT_A_PROBLEM = Problem melden
+
+STRING_CREATE_DESKTOP_SHORTCUT = Desktopverknüpfung erstellen
+
+STRING_DELETE_INSTANCE = Instanz löschen
+
+STRING_RESTART_INSTANCE = Instanz neu starten
+
+STRING_RUNNING_DOTED = Läuft...
+
+STRING_BOOTING_DOTED = Lädt...
+
+STRING_CLOSING_DOTED = Schließt ...
+
+STRING_LASTBOOTEDON = Gestoppt, zuletzt geladen
+
+STRING_INSTANCES = Instanzen
+
+STRING_START = Start
+
+STRING_STOP = Stop
+
+STRING_NEW_FRESH_INSTANCE = Neue Instanz
+
+STRING_NEW_FRESH_INSTANCE_MESSAGE = Du musst dich erneut anmelden und alles installieren.
+
+STRING_CLONE_SAME_ACCOUNT = Instanz klonen
+
+NAME = Name
+
+STRING_CREATE = Erstellen
+
+STRING_ANTIVIRUS_WARNING_STRING = Deaktiviere dein PC-Virenschutzprogramm, wenn es die Installation beeinträchtigt
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Pausiere dein PC-Virenschutzprogramm, wenn es die Installation beeinträchtigt
+
+STRING_BACKUP_DESKTOP = Backup auf dem Desktop bevor Updating
+
+STRING_TAKE_10MIN = Dies kann bis zu 10 Minuten dauern
+
+STRING_HIDE = Fortschritt ausblenden
+
+STRING_RESTARTING = Neustarten
+
+STRING_SUPPORT = Support
+
+STRING_WEBSITE = Website
+
+STRING_SUPPORT_EMAIL = E-Mail Support
+
+STRING_CHOOSE_NEW = Neu auswählen
+
+STRING_RESTORE_DEFAULT = Standard wiederherstellen
+
+STRING_WALLPAPER = Hintergrundbild
+
+STRING_CHANGE_WALLPAPER = Hintergrundbild ändern
+
+STRING_RESTORE_DEFAULT_WALLPAPER = Möchten Sie den Standardhintergrund wiederherstellen?
+
+STRING_PREMIUM_FEATURE = Premium-Funktion
+
+STRING_PREMIUM_FEATURE_POPUP = Du musst einen @@STRING_PRODUCT_NAME@@ Premium-Abonnement erwerben, um diese Funktion nutzen zu können.
+
+STRING_ENABLE_VT = Aktiviere VT, um @@STRING_PRODUCT_NAME@@ schneller zu machen
+
+STRING_LEARN_MORE = Erfahre mehr
+
+STRING_SPEED_UP_BLUESTACKS = Beschleunige @@STRING_PRODUCT_NAME@@.
+
+STRING_SPEED_UP_TIPS = Beschleunigungs-Tipps
+
+STRING_ENABLE_VIRT = Hardware-unterstützte Virtualisierung aktivieren
+
+STRING_ENABLE_VIRT_BODY = Hardware unterstützte Virtualisierung ermöglicht es Apps, viel schneller zu laufen, indem sie mehr Ressourcen zuteilen und die Bearbeitungszeiten reduzieren.
+
+STRING_ENABLE_VIRT_HYPERLINK = Wie kann ich die Virtualisierung aktivieren?
+
+STRING_UPGRADE_SYSTEM = Aktualisiere deinen Computer
+
+STRING_UPGRADE_SYSTEM_BODY = Das Upgrade auf einen Computer mit mehr RAM und schnellerer CPU (mit hardwareunterstützter Virtualisierung) kann die @@STRING_PRODUCT_NAME@@-Performance deutlich steigern. Ein großes, scharfes Display mit einem guten Trackpad oder Maus kann  die Erfahrung ebenfalls deutlich verbessern.
+
+STRING_UPGRADE_SYSTEM_HYPERLINK = Was sind die empfohlenen Systemdaten?
+
+STRING_CONFIGURE_ANTIVIRUS = Antivirensoftware deaktivieren
+
+STRING_CONFIGURE_ANTIVIRUS_BODY = Einige Antivirus-Funktionen können die Virtualisierung beeinträchtigen und eine ernsthafte Leistungsverschlechterung verursachen. Das Deaktivieren dieser Funktionen kann @@STRING_PRODUCT_NAME@@ drastisch beschleunigen.
+
+STRING_CONFIGURE_ANTIVIRUS_HYPERLINK = Wie sollte ich meine Antivirensoftware konfigurieren?
+
+STRING_DISABLE_HYPERV = Du musst Hyper-V und andere Hypervisoren deaktivieren.
+
+STRING_DISABLE_HYPERV_BODY = @@STRING_PRODUCT_NAME@@ nutzt Virtualisierungstechnologie und wenn andere Hyperperatoren wie Hyper-V, VirtualBox oder VMWare laufen, kann es unsere Fähigkeit, optimal zu laufen, beeinträchtigen. Versuche andere Softwares zu deaktivieren, die möglicherweise ebenfalls Virtualisierungstechnologien verwenden.
+
+STRING_DISABLE_HYPERV_HYPERLINK = Wie kann ich andere Hypervisoren deaktivieren?
+
+STRING_NOT_ENOUGH_RAM = Du hast nicht genug RAM in deinem Computer, um mehrere Instanzen reibungslos laufen zu lassen. Erwäge, dein System-RAM zu aktualisieren, bevor du eine andere Instanz erstellst.
+
+STRING_LOGOUT_BUTTON = Abmelden
+
+STRING_LOGOUT_BLUESTACKS3 = Von BlueStacks 3 abmelden
+
+STRING_REMOVE_GOOGLE_ACCOUNT = Möchtest du dich bei Google Play abmelden?
+
+STRING_APP_UPGRADE = Möchtest du diese App aktualisieren?
+
+STRING_PLAY_NOW = Jetzt spielen
+
+STRING_RESTORE_INFO = Am besten erstellst du vor dem Wiederherstellen ein Backup, da die Wiederherstellung deine vorhandenen Daten überschreiben wird und diese dann verloren gehen.
+
+STRING_BACKUP_INFO = Kann je nach Größe der installierten Spiele bis zu 5 Minuten dauern.
+
+STRING_BTV_WARNING = Streaming & Video-Aufzeichnung kann die Bildrate für dein Gameplay verlangsamen.
+
+STRING_BTV_DOWNLOAD = Herunterladen von @@STRING_PRODUCT_NAME@@ TV
+
+STRING_BTV_INSTALL_WAIT = Bitte warte, während wir @@STRING_PRODUCT_NAME@@ TV & Video Komponenten herunterladen.
+
+STRING_BTV_DOWNLOAD_CANCEL = @@STRING_PRODUCT_NAME@@ TV wird heruntergeladen. Möchtest du den Downloadvorgang abbrechen?
+
+STRING_LANGUAGE_SETTING = Spracheinstellungen
+
+STRING_DOWNLOAD_NOW = Jetzt herunterladen
+
+STRING_HYPERV_ENABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ kann die Hardware-unterstützte Virtualisierung nicht verwenden, wenn Hyper-V aktiviert ist. Bitte deaktiviere Hyper-V in der Systemsteuerung. Siehe die FAQ für Details.
+
+STRING_SHOW_GUIDE = Bewertungs-FAQ
+
+STRING_UPGRADE_NOT_SUPPORTED = Leider können wir deine bestehende @@STRING_PRODUCT_NAME@@-Version nicht auf die neueste @@STRING_PRODUCT_NAME@@-Version aktualisieren.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Bitte deinstalliere deine aktuelle Version und installiere @@STRING_PRODUCT_NAME@@ neu.
+
+STRING_AVAILABLE_TO_DOWNLOAD = Zum Download verfügbar
+
+STRING_XPAC_PERF_BOOST = Leistungsschub
+
+STRING_XPAC_DEF_KEYMAP = Standardtastatursteuerung
+
+STRING_XPAC_SPECIAL_THEMES = Sonderthema
+
+STRING_XPAC_GUIDE_TUTORIALS = Anleitungen und Tutorials
+
+STRING_XPAC_SPECIAL_GIFTS = Besondere Geschenke
+
+STRING_XPAC_DESCRIPTION = xPacks verpassen Ihrem Spielerlebnis auf @@STRING_PRODUCT_NAME@@ die volle Ladung, indem Sie Ihnen Tools bereitstellen, die Sie benötigen, um sich gegenüber dem Gaming auf anderen Plattformen einen Vorteil zu verschaffen.
+
+STRING_XPAC_GET_FREE = Holen Sie es sich gratis
+
+STRING_XPAC_APPLY_THEME = xPack-Theme anwenden
+
+STRING_XPAC_REVERT_THEME = Auf Standardtheme zurücksetzen
+
+STRING_XPAC_INSTALLED = xPack installiert
+
+STRING_CAPTURE_ERROR = Leider konnte der Bildschirm nicht aufgenommen werden. Informationen dazu, wie du den Grafikmodus in DirectX ändern kannst, findest du in den häufig gestellten Fragen (FAQ).
+
+STRING_DIRECTX_DOWNLOAD = Deinem System fehlen DirectX-Komponenten, die für @@STRING_PRODUCT_NAME@@ TV erforderlich sind. Möchtest du diese herunterladen?
+
+STRING_CHANGE_SKINS = Skin der Anwendung ändern
+
+STRING_BLUESTACKS_SKIN = @@STRING_PRODUCT_NAME@@ Skins
+
+STRING_CHANGE_SKIN = Skin ändern
+
+STRING_ICON_REMOVE = Möchtest du dieses Symbol entfernen?
+
+STRING_SOME_ERROR_OCCURED_DOWNLOAD = Leider konnte das Update nicht erfolgreich heruntergeladen werden. Bitte versuche es erneut oder wende dich an den @@STRING_PRODUCT_NAME@@ Support.
+
+STRING_MAPS = Spiele und gewinne
+
+STRING_DELETING_DOTED = Löschen
+
+STRING_AUTO_START_ON_FINISH = Nach Abschluss automatisch starten
+
+STRING_PIKA_POINTS = BlueStacks World
+
+STRING_APPLIED = Angewendet
+
+STRING_REDEEM = Einlösen
+
+STRING_INVALID_APK_BLACKLISTED_ERROR = Diese App kann unter dieser Version von @@STRING_PRODUCT_NAME@@ nicht installiert werden.
+
+STRING_MACRO_RUNNING = Ein Macro wird gerade ausgeführt.
+
+STRING_REROLL_APP_PREFIX = Zurücksetzen
+
+STRING_START_REROLL = Möchtest du deinen Charakter und deine Gegenstände in {0} rerollen?
+
+STRING_REROLL_COMPLETED = Reroll abgeschlossen
+
+STRING_GL3_SWITCH = Wechsel in den OpenGL-Grafikmodus.
+
+STRING_GL3_WINDOW_TITLE = Leider kannst du dieses Spiel nicht spielen
+
+STRING_GL3_WINDOW_BODY_DIRECTX = Deine Grafikkarte unterstützt dieses Spiel nicht im derzeit genutzten Grafikmodus. Bitte wechsle den Grafikmodus zu "OpenGL" um das Spiel zu starten.
+
+STRING_SWITCH_OPENGL_MODE = Wechsel in den OpenGL-Modus, um das Spiel zu spielen.
+
+STRING_GL_MODE_RESTART = @@STRING_PRODUCT_NAME@@ muss neu gestartet werden, um den Grafikmodus zu wechseln
+
+STRING_GL3_WINDOW_BODY_OPENGL = Deine Grafikkarte unterstützt dieses Spiel leider nicht.
+
+STRING_GL3_UPDATE_DRIVER = Bitte aktualisiere deine Grafiktreiber, um das Spiel zu spielen.
+
+STRING_IMPORTANT_UPDATES = Wichtige Updates
+
+STRING_VIEW_XPACK = xPack ansehen
+
+STRING_NOTIFICATION_CENTER = Benachrichtigungszentrum
+
+STRING_CLEAR_ALL = Alles löschen
+
+STRING_XPACK = xPack
+
+STRING_GET_XPACKS = Hol dir xPack
+
+STRING_SHOW_RIBBON = Ribbon-Benachrichtigungen anzeigen
+
+STRING_PRECAUTION_BEFORE_UPGRADE = Wir empfehlen dringend, dass du deine Daten sicherst, falls das Upgrade nicht erfolgreich ist.
+
+STRING_HOW_TO_TAKE_BACKUP = Wie erstelle ich ein Backup?
+
+STRING_BEFORE_YOU_UPDATE = Vor dem Update
+
+STRING_CONTINUE = Weiter
+
+STRING_VIEW_XPACK_TOOLTIP = Schaue dir xPack Power-Ups und Verbesserungen für dieses Spiel an.
+
+STRING_GET_XPACK_TOOLTIP = Lade dir xPack für dieses Spiel herunter und steigere so deine Spielperformance und hol dir Power-Ups, die dein Spielerlebnis verbessern!
+
+STRING_APP_CANNOT_START = App wird eventuell nicht starten
+
+STRING_ADVANCED_GRAPHIC_ENGINE_REQUIRED = Diese App erfordert die "Advanced Graphics Engine".
+
+STRING_SWITCH_TO_ADVANCED_ENGINE_RESTART = Bitte wechsle zu "Advanced Graphics Engine" um diese App zu spielen. Du musst @@STRING_PRODUCT_NAME@@ neu starten, damit die Änderungen übernommen werden. Du kannst deine Grafik-Engine unter Einstellungen -> Engine ändern.
+
+STRING_SWITCH_RESTART = Wechsle den Grafikmodus und starte @@STRING_PRODUCT_NAME@@ neu
+
+STRING_ADVANCE_GRAPHICS_ENGINE_SETTING = Die "Advanced Graphics Engine" verwenden
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Rollback abgeschlossen
+
+STRING_INSTALLER_PROPERTIES_INIT_FAILED_BODY = Beim Initialisieren des Installers ist ein Fehler aufgetreten
+
+STRING_CLICK_HERE = Klicke hier, um den Download zu starten
+
+STRING_DIRECTX_WARNING_TITLE = In dieser Version funktioniert OpenGL besser als DirectX.
+
+STRING_DIRECTX_WARNING = Wechsle zu OpenGl für eine bessere Leistung und Kompatibilität. Bitte installiere BlueStacks 3, wenn du DirectX nutzen möchtest.
+
+STRING_LATEST_VERSION_REQUIRED = Diese App benötigt die neuste Version von @@STRING_PRODUCT_NAME@@
+
+STRING_LATEST_VERSION_REQUIRED_DETAILED = Dieses Spiel ist mit der existierenden Version von @@STRING_PRODUCT_NAME@@ Version nicht kompatibel. Bitte lade dir die neuste Version von @@STRING_PRODUCT_NAME@@ herunter und installiere sie, um das Spiel zu spielen.
+
+STRING_KITKAT_VERSION_REQUIRED = Diese App ist nur mit BlueStacks 3 kompatibel.
+
+STRING_NOUGAT_VERSION_REQUIRED = Diese App ist nur mit @@STRING_PRODUCT_NAME@@ N kompatibel.
+
+STRING_NOUGAT_VERSION_REQUIRED_DETAILED = Diese App wird nur von der aktuellen Version von @@STRING_PRODUCT_NAME@@ N unterstützt. Bitte lade dir diese herunter und installiere sie.
+
+STRING_DX_SWITCH = Wechsle den @@STRING_PRODUCT_NAME@@ Grafikmodus zu DirectX.
+
+STRING_ADX_SWITCH = Wechsle den Grafikmodus zu DirectX und Advanced Graphics Engine.
+
+STRING_DX_WINDOW_BODY_DIRECTX = Deine Grafikkarte unterstützt dieses Spiel nicht im derzeit genutzten Grafikmodus. Bitte wechsle den Grafikmodus zu "DirectX" um das Spiel zu starten.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Diese Version des @@STRING_PRODUCT_NAME@@ Installers ist mit deiner Windows-Version nicht kompatible. Bitte lade dir die  {0} Version von @@STRING_PRODUCT_NAME@@ herunter und versuche es erneut.
+
+STRING_VTX_DISABLED_WARNING_MESSAGE = @@STRING_PRODUCT_NAME@@ ist nicht in der Lage, Hardware-unterstützte Virtualisierung für eine bessere Performance zu nutzen. Bitte prüfe deine BIOS-Einstellungen und stelle sicher, dass diese aktiviert ist. Wenn du AVAST oder 360 Antivirus verwendest, überprüfe bitte die Antivirus-Einstellungen und stelle sicher, dass die Verwendung der hardwaregestützte Virtualisierung deaktiviert ist. Siehe die FAQ für Details.
+
+STRING_VTX_UNAVAILABLE_WARNING_MESSAGE = Dein PC unterstützt keine hardwaregestützte Virtualisierung. Dies kann sich negativ auf dein Erlebnis mit @@STRING_PRODUCT_NAME@@ auswirken.
+
+STRING_DISABLED_VT_TITLE = Die Leistung ist langsam, weil Virtualization deaktiviert ist.
+
+STRING_DISABLED_VT = Leider ist die Leistung niedrig, da die Hardware-Virtualisierungstechnologie (VT) für die CPU auf deinem PC deaktiviert ist. Bitte prüfe die FAQ, wie du VT aktivieren kannst.
+
+STRING_RAM_NOTIF_TITLE = Niedrige Leistung aufgrund des RAM
+
+STRING_RAM_NOTIF = Möglicherweise tritt eine schlechte Leistung auf, da dein PC über maximal 4 GB Arbeitsspeicher verfügt. Bitte lies die Systemanforderungen für @@STRING_PRODUCT_NAME@@
+
+STRING_CONTINUE_ANYWAY = Trotzdem fortfahren
+
+STRING_RUNNING_CHECKS = OpenGL wird geprüft
+
+STRING_OPENGL_NOTSUPPORTED_BODY = Leider unterstützt deine Grafikkarte nicht den OpenGL-Modus. Bitte klicke den Button "Fortfahren" um das Spiel zu spielen.
+
+STRING_OPENGL_NOT_SUPPORTED = OpenGL nicht unterstützt
+
+STRING_UNFORTUNATELY_COULDNT_INSTALL = Leider kann @@STRING_PRODUCT_NAME@@ auf deinem PC nicht installiert werden.
+
+STRING_ERROR_CODE_COLON = Fehlercode:
+
+STRING_PREINSTALL_FAIL = Leider erfüllt dein PC nicht die Mindestanforderungen für die Installation von @@STRING_PRODUCT_NAME@@.
+
+STRING_INSUFFICIENT_DISKSPACE = Nicht genug Speicherplatz vorhanden. @@STRING_PRODUCT_NAME@@ benötigt
+
+STRING_OLD_INSTALLATION_INTERFERING = Leider scheint eine ältere Installation die Installation dieser Version von @@STRING_PRODUCT_NAME@@ zu stören.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = Leider konnte @@STRING_PRODUCT_NAME@@ deine vorherigen Daten nicht wiederherstellen.
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = Leider ist @@STRING_PRODUCT_NAME@@ bei der Installation auf einen Fehler gestoßen.
+
+STRING_COULDNT_RESTORE_UNUSABLE = Leider konnte @@STRING_PRODUCT_NAME@@ nicht in seinen früheren Zustand zurückversetzt werden und ist möglicherweise unbrauchbar.
+
+STRING_KITKAT_VERSION_REQUIRED_DETAILED = Diese App wird von BlueStacks 4 nicht unterstützt. Bitte lade dir die neuste Version von BlueStacks 3 herunter und installiere diese.
+
+STRING_CHECK_FAQ = FAQ einsehen
+
+STRING_INSTALLER = © Bluestack Systems, Inc., 2011 bis 2020, Alle Rechte weltweit vorbehalten.
+
+STRING_PERFORMANCE_SETTINGS = Leistungseinstellung
+
+STRING_SWITCH_HOME = Wechseln zwischen den Anwendungen wie bei Android üblich
+
+STRING_CLEAN_BLUESTACKS = Dadurch werden die vorhandenen @@STRING_PRODUCT_NAME@@- und Spieldaten komplett gelöscht.
+
+STRING_HYPERV_ENABLED_WARNING = @@STRING_PRODUCT_NAME@@ kann mit aktivierten Hyper-V nicht starten.
+
+STRING_IMPROVE_PERFORMANCE = Leistung verbessern
+
+STRING_IMPROVE_PERFORMANCE_WARNING = @@STRING_PRODUCT_NAME@@ kann sich langsamer anfühlen.
+
+STRING_PROMO_INFO = Spiel wird nach dem Starten installiert
+
+STRING_INSTALL = Installieren
+
+STRING_PLAY = Spielen
+
+STRING_MOST_SEARCHED_APPS = Meist gesuchte Apps
+
+STRING_PREREGISTER = Pre-Register
+
+STRING_KILL_WEBTAB = Webseiten beim Starten eines Spiels schließen
+
+STRING_LOW_AVAILABLE_RAM_TITLE = Der auf deinem PC verfügbare Arbeitsspeicher ist zu gering.
+
+STRING_LOW_AVAILABLE_RAM_TEXT1 = Bei der Nutzung von @@STRING_PRODUCT_NAME@@ kann es aufgrund des geringen Arbeitsspeichers zu Leistungseinbußen kommen.
+
+STRING_LOW_AVAILABLE_RAM_TEXT2 = Bitte erwäge, einige Programme zu schließen um fortzufahren.
+
+STRING_CHANGE_DEVICE_PROFILE = Bitte aktualisiere dein Geräteprofil, um dieses Spiel zu spielen
+
+STRING_CHANGE_DEVICE_PROFILE_BODY = Dieses Spiel läuft eventuell nicht auf deinem Gerät. Bitte ändere dein Gerät, um das Spiel zu spielen.
+
+STRING_SWITCH_PROFILE = Profil wechseln
+
+STRING_SWITCHING_PROFILE = Profile wechseln
+
+STRING_SWITCH_PROFILE_FAILED = Wechsel des Geräteprofils fehlgeschlagen
+
+STRING_SWITCH_PROFILE_UPDATED = Das Geräteprofil wurde erfolgreich aktualisiert
+
+STRING_SETUP = Google Setup
+
+STRING_OLD_KEYMAPPINGS_CANNOT_USE = Du hast ein benutzerdefinierte Tastatursteuerung gespeichert - diese können nach einem Upgrade leider nicht mehr verwendet werden.
+
+STRING_WOULD_LIKE_TO_CONTINUE = Möchtest du fortfahren?
+
+STRING_CLOSE_GAME = Spiel schließen
+
+STRING_CLOSE_BLUESTACKS = @@STRING_PRODUCT_NAME@@ schließen
+
+STRING_GAME_CONTROLS_CONTROL_SCHEME = Steuerungsschema
+
+STRING_BTV = BTV
+
+STRING_REVERT = Zurücksetzen
+
+STRING_EDIT_KEYS = Bearbeiten
+
+STRING_SAVE_KEYS = Speichern
+
+STRING_GAME_CONTROLS_WINDOW_HEADER = Spielsteuerung
+
+STRING_GAME_CONTROLS_WINDOW_EDIT_HEADER = Spielsteuerung bearbeiten
+
+STRING_BLUESTACKS_GAME_CONTROLS = @@STRING_PRODUCT_NAME@@ Spielsteuerung
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER1 = Drücke jederzeit {0}, um dieses Fenster zu öffnen.
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER2 = Nicht beim Start anzeigen
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER3 = Tipp: Klicke auf das jeweilige Tastenfeld, um der entsprechenden Aktion eine neue Taste zuzuweisen und drücke "Speichern", um die Änderung zu speichern.
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_HEADER = Klicke oder ziehe die Aktionen auf den Bildschirm, um Tasten zuzuweisen. Rechtsklicke für genauere Einstellungen.
+
+STRING_UNSAVED_CHANGES = Es gibt einige nicht gespeicherte Änderungen. Möchtest du speichern und beenden?
+
+STRING_UNSAVED_CHANGES_CLOSE_WINDOW = Einige Änderungen wurden noch nicht gespeichert. Möchtest du sie speichern und schließen?
+
+STRING_UNSAVED_CHANGES_CLOSE = Möchtest du die geänderte Spielsteuerung speichern und schließen?
+
+STRING_CLEAR_CHANGES = Änderungen gelöscht
+
+STRING_REVERT_CHANGES = Änderungen rückgängig gemacht
+
+STRING_CHANGES_SAVED = Änderungen gespeichert
+
+STRING_USING_SCHEME = Nutze Schema
+
+STRING_MOBA_HERO_DUMMY = Platziere den Helden-Dummy zur Kalibrierung in der Mitte des Bildschirms
+
+STRING_MOBA_SKILL_CANCEL = Platziere den Punkt auf der Abbrechen-Taste
+
+STRING_LOOK_AROUND_MODE = Platziere das Auge-Symbol auf dem Feld für das Umschauen, sofern dieses verfügbar ist.
+
+STRING_SHOOT_MODE = Platziere das Feuer-Icon auf dem Feld fürs Schießen
+
+STRING_AAVIDEO = Tutorial
+
+Imap_string_MouseRButton = Rechtsklick
+
+Imap_string_MouseLButton = Linksklick
+
+Imap_string_MouseMButton = Mittelklick
+
+IMAP_STRING_Fields = Felder
+
+IMAP_STRING_CATEGORY_Shooting_Mode = Shooting-Mode
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_PROFILEHEADER = Steuerungsschema
+
+IMAP_Video_Element_Body = Siehe dir exklusive Spiele-Tutorials mit Tipps und Tricks für ein besseres Spielerlebnis auf @@STRING_PRODUCT_NAME@@ an.
+
+IMAP_Video_Element_Header = Exklusive Spiele-Videos verfügbar
+
+IMAP_MOBA_Video_Element_Body = Nutze deine Maus, um dein Spielerlebnis in jeder mobilen Arena zu verbessern.
+
+IMAP_MOBA_Video_Element_Header = Bewegungssteuerung & Zaubern mit der Maus
+
+IMAP_Pan_Video_Element_Body = Verwende deine Maus, um dein Spielerlebnis in jedem FPS oder Shooter-Game zu verbessern.
+
+IMAP_Pan_Video_Element_Header = Ziele und schau dich mit deiner Maus um
+
+STRING_SHOW_GAMING = Spielzusammenfassung beim Schließen anzeigen
+
+STRING_SUBMIT = Einsenden
+
+STRING_TROUBLE_LOGGING = Probleme, dich einzuloggen?
+
+STRING_LET_HELP = Lass uns dir helfen
+
+STRING_OUTLINE_ISSUE = Bitte beschreibe dein Problem, damit wir dir optimal helfen können.
+
+STRING_DESC_ISSUE = Beschreibe das Problem
+
+STRING_HOW_ISSUE = Was für ein Problem tritt bei dir auf?
+
+STRING_YOUR_EMAIL = Deine E-Mail Adresse
+
+STRING_YOUR_PHONE = Deine Telefonnummer
+
+STRING_TEN_PHONE_NUMBER = Deine Telefonnummer mit Ländercode
+
+STRING_APPRECIATE_FEEDBACK = Wir freuen uns, dass du dich für @@STRING_PRODUCT_NAME@@ zum Spielen entschieden hast. Unserer Kundensupport wird sich in Kürze bei dir melden.
+
+STRING_THANK_YOU = Vielen Dank
+
+STRING_RESTART_BLUESTACKS_AFTER_GRAPHICS_CHANGE = @@STRING_PRODUCT_NAME@@ neu starten und in {0} booten.
+
+STRING_CHECKING_GRAPHICS_COMPATIBILITY = Überprüfen der Kompatibilität von {0}
+
+STRING_GRAPHICS_NOT_SUPPORTED_ON_MACHINE = {0} wird von deinem PC nicht unterstützt.
+
+STRING_GUIDANCE_CATEGORY = Anleitungskategorie
+
+STRING_ENHANCEMENTS = Verbesserungen
+
+STRING_TAGS = Tags (optional)
+
+STRING_ENABLE_MODE = Modus aktivieren
+
+STRING_FIRE_WITH_MOUSE_LEFT = Schießen mit der linken Maustaste
+
+STRING_CANCEL_SKILL = Skill abbrechen
+
+STRING_ENABLE_FEATURES = Features aktivieren
+
+STRING_LOOK_AROUND_MODE_HEADER_TEXT = Umschau-Modus
+
+STRING_MOBA_CONTROL_MODE = MOBA-Steuermodus
+
+IMAP_STRING_UP = Hoch
+
+IMAP_STRING_MOBADPAD_KEYMOVE = Bewegung
+
+IMAP_STRING_DOWN = Runter
+
+IMAP_STRING_LEFT = Links
+
+IMAP_STRING_RIGHT = Rechts
+
+IMAP_STRING_TAP = Antippen
+
+IMAP_STRING_ZOOM_IN = Ranzoomen
+
+IMAP_STRING_ZOOM_OUT = Herauszoomen
+
+IMAP_STRING_CATEGORY_ZOOM = Zoom
+
+IMAP_STRING_TOGGLE_SHOOTING_ = In Shooting-Mode wechseln
+
+IMAP_STRING_SUSPEND_SHOOTING_MODE = Shooting-Mode aussetzen
+
+IMAP_STRING_PAN_TWEAKS = Optimierungen
+
+IMAP_STRING_TAP_KEY = Antippen-Taste
+
+STRING_MISC = Sonstiges
+
+IMAP_STRING_SWIPE_UP = Nach oben wischen
+
+IMAP_STRING_SWIPE_DOWN = Nach unten wischen
+
+IMAP_STRING_SWIPE_LEFT = Nach links wischen
+
+IMAP_STRING_SWIPE_RIGHT = Nach rechts wischen
+
+IMAP_STRING_Tap_Settings = Antippen-Einstellungen
+
+IMAP_STRING_Dpad_Settings = D-Pad Einstellungen
+
+IMAP_STRING_DPAD_XRadius = Radius
+
+IMAP_STRING_DPAD_KeyUp = Hoch
+
+IMAP_STRING_DPAD_KeyDown = Runter
+
+IMAP_STRING_DPAD_KeyLeft = Links
+
+IMAP_STRING_DPAD_KeyRight = Rechts
+
+IMAP_STRING_TILT_KeyUp = Hoch
+
+IMAP_STRING_TILT_KeyDown = Runter
+
+IMAP_STRING_TILT_KeyLeft = Links
+
+IMAP_STRING_TILT_KeyRight = Rechts
+
+IMAP_STRING_DPAD_KeySpeedModifier1 = Geschwindigkeitsmodifikator 1
+
+IMAP_STRING_DPAD_XRadius1 = Radius 1
+
+IMAP_STRING_DPAD_KeySpeedModifier2 = Geschwindigkeitsmodifikator 2
+
+IMAP_STRING_DPAD_XRadius2 = Radius 2
+
+IMAP_STRING_DPAD_ActivationTime = Aktivierungszeit
+
+IMAP_STRING_DPAD_ActivationSpeed = Aktivierungsgeschwindigkeit
+
+IMAP_STRING_DPAD_Speed = Geschwindigkeit
+
+IMAP_STRING_MOBADPAD_CharSpeed = Heldengeschwindigkeit
+
+IMAP_STRING_MOBADPAD_OriginX = Heldenposition X
+
+IMAP_STRING_MOBADPAD_OriginY = Heldenposition Y
+
+IMAP_STRING_Zoom_Settings = Zoom-Einstellungen
+
+IMAP_STRING_ZOOM_Radius = Radius
+
+IMAP_STRING_ZOOM_KeyIn = Ranzoomen
+
+IMAP_STRING_ZOOM_KeyOut = Herauszoomen
+
+IMAP_STRING_ZOOM_KeyModifier = Modfizierungstaste
+
+IMAP_STRING_ZOOM_Mode = Modus
+
+IMAP_STRING_ZOOM_Override = Override
+
+IMAP_STRING_Pan_Settings = Schwenkeinstellungen
+
+IMAP_STRING_PAN_KeyStartStop = Start Stop
+
+IMAP_STRING_PAN_KeySuspend = Aussetzen
+
+IMAP_STRING_PAN_Sensitivity = Maus-Empfindlichkeit X
+
+IMAP_STRING_PAN_KeyLookAround = Freies Umschauen
+
+IMAP_STRING_PAN_LookAroundX = Freies Umschauen Position X
+
+IMAP_STRING_PAN_LookAroundY = Freies Umschauen Position Y
+
+IMAP_STRING_PAN_KeyAction = Handlung
+
+IMAP_STRING_PAN_LButtonX = Aktion Position X
+
+IMAP_STRING_PAN_LButtonY = Aktion Position Y
+
+IMAP_STRING_MOBASkill_DeadZoneRadius = Radius Deadzone
+
+IMAP_STRING_MOBASkill_XRadius = Radius
+
+IMAP_STRING_MOBASkill_Settings = MOBA-Fertigkeiten-Einstellungen
+
+IMAP_STRING_MOBASKILL_KeyActivate = Aktivieren
+
+IMAP_STRING_MOBASKILL_KeyAutocastToggle = Autocast umschalten
+
+IMAP_STRING_MOBASKILL_CancelSpeed = Geschwindigkeit abbrechen
+
+IMAP_STRING_MOBASKILL_KeyCancel = Abbrechen
+
+IMAP_STRING_Swipe_Settings = Wischen-Einstellungen
+
+IMAP_STRING_SWIPE_X1 = X
+
+IMAP_STRING_SWIPE_Y1 = Z
+
+IMAP_STRING_MOBASKILL_X = X
+
+IMAP_STRING_MOBASKILL_Y = Z
+
+IMAP_STRING_TAP_X = X
+
+IMAP_STRING_TAP_Y = Z
+
+IMAP_STRING_ZOOM_X = X
+
+IMAP_STRING_ZOOM_Y = Z
+
+IMAP_STRING_DPAD_X = X
+
+IMAP_STRING_DPAD_Y = Z
+
+IMAP_STRING_PAN_X = X
+
+IMAP_STRING_PAN_Y = Z
+
+IMAP_STRING_SWIPE_Hold = Wischen und halten
+
+IMAP_STRING_SWIPE_True = Wahr
+
+IMAP_STRING_SWIPE_False = Falsch
+
+IMAP_STRING_SWIPE_KeyUp = Nach oben wischen
+
+IMAP_STRING_SWIPE_KeyDown = Nach unten wischen
+
+IMAP_STRING_SWIPE_KeyLeft = Nach links wischen
+
+IMAP_STRING_SWIPE_KeyRight = Nach rechts wischen
+
+IMAP_STRING_TILT_Settings = Neigungseinstellungen
+
+IMAP_STRING_TILT_Speed = Geschwindigkeit
+
+IMAP_STRING_ZOOM_Speed = Geschwindigkeit
+
+IMAP_STRING_SWIPE_Speed = Geschwindigkeit
+
+IMAP_STRING_SWIPE_Radius = Radius
+
+IMAP_STRING_TILT_MaxAngle = Maximaler Neigungswinkel
+
+IMAP_STRING_TILT_AutoReset = Auto Reset
+
+IMAP_STRING_MOBASkill_Header_Edit_UI = MOBA Skill-Pad
+
+IMAP_STRING_MOBASkill_Description_Edit_UI = Weise deinen Zaubern über das D-Pad eine Richtung zu.
+
+IMAP_STRING_Dpad_Header_Edit_UI = D-Pad
+
+IMAP_STRING_Dpad_Description_Edit_UI = Weise der Charaktersteuerung oder des Analog-Sticks Tasten deiner Tastatur zu.
+
+IMAP_STRING_Tilt_Header_Edit_UI = Kippen
+
+IMAP_STRING_Tilt_Description_Edit_UI = Nutze diese Option, wenn du zur Steuerung das Handy kippen oder drehen musst.
+
+IMAP_STRING_Swipe_Header_Edit_UI = Wischen
+
+IMAP_STRING_Swipe_Description_Edit_UI = Weise Tasten die Wisch-Funktion zu
+
+IMAP_STRING_Pan_Header_Edit_UI = Zielen, Bewegen & Schießen
+
+IMAP_STRING_Pan_Description_Edit_UI = Nutze deine Maus, um dich umzusehen, zu zielen und zu schießen.
+
+IMAP_STRING_Zoom_Header_Edit_UI = Zoom
+
+IMAP_STRING_Zoom_Description_Edit_UI = Vergrößern und verkleinern hinzufügen, wenn Pinch und Zoom vom Bildschirm unterstützt wird.
+
+IMAP_STRING_Tap_Header_Edit_UI = Antippen-Spot
+
+IMAP_STRING_Tap_Description_Edit_UI = Weise eine Taste die Funktion "Antippen" zu, damit du nicht deine Maus zum auswählen nutzen musst.
+
+STRING_ENTER_GUIDANCE_TEXT = Anleitungstext eingeben
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Der gewählte Pfad darf keines der folgenden Zeichen enthalten:
+
+STRING_INSTANCE_MANAGER = Instanz-Manager
+
+STRING_DELETE_APPS = Apps löschen
+
+STRING_NEW_INSTANCE = Neue Instanz
+
+IMAP_STRING_CATEGORY_SWIPE = Wischen
+
+IMAP_STRING_CATEGORY_AIM Zielen und schießen
+
+IMAP_STRING_CATEGORY_SHOOTING Shooting-Modus
+
+IMAP_STRING_CATEGORY_CAMERA = Kamera
+
+IMAP_STRING_ZOOM = Zoom
+
+IMAP_STRING_TILT_LEFT = Nach Links neigen
+
+IMAP_STRING_TILT_RIGHT = Nach Rechts neigen
+
+IMAP_STRING_CATEGORY_CONTROL = Kamerasteuerung
+
+IMAP_STRING_SWAP = Wechseln
+
+IMAP_STRING_FREE_LOOK = Freies Umschauen
+
+IMAP_STRING_FIRE = Schießen
+
+IMAP_STRING_TILT_UP = Nach oben neigen
+
+IMAP_STRING_TILT_DOWN = Nach unten neigen
+
+IMAP_STRING_CATEGORY_TILT = Kippen
+
+IMAP_STRING_SPEED_MODIFIER = Geschwindigkeitsmodifikator
+
+IMAP_STRING_CATEGORY_SWAP = Wechseln
+
+IMAP_STRING_SPLIT = Trennen
+
+IMAP_STRING_SHOOT/SPLIT = Schießen / Trennen
+
+IMAP_STRING_CATEGORY_SHOOTING = Shooting-Modus
+
+STRING_HOT_PINK_THEME = Hot Pink
+
+STRING_LINEAGE2_REVOLUTION_THEME = Lineage 2 Revolution
+
+STRING_COOL_BLUE_THEME = Cool Blue
+
+STRING_GET_XPACKS_TITLE = Klicke, um xPack herunterzuladen
+
+STRING_VIEW_XPACK_TITLE = Klicke, um xPack zu betrachten
+
+STRING_DUPLICATE_KEY_WARNING = Diese Taste ist bereits einer anderen Handlung zugewiesen, du kannst die Taste jedoch auch für beide Handlungen nutzen.
+
+STRING_WAIT_WHILE_UPDATE_BLUESTACKS = Bitte warte, während @@STRING_PRODUCT_NAME@@ aktualisiert wird
+
+STRING_DONT_LAUNCH_BS_WHILE_UPDATING = Bitte aktiviere @@STRING_PRODUCT_NAME@@ nicht und brich die Aktualisierung nicht ab, um Datenverlust zu vermeiden.
+
+STRING_UPDATING = @@STRING_PRODUCT_NAME@@ wird aktualisiert
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_UPGRADE = Das Upgrade kann die gespeicherten Tastatureinstellungen leider nicht beibehalten, sie gehen verloren.
+
+IMAP_STRING_VEHICLE_BOOST = Fahrzeug-Boost
+
+STRING_BLUESTACKS_STORE = @@STRING_PRODUCT_NAME@@ Store
+
+IMAP_STRING_SPACE = Space
+
+STRING_BEFORE_YOU_RESTORE  =  Vor dem Wiederherstellen
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_RESTORE = Achtung! Wenn du benutzerdefinierte Tastatursteuerungen erstellt hast, werden diese durch die Aktualisierung überschrieben und gehen verloren.
+
+STRING_DATA_MANAGER_INFO_FILE_MISSING = Leider ist es nicht möglich, Daten von einem Backup, das mit einer älteren Version von @@STRING_PRODUCT_NAME@@ erstellt wurde, auf den neuesten Stand zu bringen.
+
+STRING_OVERLAY = Auf dem Bildschirm
+
+STRING_SHOW_ON_OVERLAY = Tasten auf dem Bildschirm anzeigen
+
+STRING_POWER_PLAN = Anpassen des Energiesparplans
+
+STRING_POWER_PLAN_BODY = Wechsle deinen Energiesparplan auf Hochleistung, um @@STRING_PRODUCT_NAME@@ zu beschleunigen.
+
+STRING_POWER_PLAN_HYPERLINK = Energiesparplan jetzt anpassen
+
+STRING_TERMS_OF_USE =  © Bluestack Systems, Inc., 2011 bis 2020, Alle Rechte weltweit vorbehalten. Durch die Nutzung von BlueStacks akzeptierst du unsere
+
+STRING_TERMS_OF_USE_LINK = Nutzungsbedingungen
+
+STRING_AUDIO_SERVICE_FAILURE = Audio kann nicht initialisiert werden
+
+STRING_AUDIO_SERVICE_FAILUE_FIX = Versuche, deinen PC neu zu starten, um das Problem zu beheben.
+
+STRING_AUDIO_SERVICE_FAILURE_ALTERNATE_FIX = Wenn das Problem weiterhin besteht, prüfe bitte deine Audio-Treiber und aktualisiere diese bei Bedarf.
+
+STRING_READ_MORE = Lese mehr dazu
+
+STRING_MORE_APPS = Weitere Apps
+
+STRING_ANTIVIRUS_ISSUE = Antivirus Konflikt
+
+STRING_ANTIVIRUS_ISSUE_HEADER = Einige Einstellungen deines Antivirusprogramms verursachen Probleme mit deiner Netzwerkverbindung.
+
+STRING_TECHNICAL_TIP =	Technischer Tipp -
+
+STRING_ANTIVIRUS_ISSUE_FIX = Bitte versuche, HTTPS-Scannen und das Abfangen von verschlüsselten Verbindungen zu pausieren und starte @@STRING_PRODUCT_NAME@@ neu.
+
+STRING_SEE_HOW_TO_FIX = Lösungsvorschlag
+
+STRING_DELETE_COMBO_HEADER = Aufzeichnung löschen?
+
+STRING_DELETE_COMBO_BODY = Diese Sequenz wird gelöscht und du musst diese erneut aufnehmen, um fortzufahren. Bist du sicher, dass du sie löschen möchtest?
+
+STRING_SAVE_COMBO_HEADER = Tasten-Sequenz speichern
+
+STRING_SAVE_COMBO_BODY = Gib deiner Sequenz einen Namen und einen Hotkey. Gib dieser einen Namen, der dich an den Nutzen der Sequenz erinnert.
+
+STRING_COMBO_DESCRIPTION = Name der Sequenz
+
+STRING_COMBO_SHORTCUT_KEY = Tastenkürzel
+
+STRING_NO_SEQUENCES = Keine Sequenzen
+
+STRING_RECORD_SEQUENCE = Nutze das [+] - Icon, um eine Sequenz aufzuzeichnen
+
+STRING_RECORD_NEW_SEQUENCE_TITLE = Neue Sequenz aufzeichnen
+
+STRING_RECORD_NEW_SEQUENCE_BODY = Du kannst auch während der Aufnahme vorhandene Tastatursteuerungen verwenden.
+
+STRING_START_RECORDING = Starte Aufnahme
+
+STRING_STOP_RECORDING = Stoppe Aufnahme
+
+IMAP_STRING_MOBASKILL_NOCANCELONSWITCH = Kein Abbruch beim Wechsel
+
+IMAP_STRING_PAN_SENSITIVITYRATIOY = Maus-Empfindlichkeit Y
+
+STRING_POST_OTS_SUCCESS_MESSAGE = Du hast dich erfolgreich angemeldet.
+
+STRING_POST_OTS_SUCCESS_BUTTON_MESSAGE = Verwende @@STRING_PRODUCT_NAME@@
+
+STRING_POST_OTS_SYNCING_MESSAGE = @@STRING_PRODUCT_NAME@@ Account wird synchronisiert
+
+STRING_POST_OTS_SYNCING_BUTTON_MESSAGE = Bitte warten
+
+STRING_POST_OTS_FAILED_MESSAGE = Wir konnten deine Daten nicht synchronisieren
+
+STRING_POST_OTS_FAILED_BUTTON_MESSAGE = Nochmal versuchen
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Bitte überprüfe die Netzwerkverbindung und versuche es erneut.
+
+STRING_KEY_SEQUENCE = Tasten-Sequenzen
+
+STRING_COMBO_SEQUENCES_LIST = Tap/Combo-Sequenzen sind hier aufgelistet.
+
+STRING_DISCARD = Löschen
+
+STRING_DISCARD_COMBO_HEADER = Aufzeichnung löschen?
+
+STRING_DISCARD_COMBO_BODY = Dein ganzer Fortschritt geht verloren, bist du dir sicher, dass du die aktuelle Aufnahme löschen möchtest?
+
+STRING_ADD = Hinzufügen
+
+IMAP_STRING_MOUSEXBUTTON1  = X Knopf1
+
+IMAP_STRING_MOUSEXBUTTON2 = X Knopf2
+
+STRING_CHANGE_LOG = Was ist neu
+
+STRING_RESTORE_NOT_PERMITTED = @@STRING_PRODUCT_NAME@@ unterstützt nicht das Wiederherstellen von Daten eines Backups einer neueren Version von @@STRING_PRODUCT_NAME@@ auf das einer älteren.
+
+STRING_RESTORE_WARNING = Sie beabsichtigst, Daten von einer Sicherung einer älteren Version von @@STRING_PRODUCT_NAME@@ auf eine neuere Version wiederherzustellen. Bitte beachte, dass die Wiederherstellung möglicherweise nicht erfolgreich ist.
+
+STRING_RESTORE_NOT_POSSIBLE = Leider ist es nicht möglich, Daten von einem Backup, das mit einer älteren Version von @@STRING_PRODUCT_NAME@@ erstellt wurde, auf den neuesten Stand zu bringen.
+
+STRING_BACKUP_AND_RESTORE = Backup & Wiederherstellen
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_DETAIL = Erstelle eine Sicherungskopie oder sicher eine vorhandene Sicherungskopie deiner Benutzerdaten, installierten Spiele, Tastaturmappings und Einstellungen.
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_WARNING = Sicherungen können nur erfolgreich auf die Version wiederhergestellt werden, aus der sie erstellt wurden.
+
+STRING_BACKUP_CURRENT_DATA = Aktuelle Daten sichern
+
+STRING_RESTORE_AN_EXISTING_BACKUP = Existierendes Backup wiederherstellen
+
+STRING_ON_SCREEN_CONTROLS_TITLE = Spielsteuerung
+
+STRING_ON_SCREEN_CONTROLS_BODY = Klicke auf das Auge-Symbol oder drücke {0}, um die Tastaturbelegung des Spiels anzuzeigen.
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = Aktualisierung fehlgeschlagen und wurde nicht angewandt.
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Es tut uns sehr leid, aber sowohl das Upgrade als auch das anschließende Rücksetzen sind fehlgeschlagen und es ist nicht mehr möglich, @@STRING_PRODUCT_NAME@@ in dem Zustand wiederherzustellen, in dem es sich vor dem Upgrade befand. Leider kannst du nun nur die vorhandene Version von @@STRING_PRODUCT_NAME@@ deinstallieren und die neueste Version von @@STRING_PRODUCT_NAME@@ von der Website installieren.
+
+STRING_USE_2GB = Wird 2GB benutzen
+
+STRING_CANCEL_COMBO = Drücke F12 um eine laufende Combo abzubrechen.
+
+STRING_ADD_TOUCH_CONTROLS = Steuerung hinzufügen
+
+STRING_CONFIGURATION_ACTIONS = Aktuelle Konfigurationen
+
+STRING_DOWNLOADING_INSTALLING_GAME = Spiel wird runtergeladen und installiert.
+
+STRING_DONT_CLOSE_WINDOW_WHILE_DOWNLOADING_GAME = Bitte schließe nicht die Anwendung und trenne nicht deine Internetverbindung, während die Spieldaten heruntergeladen werden.
+
+STRING_ERROR_WHILE_DOWNLOADING_GAME = Leider ist ein Fehler beim Download von Spielinhalten aufgetreten.
+
+STRING_UPGRADE_BST_FULL = Durch die Installation dieses Spiels werden die auf deinem PC bereits vorhandenen eingebetteten @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_UPGRADE_SINGLE_GAME_TO_FULL = Durch die Installation dieses Spiels werden die auf Ihrem PC bereits vorhandenen eingebetteten @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_GAME_DOWNLOADED_SUCCESS = Spiel erfolgreich runtergeladen
+
+STRING_PLAY_GAME = Spiel spielen
+
+STRING_THIS_WILL_UPGRADE_SINGLE_GAME_TO_FULL = Durch die Installation dieses Spiels werden die auf Ihrem PC bereits vorhandenen eingebetteten @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_LAUNCH_BLUESTACKS_FROM_DESK_SHORTCUT = Bitte starte @@STRING_PRODUCT_NAME@@ von deinem Desktop aus, nachdem das aktuelle Spiel geschlossen wurde.
+
+STRING_UPGRADING_TEXT = Wird aktualisiert
+
+STRING_CONTAINS_INVALID_CHARACTER = Der eingegebene Name enthält ein oder mehrere ungültige Zeichen. Bitte gib einen gültigen Namen ein, der keine der folgenden Zeichen enthält:
+
+STRING_CANCEL_RECORDING = Aufnahme stoppen
+
+STRING_CANCEL_CONFIG_CHANGES = Du hast einige nicht gespeicherte Steuerelemente. Möchtest du sie verwerfen?
+
+STRING_RESTORE_CHANGES = Änderungen wiederhergestellt
+
+STRING_INSTALL_GAME = Spiel installieren
+
+STRING_UPGRADE_BLUESTACKS = @@STRING_PRODUCT_NAME@@ upgraden
+
+STRING_UPGRADE_TO_STANDARD_BST = Upgrade auf standard @@STRING_PRODUCT_NAME@@
+
+STRING_UPGRADE_TEXT = Verbessern
+
+STRING_GAME_INSTALL_CURRENT_INSTANCE_OF_BST = Das Spiel, das du gerade installieren möchtest, befindet sich bereits auf deinem PC. Möchtest du trotzdem fortfahren?
+
+STRING_GAME_INSTALL_IN_EMBEDDED_BST = Durch die Installation dieses Spiels wird die auf Ihrem PC bereits eingebettete Version von @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST_UPGRADE = Durch die Installation dieses Spiels wird die auf Ihrem PC bereits eingebettete Version von @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST = Durch die Installation von @@STRING_PRODUCT_NAME@@ wird die auf Ihrem PC bereits eingebettete Version von @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_GAME_REQUIRES_NEW_BST = Das Spiel benötigt eine neue Version von @@STRING_PRODUCT_NAME@@. Möchtest du @@STRING_PRODUCT_NAME@@ aktualisieren und das Spiel installieren?
+
+STRING_INSUFFICIENT_PHYSICALMEMORY = @@STRING_PRODUCT_NAME@@ benötigt mindestes 2GB physikalischen Arbeitsspeicher.
+
+STRING_OS_VERSION_NOT_SUPPORTED = Leider wird @@STRING_PRODUCT_NAME@@ von der auf deinem PC laufende Windows-Version nicht unterstützt.
+
+STRING_GL_UNSUPPORTED = Leider unterstützt deine Grafikkarte oder deren  Treiber @@STRING_PRODUCT_NAME@@ nicht.
+
+STRING_REGISTRY_EDITING_DISABLED = @@STRING_PRODUCT_NAME@@ benötigt Registry Bearbeitungsrechte für die Installation
+
+STRING_UPGRADE_FAILED = Aktualisierung fehlgeschlagen
+
+STRING_CONTINUING_WILL_UPGRADE_TO_STD_BST = Beim Fortsetzen wird die auf deinem PC bereits eingebettete Version von @@STRING_PRODUCT_NAME@@ auf Standard-@@STRING_PRODUCT_NAME@@ aktualisiert.
+
+STRING_MULTIINSTANCE_MANAGER = @@STRING_PRODUCT_NAME@@ Multi-Instanzen-Manager
+
+STRING_SELECT_ALL = Alle auswählen
+
+STRING_BATCH = Batch
+
+STRING_ARRANGE = Ordnen
+
+STRING_STOPPED = Angehalten
+
+STRING_RUNNING = Laufend
+
+IMAP_STRING_TapRepeat_Header_Edit_UI = Wiederholtes Antippen
+
+IMAP_STRING_TapRepeat_Description_Edit_UI = Verwende diese Option, um wiederholtes Tippen auf eine Stelle mit einer Taste hinzuzufügen
+
+IMAP_STRING_TAPREPEAT_X = X
+
+IMAP_STRING_TAPREPEAT_Y = Z
+
+IMAP_STRING_TAPREPEAT_Key = Taste
+
+IMAP_STRING_TAPREPEAT_Count = Anzahl
+
+IMAP_STRING_TAPREPEAT_Delay = Verzögerung
+
+IMAP_STRING_CATEGORY_TAPREPEEAT = Wiederholtes Antippen
+
+IMAP_STRING_TAPREPEAT_Settings = Wiederholtes-Antippen-Einstellungen
+
+STRING_SELECTED_INSTANCE_RUNNING_WHILE_CLONING = Leider können die Instanzen nicht geklont werden, während sie verwendet werden. Bitte schließe die laufenden Instanzen, bevor du mit den Klonen fortfährst.
+
+STRING_MACRO_TOOL = @@STRING_PRODUCT_NAME@@ Makro-Rekorder
+
+STRING_MACRO_TOOL_HEADER = Automatisiere die langweiligen Aufgaben und entspann dich!
+
+STRING_MACRO_TOOL_RECORD_1 = Zeichne Mausklicks, Keyboard-Eingaben und Textzeichenfolgen auf.
+
+STRING_MACRO_TOOL_RECORD = Automatisiere Routine-Aufgaben und entspanne dich. Erfasse Mausklicks, Tastendrücke und Zeichenfolgen.
+
+STRING_MACRO_TOOL_RECORD_2 = Beginne die Aufnahme eines Makros mit der Makro-Aufnahme-Taste oben.
+
+STRING_INTERACT_TO_RECORD = Klicke und interagiere mit BlueStacks und dem Spiel, um deine Mausklicks, Tastendrücke und Zeichenfolgen aufzuzeichnen.
+
+STRING_NO_SCRIPTS_AVAILABLE = Keine Scripts sind zum Export verfügbar
+
+STRING_FILE_FORMAT_NOT_SUPPORTED = Das Dateiformat, das du importieren möchtest, wird nicht unterstützt
+
+STRING_RECORD_NEW_MACRO = Neues Makro aufnehmen
+
+STRING_OPEN_SCRIPTS = Öffne den Skriptordner
+
+STRING_LOOP = Loop
+
+STRING_TIMES = Wiederholung(en)
+
+STRING_SHORTCUT = Tastenkürzel
+
+STRING_SCRIPT_NAME = Scriptname
+
+STRING_EXECUTION_LOOP = Wiederhole die Ausführung
+
+STRING_EXECUTING_MACRO = Makro wird ausgeführt, hier klicken zum Abbrechen.
+
+STRING_PAUSED_MACRO = Aufzeichnung pausiert, klicke hier zum Fortfahren oder Anhalten.
+
+STRING_MACRO_ITERATION_TIMES = mal
+
+STRING_AT = Bei
+
+STRING_HOURS_SHORTFORM = HH
+
+STRING_MINUTES_SHORTFORM = mm
+
+STRING_SECONDS_SHORTFORM = ss
+
+STRING_PRESS_STOP_BUTTON = Drücke die Stopp-Taste, um das Makro zu stoppen
+
+STRING_LOOP_INTERVAL = Loop-Intervall
+
+STRING_SECONDS = Sekunden
+
+STRING_OTHER_SETTINGS = Andere Einstellungen
+
+STRING_ACCELERATION = Beschleunigung
+
+STRING_EXECUTE_SCRIPT_ON_RESTART = Makro ausführen, wenn der Player startet
+
+STRING_RESTART_PLAYER_AFTER = Minuten, @@STRING_PRODUCT_NAME@@ neustarten
+
+STRING_BATCH_NEW = Neuer Batch
+
+STRING_BATCH_CLONE = Batch Klon
+
+STRING_START_SELECTED = Ausgewählte starten
+
+STRING_STOP_SELECTED = Ausgewählte stoppen
+
+STRING_DELETE_SELECTED = Ausgewählte löschen
+
+STRING_INSTANCE_OPTIONS = Instanzoptionen
+
+STRING_FPS = FPS
+
+STRING_FPS_CHANGE_MESSAGE = Bei geringeren FPS können mehr Instanzen ausgeführt werden
+
+STRING_DISABLE_AUDIO_MESSAGE = Deaktiviere Audio, wenn mehrere Instanzen ausgeführt werden
+
+STRING_REDUCES_CPU_USAGE = Reduziert die CPU-Auslastung
+
+STRING_ARRANGE_SETTINGS = Instanzanordnung
+
+STRING_SPREAD_ALIGN = Grid-Layout
+
+STRING_OVERLAY_ALIGN = Diagonales Layout
+
+STRING_INSTANCES_PER_ROW = Instanzen pro Zeile
+
+STRING_BATCH_OPERATIONS = Batch Operationsstandard
+
+STRING_START_INTERVAL = Startintervall
+
+STRING_BATCH_NUMBER = Erstelle Batch Instanzen
+
+STRING_REMOVE = Entfernen
+
+STRING_RENAME = Umbenennen
+
+STRING_MINUTES = Minuten
+
+STRING_TILL_LOOP_NUMBER = Für eine feste Anzahl
+
+STRING_TILL_LOOP_TIME = Für eine Dauer von
+
+STRING_TILL_MANUAL = Unendlich
+
+STRING_DELETE_SCRIPT = Möchtest du das ausgewählte Makro löschen?
+
+STRING_MACRO_RECORDER = Makro-Rekorder
+
+STRING_PLAYING_MACRO = Makro abspielen
+
+STRING_INTERVAL = Intervall
+
+STRING_PLAYERS = Spieler
+
+STRING_EXECUTING_SCRIPT = Makro ausführen
+
+STRING_SCRIPT_SETTINGS = Makro-Einstellungen bearbeiten
+
+STRING_EDIT_COMBO_HEADER = Tastenfolge bearbeiten
+
+IMAP_STRING_SCRIPT_Header_Edit_UI = Script
+
+STRING_FARM = Farmen
+
+STRING_INSTANCE_SETTINGS = Instanzeinstellungen
+
+STRING_CLOSE_CONFIRMATION = Möchtest du die ausgewählte Instanz schließen?
+
+STRING_SHORTCUT_ADDED_SUCCESS = Die Verknüpfung wurde erfolgreich zum Desktop hinzugefügt
+
+STRING_CONFIRM = Bestätigen
+
+STRING_CLONE_FROM_MAIN_INSTANCE_WARNING = Das Klonen erfolgt von
+
+STRING_BATCH_INSTANCE_CLOSE_CONFIRMATION = Möchtest du die ausgewählten Instanzen schließen?
+
+STRING_STOP_RECORDING_TOOLTIP = Du kannst die Makroaufnahme von hier aus stoppen
+
+STRING_PAUSE_RECORDING_TOOLTIP = Makro wird aufgezeichnet, hier klicken zum Pausieren oder Beenden.
+
+STRING_NO_OPERATION_MESSAGE = Fehler: Keine Operation ausgeführt
+
+STRING_MACRO_NOT_SAVED_MESSAGE = Fehler: Ein gleichnamiges Makro existiert bereits.
+
+STRING_MACRO_NAME_NULL_MESSAGE = Bitte gib einen Namen für das Makro an. Änderungen wurden nicht gespeichert.
+
+STRING_BATCH_INSTANCE_DELETE_CONFIRMATION = Bist du sicher, dass du die ausgewählten Instanzen löschen möchtest?
+
+STRING_BETA = Beta
+
+STRING_STREAM_MODE = Streaming-Modus
+
+STRING_USE_DEDICATED_GPU = Bevorzuge dedizierte Computergrafiken
+
+IMAP_STRING_DPAD_GamepadStick = Gamepad-Stick
+
+STRING_INSTALLATION_FAILED = @@STRING_PRODUCT_NAME@@ konnte leider nicht installiert werden.
+
+IMAP_STRING_MOBASkill_YAxisRatio = Y-Achsenverhältnis
+
+IMAP_STRING_MOBASkill_NoCancelTime = Keine Stornierungszeit
+
+IMAP_STRING_MOBASkill_AutoAttack = Automatischer Angriff
+
+IMAP_STRING_MOBASkill_StopMOBADpad = MOBA D-Pad stoppen
+
+STRING_CONNECT_DISCORD_BST = @@STRING_PRODUCT_NAME@@ erlauben sich mit Discord zu verbinden
+
+STRING_PROBLEM_TYPE = Art des Problems
+
+STRING_APP_DETAILS = Anwendungsdetails
+
+STRING_APPLICATION_NAME = Anwendungsname
+
+STRING_APP_NAME_WATERMARK = Anwendungsname hier eintippen
+
+STRING_DESCRIBE_PROBLEM = Beschreiben Sie das Problem
+
+STRING_SCREENSHOT = Screenshot
+
+STRING_CHOOSE = Auswählen
+
+STRING_SUBMIT_REPORT = Bericht abschicken
+
+STRING_BST_SUPPORT_UTILITY = Dienstprogramm von @@STRING_PRODUCT_NAME@@
+
+STRING_CHOOSE_SCREENSHOT_FOLDER_TEXT = Wähle den Speicherordner für Screenshots
+
+STRING_RECOMMENDED_BTN_TOOLTIP = Empfohlener Bereich
+
+STRING_RECOMMENDED_WINDOW_TITLE_TEXT = Empfohlener Bereich
+
+STRING_BOOT_PROGRESS_TEXT = Bitte warte einen Moment, die Engine startet.
+
+STRING_UPDATED_FULLSCREEN_BUTTON_TOOLTIP = In Vollbildmodus wechseln
+
+STRING_QUIT_TEXT = Beenden
+
+STRING_NO_INSTANCE_FOUND = Keine @@STRING_PRODUCT_NAME@@-Instanzen gefunden
+
+STRING_SYNC_OPERATIONS = Vorgänge synchronisieren
+
+STRING_NO_INSTANCE_RUNNING = Es wird keine weitere Instanz ausgeführt
+
+STRING_START_OTHER_INSTANCES = Starte andere Instanzen, um die Aktionen der aktuellen Instanz mit ihnen zu synchronisieren.
+
+STRING_SYNC_SELECTED = Ausgewählte synchronisieren
+
+STRING_SYNC_HELP = Hilfe beim Synchronisieren?
+
+STRING_STOP_SYNCING = Synchronisierung stoppen
+
+STRING_FRAME_RATE_SETTING = Frame Rate
+
+STRING_RECOMMENDED_FPS = Empfohlene FPS
+
+STRING_FPS_FOR_GAMERS = 60 FPS für ein flüssigeres Gameplay (kann die Spielperformance für Low-End-PCs beeinträchtigen)
+
+STRING_FPS_FOR_MULTIINSTANCE = 20 FPS für Multi-Instanzen (einige Spiele laufen möglicherweise nicht reibungslos)
+
+STRING_GAMEPAD_SUPPORT = Gamepad Support
+
+STRING_GAMEPAD_POPUP_TEXT = Suche nach dem Gamepad-Symbol bei Spielen, die das Spielen mit Gamepad auf @@STRING_PRODUCT_NAME@@ unterstützen.
+
+STRING_GAMEPAD_CONNECTED = Gamepad verbunden
+
+STRING_GAMEPAD_DISCONNECTED = Gamepad getrennt
+
+STRING_GAMEPAD = Gamepad
+
+STRING_KEYBOARD_MOUSE = Tastatur und Maus
+
+STRING_ENABLE_ADB = Android Debug Bridge (ADB) aktivieren
+
+STRING_ENABLE_ADB_WARNING = @@STRING_PRODUCT_NAME@@ ist möglicherweise nicht vollständig geschützt, wenn diese Einstellung aktiviert ist. Du kannst es später deaktivieren.
+
+IMAP_STRING_GamepadDpadUp = Hoch
+
+IMAP_STRING_GamepadDpadDown = Runter
+
+IMAP_STRING_GamepadDpadLeft = Links
+
+IMAP_STRING_GamepadDpadRight = Rechts
+
+IMAP_STRING_GamepadStart = Start
+
+IMAP_STRING_GamepadStop = Zurück
+
+IMAP_STRING_GamepadLeftThumb = L3
+
+IMAP_STRING_GamepadRightThumb = R3
+
+IMAP_STRING_GamepadLeftShoulder = LB
+
+IMAP_STRING_GamepadRightShoulder = RB
+
+IMAP_STRING_GamepadA = A
+
+IMAP_STRING_GamepadB = B
+
+IMAP_STRING_GamepadX = X
+
+IMAP_STRING_GamepadY = Y
+
+IMAP_STRING_GamepadLStickUp = LS hoch
+
+IMAP_STRING_GamepadLStickDown = LS runter
+
+IMAP_STRING_GamepadLStickLeft = LS links
+
+IMAP_STRING_GamepadLStickRight = LS rechts
+
+IMAP_STRING_GamepadRStickUp = RS hoch
+
+IMAP_STRING_GamepadRStickDown = RS runter
+
+IMAP_STRING_GamepadRStickLeft = RS links
+
+IMAP_STRING_GamepadRStickRight = RS rechts
+
+IMAP_STRING_GamepadLTrigger = LT
+
+IMAP_STRING_GamepadRTrigger = RT
+
+IMAP_STRING_LeftStick = Linker Stick
+
+IMAP_STRING_RightStick = Rechter Stick
+
+STRING_OPEN_GAMEPAD_UI = Öffne die Nutzeroberfläche für die Controller-Einstellungen
+
+IMAP_STRING_Rotate_KeyClock = Im Uhrzeigersinn
+
+IMAP_STRING_Rotate_KeyAntiClock = Gegen den Uhrzeigersinn
+
+IMAP_STRING_Rotate_X = Ursprung X
+
+IMAP_STRING_Rotate_Y = Ursprung Y
+
+IMAP_STRING_Rotate_XRadius = XRadius
+
+IMAP_STRING_Rotate_Speed = Geschwindigkeit
+
+IMAP_STRING_Rotate_ActivationTime = Aktivierungszeit
+
+STRING_UPDATE_AVAILABLE = Update verfügbar!
+
+STRING_DETAILED_CHANGELOG = Detaillierten Changelog anzeigen
+
+STRING_INVALID_FORMAT_HEADER = Ungültiges Format
+
+STRING_SAVE_KEY_SEQUENCE_ERROR = Die Tastenfolge konnte nicht aktualisiert werden, da sie in einem nicht erkennbaren Format vorliegt. Stelle sicher, dass es sich um einen gültigen JSON-Text handelt.
+
+STRING_WAIT_DURING_UPDATE = Bitte warte, während die neue Version heruntergeladen wird. Du kannst @@STRING_PRODUCT_NAME@@ weiter verwenden, während der Download läuft.
+
+STRING_INSTALL_NEXT_BOOT = Beim nächsten Start installieren
+
+STRING_NEW_UPDATE_READY_WARNING = Du wirst @@STRING_PRODUCT_NAME@@ während des Updates nicht verwenden können.
+
+IMAP_Gamepad_Video_Element_Header = Ziele und schieße mit dem Controller
+
+IMAP_Gamepad_Video_Element_Body = Spiele, als würdest du einen Shooter auf einer Konsole spielen und erhalte dadurch einen Vorteil gegenüber den anderen.
+
+STRING_HELP_AND_SUPPORT = Hilfe
+
+STRING_POWER_UPS = Power-Ups
+
+STRING_CUSTOMISE = Anpassen
+
+STRING_DOWNLOADING_UPDATE = Update wird heruntergeladen
+
+STRING_SHOW_TOAST = Zeige Toast-Benachrichtigung
+
+IMAP_STRING_STATE_Key = Statusschlüssel
+
+IMAP_STRING_STATE_Name = Name
+
+IMAP_STRING_STATE_Model = Modell
+
+IMAP_STRING_STATE_Header_Edit_UI = Status
+
+STRING_DEVICEPROFILE_SETTING_DETAIL = Mit dem Geräteprofil kannst du ein Gerätebereitstellungsprofil für deine @@STRING_PRODUCT_NAME@@-Instanz einrichten.
+
+STRING_KEYMAPPING_ENABLED = KeyMapping aktiviert
+
+STRING_KEYMAPPING_DISABLED = KeyMapping deaktiviert
+
+STRING_PREDEFINED_DEVICEPROFILE_TEXT = Wähle ein vordefiniertes Profil
+
+STRING_CUSTOM_DEVICEPROFILE_TEXT = Erstelle ein benutzerdefiniertes Profil
+
+STRING_SAVE_CHANGES = Änderungen speichern
+
+IMAP_STRING_PAN_MOUSEACCELERATION = Maus-Beschleunigung
+
+STRING_DISABLE_GAME_CONTROL_MESSAGE = Spielsteuerungsbildschirm deaktivieren
+
+STRING_DEVICEPROFILE_CHANGE_WARNING = Änderungen werden Android-Framework-Daten löschen
+
+STRING_CUSTOM_DEVICEPROFILE_LOADING = Geräteprofile aus der Cloud abrufen
+
+STRING_DEVICEPROFILE_INTERNET_WARNING = Es gab einen Fehler beim Abrufen der Profile. Bitte stelle sicher, dass deine Internetverbindung funktioniert.
+
+IMAP_STRING_TAPREPEAT_RepeatUntilKeyUp = Wiederholen bis Taste losgelassen wird
+
+STRING_TAP_MODE = Antippen
+
+STRING_LONG_PRESS_MODE = Lange drücken
+
+STRING_KEYBOARD_MODE = Tastatur
+
+STRING_MOUSE_MODE = Maus
+
+IMAP_STRING_FREELOOK_HEADER_EDIT_UI = Freies Umschauen
+
+IMAP_STRING_FREELOOK_DESCRIPTION_EDIT_UI = Nutze dieses Steuerelement, um dich in einem unterstützten Spiel schnell umzusehen.
+
+IMAP_STRING_FREELOOK_X = X
+
+IMAP_STRING_FREELOOK_Y = Y
+
+IMAP_STRING_FREELOOK_KEY = Taste
+
+IMAP_STRING_FREELOOK_KEYLEFT = Taste links
+
+IMAP_STRING_FREELOOK_KEYRIGHT = Taste rechts
+
+IMAP_STRING_FREELOOK_KEYUP = Taste hoch
+
+IMAP_STRING_FREELOOK_KEYDOWN = Taste runter
+
+IMAP_STRING_FREELOOK_DEVICETYPE = Gerätetyp
+
+STRING_DELETING = Löschen
+
+STRING_STOPPING = Anhalten
+
+STRING_CREATING = Erstellen
+
+STRING_AVAILABLE_INSTANCES = Verfügbare Instanzen
+
+STRING_CONFIGURING = Konfigurieren
+
+STRING_STARTING = Starten
+
+STRING_DISK_CLEANUP_MESSAGE = @@STRING_PRODUCT_NAME@@ beginnt nun die Datenträgerbereinigung. Zuvor werden alle laufenden Instanzen geschlossen. Dieser Prozess kann etwas Zeit in Anspruch nehmen, abhängig von der Leistung deines PCs.
+
+STRING_PLEASE_DO_NOT_LAUNCH = Bitte starte @@STRING_PRODUCT_NAME@@ nicht, bevor dieser Prozess abgeschlossen ist.
+
+STRING_DISK_CLEANUP_PROGRESS = Festplatte wird gesäubert
+
+STRING_DISK_CLEANUP_SUCCESSFUL = Festplatte erfolgreich gesäubert
+
+STRING_DISK_SUCCESSFULLY_CLEANDED = Von BlueStacks verwendete Festplatte erfolgreich gesäubert.
+
+STRING_INSTANCE_LAUNCH_CONFIRMATION = Möchtest du diese Instanz starten?
+
+STRING_DISK_CLEANUP = Festplatte säubern
+
+STRING_CONTINUE_CONFIRMATION = Möchtest du fortfahren?
+
+STRING_VERSION_NOT_SUPPORTED = Es tut uns leid, aber wir unterstützen diese Version nicht
+
+STRING_DISK_CLEANUP_ERROR = Es tut uns Leid, aber die Säuberung der Festplatte konnte wegen eines Fehlers nicht abgeschlossen werden. Bitte versuche es später erneut.
+
+STRING_MANUFACTURER = Hersteller
+
+STRING_BRAND = Marke
+
+STRING_MODELNUMBER = Modellnummer
+
+STRING_ROOT_ACCESS = Root-Zugriff
+
+STRING_ROOT_ACCESS_DETAIL = Die Aktivierung dieser Option kann zu Kompatibilitätsproblemen führen, deine Daten gefährden und verhindern, dass der Support dir in Zukunft helfen kann.
+
+STRING_ENABLE_ROOT_ACCESS = Root-Zugriff aktivieren
+
+STRING_ROOT_ACCESS_FAILURE = Fehler beim Aktivieren des Root-Zugriffs
+
+STRING_ADVANCED = Erweitert
+
+STRING_SYNCHRONISER = Synchronizer
+
+IMAP_STRING_FREELOOK_SETTINGS = Einstellungen für das Freie Umsehen
+
+IMAP_STRING_FREELOOK_SENSITIVITY = Empfindlichkeit
+
+IMAP_STRING_FREELOOK_MOUSEACCELERATION = Beschleunigung
+
+IMAP_STRING_FREELOOK_SPEED = Wischgeschwindigkeit
+
+IMAP_STRING_FREELOOK_DELAY = Kanten-Reset-Delay
+
+STRING_BLUESTACKS_INSTALLER = @@STRING_PRODUCT_NAME@@ Installationsprogramm
+
+STRING_GOOGLE_SIGNIN_INFO = Melde dich an, um die neuesten Android-Apps, Spiele, Filme, Musik und mehr zu finden.
+
+STRING_SIGNIN = Anmelden
+
+STRING_DO_IT_LATER = Mache ich später
+
+STRING_TROUBLE_STARTING_BLUESTACKS = Können wir helfen?
+
+STRING_STUCK_AT_BOOT_SCREEN = Können wir helfen?
+
+STRING_SEE_SOLUTION = Lösung ansehen
+
+STRING_SLOW_PERFORMANCE = Langsame Performance?
+
+STRING_SOMETHING_ELSE_WENT_WRONG = Etwas anderes ist schief gelaufen?
+
+STRING_WHY_GOOGLE_ACCOUNT = Warum muss ich mich anmelden?
+
+STRING_TROUBLE_SIGNING_IN = Probleme beim einloggen?
+
+STRING_YOU_ARE_ONE_STEP_AWAY = Probleme bei der Anmeldung?
+
+STRING_BLUESTACKS_HAS_SUCCESSFULLY_LOADED = @@STRING_PRODUCT_NAME@@ wurde erfolgreich gestartet
+
+STRING_DISPLAY_FPS_DURING_GAMEPLAY = FPS während des Spiels anzeigen
+
+STRING_LAUNCH_INSTANCE_MANAGER = Instanzen-Manager starten
+
+STRING_SYNC_OPERATION_ON = Synchronisation von Vorgängen ist eingeschaltet
+
+STRING_SYNC_PERFORM_ACTIONS = Aktionen, die du für diese Instanz ausführst, werden auch für andere Instanzen ausgeführt.
+
+STRING_CLICK_FOR_ACTIONS = Klicken für weitere Aktionen
+
+STRING_DOWNLOADING_PART_0_OF_1 = Teil {0} von {1} wird heruntergeladen
+
+STRING_WAITING_FOR_INTERNET = Warte auf Internetverbindung
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = Die Installation wird gestartet, sobald der Download abgeschlossen ist
+
+STRING_BLUESTACKS_ALREADY_BEING_DOWNLOADED = @@STRING_PRODUCT_NAME@@ wird gerade heruntergeladen und dann installiert. Bitte warte, bis die Installation abgeschlossen ist.
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = Es tut uns leid, aber bei der Installation von @@STRING_PRODUCT_NAME@@ scheint ein Fehler aufgetreten zu sein.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = Fehler beim Installieren von @@STRING_PRODUCT_NAME@@
+
+STRING_RESTART_TRY_AGAIN = Wir empfehlen, den PC neuzustarten und die Installation zu wiederholen.
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = Administratorberechtigungen erforderlich
+
+STRING_INSTALL_REQUIRES_ADMIN = Für die Installation benötigt @@STRING_PRODUCT_NAME@@ Windows-Administratorrechte. Erlaubst du die Fortsetzung der Installation?
+
+STRING_CLEAR_SPACE_RETRY = Würdest du bitte Speicherplatz schaffen und die Installation erneut versuchen?
+
+STRING_DOWNLOAD_FAILED = Herunterladen fehlgeschlagen
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = Beim Versuch, @@STRING_PRODUCT_NAME@@ herunterzuladen, ist ein Fehler aufgetreten.
+
+STRING_MILLION_GAMES_WAITING = Millionen von Spielen erwarten dich.
+
+STRING_CONTINUE_IN_BACKGROUND = Soll das Herunterladen von @@STRING_PRODUCT_NAME@@ im Hintergrund weitergeführt werden?
+
+STRING_MINIMIZE_INSTALLER = Das Installationsprogramm minimieren?
+
+STRING_INSUFFICIENT_MEMORY = Zu wenig Speicher
+
+STRING_PC_HAS_LESS_MEMORY = Dein PC hat weniger als die {0}GB Arbeitsspeicher, die @@STRING_PRODUCT_NAME@@ benötigt.
+
+STRING_BS_REQUIRES_DISK_INSTALL = @@STRING_PRODUCT_NAME@@ erfordert {0}GB Festplattenspeicher zur Installation. Bitte schaffe Platz und versuche es erneut.
+
+STRING_CLOSE_TAB = Tab schließen
+
+STRING_INSUFFICIENT_STORAGE = Zu wenig Speicher
+
+STRING_PRESS_TO_AIM_AND_SHOOT = Tipp: Drücke {0}, um dich mit der Maus umzuschauen.
+
+STRING_LAUNCH = Starten
+
+STRING_USE_CURRENT = Aktuellen verwenden
+
+STRING_CHOOSE_CUSTOM = Eigenen auswählen
+
+STRING_CHOOSE_FOLDER_TEXT = Deine Medien werden automatisch in der Android-Galerie und im Ordner unten gespeichert. Du kannst einen benutzerdefinierten Ordner auswählen.
+
+STRING_SCREENSHOT_FOLDER = Screenshot-Ordner
+
+STRING_SCREENSHOT_SAVED = Screenshot gespeichert
+
+STRING_PERFORMING_ACTIONS = Aktionen werden ausgeführt
+
+STRING_IMPORT = Importieren
+
+STRING_EXPORT = Export
+
+STRING_OPEN_FOLDER = Ordner öffnen
+
+STRING_IMPORT_CONTROLS_TITLE = Konfigurationsdatei importieren
+
+STRING_IMPORT_CONTROL_MESSAGE = Falls du bereits eigene Tastatureinstellungen vorgenommen hast, werden diese beim Import einer Konfigurationsdatei überschrieben.
+
+STRING_GRM_EXCEPTION_MESSAGE = Es tut uns leid, aber beim Ausführen der erforderlichen Aktion ist ein Fehler aufgetreten. Bitte wende dich an den @@STRING_PRODUCT_NAME@@ Support für Hilfestellung.
+
+STRING_ENABLE_HIGH_FPS = Hohe Frame­ra­tes aktivieren
+
+STRING_USE_DEFAULT = Standard verwenden
+
+STRING_SCREENSHOT_INVALID_PATH = @@STRING_PRODUCT_NAME@@ verfügt nicht über die Berechtigung, im von dir ausgewählten Ordner Daten zu speichern.
+
+STRING_SCREENSHOT_USE_DEFAULT = Wähle einen anderen Ordner, oder verwende den Standardordner, um deine Screenshots zu speichern.
+
+STRING_IMPORT_CONTROL_MESSAGE1 = Möchtest du fortfahren?
+
+STRING_UNSUPPORTED_FILE_FORMAT = Nicht unterstütztes Dateiformat
+
+STRING_IMPORT_ANOTHER = Weitere importieren
+
+STRING_IMPORT_ERROE_MESSAGE = Die Datei, die du hochladen möchtest, ist entweder in keinem unterstützen Format oder sie ist beschädigt.
+
+STRING_IMPORT_ERROR_MESSAGE1 = Möchtest du eine andere Datei importieren?
+
+STRING_CONTROLS_IMPORTED = Steuerung erfolgreich importiert
+
+STRING_CHOOSE_ANOTHER = Andere auswählen
+
+STRING_CONTROLS_EXPORTED = Steuerung erfolgreich exportiert
+
+STRING_LOCK_CURSOR_SHORTCUT = Mauszeiger im Spiel sperren (F8)
+
+STRING_LOCK_CURSOR = Mauszeiger im Spiel sperren
+
+STRING_UNLOCK_CURSOR = Drücke {0}, um den Mauszeiger freizugeben
+
+STRING_ALLOW_CUSTOM_CURSOR = Mauszeiger während des Spiels ändern
+
+STRING_ENABLE_GAMEPAD = Gamepad-Erkennung aktivieren
+
+STRING_MORE_BUTTON = Mehr
+
+STRING_0_OF_1 = {0} von {1}
+
+STRING_0_MINS_LEFT = {0} Min. verbleiben
+
+STRING_0_SECS_LEFT = {0} Sek. verbleiben
+
+STRING_0_COMMA_1 = {0}, {1}
+
+STRING_MANUAL_MODE = Manuell casten
+
+STRING_AUTOCAST = Automatisch casten
+
+STRING_QUICK_CAST = Quick Cast
+
+STRING_MANUAL_MODE_SKILL_CAST = Drücke die Steuertaste und lasse sie los. Klicke dann mit der linken Maustaste, um Zauber zu wirken.
+
+IMAP_STRING_MOBASKILL_ADVANCEDMODE = Erweiterter Modus
+
+IMAP_STRING_MOBASKILL_AUTOCASTENABLED = Autocast aktiviert
+
+STRING_AUTOCAST_SKILL_DESCRIPTION = Drücke kurz die Steuertaste, um den nächsten Feind zu verzaubern.
+
+STRING_QUICK_CAST_SKILL_DESCRIPTION = Drücke kurz die Steuertaste, um Zauber zu wirken.
+
+STRING_ROOT_ACCESSS_DETAIL = Die Aktivierung dieser Option kann zu Kompatibilitätsproblemen führen, deine Daten gefährden und verhindern, dass der Support dir in Zukunft helfen kann.
+
+STRING_CHANGE_PATH = Pfad ändern
+
+STRING_QUICK_SETTINGS = Schnell-Einstellungen
+
+STRING_BRACKETS_0_COMMA_1 = ({0}, {1})
+
+STRING_MEMORY_LOWERCASE = Arbeitsspeicher
+
+STRING_MEDIUM = Medium
+
+STRING_CUSTOM1 = Benutzerdefiniert
+
+STRING_CLOSE_CURRENT_INSTANCE = Zur Zeit laufende Instanz von @@STRING_PRODUCT_NAME@@ schließen
+
+STRING_CLOSE_ALL_RUNNING_INSTANCES = Alle laufenden Instanzen von @@STRING_PRODUCT_NAME@@ schließen
+
+STRING_RESTART_CURRENT_INSTANCE = Zur Zeit laufende Instanz von @@STRING_PRODUCT_NAME@@ neustarten
+
+STRING_EXIT_OPTIONS = Erweiterte Einstellungen zum Verlassen
+
+STRING_PUBG_MOBILE = PUBG MOBILE
+
+STRING_GAMING_RESOLUTION = In-Game-Auflösung
+
+STRING_720RESOLUTION = HD 720p
+
+STRING_720RESOLUTION_MESSAGE = Standard Spielauflösung
+
+STRING_1080RESOLUTION = FHD 1080p
+
+STRING_1080RESOLUTION_MESSAGE = für PCs mit Nvidia GEFORCE GTX 660 oder einer besseren GPU
+
+STRING_2KRESOLUTION = QHD 1440p
+
+STRING_2KRESOLUTION_MESSAGE = für Gaming-PCs mit Nvidia GEFORCE GTX 1060 oder einer besseren GPU
+
+STRING_4KRESOLUTION = UHD 2160p
+
+STRING_GRAPHICS_QUALITY = Grafikqualität
+
+STRING_SMOOTH = Glatt
+
+STRING_BALANCED = Ausgeglichen
+
+STRING_HD = HD
+
+STRING_GAME_SETTINGS = Spieleinstellungen
+
+STRING_RESTART_PUBG = PUBG Mobile neustarten
+
+STRING_RESTART_OBJECT = Neustart {0}
+
+STRING_SETTING_CHANGED_RESTART_APP_MESSAGE = Änderungen erfolgreich gespeichert. Um sie anzuwenden und in Kraft zu setzen, starte bitte neu {0}.
+
+STRING_CHANGES_SAVED_RESTART_APP = Änderungen erfolgreich gespeichert. Um sie anzuwenden und in Kraft zu setzen, starte bitte neu {0}.
+
+STRING_CUSTOM_PUBG_APP_WARNING = Eine Änderung der Anzeigeeinstellungen kann sich auf die Tastatursteuerung auswirken. Bitte überprüfe sie, bevor du PUBG Mobile spielst.
+
+STRING_CUSTOM_SETTING_APP_WARNING = Das Ändern der Anzeigeeinstellungen kann die Tastatursteuerung verändern. Bitte überprüfe sie, bevor du das Spiel spielst.
+
+STRING_KNOW_MORE = Erfahre mehr
+
+STRING_RECORD_SCREEN_PLAYING = Bildschirm während des Spiels aufzeichnen
+
+STRING_RECORD_SCREEN = Bildschirm aufzeichnen (Beta)
+
+STRING_RECORDING_STARTED = Aufzeichnung begonnen
+
+STRING_RECORDING_SAVED = Aufzeichnung gespeichert
+
+STRING_CLICK_TO_SEE_VIDEO = Klicke, um das Video zu sehen
+
+STRING_RECORDER_REQUIRED = Bildschirmrekorder erforderlich
+
+STRING_VIDEO_RECORDER_DOWNLOAD_BODY = Darf @@STRING_PRODUCT_NAME@@ einen Bildschirmrekorder herunterladen, mit dem du dein Gameplay aufzeichnen kannst?
+
+STRING_DOWNLOAD_BODY = Um Videos aufzeichnen zu können, muss @@STRING_PRODUCT_NAME@@ zusätzliche Dateien herunterladen.
+
+STRING_DOWNLOAD_ADDITIONAL = Zusätzliche Dateien herunterladen
+
+STRING_NOT_CLOSE_DOWNLOAD_COMPLETE = Bitte schließe @@STRING_PRODUCT_NAME@@ nicht, bevor das Herunterladen abgeschlossen ist.
+
+STRING_RECORDER_DOWNLOADED = Bildschirmrekorder heruntergeladen
+
+STRING_RECORDER_READY_BODY = Der Bildschirmrekorder ist einsatzbereit. Benutze ihn, indem du auf das Symbol für die Bildschirmaufnahme klickst.
+
+STRING_ERROR_RECORDER_DOWNLOAD = Beim Herunterladen ist ein Fehler aufgetreten. Bitte überprüfe deine Netzwerkverbindung und versuche es erneut.
+
+STRING_DOWNLOAD_NOT_COMPLETE = Das Herunterladen ist noch nicht abgeschlossen. Bist du sicher, dass du abbrechen willst?
+
+STRING_MEDIA_FOLDER = Media-Ordner
+
+STRING_RECORDING_ERROR = Aufzeichnungsfehler
+
+STRING_RECORDING_ERROR_BODY = Um den Bildschirmrekorder benutzen zu können, starte bitte @@STRING_PRODUCT_NAME@@ neu und versuch es erneut.
+
+STRING_DISCOVER_APPS = Entdecke Apps
+
+STRING_NO_APPRECOMMENDATIONS_LEFT_MESSAGE = Du hast den Game-Discovery-Kanal freigeschaltet. Hier kommt bald mehr.
+
+STRING_DISK_CLEANUP_DESCRIPTION = Gib Speicher frei, der nicht von @@STRING_PRODUCT_NAME@@ genutzt wird, damit er anderen Windows Apps auf deinem PC zur Verfügung steht.
+
+STRING_FREE_UP_SPACE = Speicher freigeben
+
+STRING_BACKUP_RESTORE_DESCRIPTION = Erstelle ein neues Backup oder lade ein vorhandenes Backup deiner Benutzerdaten, installierten Spiele, Tastenbelegungen und Einstellungen.
+
+STRING_USER_DATA_SETTINGS = Benutzerdaten
+
+STRING_DOWNLOAD_BACKGROUND = Lade im Hintergrund herunter
+
+STRING_TOGGLE_CONTROLS_TOOLTIP = Steuerung im Spiel ein-/ausschalten
+
+STRING_STREAMING_WINDOW_TITLE = Streaming des Spiels von @@STRING_PRODUCT_NAME@@
+
+STRING_DISK_CLEANUP_MULTIPLE_RUN_HEADING = Datenträgerbereinigung konnte nicht gestartet werden
+
+STRING_DISK_CLEANUP_MULTIPLE_RUN_MESSAGE = Datenträgerbereinigung läuft bereits. Bitte versuche es später erneut.
+
+STRING_SOME_WINDOW_FILES_MISSING = Für die Bildschirmaufnahme ist eine zusätzliche Windows-Anwendung erforderlich. Bitte lade DirectX über den unten angegebenen Link herunter und versuche die Aufnahme erneut.
+
+STRING_EXIT_BLUESTACKS_DUE_TO_DISK_COMPACTION_HEADING = @@STRING_PRODUCT_NAME@@ konnte nicht gestartet werden
+
+STRING_EXIT_BLUESTACKS_DUE_TO_DISK_COMPACTION_MESSAGE = Bitte warte, bis die Datenträgerbereinigung abgeschlossen ist, bevor du @@STRING_PRODUCT_NAME@@ startest
+
+STRING_NOT_START_RECORDER = Bildschirm-Rekorder konnte nicht gestartet werden
+
+STRING_RECORDER_ALREADY_RUNNING = Eine Instanz des Bildschirmrekorders wird bereits ausgeführt. Bitte versuche es erneut, nachdem die Aufnahme abgeschlossen ist.
+
+STRING_OPEN_SIDEBAR = Seitenleiste öffnen
+
+STRING_CLOSE_SIDEBAR = Seitenleiste schließen
+
+STRING_INCREASE_VOLUME = Lautstärke erhöhen
+
+STRING_DECREASE_VOLUME = Lautstärke verringern
+
+STRING_MUTE_VOLUME = Stummschalten
+
+STRING_OPEN_MI_MANAGER = Multi-Instanzen-Manager öffnen
+
+STRING_ASK_ON_CLOSING = Beim Schließen fragen
+
+STRING_CHANGE_KEYS_VISIBILITY = Transparenz der Tastaturbelegung ändern
+
+STRING_SCREEN_ROTATE_BUTTON_TOOLTIP = @@STRING_PRODUCT_NAME@@ Bildschirm drehen
+
+STRING_ANDROID_BOOT_FAILED = Hochfahren von Android fehlgeschlagen
+
+STRING_ERROR_IN_STARTING_ANDROID_AUTO_FIX = Android ist eingeschlafen und muss geweckt werden. Soll @@STRING_PRODUCT_NAME@@ versuchen, Android erneut zu starten?
+
+STRING_NO_TIMER_SET = Keine Zeit zum Ausführen des Makros gesetzt
+
+STRING_NO_LOOP_ITERATION_SET = Die Makro-Schleife muss mindestens 1 mal durchlaufen
+
+STRING_STOP_THE_SCRIPT = Bitte stoppe das aktuell ausgeführte Makro, um ein anderes zu starten
+
+STRING_ALREADY_IN_USE_MESSAGE = Taste wird bereits von anderem Tastenkürzel verwendet
+
+STRING_OPEN_MEDIA_FOLDER = Media-Ordner öffnen
+
+STRING_BOOKMARK_MACRO_WARNING = Höchstens 5 Makros können mit einem Lesezeichen versehen werden
+
+STRING_BLUESTACKS_XAPK_HANDLER_TITLE = @@STRING_PRODUCT_NAME@@ XAPK-Handler
+
+STRING_STOP_MACRO_SCRIPT = Es kann immer nur 1 Makro gleichzeitig abgespielt werden. Bitte stoppe das aktuell ausgeführte Makro, um ein anderes wiederzugeben.
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = Eine andere Instanz des Installationsprogramms von @@STRING_PRODUCT_NAME@@ wird bereits ausgeführt.
+
+STRING_OPEN_MACRO_TOOL = Makro-Tool öffnen
+
+STRING_EXPORT_MACRO = Makro exportieren
+
+STRING_NO_MACRO_SELECTED = Bitte wähle mindestens 1 Makro für den Export
+
+STRING_NO_MACRO_AVAILABLE = Bitte importiere zuerst ein Makro oder zeichne eines auf
+
+STRING_UNMUTE_VOLUME = Ton einschalten
+
+STRING_START_STREAMING = Stream beginnen
+
+STRING_UPDATES_READY_TO_INSTALL = Updates bereit zur Installation
+
+STRING_CHANGE_VOLUME = Lautstärke ändern
+
+STRING_MUTE_ALL_INSTANCES = Alle Instanzen stumm schalten
+
+STRING_SAVE_KEY_SEQUENCE_ERROR2 = Die Tastenfolge konnte nicht aktualisiert werden, da sie in einem nicht erkennbaren Format vorliegt. Bitte stelle sicher, dass es sich um ein gültiges Format handelt.
+
+STRING_MACRO_SETTINGS = Makro-Einstellungen
+
+STRING_TOGGLE_FULLSCREEN = Vollbild
+
+STRING_TOGGLE_MUTE_STATE = Stumm/Aktiv
+
+STRING_TOGGLE_VIDEO_RECORDING_STATE = Videorekorder
+
+STRING_TOGGLE_KEYMAPPING_STATE = Spielsteuerung ein-/ausschalten
+
+STRING_TOGGLE_KEYMAP_WINDOW = Game-Guide
+
+STRING_TOGGLE_FARM_MODE = Energiesparmodus (Multi-Instanzen-Manager)
+
+STRING_TOGGLE_OVERLAY = Steuerung auf dem Bildschirm ein-/ausblenden
+
+STRING_TOGGLE_LOCK_CURSOR = Mauszeiger sperren/entsperren
+
+STRING_TOGGLE_MULTIINSTANCE_WINDOW = Multi-Instanzen-Manager
+
+STRING_TRANSLATOR_TOOL = Auto-Übersetzung
+
+STRING_RESET_TO_DEFAULT = Auf Standard zurücksetzen
+
+STRING_DUPLICATE_SHORTCUTS_WARNING = Taste wird bereits von anderer Aktion verwendet
+
+STRING_SHORTCUT_KEY_SETTINGS = Tastenkürzel
+
+STRING_WINDOW_ACTIONS = Fenster-Aktionen
+
+STRING_SYSTEM_ACTIONS = System-Aktionen
+
+STRING_ANDROID_ACTIONS = Android-Aktionen
+
+STRING_GAME_CONTROLS = Steuerung
+
+STRING_GAMEPAD_CONTROLS = Gamepad-Steuerungs-Fenster
+
+STRING_MISCELLANEOUS = Verschiedenes
+
+STRING_ROTATE = Drehen
+
+STRING_RESTORE_SHORTCUTS = Möchtest du die Standardwerte deiner Tastaturbefehle wirklich wiederherstellen?
+
+STRING_RAN_X_TIMES = {0} mal durchgelaufen
+
+STRING_WARN_BEFORE_DELETING_MACRO = Warnen, bevor ein Makro-Skript gelöscht wird
+
+STRING_RESET = Zurücksetzen
+
+STRING_RESTORE_DEFAULTS = Standard wiederherstellen
+
+STRING_PERFORMANCE = Performance
+
+STRING_SCREEN_LOCKED = Bildschirm ist gesperrt
+
+STRING_FULLSCREEN = Vollbild
+
+STRING_AUTOMATIC_SORTING = Automatische Sortierung
+
+STRING_PIN_TOP = Oben anpinnen
+
+STRING_RESUME = Fortsetzen
+
+STRING_PAUSE = Pause
+
+STRING_BOOKMARK = Lesezeichen
+
+STRING_MACRO_RESTART_INTERVAL_NULL = Die Neustart-Zeit muss größer null sein.
+
+STRING_RUNNING_X_TIME = {0} Mal ausgeführt
+
+STRING_BACKUP_DISK_SPACE_FULL_MESSAGE = Das Laufwerk mit den Sicherungen von @@STRING_PRODUCT_NAME@@ verfügt nicht über genügend Speicherplatz. Wir empfehlen ein Laufwerk mit mindestens 5 GB freiem Speicherplatz. Die Größe der Sicherungsdatei hängt allerdings von der Größe deiner installierten Spiele ab.
+
+STRING_BACKUP_DISK_SPACE_FULL_WARNING = Zu wenig Festplattenspeicher
+
+STRING_CHANGE_LOCATION = Speicherort ändern
+
+STRING_LOW_DISK_SPACE = Geringer Speicherplatz
+
+STRING_LOW_DISK_SPACE_MESSAGE = Wir empfehlen mindestens 1GB freien Festplattenspeicher für ein flüssiges Spielerlebnis.
+
+STRING_LOW_DISK_SPACE_WARNING = Auf deinem PC ist nicht genügend Speicherplatz verfügbar.
+
+STRING_LIVE = LIVE
+
+STRING_FULLSCREEN_EXIT_POPUP_TEXT = Drücke {0} zum Beenden des Vollbildmodus
+
+STRING_CLICK_TO_SEE_SCREENSHOT = Klicke, um den Screenshot zu sehen
+
+STRING_NVIDIA_ONLY = (nur NVIDIA)
+
+STRING_NO_SCHEME_SELECTED = Bitte wähle mindestens 1 Schema für den Export
+
+STRING_NO_SCHEME_AVAILABLE = Bitte erstelle zuerst ein Schema
+
+STRING_AUTO_ALIGN = Automatisch ausrichten
+
+STRING_BLANK = [LEER]
+
+STRING_SCRIPT_EDITOR = Skript Editor
+
+STRING_CLICK_PICK_XY_COORDINATES = Rechtsklicke auf den gewünschten Punkt im Spiel, um dessen X- und Y-Koordinaten einzufügen
+
+STRING_INTERACT_WITH_LEFT_CLICK = Interagiere mit dem Spiel durch Linksklicken
+
+STRING_NO_CHANGES_SAVE = Keine zu speichernden Änderungen
+
+STRING_REPEAT_ACTION_INFINITE = Unendlich bis gestoppt wird
+
+STRING_INTERVAL_BETWEEN_EXECUTION = Intervall zwischen den Ausführungen
+
+STRING_PLAYBACK_SPEED = Wiedergabegeschwindigkeit
+
+STRING_AFTER = Nach
+
+STRING_REPEAT_ACTION = Aktion wiederholen
+
+STRING_MACRO_IMPORT_NAME = Makro wird importiert als
+
+STRING_DUPLICATE_MACRO_NAME_WARNING = Skript existiert, gib einen neuen Namen ein
+
+STRING_IMPORT_MACRO = Makro importieren
+
+STRING_NEW_PROFILE = Neues Schema erstellen
+
+STRING_IMPORT_SCHEMES = Schemata importieren
+
+STRING_EXPORT_SCHEMES = Schemata exportieren
+
+STRING_SCHEME_IMPORT_NAME = Schema wird importiert als
+
+STRING_DUPLICATE_SCHEME_NAME_WARNING = Schema existiert, gib einen neuen Namen ein
+
+STRING_VIDEO_RECORDING = Videoaufnahme
+
+STRING_SHOOTING_MODE_TOOLTIP_SMART_CONTROL = Intelligente Steuerelemente aktiviert. Verwende {0} zum Überschreiben
+
+STRING_WINDOW_ACTION_ERROR = Kann keine Windows-Tastenkombinationen verwenden
+
+STRING_SMART_CONTROLS = Intelligente Steuerung
+
+STRING_FREEFIRE = Garena Free Fire
+
+STRING_UNDO_ALL = Alles rückgängig machen
+
+STRING_CREATE_CUSTOMIZED_SCRIPT = Erstelle dein benutzerdefiniertes Skript, das auf Knopfdruck eine Reihe von Aktionen ausführt
+
+STRING_SCRIPT_GUIDE = Skript-Guide
+
+STRING_TOGGLE_SMART_CONTROLS = Intelligente Steuerelemente aktivieren
+
+STRING_SMART_CONTROLS_DESCRIPTION = Die intelligente Steuerung zeigt nur jene Tastatur-Steuerelemente an, die während des Spiels von Bedeutung sind
+
+STRING_UNDO_CHANGES = Änderungen rückgängig machen
+
+STRING_INVALID_SCHEME_NAME = Fehler: Ungültiger Schema-Name
+
+STRING_NO_IMPORT_MACRO_SELECTED = Bitte wähle mindestens 1 Makro für den Import
+
+STRING_PLAYING = Läuft
+
+STRING_STOP_PLAYING_MACRO = Makro beenden
+
+STRING_MACRO_RECORDING_IN_PROGRESS = Makro-Aufnahme läuft
+
+STRING_PAUSE_MACRO_RECORDING = Makro-Aufnahme pausieren
+
+STRING_RESUME_MACRO_RECORDING = Makro-Aufnahme fortsetzen
+
+STRING_STOP_RECORDING_MACRO = Makro-Aufnahme beenden
+
+STRING_DELETE_CONFIRMATION = Bist du sicher, dass du die ausgewählte Instanz löschen möchtest?
+
+STRING_WARN_BEFORE_DELETING_SCHEME = Warnen, bevor ein Steuerungsschema gelöscht wird
+
+STRING_CUSTOMIZE_CONTROL_BST = Menü
+
+STRING_STOP_RECORDING_FIRST = Bitte beende zuerst die Aufnahme.
+
+STRING_RECORD_SCREEN_WITHOUT_BETA = Bildschirm aufzeichnen
+
+STRING_MACRO_NAME_ERROR = Fehler: Der Makro-Name darf keines der folgenden Zeichen enthalten
+
+STRING_ENABLE_SMART_CHECKBOX = Feuermodus automatisch ein- und ausschalten
+
+STRING_OPTIMIZE_INGAME_SETTINGS = Spieleinstellungen optimieren
+
+STRING_BEST_FOR_PC = Am besten für PCs
+
+STRING_NO_MACROS_GRID = Du hast noch keine Makros. Von dir aufgenommene oder importierte Makros werden hier angezeigt.
+
+STRING_SCHEME_INVALID_CHARACTERS = Fehler: Der Schemaname darf nicht '-' enthalten
+
+STRING_DELETE_SCHEME_CONFIRMATION = Möchtest du dieses Kontrollschema wirklich löschen?
+
+STRING_BOOKMARK_SCHEMES_WARNING = Höchstens 5 Makros können mit einem Lesezeichen versehen werden
+
+STRING_DISK_CLEANUP_COULD_NOT_COMPLETE = Es tut uns Leid, aber die Säuberung der Festplatte konnte wegen eines Fehlers nicht abgeschlossen werden.
+
+STRING_PLEASE_RESTART_PC_TRY_AGAIN = Du kannst es erneut versuchen, indem du @@STRING_PRODUCT_NAME@@ oder deinen PC neu startest
+
+STRING_MACRO_FILE_NAME_ERROR = Fehler: Dies ist ein reservierter Dateiname.
+
+STRING_INVALID_FILES_LIST = Fehler: Ungültige Datei(en): {0}
+
+STRING_FREEFIRE_NOTIFICATION_MESSAGE = Die Steuerung für {0} wurde auf Smart Controls umgestellt. Smart Controls versetzt dich automatisch in den Schussmodus, wenn das Spiel beginnt.
+
+STRING_FREEFIRE_NOTIFICATION_LINK = Mehr lesen >
+
+STRING_FREEFIRE_NOTIFICATION_DETAIL = Du kannst über die erweiterte Spielsteuerung zu deiner vorherigen Steuerung zurückkehren.
+
+STRING_MULTIPLE = Mehrere
+
+STRING_SINGLE = Einzelne
+
+STRING_BULK_ACTIONS = Massenaktionen
+
+STRING_CLICK_ICON_TO_MODIFY = Bitte klicke auf das Icon, um sie anzuzeigen oder zu ändern
+
+STRING_ORIENTATION_LANDSCAPE = Querformat (Tablet-Modus)
+
+STRING_ORIENTATION_PORTRAIT = Hochformat (Smartphone-Modus)
+
+STRING_WIDTH = Breite
+
+STRING_HEIGHT = Höhe
+
+STRING_SYNC_STARTED = Synchronisation gestartet
+
+STRING_NEVER_SHOW_AGAIN = Nicht mehr anzeigen
+
+STRING_STOP_ALL = Alle anhalten
+
+STRING_BATCH_DELETE_WARNING_MESSAGE = Bitte beachte, dass laufende Instanzen und die Standardinstanz nicht gelöscht werden
+
+STRING_RECOMMENDED_FOR_PC = Empfohlen für PCs
+
+STRING_CLOSE_ALL_INSTANCES_CONFIRMATION = Möchtest du alle laufenden Instanzen schließen?
+
+STRING_INVALID_CFG = Der Zielpfad ist ungültig. Der Dateiname der exportierten Konfiguration muss eine cfg-Erweiterung haben.
+
+STRING_INSUFFICIENT_SPACE_WARNING = Leider verfügt dein PC nicht über genügend Speicherplatz, um BlueStacks zu aktualisieren. Wir empfehlen, die @@STRING_PRODUCT_NAME@@ Datenträgerbereinigung auszuführen und den Aktualisierungsvorgang erneut zu versuchen.
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = Gib mehr als 10 Zeichen in der Beschreibung ein
+
+STRING_MOBILE_NETWORK_PROVIDER = Mobilfunkanbieter
+
+STRING_MOBILE_NETWORK_SETUP = Richte den Namen des Mobilfunknetzes ein, sodass Spiele, für die ein Mobilfunknetz erforderlich ist, einwandfrei funktionieren
+
+STRING_FREE_DISK_SPACE = Wie führe ich die Datenträgerbereinigung aus?
+
+STRING_INSUFFICIENT_SPACE = Unzureichender Speicherplatz
+
+STRING_CORE = Kern
+
+STRING_CONTROLS = Steuerung
+
+STRING_READ_ARTICLE = Artikel lesen
+
+STRING_NEED_CONTROL_ON_GAME_CONTROLS = Benötigst du mehr Kontrolle über die Spielsteuerung?
+
+STRING_OPEN_ADVANCED_CONTROLS = Öffne die erweiterte Steuerung
+
+STRING_HOW_TO_PLAY_ON_BLUESTACKS = Wie spiele ich auf @@STRING_PRODUCT_NAME@@
+
+STRING_MERGE = zusammenfügen
+
+STRING_INTERVAL_SEC = Intervall (sek)
+
+STRING_MACRO = Makro
+
+STRING_EXECUTION_SPEED = Ausführungsgeschwindigkeit
+
+STRING_DELAY_NEXT_SEC = Verzögere das nächste Skript um (sek)
+
+STRING_HOW_MERGE_MACRO = Wie werden Makros zusammengefügt?
+
+STRING_PLUS_TO_ADD = Klicke + um Makros von der Liste auf der linken Seite hinzuzufügen
+
+STRING_REORDER_DRAG = Ordne Makros neu an, indem du sie mit der Maus verschiebst, um die gewünschte Reihenfolge zu erhalten
+
+STRING_MERGE_NAME_CLICK = Gib dem zusammengefügten Makro einen Namen und klicke auf zusammenfügen
+
+STRING_DEFAULT = Standard
+
+STRING_MERGE_MACROS = Makros zusammenfügen
+
+STRING_EXISTING_MACROS = Bestehende Makros
+
+STRING_MACROS_TO_MERGE = Makros zum zusammenfügen
+
+STRING_NAME_MERGED_MACRO = Name des zusammengefügten Makros
+
+STRING_UNIFY = Vereinigen
+
+STRING_CHECKING_UPDATES = Nach Updates suchen
+
+STRING_ABI_SETTING = ABI Einstellung
+
+STRING_ABI_CHANGE_WARNING = Deine Google-Play-Daten auf diesem Gerät werden gelöscht. Möglicherweise musst du einige Apps neu installieren, damit sie funktionieren.
+
+STRING_ASTC_TEXTURE = ASTC-Textur (Beta)
+
+STRING_ASTC_Disabled = Deaktiviert
+
+STRING_ASTC_SOFTWARE = Software-Dekodierung
+
+STRING_ASTC_SOFTWARE_CACHING = Cache aktivieren
+
+STRING_ASTC_SOFTWARE_CACHING_WARNING = (Cache nimmt etwas Speicherplatz in Anspruch)
+
+STRING_ASTC_HARDWARE = Hardware-Dekodierung
+
+STRING_MERGE_SETTINGS = Einstellungen zusammenfügen
+
+STRING_DELETE_DEPENDENT_MACRO = Ein abhängiges Makro löschen?
+
+STRING_MACRO_IN_USE_BY_OTHER_MACROS = Das Makro, das du löschen möchtest, wird derzeit von anderen Makro(s) verwendet.
+
+STRING_MACRO_LOSE_CONFIGURABILITY = Wenn du {0} löschst, verlieren andere Makro(s) ihre Konfigurierbarkeit.
+
+STRING_DELETE_ANYWAY = Trotzdem löschen
+
+STRING_DONT_DELETE = Nicht löschen
+
+STRING_IMPORT_DEPENDENT_MACRO = Abhängiges Makro importieren
+
+STRING_IMPORT_DEPENDENT_MACRO_UNIFIED = Das Makro, das du importieren möchtest, ist ein zusammengefügtes Makro. Möchtest du auch die abhängigen Makrodateien importieren oder als vereinige Datei importieren?
+
+STRING_IMPORT_ALL_MACROS = Alle Makros importieren
+
+STRING_IMPORT_UNIFIED = Als vereinigte importieren
+
+STRING_OPTIONS = Optionen
+
+STRING_GROUP = Gruppieren
+
+STRING_UNGROUP = Gruppe auflösen
+
+STRING_EDIT_MERGED_MACRO = Zusammengefügtes Makro bearbeiten
+
+STRING_GAMEPLAY_SETTINGS = Spieleinstellungen
+
+STRING_RESTART_TO_APPLY_GAMEPLAY_SETTINGS = Du musst das Spiel neu starten, um die neuen Spieleinstellungen zu übernehmen.
+
+STRING_INVALID_SCRIPT_COMMANDS = Ungültige Liste der Skriptbefehle.
+
+STRING_TOGGLE_ADVANCED_KEYMAP_WINDOW = Fortgeschrittene Spielsteuerung
+
+STRING_UNIFY_0 = {0} vereinigen
+
+STRING_UNIFIYING_LOSE_CONFIGURE = Du kannst keine Einstellungen für ein einheitliches Makro konfigurieren
+
+STRING_DEPENDENT_MACRO_IMPORTED_AS = Die abhängigen Makros werden importiert als
+
+STRING_IMPORTING_CANCELLED = Makroimport abgebrochen
+
+STRING_EMPTY_DEVICE_PROFILE = Bitte wähle ein Geräteprofil aus
+
+STRING_ASTC_INFO_MESSAGE = Bevor du die App startest, lösche bitte die Daten und den Cache.
+
+STRING_DRAG_TO_SORT = Zum Sortieren ziehen
+
+STRING_DONT_SHOW_AGAIN = Diese Mitteilung nicht mehr anzeigen
+
+STRING_DISCARD_KEYMAPPING_CHANGES = Du hast einige Änderungen an der Tastenzuordnung nicht gespeichert. Möchtest du sie verwerfen?
+
+STRING_CHANGES_AUTO_SAVE = Änderungen in {0} gespeichert
+
+STRING_MACRO_COMMUNITY = Makro-Community
+
+STRING_MACRO_SHARE_TEXT = Lade deine Makros herunter und teile sie mit der BlueStacks-Community.
+
+STRING_OPEN_COMMUNITY = Öffne Community
+
+STRING_GET_MACRO = Makro abrufen
+
+STRING_NO_MACRO = Keine Makros
+
+STRING_NO_MACRO_TEXT = Drücke die Aufnahmetaste, um ein neues Makro aufzunehmen, oder klicke, um ein Makro aus der Bluestacks-Community herunterzuladen
+
+STRING_MACRO_NAME = Makro-Name
+
+STRING_CREATED_ON = Erstellt am
+
+STRING_ACTIONS = Aktionen
+
+STRING_MERGE_MACRO = Führe ausgewählte Skripte zusammen, um ein einzelnes Skript zu erstellen
+
+STRING_LAUNCH_BLUESTACKS_AFTER_GRAPHICS_CHANGE = Starte @@STRING_PRODUCT_NAME@@, um in {0} zu booten.
+
+STRING_NO_GUIDE = Kein Game-Guide
+
+STRING_USE_OVERLAY_SCHEME_GUIDE = Verwende zur Unterstützung Steuerelemente auf dem Bildschirm oder wechsel zu einem anderen Schema, um den Guide anzuzeigen.
+
+STRING_SAVE_AND_RESTART = Speichern und neu starten
+
+STRING_SAVE_AND_RESTART_INFO = Änderungen wurden durchgeführt. Möchtest du {0} speichern und neu starten?
+
+STRING_MACRO_ALREADY_EXISTS = Ein anderes Makro mit dem gleichen Namen existiert bereits, möchtest du
+
+STRING_REPLACE_EXISTING = Existierendes ersetzen
+
+STRING_MACRO_IMPORT_SUCCESS = Makro erfolgreich importiert.
+
+STRING_OPEN_COMMUNITY_PAGE = Öffne die Makro-Community-Seite
+
+STRING_REMEMBER_WINDOW_POSITION_MESSAGE = Fensterposition merken
+
+STRING_CUSTOM_WIDTH_MESSAGE = Der unterstützte Auflösungsbereich für die Breite ist: 
+
+STRING_CUSTOM_HEIGHT_MESSAGE = Der unterstützte Auflösungsbereich für die Höhe ist: 
+
+STRING_COPY_KEYS = Kopieren
+
+STRING_MACRO_IMPORT_STOPPED_WARNING = Das ausgeführte Makro wird angehalten, wenn du versuchst, neue Makros zu importieren
+
+STRING_IMPORT_WARNING = Import-Warnung
+
+IMAP_STRING_Dpad_DpadTitle = D-Pad-Titel
+
+STRING_SYNC_STOPPED = Die Synchronisation wurde gestoppt
+
+IMAP_STRING_MouseWheelUp = MausRadHoch
+
+IMAP_STRING_MouseWheelDown = MausRadRunter
+
+STRING_GPU_SETTINGS = GPU-Einstellungen
+
+STRING_GPU_IN_USE = GPU in Verwendung:
+
+STRING_MACRO_WARNING = Das ausgeführte Makro wird angehalten, um neue Makros zu importieren
+
+STRING_REROLL_0 = Reroll {0}
+
+STRING_CHANGES_NOT_APPLIED = Änderungen nicht übernommen
+
+STRING_REMOVE_ICON = Symbol entfernen
+
+STRING_KEEP = Behalten
+
+STRING_UNINSTALL_0_BS = Möchtest du {0} von @@STRING_PRODUCT_NAME@@ deinstallieren?
+
+STRING_UNINSTALL_0 = {0} deinstallieren
+
+STRING_ADDITIONAL_FILES_REQUIRED = Zusätzliche Dateien erforderlich
+
+STRING_DOWNLOADING_ADDITIONAL_FILES = Herunterladen zusätzlicher Dateien
+
+STRING_DOWNLOAD_IN_PROGRESS = Download läuft
+
+STRING_INSTANCE_CREATION_ERROR = Instanzenerstellungsfehler
+
+STRING_INSTANCE_ALREADY_RUNNING = Instanz wird bereits ausgeführt
+
+STRING_CANNOT_RUN_MACRO = Makro kann nicht ausgeführt werden
+
+STRING_REROLL_COMPLETED_SUCCESS = Das erneute Rollen wurde erfolgreich abgeschlossen.
+
+STRING_DELETE_MACRO = Makro löschen
+
+STRING_IMPORT_MACRO_WARNING = Makroimport Warnung
+
+STRING_STOP_IMPORT = Stoppen und importieren
+
+STRING_INVALID_NAME = Ungültiger Name
+
+STRING_SAVE_CHANGES_QUESTION = Änderungen speichern?
+
+STRING_BACKUP = Backup
+
+STRING_CORRUPT_INSTALLATION = Fehlerhafte Installation
+
+STRING_SMART_CONTROLS_ENABLED_0 = Intelligente Steuerelemente aktiviert für {0}
+
+STRING_EXPORT_WARNING = Export Warnung
+
+STRING_DISCARD_CHANGES = Änderungen verwerfen
+
+STRING_DELETE_SCHEME = Schema löschen
+
+STRING_REMOVE_CLOSE = Entfernen und schließen
+
+STRING_INCOMPATIBLE_INSTALLER = Inkompatibler Installer
+
+STRING_CANNOT_USE_FOLDER = Ordner kann nicht verwendet werden
+
+STRING_SELECT_AGAIN = Erneut auswählen
+
+STIRNG_ACCEPT_TNC = Nutzungsbedingungen akzeptieren
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = Leider verfügt das ausgewählte Laufwerk nicht über genügend Speicherplatz, um @@STRING_PRODUCT_NAME@@ zu installieren.
+
+STRING_CHOOSE_AGAIN = Wähle erneut
+
+STRING_EXIT_INSTALLER = Beende das Installationsprogramm
+
+STRING_REPORT_SENT_SUCCESS = Bericht erfolgreich gesendet
+
+STRING_RESOLVE_AUTOMATIC = Automatisch auflösen
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = Anhangsgröße überschritten
+
+STRING_INVALID_IMAGE = Ungültiges Bild
+
+STRING_CANNOT_CLONE_INSTANCE = Instanz kann nicht geklont werden
+
+STRING_CLOSE_SELECTED = Ausgewählte schließen
+
+STRING_SHORTCUT_CREATED = Verknüpfung erstellt
+
+STRING_CLOSE_ALL = Alle schließen
+
+STRING_CREATE_INSTANCE_ERROR = Instanzenerstellungsfehler
+
+STRING_UNSUPPORTED_VERSION = Nicht unterstützte Version
+
+STRING_MACRO_WINDOW_ON_FINISH = Kein Makrofenster anzeigen, wenn die Ausführung beendet ist
+
+STRING_VTX_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden, da die hardwareunterstützte Virtualisierung auf deinem PC deaktiviert ist.
+
+STRING_VTX_UNAVAILABLE_ERROR_MESSAGE = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden, da dein PC keine hardwareunterstützte Virtualisierung unterstützt. Überprüfe die FAQ für Details.
+
+STRING_VTX_DISABLED_ENABLEIT_BODY = Du kannst es über dein BIOS aktivieren. Wenn du Avast oder 360 Antivirus verwendest, deaktiviere in den Einstellungen die Verwendung der hardwareunterstützten Virtualisierung. Bitte überprüfe die FAQ für Details.
+
+STRING_ADVANCE_GRAPHICS_MODE = Advanced Graphics Engine Modus
+
+STRING_LEGACY_GRAPHICS_MODE = Klassischer Grafikmodus
+
+STRING_DONE = Erledigt
+
+STRING_DELETE_INSTANCES = Instanzen löschen
+
+STRING_CLOSE_INSTANCES = Instanzen schließen
+
+STRING_COULDNT_BOOT_TRY_RESTART = @@STRING_PRODUCT_NAME@@ konnte aufgrund eines Fehlers im Treiber nicht gestartet werden. Dürfen wir empfehlen, deinen PC neu zu starten und es erneut zu versuchen?
+
+STRING_LANGUAGE_CHANGE_APPLY_RESTART = Die Sprache wird beim nächsten Start geändert
+
+STRING_USE_NATIVE_GAMEPAD = Verwende die eingebauten Gamepad-Steuerelemente des Spiels
+
+STRING_NATIVE_GAMEPAD_INFO = Aufgrund deiner Präferenz für die Verwendung der integrierten Steuerelemente eines Spiels werden die von BlueStacks bereitgestellten Gamepad-Steuerelemente nicht mehr für alle Spiele verwendet.
+
+STRING_GAME_CONTROLS_SETTINGS = Spielsteuerungseinstellungen
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = Leider kann der Installationsvorgang nach dem Start nicht mehr abgebrochen werden. Bitte warte, bis der Vorgang abgeschlossen ist.
+
+STRING_NOT_SURE_WHERE_START = Nicht sicher, wo du anfangen sollst?
+
+STRING_VIEW_TOP_GAMES = Top-Spiele anzeigen
+
+STRING_ISSUES_INSTALLING_GAME = Probleme beim Installieren/Ausführen eines Spiels?
+
+STRING_READ_SOLUTION = Lösung lesen
+
+STRING_FACING_OTHER_TROUBLE = Hast du andere Probleme?
+
+STRING_HAVING_TROUBLE_INSTALLING_GAME = Hast du Probleme beim Installieren eines Spiels?
+
+STRING_RETURN_BLUESTACKS = Zurück zu @@STRING_PRODUCT_NAME@@
+
+STRING_GAME_CONTROLS_SETTINGS = Spielsteuerungseinstellungen
+
+STRING_BLUESTACKS_GUIDANCE_WINDOW = @@STRING_PRODUCT_NAME@@ @@STRING_CONTROLS@@
+
+STRING_DISCARD_GUIDANCE_CHANGES = Möchtest du die an dem Schema vorgenommenen Änderungen wirklich verwerfen? Du kannst sie danach nicht wiederherstellen.
+
+STRING_RESET_SCHEME_CHANGES = Das ausgewählte Schema wird auf das von BlueStacks bereitgestellte Standardschema zurückgesetzt, alle deine Änderungen gehen verloren.
+
+STRING_SCHEME = Schema
+
+STRING_ADB_CONNECTED_PORT_0 = ADB kann an 127.0.0.1:{0} angeschlossen werden.
+
+STRING_GUIDANCE_EDIT_KEYS = Tasten bearbeiten
+
+STRING_ATTACH_FILES = Dateien anhängen
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = Die Gesamtzahl der angehängten Dateien überschreitet die maximal zulässige Größe von 25 MB. Bitte wähle eine andere Datei.
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = Anzahl der Anhänge überschritten
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = Es sollten weniger als 10 Dateien angehängt werden.
+
+STRING_INVALID_FILE = ungültige Datei
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = Dateien mit den Endungen .bat und .exe sind nicht erlaubt.
+
+STRING_HAVING_TROUBLE_STARTING_GAME = Spiel konnte nicht gestartet werden?
+
+STRING_ISSUES_INSTALLING_A_GAME = Spiel konnte nicht installiert werden?
+
+STRING_KEEP_CHANGES = Behalte die Änderungen bei
+
+STRING_INSUFFICIENT_RECORDING_SPACE = Der Medienordner verfügt nicht über genügend Speicherplatz zum Speichern von Aufzeichnungen. Bitte wähle einen neuen Pfad oder gib Speicherplatz frei, um fortzufahren.
+
+STRING_EDIT_CONTROLS = Steuerung bearbeiten
+
+STRING_CLONE_INSTANCE_MESSAGE = Alle Daten und Einstellungen der ausgewählten Instanz werden kopiert
+
+STRING_CLONE = Klonen
+
+STRING_FRESH = Neu
+
+STRING_CLONE_FROM = Klonen von
+
+STRING_RAM = RAM(MB)
+
+STRING_WIDTH_HEIGHT = Breite x Höhe
+
+STRING_INSTANCE_COUNT = Anzahl der Instanzen
+
+STRING_STOP_MOVEMENT = Bewegung stoppen
+
+STRING_CHANGE_SKILL_SETTINGS = Einstellungen
+
+STRING_SKILL_SETTINGS = Skill-Einstellungen
+
+STRING_ENABLE_ANDROID_DEBUG_WARNING = Das Aktivieren dieser Einstellung kann sich nachteilig auf das Gameplay auswirken. Du kannst es später deaktivieren.
+
+STRING_CHOOSE_OPTION_MESSAGE = Wähle aus, was du tun möchtest
+
+STRING_KEEP_RECEIVING_NOTIFICATION = Alle Apps werden geschlossen und du erhälst weiterhin Spielbenachrichtigungen
+
+STRING_QUIT_BLUESTACKS_MESSAGE = @@STRING_PRODUCT_NAME@@ beenden
+
+STRING_BLUESTACKS_WILL_CLOSE_COMPLETELY = @@STRING_PRODUCT_NAME@@ wird vollständig geschlossen
+
+STRING_MINIMIZE_TO_SYSTEM_TRAY = In die Taskleiste minimieren
+
+STRING_SHOW_MINIMIZE_CONFIRMATION =  Popup anzeigen, um @@STRING_PRODUCT_NAME@@ beim Schließen zu beenden oder zu minimieren
+
+STRING_SHOW_ALL_INSTANCES = Alle Instanzen anzeigen
+
+STRING_CHANGE_SETTINGS_LATER = Du kannst dies später in den Einstellungen ändern
+
+STRING_INSTANCE_NAME_ERROR = Fehler: Der Instanzname darf keine der folgenden Zeichen enthalten
+
+STRING_CONTROLS_EDITOR = Steuerungs-Editor
+
+STRING_STOP_MOVEMENT_DESCRIPTION = Wenn diese Option aktiviert ist, hört der Held auf, sich zu bewegen, sobald der Zauber gewirkt wird.
+
+STRING_CUSTOM_RAM_MESSAGE = RAM (Speicher) auf deinem PC ist:
+
+IMAP_STRING_PAN_GAMEPADSTICK = Gamepad-Stick
+
+IMAP_STRING_PAN_GAMEPADSENSITIVITY = Gamepad-Empfindlichkeit
+
+STRING_SAME_MACRO_EXISTS = Du kannst kein Makro aus dem UserScripts-Ordner importieren
+
+STRING_ERROR_IN_IMPORTING_MACRO = Fehler: Makro-Datei kann nicht importiert werden
+
+STRING_ERROR_IN_MERGE_MACRO = Fehler: Abhängige Makros nicht gefunden
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = Erhalte E-Mail-Benachrichtigungen
+
+IMAP_STRING_PAN_GAMEPADSENSITIVITY = Gamepad-Empfindlichkeit
+
+STRING_SKIP = Überspringen 
+
+STRING_OKAY = Okay
+
+STRING_NEXT = Weiter
+
+STRING_SELECTED_MODE = Ausgewählter Modus
+
+STRING_SELECTED_MODE_MESSAGE = {0} wird nach deinen Vorlieben ausgewählt. Wenn du möchtest, kannst du von hier aus zu einem anderen Steuerungsschema wechseln.
+
+STRING_RESTART_BLUESTACKS = Starte @@STRING_PRODUCT_NAME@@ neu.
+
+STRING_RESTART_BLUESTACKS_MESSAGE = Einige der Änderungen erfordern einen Neustart von @@STRING_PRODUCT_NAME@@. Möchtest du jetzt neu starten?
+
+STRING_CHANGES_ARE_NOT_SAVED = Änderungen verwerfen?
+
+STRING_SETTING_CLOSE_MESSAGE = Möchtest du die Änderungen verwerfen und Einstellungen schließen?
+
+STRING_SETTING_TAB_CHANGE_MESSAGE = Möchtest du die Änderungen wirklich verwerfen und diesen Tab verlassen?
+
+STRING_NO_THANKS = Nein
+
+STRING_LANDSCAPE = Querformat
+
+STRING_PORTRAIT = Porträt
+
+STRING_GAME_CONTROLS_HEADER = Dein Game-Guide
+
+STRING_GAME_CONTROLS_MESSAGE = Klicke hier für die Spielsteuerung und vieles mehr
+
+STRING_PLAY_BIGGER_HEADER = Vollbildmodus aktivieren
+
+STRING_PLAY_BIGGER_MESSAGE = Klicke hier oder drücke
+
+STRING_PLAY_BIGGER_FULL_SCREEN_MESSAGE = um Vollbild umzuschalten.
+
+STRING_VIEW_CONTROLS_HEADER = Steuerung anzeigen
+
+STRING_VIEW_CONTROLS_MESSAGE = Klicke auf das Guide-Symbol, um die Spielsteuerung erneut anzuzeigen.
+
+IMAP_STRING_ROTATE_TWEAKS = Rotationsoptimierungen
+
+IMAP_STRING_ROTATE_HEADER_EDIT_UI = Drehen
+
+IMAP_STRING_ROTATE_SETTINGS = Rotationseinstellungen
+
+STRING_RECOMMENDED_RESOLUTION = Empfohlene Auflösung
+
+PLAY_LANDSCAPE = Im Querformat spielen
+
+IMAP_STRING_ROTATE_STARTINGANGLE = Startwinkel
+
+STRING_SHOW_POINTER_LOCATION_FOR_TOUCH_DATA = Zeigerposition mit aktuellen Berührungsdaten anzeigen
+
+STRING_SHOW_VISUAL_FEEDBACK_FOR_TAPS = Visuelles Feedback für das Antippen anzeigen
+
+STRING_EXIT_FULL_SCREEN = Vollbildmodus beenden 
+
+STRING_SHOW_TOOLBAR = Symbolleiste anzeigen
+
+STRING_VIEW_OPTIONS = Optionen anzeigen
+
+STRING_ALL_GAMES = Alle Spiele
+
+STRING_CURSOR = Mauszeiger
+
+STRING_VIEW_AND_CUSTOMIZE_GAME_CONTROLS = Anzeigen und Anpassen der Spielsteuerung
+
+STRING_RECOMMENDED_SETTING = Wähle automatisch die besten Spieleinstellungen basierend auf meiner PC-Hardware
+
+STRING_CANNOT_OPEN_SETTING = Das Einstellungsfenster kann während der Bearbeitung der Spielsteuerung nicht geöffnet werden
+
+STRING_INPUT_DEBUGGING = Input-Debugging
+
+PLAY_PORTRAIT = Spiele im Hochformat
+
+STRING_RECOMMENDED_LANDSCAPE_MODE = Aktiviere diese Einstellung, um das Spiel und seine Spielsteuerung immer im Querformat zu starten
+
+STRING_RECOMMENDED_PORTRAIT_MODE = Aktiviere diese Einstellung, um das Spiel und seine Spielsteuerung immer im Hochformat zu starten
+
+STRING_ASK_CANCEL_DOWNLOAD = Download abbrechen?
+
+STRING_ASK_CANCEL_DOWNLOAD_MESSAGE = Download abbrechen?
+
+STRING_CHOOSE_ANDROID_RUNTIME = Wähle die Android-Version aus
+
+STRING_INSTALLING = Installiere
+
+STRING_DOWNLOADING_RUNTIME_MESSAGE = Warte bis die ausgewählte Android-Version heruntergeladen wurde.
+
+STRING_SELECTED_RUNTIME_NOT_INSTALLED = Die ausgewählte Android-Engine wird heruntergeladen und installiert.
+
+STRING_UPDATE_CHECKER  = Update-Checker
+
+STRING_CHECK_FOR_UPDATE	= Nach Update suchen
+
+STRING_UPDATE_MESSAGE = Durch das Update bleibt deine BlueStacks-Instanz sicher, schnell und mit den neuesten Funktionen im Spiel kompatibel.
+
+STRING_CHECK_FOR_UPDATES  = Nach Updates suchen
+
+STRING_ANDROID_RUNTIME = Android Runtime
+
+STRING_STATUS = Status
+
+STRING_UPDATE_AVAILABLE = Update verfügbar!
+
+STRING_UP_TO_DATE = Auf dem neuesten Stand
+
+STRING_LEARN_HOW_TO_UPDATE_YOUR_INSTANCE = Erfahre, wie du deine Instanz aktualisieren kannst
+
+STRING_SHOW_GAME_GUIDE = Guide anzeigen
+
+STRING_CHANGE_SENSITIVITY = Ändere die Empfindlichkeit des aktuellen Schemas
+
+STRING_DEFAULT_IN_GAME_RESOLUTION = Standard Spielauflösung
+
+STRING_IN_GAME_RESOLUTION = In-Game-Auflösung
+
+STRING_COMPATIBILITY = Kompatibilität
+
+STRING_GRAPHICS_ENGINE_MODE = Grafik-Engine
+
+STRING_GRAPHICS_RENDERER = Grafik-Renderer
+
+STRING_CANT_EDIT = Die Master-Instanz kann nicht umbenannt werden.
+
+STRING_CANT_DELETE = Master-Instanz kann nicht gelöscht werden.
+
+STRING_ADVANCED_MODE = Erweiterter Modus
+
+STRING_LEGACY_MODE = Legacy-Modus
+
+STRING_FAILED_DOWNLOAD_RETRY = Der Download konnte nicht abgeschlossen werden. Bitte überprüfe die Internetverbindung und versuche es erneut
+
+STRING_VIDEO_TUTORIAL_BLURB_HEADER = Spielanleitung
+
+STRING_VIDEO_TUTORIAL_BLURB_MESSAGE = Klicke hier, um zu erfahren, wie man spielt
+
+STRING_HOW_TO_PLAY = SPIELANLEITUNG
+
+STRING_QUICKLY_LEARN = Schnell lernen
+
+STRING_WATCH_TUTORIAL_VIDEO = Tutorial-Video ansehen
+
+STRING_READ_SUPPORT_ARTICLE = Support-Artikel lesen
+
+STRING_PROMOTIONAL_TEASER = Spiele 64-Bit-Spiele für Android mit dem Multi-Instanzen-Manager. Game on!
+
+STRING_PLEASE_WAIT = Bitte warten
+
+STRING_ANDROID_DOWNLOAD_IS_IN_PROGRESS = Die ausgewählten Android-Komponenten werden heruntergeladen. Bitte warte, bis der Vorgang abgeschlossen ist.
+
+STRING_CPU_CORE = CPU-Kern
+
+STRING_BRACKETS_0 = ({0})
+
+STRING_CPU_CORES  =  CPU-Kerne
+
+STRING_RAM  = RAM(MB)
+
+STRING_MEMORY_GB = GB
+
+STRING_CUSTOM_MB = Benutzerdefiniert (MB)
+
+STRING_COLLECTS_LOGS_FROM_ALL_INSTANCES = Sammel Protokolle von allen Instanzen
+
+STRING_PROCESS_MIGHT_TAKE_LONG = Dies kann einige Zeit in Anspruch nehmen
+
+STRING_REFRESH = Aktualisieren
+
+STRING_START_ALL_INSTANCES = Starte alle Instanzen
+
+STRING_MULTI_INSTANCE_DOWNLOAD_CANCEL = Der Download wird abgebrochen, wenn du den Multi-Instanzen-Manager schließt
+
+STRING_CHECKING_ENGINE_COMPATIBILITY = Überprüfen der Kompatibilität von {0}
+
+STRING_32BIT_ANDROID = 32-Bit Android
+
+STRING_64BIT_ANDROID = 64-Bit Android
+
+STRING_CORES = Kerne
+
+STRING_COLLECT_LOGS = Protokolle sammeln
+
+STRING_MENU = Menü
+
+STRING_NOTIFICATION_MODE = Benachrichtigungsmodus
+
+STRING_ENABLE_NOTIFICATION_MODE = Benachrichtigungsmodus aktivieren
+
+STRING_NOTIFICATION_MODE_INFO = Bleibe mit Echtzeitbenachrichtigungen auf dem Laufenden, auch wenn @@STRING_PRODUCT_NAME@@ geschlossen ist.
+
+STRING_NOTIFICATION_DETAILS_INFO = Im Benachrichtigungsmodus wird @@STRING_PRODUCT_NAME@@
+
+STRING_ALWAYS_MINIMIZE = Beim Klicken auf die Schaltfläche "Schließen" immer in die Taskleiste minimieren
+
+STRING_LOW_POWER_MODE = Automatisch in den Energiesparmodus wechseln
+
+STRING_FREE_UP_RESOURCES = Schließe unnötige Anwendungen und gib Ressourcen frei
+
+STRING_REALTIME_NOTIFICATIONS = Erhalte Echtzeitbenachrichtigungen für deine Spiele und Apps
+
+STRING_NOTIFICATION_MODE_TOAST = Der Benachrichtigungsmodus ist eingeschaltet. Bluestacks wird in die Systemanwendungen minimiert.
+
+STRING_NOTIFICATION_EXIT_POPUP_INFO = Verpasse keine Sonderangebote, Updates und Event-Benachrichtigungen
+
+STRING_ENABLE_NOTIFICATION_MODE_TO = Aktiviere den Benachrichtigungsmodus für
+
+STRING_SWITCH_LOW_POWER = In den Energiesparmodus wechseln
+
+STRING_LIVE_NOTIFICATIONS = Erhalte Benachrichtigungen in Echtzeit
+
+STRING_CHOOSE_CLOSE_BS = Nein, @@STRING_PRODUCT_NAME@@ schließen
+
+STRING_FORCE_ON = An
+
+STRING_FORCE_OFF = Aus
+
+IMAP_STRING_EdgeScroll_Header_Edit_UI = Scrollrand
+
+IMAP_STRING_EDGESCROLL_XVELOCITY = X Geschwindigkeit
+
+IMAP_STRING_EDGESCROLL_YVELOCITY = Y Geschwindigkeit
+
+IMAP_STRING_EDGESCROLL_XACTIVEMARGIN = X aktiver Rand
+
+IMAP_STRING_EDGESCROLL_YACTIVEMARGIN = Y aktiver Rand
+
+IMAP_STRING_EDGESCROLL_RESETDELAY = Verzögerung zurücksetzen
+
+IMAP_STRING_EDGESCROLL_SETTINGS = Scrollrand-Einstellungen
+
+STRING_HYPERV_DISABLED_MESSAGE = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden, wenn Hyper-V deaktiviert ist. Aktiviere Microsoft Hyper-V in der Windows-Systemsteuerung und versuche es erneut. In unseren FAQ findest du Schritte zum Aktivieren.
+
+STRING_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden, wenn Hyper-V deaktiviert ist.
+
+STRING_HYPERV_ADMIN_GROUP = Möchtest du dem aktuellen Benutzer die Berechtigung zur Verwendung von Hyper-V erteilen? Für diese Änderung ist ein Neustart erforderlich.
+
+STRING_HYPERV_INACCESSIBLE = Hyper-V nicht zugänglich
+
+STRING_GRANT_RESTART_LATER = Gewähren und später neu starten
+
+STRING_GRANT_RESTART = Gewähren und neu starten
+
+STRING_NOT_ABLE_TO_BOOT_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ kann nur gestartet werden, wenn eine hardwareunterstützte Virtualisierung verwendet wird.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@ kann nicht gestartet werden, da die Hyper-V-Rechenplattform auf deinem PC nicht aktiviert ist.
+
+IMAP_STRING_EDGESCROLL_SPEEDUPFACTOR = Beschleunigungsfaktor
+
+IMAP_STRING_EDGESCROLL_SPEEDUPWAITTIME = Wartezeit beschleunigen
+
+IMAP_STRING_EDGESCROLL_X = X
+
+IMAP_STRING_EDGESCROLL_Y = Y
+
+STRING_INSTANCE_NAME_ALREADY_EXISTS = Eine gleichnamige Instanz existiert bereits.
+
+STRING_REMEMBER_PREFERENCE = Präferenz merken
+
+STRING_DO_NOT_SHOW_NM_POPUP = Benachrichtigungsmodus-Popup nicht anzeigen.
+
+STRING_NOTIFICATION_PREFERENCES = Benachrichtigungseinstellungen
+
+STRING_MANAGE_NOTIFICATIONS = Verwalte Plattformbenachrichtigungseinstellungen
+
+STRING_NOTIFICATION_SOUNDS = Benachrichtigungstöne
+
+STRING_RIBBON_NOTIFICATIONS = Ribbon-Benachrichtigungen
+
+STRING_TOAST_NOTIFICATIONS = Toast-Benachrichtigungen
+
+STRING_APP_SPECIFIC_NOTIFICATIONS = App-Benachrichtigungen
+
+STRING_CHOOSE_APP_SPECIFIC_NOTIFICATIONS = Personalisiere Benachrichtigungen für deine Apps
+
+STRING_PACKAGE_SNOOZED = {0} Benachrichtigungen für {1} gesnoozed
+
+IMAP_STRING_ON = An
+
+IMAP_STRING_OFF = Aus
+
+IMAP_STRING_EDGESCROLL_EDGESCROLLENABLED = Aktiviert
+
+STRING_GET_HELP = Hilfe erhalten
+
+STRING_INSTALL_GPLAY = Von Google Play installieren
+
+STRING_RIBBON_NOTIFICATIONS_INFO = Benachrichtigungen, die oben rechts angezeigt werden, wenn du Quests abschließt.
+
+STRING_TOAST_NOTIFICATIONS_INFO = Aktionen wie das Anschließen des Gamepads und das Aufnehmen eines Screenshots werden auf dem Bildschirm angezeigt. Wir empfehlen dies "An" zu lassen.
+
+STRING_VIEW_DETAILS = Details einsehen
+
+STRING_TRANSLATED_IMAGE = Übersetztes Bild
+
+IMAP_STRING_MOBASKILL_MINSKILLTIME = Min. Fähigkeitszeit
+
+IMAP_STRING_MOBASKILL_MINSKILLHOLDTIME = Min. Haltezeit
+
+IMAP_STRING_MOBASKILL_MINSWIPERADIUS = Min. Wischradius
+
+IMAP_STRING_DPAD_DEADZONERADIUS = Radius Deadzone
+
+STRING_ENABLE_MEMORY_TRIM = Aktiviere das periodische Memory-Trimming
+
+STRING_ENABLE_MEMORY_TRIM_WARNING = Kann das Gameplay oder die FPS verlangsamen.
+
+STRING_LEARN_WHATS_NEW = Erfahre, was es Neues gibt
+
+IMAP_STRING_MOBASKILL_SPEED = Fähigkeitsgeschwindigkeit
+
+STRING_INITIATING_PERFORMANCE_BOOST = Abschluss der Schritte nach der Installation
+
+STRING_NOT_SURE = Nicht sicher?
+
+STRING_MAX_CORE_WARNING = Das Zuweisen aller CPU-Kerne zu @@STRING_PRODUCT_NAME@@ führt zu einer Verzögerung/Verlangsamung des Gesamtsystems.
+
+STRING_ACCESS_WINDOWS_FOLDER = Aktiviere @@STRING_PRODUCT_NAME@@, um auf Windows-Ordner für Bilder und Dokumente zuzugreifen
+
+STRING_SORT_BY_NAME = Nach Name sortieren
+
+STRING_SORT_BY_ENGINE = Nach Engine sortieren
+
+STRING_UNLOCK_MOUSE = Mauszeiger entsperren
+
+STRING_UNLOCK_MOUSE_POPUP_TEXT = Tipp: Drücke {0}, um den Mauszeiger zu entsperren.
+
+STRING_FARMING_SETTINGS = Farming-Einstellungen
+
+STRING_FARM_FPS = Eco FPS
+
+STRING_ONE_TO_THIRTY = (1-30)
+
+STRING_UTC_CONVERTER = UTC-Zeitkonverter
+
+STRING_UPDATE_CONTROL_SCHEMES = Steuerungsschemata aktualisieren
+
+STRING_UPDATE_CONTROL_SCHEME_WARNING = Alle von @@STRING_PRODUCT_NAME@@ bereitgestellten Steuerungsschemata werden aktualisiert. Alle zuvor vorgenommenen Änderungen werden entfernt.
+
+STRING_CFG_UPDATED = CFG wurde aktualisiert
+
+STRING_UNEXPECTED_ERROR = Beim Aktualisieren der Steuerelemente ist ein unerwarteter Fehler aufgetreten.
+
+STRING_CFG_NOT_AVAILABLE = Derzeit sind keine Steuerungsschemata für diese App verfügbar.
+
+STRING_UTC_BLURB_HEADER = UTC-Konverter
+
+STRING_UTC_BLURB_BODY = Klicke hier, um die UTC-Zeit in deine Ortszeit zu konvertieren.
+
+STRING_TIP_ZOOM = Vergrößern/Verkleinern im Spiel, drücke STRG + Mausrad nach oben/unten.
+
+STRING_TIP_SCREENSHOT = Drücke STRG + UMSCHALT + S um einen Screenshot zu machen.
+
+STRING_TIP_APK_DRAG_DROP = Um eine App zu installieren, ziehe eine APK-Datei per Drag & Drop auf deinen Startbildschirm.
+
+STRING_TIP_HELP = Um Hilfe und Support zu erhalten, klicke auf "?" in der oberen Leiste.
+
+STRING_TIP_ICONSIZE = Zum Ändern der Größe der App-Symbole, klicke auf deinem Startbildschirm auf Personalisieren und dann auf Größe.
+
+STRING_TIP_FPSCOUNTER = Zeige deine FPS im Spiel an und aktiviere den FPS-Zähler auf der Registerkarte Engine in den Einstellungen.
+
+STRING_TIP_GAMEPAD = Verbinde dein Gamepad für ein verbessertes Spielerlebnis.
+
+STRING_TIP_BACKUP = Sichere deine Daten, damit du sie bei Bedarf wiederherstellen kannst.
+
+STRING_TIP_FULLSCREEN = Spiele im Vollbildmodus, drücke F11 und erhalte ein besseres Spielerlebnis.
+
+STRING_TIP_PLAY_AND_WIN = Spiele Haupt- und Nebenquests, um spannende Preise zu gewinnen. Schaue dir "Play and Win" an.
+
+STRING_TIP_SHOOTINGMODE = Wechsel in den Schuss-Modus oder verlasse ihn. Drücke dafür F1.
+
+STRING_TIP_OVERLAY = Zum ein-/Ausblenden der Steuerelemente auf dem Bildschirm, drücke Strg + Umschalt + F6.
+
+STRING_ECO_MODE = Eco-Modus
+
+STRING_ECO_MODE_HELP = Reduziert den Ressourcenverbrauch von BlueStacks, sodass du mehr Multitasking durchführen kannst.
+
+STRING_SOUND = Ton
+
+STRING_ECO_MODE_SETTINGS = Eco-Modus-Einstellungen
+
+STRING_ECO_MODE_SETTINGS_MESSAGE = Ändere hier die Einstellungen für den Eco-Modus dieser Instanz
+
+STRING_CHOOSE_GAME_CONTROLS = Wähle die Spielsteuerung
+
+STRING_SHOW_GAME_CONTROLS = Spielsteuerung anzeigen
+
+STRING_OPEN_CONTROLS_EDITOR = Öffne den Steuerungs-Editor
+
+STRING_BOOKMARKS = Lesezeichen
+
+STRING_GAMEPAD_CONNECTED_DESKTOP_NOTIFICATION = Gamepad verbunden. Klicke hier, um zu erfahren, wie du mit einem Gamepad auf @@STRING_PRODUCT_NAME@@ spielst. Lehne dich zurück und dominiere mit einer Bewegung deines Daumens.
+
+STRING_SHOW_GAMEPAD_NOTIFICATIONS = Gamepad-Benachrichtigungen
+
+STRING_GAMEPAD_NOTIFICATIONS_INFO = Eine Benachrichtigung, die hervorhebt, wenn dein Gamepad angeschlossen und einsatzbereit ist.
+
+STRING_ONSCREEN_CONTROLS = Spielsteuerung
+
+STRING_CONTROLS_FOR = Steuerung für
+
+STRING_OPACITY = Deckkraft
+
+STRING_VIEW_EDIT_GAME_CONTROLS = Spielsteuerung anzeigen/bearbeiten
+
+STRING_OPEN_ADVANCED_EDITOR = Öffne den erweiterten Editor
+
+STRING_SWITCH_OVERLAY_CONTROLS = Steuerung auf dem Bildschirm wechseln
+
+STRING_KEYBOARD_ICON_ONBOARDING_BODY_TEXT = Anzeigen oder Ausblenden von Steuerungen auf dem Bildschirm über dieses Menü.
+
+STRING_CANCEL_CHANGES = Änderungen abbrechen
+
+STRING_REORDER_SIDETOOLBAR = Ordne die Symbole in der seitlichen Symbolleiste
+
+STRING_REORDER_SIDETOOLBAR_MESSAGE = Drag & Drop die Icons, um sie nach deinen Wünschen anzupassen
+
+STRING_RESET_ORDER = Reihenfolge zurücksetzen
+
+STRING_SEE_MACRO_TOUCH_POINTS = Makro-Berührungspunkte anzeigen?
+
+STRING_BELL = Glocke
+
+STRING_DESKTOP = Desktop
+
+IMAP_STRING_Scroll_Header_Edit_UI = Scrollen
+
+IMAP_STRING_SCROLL_X = Scrollen X
+
+IMAP_STRING_SCROLL_Y = Scrollen  Y
+
+IMAP_STRING_SCROLL_SPEED = Geschwindigkeit
+
+IMAP_STRING_SCROLL_AMPLITUDE = Amplitude
+
+IMAP_STRING_SCROLL_OVERRIDE = Override
+
+IMAP_STRING_SCROLL_SETTINGS = Scroll-Einstellungen
+
+STRING_SHOW_BLUE_HIGHLIGHTER = Blauen Marker im Vollbildmodus anzeigen
+
+STRING_ENABLE_TOUCH_SOUND = Aktiviere den Ton beim Tippen
+
+STRING_ON = An
+
+STRING_OFF = Aus
+
+IMAP_STRING_MOBASKILL_GAMEPADSTICK = Gamepad-Stick
+
+STRING_DISABLED_ABI_TOOLTIP = Die ABI-Einstellung kann beim Erstellen einer Instanz für {0} nicht geändert werden.
+
+STRING_IMAGE_UPLOADED_INFO = Bild erfolgreich hochgeladen. Um das Bild hier anzuzeigen und auszuwählen, öffne diesen Bildschirm erneut.
+
+STRING_VIEW_WINDOWS_FOLDER = Im Windows-Ordner anzeigen
+
+STRING_VIEW_IN_GALLERY = In der Galerie anzeigen
+
+STRING_LINK = Verknüpfen
+
+STRING_UNLINK = Verknüpfung aufheben
+
+STRING_MOUSE_SENSITIVITY = Maus-Empfindlichkeit
+
+STRING_BELL_NOTIFICATIONS_TOOLTIP = Diese Benachrichtigungen werden im Glockensymbol oben in deinem BlueStacks-Fenster angezeigt.
+
+STRING_DESKTOP_NOTIFICATIONS_TOOLTIP = Diese Benachrichtigungen werden unten rechts auf deinem Bildschirm über der Taskleiste angezeigt.
+
+STRING_ENABLE_VSYNC = Aktiviere VSync (um Screen Tearing zu vermeiden)
+
+IMAP_STRING_PAN_KeyWheel = Maussteuerung
+
+IMAP_STRING_MOBADpad_Settings = MOBA D-Pad Einstellungen
+
+IMAP_STRING_MOBADpad_Header_Edit_UI = MOBA D-Pad
+
+STRING_TOGGLE_MICROPHONE_MUTE_STATE = Mikrofon stumm/aktiv schalten
+
+STRING_GROUPCALL_ACTIONS = Gruppenanruf (Beta)
+
+STRING_SIGN_IN_WITH_DIFFERENT_ACCOUNT_FOR_FARMING = Melde dich mit einer anderen GMail-Adresse an, um mit dem Farmen zu beginnen

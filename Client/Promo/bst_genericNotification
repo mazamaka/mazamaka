@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+  <item>
+    <key>
+      <string>b5472976-b594-499e-923c-ce92b2c9f9f1</string>
+    </key>
+    <value>
+      <GenericNotificationItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <Id>b5472976-b594-499e-923c-ce92b2c9f9f1</Id>
+        <Title>BlueStacks</Title>
+        <Message>Droid Info было установлено</Message>
+        <Priority>Normal</Priority>
+        <ShowRibbon>true</ShowRibbon>
+        <CreationTime>2020-11-26T22:44:26.8644218+02:00</CreationTime>
+        <NotificationMenuImageUrl>C:\ProgramData\BlueStacks_bgp64\Engine\UserData\Gadget\com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png</NotificationMenuImageUrl>
+        <NotificationMenuImageName>C:\ProgramData\BlueStacks_bgp64\Engine\UserData\Gadget\com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png</NotificationMenuImageName>
+        <IsRead>false</IsRead>
+        <IsShown>false</IsShown>
+        <PayloadType>Generic</PayloadType>
+        <IsDeleted>false</IsDeleted>
+        <IsDeferred>false</IsDeferred>
+        <DeferredAppUsage>0</DeferredAppUsage>
+        <ExtraPayload />
+        <IsAndroidNotification>true</IsAndroidNotification>
+        <IsReceivedStatSent>false</IsReceivedStatSent>
+        <VmName>Android</VmName>
+        <Package>com.inkwired.droidinfo</Package>
+      </GenericNotificationItem>
+    </value>
+  </item>
+</dictionary>

@@ -1,0 +1,32 @@
+{
+  "GameFeaturePopupInfo": {
+    "GameFeaturePopupPackages": {
+      "app_pkg_list": [
+        {
+          "app_pkg": "com.lilithgame.roc.gp",
+          "extra_info": {
+            "game_popup_id": "game_popup_id_rok_default",
+            "app_click_count": "[0, 7, 30]",
+            "isPopupShown": "false"
+          }
+        },
+        {
+          "app_pkg": "com.lilithgames.rok.gpkr",
+          "extra_info": {
+            "game_popup_id": "game_popup_id_rok_default",
+            "app_click_count": "[0, 7, 30]",
+            "isPopupShown": "false"
+          }
+        },
+        {
+          "app_pkg": "com.lilithgame.roc.gp.tw",
+          "extra_info": {
+            "game_popup_id": "game_popup_id_rok_default",
+            "app_click_count": "[0, 7, 30]",
+            "isPopupShown": "false"
+          }
+        }
+      ]
+    }
+  }
+}

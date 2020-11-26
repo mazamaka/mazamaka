@@ -1,0 +1,262 @@
+{
+	"category": [
+	{
+		"id": "LaggyPerformance",
+			"value": "Funcionamiento lento",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "BlueStacks no responde al iniciarlo",
+				"showdropdown": "0"
+			},
+			{
+				"id": "StreamingPerformance",
+				"value": "BlueStacks funciona con lentitud en streaming",
+				"showdropdown": "0"
+			},
+			{
+				"id": "LaggyGameplay",
+				"value": "La aplicación va lenta",
+				"showdropdown": "1"
+			},
+			{
+				"id": "BSTUpgrade",
+				"value": "BlueStacks va lento después de la actualización",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "BlueStacks se congela en la pantalla de carga",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "Inmóvil en la pantalla de carga",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GreyScreen",
+			"value": "Pantalla gris",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "Cuestión relacionada con la aplicación",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "La aplicación se bloquea",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "No se puede descargar la aplicación",
+			"showdropdown": "0"
+		},
+		{
+			"id": "LaggyGameplay",
+			"value": "La aplicación va lenta",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "Gráficos distorsionados en las aplicaciones",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "La configuración de teclado no funciona",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "La aplicación no se encuentra en la tienda de juegos",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "La aplicación no es compatible con el dispositivo",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "Problemas de transmisión",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "Problema con la entrada de contracción",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StreamingPerformance",
+			"value": "La máquina se ralentiza en streaming",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BTVFilters",
+			"value": "Problemas con los filtros de TV de BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MicAndCamera",
+			"value": "El micrófono y la cámara no funcionan",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "Problemas durante la visualización de vídeos",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "Otro",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Problemas con Google Play",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "Se atasca al descargar aplicaciones",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "Error al recuperar información (cuestión RPC)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError_DF_DLA",
+			"value": "Error DF-DLA-15",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "Otro",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "No se puede crear la cuenta en BlueStacks",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "No se puede configurar la cuenta BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "No se puede completar la etapa (habilitar la sincronización de aplicaciones)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "No se puede establecer una conexión fiable",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "Error al comunicarse con el servidor de Google",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "Otro",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "Problemas de pantalla negra",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "Pantalla en negro al iniciar BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "Pantalla en negro dentro de la aplicación",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "No se puede cambiar el tamaño de la pantalla",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "Problemas con la resolución de BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "Cuestiones relativas a la orientación de la aplicación (horizontal/vertical)",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "Otro",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CannotStartBlueStacks",
+			"value": "No se puede iniciar BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "El teclado no funciona",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "El ratón no funciona",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "La cámara no funciona",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "No hay sonido en BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "No se puede localizar la ubicación/el GPS no funciona",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "Algún otro problema",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

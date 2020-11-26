@@ -1,0 +1,1680 @@
+﻿2020-11-26 22:42:53.716 16700:00000001 (HD-ComRegistrar) INFO: PID 16700, CLR version 16700
+2020-11-26 22:42:53.719 16700:00000001 (HD-ComRegistrar) INFO: IsAdministrator: True
+2020-11-26 22:42:53.729 16700:00000001 (HD-ComRegistrar) INFO: Invoking Process Details: (Name: BlueStacksInstaller, Pid: 18296)
+2020-11-26 22:42:53.732 16700:00000001 (HD-ComRegistrar) INFO: args: -unreg
+2020-11-26 22:42:53.732 16700:00000001 (HD-ComRegistrar) INFO: Unregistering components
+2020-11-26 22:42:56.540 16692:00000001 (HD-ComRegistrar) INFO: PID 16692, CLR version 16692
+2020-11-26 22:42:56.543 16692:00000001 (HD-ComRegistrar) INFO: IsAdministrator: True
+2020-11-26 22:42:56.554 16692:00000001 (HD-ComRegistrar) INFO: Invoking Process Details: (Name: BlueStacksInstaller, Pid: 18296)
+2020-11-26 22:42:56.557 16692:00000001 (HD-ComRegistrar) INFO: args: -reg
+2020-11-26 22:42:56.557 16692:00000001 (HD-ComRegistrar) INFO: Validating oleaut registries
+2020-11-26 22:42:56.559 16692:00000001 (HD-ComRegistrar) INFO: Oleaut Validation successful
+2020-11-26 22:42:59.234 16908:00000001 (HD-Agent) INFO: PID 16908, CLR version 16908
+2020-11-26 22:42:59.235 16908:00000001 (HD-Agent) INFO: IsAdministrator: False
+2020-11-26 22:42:59.399 16908:00000001 (HD-Agent) INFO: HDAgent: CurrentDirectory: C:\Program Files\BlueStacks_bgp64
+2020-11-26 22:42:59.400 16908:00000008 (HD-Agent) INFO: Setting trim memory duration to: 15000
+2020-11-26 22:42:59.401 16908:00000001 (HD-Agent) INFO: Feature Manager Init - isAync:True downloadBstConfig:True
+2020-11-26 22:42:59.401 16908:00000001 (HD-Agent) INFO: Feature Manager Init - UpdateBstConfig:False - bst_config Path:C:\ProgramData\BlueStacks_bgp64\Client\bst_config DoesExist: False
+2020-11-26 22:42:59.402 16908:00000001 (HD-Agent) INFO: Loading bst_config Settings from C:\ProgramData\BlueStacks_bgp64\Client\bst_config
+2020-11-26 22:42:59.420 16908:00000001 (HD-Agent) INFO: Finding closest locale match to ru-RU
+2020-11-26 22:42:59.421 16908:00000001 (HD-Agent) INFO: Match found by region: ru-RU
+2020-11-26 22:42:59.424 16908:00000001 (HD-Agent) INFO: Successfully populated en-US strings
+2020-11-26 22:42:59.427 16908:00000001 (HD-Agent) INFO: Successfully populated ru-RU strings
+2020-11-26 22:42:59.432 16908:00000001 (HD-Agent) INFO: Attempting to load Oem.cfg from path: C:\ProgramData\BlueStacks_bgp64\Engine\Oem.cfg
+2020-11-26 22:42:59.448 16908:00000009 (HD-Agent) INFO: Server listening on port 2861
+2020-11-26 22:42:59.448 16908:00000009 (HD-Agent) INFO: Serving static content from C:\ProgramData\BlueStacks_bgp64\Engine\UserData\www
+2020-11-26 22:42:59.467 16908:00000001 (HD-Agent) INFO: TimelineStats: Initalizing: Staring thread.
+2020-11-26 22:42:59.818 16908:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:42:59.819 16908:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:59997
+2020-11-26 22:42:59.830 16908:0000000D (HD-Agent) INFO: TimelineStats: HandleFrontendStatusUpdate: frontend-launched
+2020-11-26 22:43:13.488 16908:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.489 16908:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:43:13.489 16908:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.489 16908:0000000E (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:13.489 16908:0000000E (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:13.489 16908:0000000E (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:13.490 16908:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart.MarketPageGrid")
+2020-11-26 22:43:13.490 16908:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:13.492 16908:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:13.503 16908:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.544 16908:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:13.544 16908:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:59997
+2020-11-26 22:43:13.544 16908:0000000E (HD-Agent) INFO: TimelineStats: HandleFrontendStatusUpdate: frontend-ready
+2020-11-26 22:43:13.658 16908:00000006 (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:13.659 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:13.659 16908:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:13.659 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:13.659 16908:00000006 (HD-Agent) INFO: Got value: config.db
+2020-11-26 22:43:13.660 16908:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Key: activityName, Value: com.android.provision.DefaultActivity
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Key: packageName, Value: com.android.provision
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: packageName = com.android.provision, activityName = com.android.provision.DefaultActivity
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.provision","com.android.provision.DefaultActivity")
+2020-11-26 22:43:13.814 16908:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Key: activityName, Value: com.android.provision/.DefaultActivity
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Key: packageName, Value: com.android.provision
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: packageName = com.android.provision, activityName = com.android.provision/.DefaultActivity
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.provision","com.android.provision/.DefaultActivity")
+2020-11-26 22:43:13.820 16908:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Key: activityName, Value: com.android.provision/.DefaultActivity
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Key: packageName, Value: com.android.provision
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: packageName = com.android.provision, activityName = com.android.provision/.DefaultActivity
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.provision","com.android.provision/.DefaultActivity")
+2020-11-26 22:43:13.846 16908:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.850 16908:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:13.854 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:13.854 16908:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:13.854 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:13.854 16908:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Key: callingPackage, Value: com.android.provision
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart.MarketPageGrid")
+2020-11-26 22:43:13.866 16908:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:13.874 16908:00000006 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:43:13.877 16908:00000006 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:13.880 16908:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:14.526 16908:00000006 (HD-Agent) INFO: Request received /PostHttpUrl
+2020-11-26 22:43:14.527 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got name: guid
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got value: f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got name: oem
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got value: bgp64
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got name: device_id
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got value: ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got name: prod_ver
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got value: 4.240.30.4004
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got name: url
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: Got value: https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: guid = f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: oem = bgp64
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: device_id = ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: prod_ver = 4.240.30.4004
+2020-11-26 22:43:14.528 16908:00000006 (HD-Agent) INFO: url = https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: Request received /PostHttpUrl
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: Got name: guid
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: Got value: f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:14.668 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: android_secure_id
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: 8665f522e4eefd00
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: device_model
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: ONEPLUS A5000
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: device_carrier
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: KYIVSTAR
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: imei
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: 028656693047581
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: google_aid
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: url
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: https://bluestacks-cloud.appspot.com/stats/userinfoboot
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: Got value: 
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: guid = f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: android_secure_id = 8665f522e4eefd00
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: device_model = ONEPLUS A5000
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: device_carrier = KYIVSTAR
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: imei = 028656693047581
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: google_aid = ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: url = https://bluestacks-cloud.appspot.com/stats/userinfoboot
+2020-11-26 22:43:14.669 16908:00000005 (HD-Agent) INFO: result = 
+2020-11-26 22:43:15.036 7544:00000001 (HD-Quit) INFO: Invoking Process Details: (Name: BlueStacksInstaller, Pid: 18296)
+2020-11-26 22:43:15.039 7544:00000001 (HD-Quit) INFO: Quit: Killing all processes
+2020-11-26 22:43:15.048 7544:00000001 (HD-Quit) INFO: Will send request shutdown
+2020-11-26 22:43:15.050 7544:00000004 (HD-Quit) INFO: Sending POST to http://127.0.0.1:2881/shutdown
+2020-11-26 22:43:15.084 16908:00000006 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:15.084 16908:00000006 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:59997
+2020-11-26 22:43:15.084 16908:00000006 (HD-Agent) INFO: TimelineStats: HandleFrontendStatusUpdate: frontend-closed
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Key: activityName, Value: com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: packageName = android, activityName = com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","com.android.internal.app.ShutdownActivity")
+2020-11-26 22:43:15.346 16908:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Key: activityName, Value: android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: packageName = android, activityName = android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","android/com.android.internal.app.ShutdownActivity")
+2020-11-26 22:43:15.352 16908:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:15.369 16908:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:15.369 16908:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:15.370 16908:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:15.530 16908:00000006 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:43:15.531 16908:00000006 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:43:15.661 16908:0000000E (HD-Agent) ERROR: An exception in SendRequestToClient. route: configFileChanged, 
+System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:2871
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToClient(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Common.HTTPUtils.<>c__DisplayClass17_0.<SendRequestToClientAsync>b__0(Object obj)
+2020-11-26 22:43:18.478 16908:0000000D (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:18.478 16908:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:18.478 16908:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:18.478 16908:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:18.478 16908:0000000D (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:18.478 16908:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:18.480 16908:00000005 (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:18.480 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:18.480 16908:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:18.480 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:18.480 16908:00000005 (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:18.480 16908:00000006 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:43:18.480 16908:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:18.481 16908:00000006 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:43:18.484 16908:00000005 (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:18.484 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:18.484 16908:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:18.484 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:18.484 16908:00000005 (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:18.484 16908:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:18.843 16908:00000013 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:18.844 16908:00000013 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:18.844 16908:00000013 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:18.844 16908:00000013 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:18.844 16908:00000013 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:18.844 16908:00000013 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:43:18.845 16908:00000013 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:19.077 16908:00000005 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:43:19.078 16908:00000005 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:43:20.481 16908:0000000E (HD-Agent) ERROR: An exception in SendRequestToClient. route: configFileChanged, 
+System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:2871
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToClient(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Common.HTTPUtils.<>c__DisplayClass17_0.<SendRequestToClientAsync>b__0(Object obj)
+2020-11-26 22:43:20.484 16908:0000000D (HD-Agent) ERROR: An exception in SendRequestToClient. route: configFileChanged, 
+System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:2871
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToClient(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Common.HTTPUtils.<>c__DisplayClass17_0.<SendRequestToClientAsync>b__0(Object obj)
+2020-11-26 22:43:20.486 16908:00000006 (HD-Agent) ERROR: An exception in SendRequestToClient. route: configFileChanged, 
+System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:2871
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToClient(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Common.HTTPUtils.<>c__DisplayClass17_0.<SendRequestToClientAsync>b__0(Object obj)
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:43:21.567 16908:0000000E (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:43:24.617 16908:00000005 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:24.617 16908:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:43:24.617 16908:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:24.618 16908:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:24.618 16908:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:24.618 16908:00000005 (HD-Agent) INFO: Value hidden
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:43:24.618 16908:00000005 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:43:24.618 16908:00000006 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:43:24.618 16908:00000005 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:43:27.555 16908:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:27.555 16908:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:59997
+2020-11-26 22:43:27.555 16908:0000000D (HD-Agent) INFO: TimelineStats: HandleFrontendStatusUpdate: frontend-closed
+2020-11-26 22:43:27.879 7544:00000004 (HD-Quit) ERROR: An exception in SendRequestToEngine. route: shutdown, 
+System.Net.WebException: Базовое соединение закрыто: Непредвиденная ошибка при приеме. ---> System.IO.IOException: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetResponse()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.<>c__DisplayClass18_0.<SendRequestToEngineAsync>b__0(Object obj)
+2020-11-26 22:43:27.883 7544:00000001 (HD-Quit) INFO: Player closed: Ожидание закончилось вследствие освобождения семафора.
+2020-11-26 22:43:27.899 7544:00000001 (HD-Quit) INFO: Killing Agent
+2020-11-26 22:43:27.899 7544:00000001 (HD-Quit) INFO: Removing agent icon from system tray
+2020-11-26 22:43:27.900 7544:00000001 (HD-Quit) INFO: Sending POST to http://127.0.0.1:2861/sysTrayVisibility
+2020-11-26 22:43:27.900 7544:00000001 (HD-Quit) WARNING: WARNING: This network call is from UI Thread and its stack trace is    в BlueStacks.Common.BstHttpClient.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Quit.Quit.QuitAll()
+   в BlueStacks.Quit.Quit.Main(String[] args)
+
+2020-11-26 22:43:27.901 16908:00000013 (HD-Agent) INFO: Request received /sysTrayVisibility
+2020-11-26 22:43:27.924 7544:00000001 (HD-Quit) INFO: Quit: Killed all processes. Exiting BlueStacks
+2020-11-26 22:43:29.342 15656:00000001 (HD-Agent) INFO: PID 15656, CLR version 15656
+2020-11-26 22:43:29.343 15656:00000001 (HD-Agent) INFO: IsAdministrator: False
+2020-11-26 22:43:29.483 15656:00000001 (HD-Agent) INFO: HDAgent: CurrentDirectory: C:\Program Files\BlueStacks_bgp64
+2020-11-26 22:43:29.483 15656:00000008 (HD-Agent) INFO: Setting trim memory duration to: 15000
+2020-11-26 22:43:29.487 15656:00000001 (HD-Agent) INFO: Successfully populated en-US strings
+2020-11-26 22:43:29.491 15656:00000001 (HD-Agent) INFO: Successfully populated ru-RU strings
+2020-11-26 22:43:29.497 15656:00000001 (HD-Agent) INFO: Attempting to load Oem.cfg from path: C:\ProgramData\BlueStacks_bgp64\Engine\Oem.cfg
+2020-11-26 22:43:29.513 15656:00000009 (HD-Agent) INFO: Server listening on port 2861
+2020-11-26 22:43:29.513 15656:00000009 (HD-Agent) INFO: Serving static content from C:\ProgramData\BlueStacks_bgp64\Engine\UserData\www
+2020-11-26 22:43:29.534 15656:00000001 (HD-Agent) INFO: TimelineStats: Initalizing: Staring thread.
+2020-11-26 22:43:29.607 15656:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:29.607 15656:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60111
+2020-11-26 22:43:29.617 15656:0000000D (HD-Agent) INFO: TimelineStats: HandleFrontendStatusUpdate: frontend-launched
+2020-11-26 22:43:35.476 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:35.477 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:43:35.477 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:35.477 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:35.477 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:35.477 15656:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:43:35.478 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart.MarketPageGrid")
+2020-11-26 22:43:35.479 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:35.481 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:35.486 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:35.486 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:35.486 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:35.486 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:35.486 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:35.487 15656:00000005 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:35.487 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:35.487 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:35.537 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:35.537 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60111
+2020-11-26 22:43:35.704 15656:00000005 (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:35.705 15656:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:35.705 15656:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:35.705 15656:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:35.705 15656:00000005 (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:35.706 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:35.796 15656:0000000D (HD-Agent) INFO: Request received /downloadInstalledAppsCfg
+2020-11-26 22:43:36.030 15656:0000000E (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:43:36.031 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:43:36.093 15656:0000000D (HD-Agent) INFO: Request received /PostHttpUrl
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got name: guid
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got value: f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got name: oem
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got value: bgp64
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got name: device_id
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got value: ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got name: prod_ver
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got value: 4.240.30.4004
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got name: url
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: Got value: https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: guid = f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: oem = bgp64
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: device_id = ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: prod_ver = 4.240.30.4004
+2020-11-26 22:43:36.094 15656:0000000D (HD-Agent) INFO: url = https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:43:38.271 15656:00000005 (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:38.271 15656:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:43:38.271 15656:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:38.271 15656:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:38.271 15656:00000005 (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:38.271 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:38.314 15656:0000000E (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:43:38.314 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:43:38.314 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:43:38.314 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:43:38.314 15656:0000000E (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:43:38.314 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:43:57.932 15656:0000000E (HD-Agent) INFO: Request received /notificationStatsOnClosing
+2020-11-26 22:43:57.942 15656:00000005 (HD-Agent) INFO: Request received /instanceStopped
+2020-11-26 22:43:57.944 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:57.944 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60111
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: packageName = android, activityName = com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","com.android.internal.app.ShutdownActivity")
+2020-11-26 22:43:58.127 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: packageName = android, activityName = android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","android/com.android.internal.app.ShutdownActivity")
+2020-11-26 22:43:58.133 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:43:58.152 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:43:59.920 15656:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:43:59.920 15656:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60111
+2020-11-26 22:44:00.320 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:00.320 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:00.563 8172:00000001 (HD-Agent) INFO: PID 8172, CLR version 8172
+2020-11-26 22:44:00.564 8172:00000001 (HD-Agent) INFO: IsAdministrator: False
+2020-11-26 22:44:00.564 8172:00000001 (HD-Agent) INFO: Agent already running
+2020-11-26 22:44:00.565 8172:00000001 (HD-Agent) INFO: Global\BlueStacks_HDAgent_Lockbgp64 running.
+2020-11-26 22:44:00.565 8172:00000001 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2861/sysTrayVisibility
+2020-11-26 22:44:00.569 8172:00000001 (HD-Agent) WARNING: WARNING: This network call is from UI Thread and its stack trace is    в BlueStacks.Common.BstHttpClient.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Agent.HDAgent.HandleAlreadyRunning()
+   в BlueStacks.Agent.HDAgent.Main(String[] args)
+
+2020-11-26 22:44:00.597 15656:0000000D (HD-Agent) INFO: Request received /sysTrayVisibility
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart.MarketPageGrid")
+2020-11-26 22:44:05.729 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:44:05.737 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:44:05.740 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:05.781 15656:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:05.781 15656:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:05.968 15656:0000000E (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:44:05.968 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:05.968 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:05.968 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:05.968 15656:0000000E (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:44:05.968 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:44:06.252 15656:00000005 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:44:06.252 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: Request received /PostHttpUrl
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: Got name: guid
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: Got value: f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:44:06.327 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got name: oem
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got value: bgp64
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got name: device_id
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got value: ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got name: prod_ver
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got value: 4.240.30.4004
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got name: url
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: Got value: https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: guid = f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: oem = bgp64
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: device_id = ce4a73be-a913-4eb3-81e4-245320ed19df
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: prod_ver = 4.240.30.4004
+2020-11-26 22:44:06.328 15656:0000000D (HD-Agent) INFO: url = https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:44:15.985 15656:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:15.985 15656:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:15.990 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:15.990 15656:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:15.990 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:15.990 15656:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:15.993 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:15.993 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:15.993 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:15.993 15656:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:15.995 15656:00000005 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:15.995 15656:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:44:15.995 15656:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:15.995 15656:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:15.995 15656:00000005 (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:16.004 15656:00000005 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:16.004 15656:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:16.007 15656:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:16.214 15656:00000005 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.298 15656:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.299 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.299 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.299 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.299 15656:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.299 15656:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.708 15656:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.708 15656:00000012 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.716 15656:00000005 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.916 15656:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:17.926 15656:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:44:17.927 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:17.927 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:17.927 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:17.927 15656:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:44:17.927 15656:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:44:25.874 16292:00000001 (HD-ApkHandler) INFO: Successfully populated en-US strings
+2020-11-26 22:44:25.878 16292:00000001 (HD-ApkHandler) INFO: Successfully populated ru-RU strings
+2020-11-26 22:44:25.882 16292:00000001 (HD-ApkHandler) INFO: the exe path is C:\Program Files\BlueStacks_bgp64\HD-ApkHandler.exe
+2020-11-26 22:44:25.882 16292:00000001 (HD-ApkHandler) INFO: the installvm is Android
+2020-11-26 22:44:25.883 16292:00000001 (HD-ApkHandler) INFO: IsAdministrator: False
+2020-11-26 22:44:25.893 16292:00000004 (HD-ApkHandler) INFO: HDApkInstaller: Installing C:\ZENNO\APK\Droid_Info_base.apk
+2020-11-26 22:44:25.893 16292:00000004 (HD-ApkHandler) INFO: Global\BlueStacks_HDAgent_Lockbgp64 running.
+2020-11-26 22:44:25.893 16292:00000004 (HD-ApkHandler) INFO: Global\BlueStacks_HDAgent_Lockbgp64 running.
+2020-11-26 22:44:25.894 16292:00000004 (HD-ApkHandler) INFO: Sending POST to http://127.0.0.1:2861/install
+2020-11-26 22:44:25.918 15656:00000012 (HD-Agent) INFO: Request received /install
+2020-11-26 22:44:25.920 15656:00000012 (HD-Agent) INFO: Data:
+2020-11-26 22:44:25.920 15656:00000012 (HD-Agent) INFO: Key: path, Value: C:\ZENNO\APK\Droid_Info_base.apk
+2020-11-26 22:44:25.942 15656:00000013 (HD-Agent) INFO: Sending request to android for downloading keymapping file for pkg com.inkwired.droidinfo
+2020-11-26 22:44:25.942 15656:00000013 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/customStartService
+2020-11-26 22:44:25.942 15656:00000014 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/appInstallStarted
+2020-11-26 22:44:25.967 15656:00000014 (HD-Agent) INFO: apk to be installed is C:\ZENNO\APK\Droid_Info_base.apk
+2020-11-26 22:44:25.967 15656:00000014 (HD-Agent) INFO: apk = C:\ZENNO\APK\Droid_Info_base.apk, newPath = C:\ProgramData\BlueStacks_bgp64\Engine\UserData\SharedFolder\Bst-637420274659679056.apk
+2020-11-26 22:44:25.968 15656:00000014 (HD-Agent) INFO: Creating hard link from C:\ZENNO\APK\Droid_Info_base.apk to C:\ProgramData\BlueStacks_bgp64\Engine\UserData\SharedFolder\Bst-637420274659679056.apk
+2020-11-26 22:44:25.968 15656:00000014 (HD-Agent) INFO: Hard link created successfully
+2020-11-26 22:44:25.968 15656:00000014 (HD-Agent) INFO: androidPath: /mnt/sdcard/windows/BstSharedFolder/Bst-637420274659679056.apk
+2020-11-26 22:44:25.969 15656:00000014 (HD-Agent) INFO: Sending GET to http://127.0.0.1:9999/checkIfGuestReady
+2020-11-26 22:44:25.970 15656:00000015 (HD-Agent) INFO: In method WaitForFrontendPingResponse for vmName: Android
+2020-11-26 22:44:25.970 15656:00000015 (HD-Agent) INFO: Sending GET to http://127.0.0.1:2881/pingVm
+2020-11-26 22:44:25.974 15656:00000014 (HD-Agent) INFO: Guest is ready
+2020-11-26 22:44:25.974 15656:00000014 (HD-Agent) INFO: HTTPHandler: Sending /install request to guest
+2020-11-26 22:44:25.974 15656:00000014 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/install
+2020-11-26 22:44:25.980 15656:00000015 (HD-Agent) INFO: Frontend server running
+2020-11-26 22:44:25.980 15656:00000015 (HD-Agent) INFO: Frontend is running gave ping response
+2020-11-26 22:44:26.343 15656:00000014 (HD-Agent) INFO: Install apk respnse : {"package":"com.inkwired.droidinfo","newStatusCode":0,"result":"ok"}
+2020-11-26 22:44:26.343 15656:00000014 (HD-Agent) INFO: Apk installation result : SUCCESS
+2020-11-26 22:44:26.343 15656:00000012 (HD-Agent) INFO: Apk Install thread has returned
+2020-11-26 22:44:26.423 16292:00000004 (HD-ApkHandler) INFO: HDApkInstaller: Installation Successful
+2020-11-26 22:44:26.424 16292:00000004 (HD-ApkHandler) INFO: HDApkInstaller: Exit with code 0
+2020-11-26 22:44:26.431 15656:0000000E (HD-Agent) INFO: Request received /installed
+2020-11-26 22:44:26.436 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:26.436 15656:0000000E (HD-Agent) INFO: Got name: iconfile1
+2020-11-26 22:44:26.436 15656:0000000E (HD-Agent) INFO: Got filename: com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png
+2020-11-26 22:44:26.437 15656:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:44:26.437 15656:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:44:26.437 15656:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:44:26.437 15656:0000000E (HD-Agent) INFO: Got value: {"package":"com.inkwired.droidinfo","name":"Droid Info","version":18,"versionName":"1.2.2","activities":"[{\"name\":\"Droid Info\",\"activity\":\"com.inkwired.droidinfo.DroidInfo\",\"img\":\"com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png\"}]","source":"local-apk","gl3required":false,"systemApp":false,"update":"false","pkgconfiginfo":"{\"pkgName\":\"com.inkwired.droidinfo\",\"blacklistDisabled\":false}"}
+2020-11-26 22:44:26.438 15656:0000000E (HD-Agent) INFO: {"package":"com.inkwired.droidinfo","name":"Droid Info","version":18,"versionName":"1.2.2","activities":"[{\"name\":\"Droid Info\",\"activity\":\"com.inkwired.droidinfo.DroidInfo\",\"img\":\"com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png\"}]","source":"local-apk","gl3required":false,"systemApp":false,"update":"false","pkgconfiginfo":"{\"pkgName\":\"com.inkwired.droidinfo\",\"blacklistDisabled\":false}"}
+2020-11-26 22:44:26.439 15656:0000000E (HD-Agent) INFO: package: com.inkwired.droidinfo
+2020-11-26 22:44:26.439 15656:0000000E (HD-Agent) INFO: Removing package if present
+2020-11-26 22:44:26.439 15656:0000000E (HD-Agent) INFO: AppUninstaller: Removing app from json: com.inkwired.droidinfo
+2020-11-26 22:44:26.442 15656:0000000E (HD-Agent) INFO: JsonParser: Writing json object array to json writer
+2020-11-26 22:44:26.444 15656:0000000E (HD-Agent) INFO: [{"name":"Droid Info","activity":"com.inkwired.droidinfo.DroidInfo","img":"com.inkwired.droidinfo.com.inkwired.droidinfo.DroidInfo.png"}]
+2020-11-26 22:44:26.445 15656:0000000E (HD-Agent) INFO: Replacing invalid characters, if any, with whitespace
+2020-11-26 22:44:26.447 15656:0000000E (HD-Agent) INFO: InstallApk: Adding app to json: Droid Info
+2020-11-26 22:44:26.447 15656:0000000E (HD-Agent) INFO: JsonParser: Writing json object array to json writer
+2020-11-26 22:44:26.455 15656:00000016 (HD-Agent) INFO: Sending App Install Stats for: Droid Info
+2020-11-26 22:44:26.730 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/appInstalled
+2020-11-26 22:44:26.756 15656:0000000E (HD-Agent) INFO: Creating app shortcut
+2020-11-26 22:44:26.756 15656:0000000E (HD-Agent) INFO: Image path C:\ProgramData\BlueStacks_bgp64\Engine\UserData\Gadget\com.inkwired.droidinfo.png
+2020-11-26 22:44:26.756 15656:0000000E (HD-Agent) INFO: Converting C:\ProgramData\BlueStacks_bgp64\Engine\UserData\Gadget\com.inkwired.droidinfo.png
+2020-11-26 22:44:26.803 15656:0000000E (HD-Agent) INFO: InstallApk: Got AppName: Droid Info
+2020-11-26 22:44:26.861 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/addNotificationInDrawer
+2020-11-26 22:44:26.906 15656:0000000E (HD-Agent) INFO: returning from appinstalled
+2020-11-26 22:44:26.909 15656:00000012 (HD-Agent) INFO: Updating 7930MB BlueStacks size to registry
+2020-11-26 22:44:27.153 15656:0000000D (HD-Agent) INFO: Request received /appJsonUpdatedForVideo
+2020-11-26 22:44:27.154 15656:0000000D (HD-Agent) INFO: JsonParser: Writing json object array to json writer
+2020-11-26 22:44:27.157 15656:00000014 (HD-Agent) INFO: Sending GET to http://127.0.0.1:2871/appJsonChanged
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: com.bluestacks.BstCommandProcessor
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.DroidInfo")
+2020-11-26 22:44:34.007 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:34.010 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:34.010 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:34.011 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:34.051 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:34.051 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:34.064 15656:0000000D (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:44:34.064 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:34.111 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:34.111 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:34.112 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:34.112 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60367
+2020-11-26 22:44:34.122 15656:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:34.122 15656:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.TestGL
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.TestGL
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.TestGL")
+2020-11-26 22:44:34.350 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.TestGL
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.TestGL
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.TestGL")
+2020-11-26 22:44:34.419 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:34.522 15656:00000012 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:34.673 15656:0000000D (HD-Agent) INFO: Request received /appJsonUpdatedForVideo
+2020-11-26 22:44:34.673 15656:0000000D (HD-Agent) INFO: JsonParser: Writing json object array to json writer
+2020-11-26 22:44:34.676 15656:00000014 (HD-Agent) INFO: Sending GET to http://127.0.0.1:2871/appJsonChanged
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.android.packageinstaller.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.android.packageinstaller
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: packageName = com.android.packageinstaller, activityName = com.android.packageinstaller.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.packageinstaller","com.android.packageinstaller.permission.ui.GrantPermissionsActivity")
+2020-11-26 22:44:37.929 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.android.packageinstaller/.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.android.packageinstaller
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: packageName = com.android.packageinstaller, activityName = com.android.packageinstaller/.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.packageinstaller","com.android.packageinstaller/.permission.ui.GrantPermissionsActivity")
+2020-11-26 22:44:37.935 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:37.986 15656:00000012 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:44:37.986 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:39.201 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.android.packageinstaller.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.android.packageinstaller
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: packageName = com.android.packageinstaller, activityName = com.android.packageinstaller.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.packageinstaller","com.android.packageinstaller.permission.ui.GrantPermissionsActivity")
+2020-11-26 22:44:40.481 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.android.packageinstaller/.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.android.packageinstaller
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: packageName = com.android.packageinstaller, activityName = com.android.packageinstaller/.permission.ui.GrantPermissionsActivity
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.android.packageinstaller","com.android.packageinstaller/.permission.ui.GrantPermissionsActivity")
+2020-11-26 22:44:40.486 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:40.501 15656:00000012 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:44:40.501 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:42.186 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:44.594 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:44.595 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:44:45.122 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:45.135 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:45.135 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:47.551 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:47.551 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:47.566 15656:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:47.566 15656:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: com.bluestacks.BstCommandProcessor
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:47.571 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.DroidInfo")
+2020-11-26 22:44:47.571 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:47.603 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:47.603 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:47.610 15656:00000012 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:44:47.610 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.TestGL
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.TestGL
+2020-11-26 22:44:47.928 15656:00000005 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.TestGL")
+2020-11-26 22:44:47.929 15656:00000005 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.TestGL
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.TestGL
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.TestGL")
+2020-11-26 22:44:47.971 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:44:48.103 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:44:55.288 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:55.288 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:55.361 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:55.361 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:55.361 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:55.361 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60367
+2020-11-26 22:44:55.368 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:44:55.368 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:44:55.438 15656:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:24.155 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:24.155 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:24.171 15656:00000014 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:24.171 15656:00000014 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:24.173 15656:00000012 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: Key: callingPackage, Value: com.bluestacks.BstCommandProcessor
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.DroidInfo")
+2020-11-26 22:45:24.174 15656:00000012 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:45:24.185 15656:00000014 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:24.195 15656:00000015 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:24.195 15656:00000015 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:24.201 15656:00000015 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:24.201 15656:00000015 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:24.225 15656:00000012 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:45:24.225 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.TestGL
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.TestGL
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.TestGL")
+2020-11-26 22:45:24.434 15656:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:24.501 15656:00000014 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.TestGL
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.TestGL
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.TestGL")
+2020-11-26 22:45:24.502 15656:00000014 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Data
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:45:24.607 15656:00000015 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:45:33.116 15656:00000014 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:33.116 15656:00000014 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:35.177 15656:00000015 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:35.177 15656:00000015 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:35.177 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:35.177 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60367
+2020-11-26 22:45:35.194 15656:00000014 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:35.194 15656:00000014 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:45:36.885 15656:00000015 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:45:36.885 15656:00000015 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:46:08.419 15656:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 22:46:29.536 15656:0000000B (HD-Agent) INFO: Checking for announcement
+2020-11-26 22:46:30.179 15656:0000000B (HD-Agent) INFO: Announcement get resp: {"reason": "No new announcement pending", "success": "false"}
+2020-11-26 22:46:30.179 15656:0000000B (HD-Agent) INFO: Could not get announcement msg: No new announcement pending
+2020-11-26 22:46:30.179 15656:0000000B (HD-Agent) INFO: No new announcement to show.
+2020-11-26 22:47:16.270 15656:00000007 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:16.270 15656:00000007 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:18.449 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:18.449 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:18.450 15656:00000007 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:18.450 15656:00000007 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60533
+2020-11-26 22:47:18.540 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:18.540 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Data
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:47:23.894 15656:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: Creating part
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: Got name: result
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: No file in this part
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: Value hidden
+2020-11-26 22:47:26.658 15656:00000012 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:47:26.659 15656:00000012 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: Creating part
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: Got name: result
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: No file in this part
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: Value hidden
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:47:26.751 15656:00000007 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:47:26.754 15656:00000012 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) INFO: Creating part
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) INFO: Got name: result
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) INFO: No file in this part
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) INFO: Value hidden
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:47:26.755 15656:00000012 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: Creating part
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: Got name: result
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: No file in this part
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: Value hidden
+2020-11-26 22:47:26.879 15656:00000007 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:47:26.880 15656:00000007 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:47:26.896 15656:00000012 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) INFO: Creating part
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) INFO: Got name: result
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) INFO: No file in this part
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) INFO: Value hidden
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) INFO: HTTPHandler: Showing notification for com.android.providers.downloads
+2020-11-26 22:47:26.897 15656:00000012 (HD-Agent) WARNING: Systray: Notifying app com.android.providers.downloads not found!
+2020-11-26 22:47:30.913 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:30.913 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:30.922 15656:00000007 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:30.922 15656:00000007 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Key: callingPackage, Value: com.bluestacks.BstCommandProcessor
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.DroidInfo")
+2020-11-26 22:47:30.928 15656:00000012 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:30.930 15656:00000007 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:30.930 15656:00000007 (HD-Agent) INFO: Data
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:47:30.931 15656:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:30.946 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:30.946 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:30.946 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:30.946 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:30.988 15656:00000005 (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:47:30.989 15656:00000005 (HD-Agent) INFO: Data
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Data
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.TestGL
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.TestGL
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.TestGL")
+2020-11-26 22:47:31.419 15656:00000012 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.TestGL
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:47:31.472 15656:0000000E (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.TestGL
+2020-11-26 22:47:31.473 15656:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.TestGL")
+2020-11-26 22:47:31.473 15656:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Data
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:47:31.606 15656:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:47:34.615 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:34.615 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:41.018 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:41.018 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:41.018 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:41.018 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60533
+2020-11-26 22:47:41.707 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:41.707 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:44.833 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:44.833 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:46.301 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.301 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:46.301 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.301 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60533
+2020-11-26 22:47:46.374 15656:00000012 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.374 15656:00000012 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:46.388 15656:00000005 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.388 15656:00000005 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:46.388 15656:00000007 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.388 15656:00000007 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60533
+2020-11-26 22:47:46.416 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:46.416 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:50.346 15656:00000005 (HD-Agent) INFO: Request received /notificationStatsOnClosing
+2020-11-26 22:47:50.363 15656:00000012 (HD-Agent) INFO: Request received /instanceStopped
+2020-11-26 22:47:50.366 15656:00000007 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:50.366 15656:00000007 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:50.438 17988:00000001 (HD-Quit) INFO: Invoking Process Details: (Name: Bluestacks, Pid: 17232)
+2020-11-26 22:47:50.441 17988:00000001 (HD-Quit) INFO: Quit: Killing all processes
+2020-11-26 22:47:50.464 15656:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:47:50.464 15656:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60253
+2020-11-26 22:47:50.472 17988:00000001 (HD-Quit) INFO: Killing Agent
+2020-11-26 22:47:50.472 17988:00000001 (HD-Quit) INFO: Removing agent icon from system tray
+2020-11-26 22:47:50.473 17988:00000001 (HD-Quit) INFO: Sending POST to http://127.0.0.1:2861/sysTrayVisibility
+2020-11-26 22:47:50.477 17988:00000001 (HD-Quit) WARNING: WARNING: This network call is from UI Thread and its stack trace is    в BlueStacks.Common.BstHttpClient.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Quit.Quit.QuitAll()
+   в BlueStacks.Quit.Quit.Main(String[] args)
+
+2020-11-26 22:47:50.507 15656:00000005 (HD-Agent) INFO: Request received /sysTrayVisibility
+2020-11-26 22:47:50.531 17988:00000001 (HD-Quit) INFO: Quit: Killed all processes. Exiting BlueStacks
+2020-11-26 22:56:47.238 1356:00000001 (HD-MultiInstanceManager) INFO: Launching agent
+2020-11-26 22:56:47.281 1356:00000004 (HD-MultiInstanceManager) INFO: Server listening on port 2961
+2020-11-26 22:56:47.287 1356:00000001 (HD-MultiInstanceManager) INFO: OnStartup
+2020-11-26 22:56:47.289 1356:00000005 (HD-MultiInstanceManager) INFO: Sending MultiInstance Stats to https://cloud.bluestacks.com/stats/multiinstancestats
+2020-11-26 22:56:47.312 18556:00000001 (HD-Agent) INFO: PID 18556, CLR version 18556
+2020-11-26 22:56:47.313 18556:00000001 (HD-Agent) INFO: IsAdministrator: False
+2020-11-26 22:56:47.339 1356:00000001 (HD-MultiInstanceManager) INFO: Successfully populated en-US strings
+2020-11-26 22:56:47.342 1356:00000001 (HD-MultiInstanceManager) INFO: Successfully populated ru-RU strings
+2020-11-26 22:56:47.344 1356:00000001 (HD-MultiInstanceManager) INFO: Attempting to load Oem.cfg from path: C:\ProgramData\BlueStacks_bgp64\Engine\Oem.cfg
+2020-11-26 22:56:47.351 1356:00000001 (HD-MultiInstanceManager) INFO: Feature Manager Init - isAync:True downloadBstConfig:True
+2020-11-26 22:56:47.351 1356:00000001 (HD-MultiInstanceManager) INFO: Feature Manager Init - UpdateBstConfig:False - bst_config Path:C:\ProgramData\BlueStacks_bgp64\Client\bst_config DoesExist: False
+2020-11-26 22:56:47.351 1356:00000001 (HD-MultiInstanceManager) INFO: Loading bst_config Settings from C:\ProgramData\BlueStacks_bgp64\Client\bst_config
+2020-11-26 22:56:47.369 1356:00000001 (HD-MultiInstanceManager) INFO: Sort instance by: Engine
+2020-11-26 22:56:47.480 1356:00000001 (HD-MultiInstanceManager) INFO: InstalledCoexistingOemList: bgp64
+2020-11-26 22:56:47.481 1356:00000008 (HD-MultiInstanceManager) INFO: Operating system details: Windows 10 64-bit
+2020-11-26 22:56:47.485 18556:00000001 (HD-Agent) INFO: HDAgent: CurrentDirectory: C:\Program Files\BlueStacks_bgp64
+2020-11-26 22:56:47.485 18556:00000008 (HD-Agent) INFO: Setting trim memory duration to: 15000
+2020-11-26 22:56:47.489 18556:00000001 (HD-Agent) INFO: Successfully populated en-US strings
+2020-11-26 22:56:47.492 18556:00000001 (HD-Agent) INFO: Successfully populated ru-RU strings
+2020-11-26 22:56:47.494 1356:00000001 (HD-MultiInstanceManager) INFO: Sort instance by: Engine
+2020-11-26 22:56:47.494 1356:0000000A (HD-MultiInstanceManager) INFO: Checking vm state of vm: Global\BlueStacks_Client_Instance_Androidbgp64_Lock
+2020-11-26 22:56:47.494 1356:0000000A (HD-MultiInstanceManager) INFO:  Checking Owned = True
+2020-11-26 22:56:47.494 1356:0000000A (HD-MultiInstanceManager) INFO: Waiting for signal from Android_bgp64
+2020-11-26 22:56:47.498 18556:00000001 (HD-Agent) INFO: Attempting to load Oem.cfg from path: C:\ProgramData\BlueStacks_bgp64\Engine\Oem.cfg
+2020-11-26 22:56:47.512 18556:00000009 (HD-Agent) INFO: Server listening on port 2861
+2020-11-26 22:56:47.512 18556:00000009 (HD-Agent) INFO: Serving static content from C:\ProgramData\BlueStacks_bgp64\Engine\UserData\www
+2020-11-26 22:56:47.530 18556:00000001 (HD-Agent) INFO: TimelineStats: Initalizing: Staring thread.
+2020-11-26 22:56:47.661 1356:00000005 (HD-MultiInstanceManager) INFO: Got MultiInstance Stats response: 
+2020-11-26 22:56:47.746 1356:00000001 (HD-MultiInstanceManager) WARNING: Returning a null image for _dis
+2020-11-26 22:57:00.390 1356:00000001 (HD-MultiInstanceManager) WARNING: Returning a null image for UnBin_hover
+2020-11-26 22:57:02.011 18556:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:57:02.011 18556:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:57:02.262 1356:00000001 (HD-MultiInstanceManager) WARNING: WARNING: This network call is from the UI thread. StackTrace:    в BlueStacks.Common.BstHttpClient.GetInternal(String url, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSec, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Get(String url, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.Utils.PingPartner(String oem, String vmName)
+   в MultiInstanceManagerMVVM.ViewModel.Classes.MultiInstanceViewModel.RunInstance(String vmName, Boolean isForBatch)
+   в MultiInstanceManagerMVVM.ViewModel.Classes.MultiInstanceViewModel.PerformInstanceOperation(InstanceOperationMessage instanceOperation)
+   в MultiInstanceManagerMVVM.ViewModel.Classes.MultiInstanceViewModel.<.ctor>b__32_3(InstanceOperationMessage action)
+   в System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   в System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   в System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в GalaSoft.MvvmLight.Helpers.WeakAction`1.Execute(T parameter)
+   в GalaSoft.MvvmLight.Messaging.Messenger.SendToList[TMessage](TMessage message, IEnumerable`1 weakActionsAndTokens, Type messageTargetType, Object token)
+   в GalaSoft.MvvmLight.Messaging.Messenger.SendToTargetOrType[TMessage](TMessage message, Type messageTargetType, Object token)
+   в GalaSoft.MvvmLight.Messaging.Messenger.Send[TMessage](TMessage message)
+   в MultiInstanceManagerMVVM.ViewModel.Classes.InstanceViewModel.OnStartButtonClick()
+   в System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   в System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   в System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   в GalaSoft.MvvmLight.Helpers.WeakAction.Execute()
+   в GalaSoft.MvvmLight.Command.RelayCommand.Execute(Object parameter)
+   в MS.Internal.Commands.CommandHelpers.CriticalExecuteCommandSource(ICommandSource commandSource, Boolean userInitiated)
+   в System.Windows.Controls.Primitives.ButtonBase.OnClick()
+   в System.Windows.Controls.Button.OnClick()
+   в System.Windows.Controls.Primitives.ButtonBase.OnMouseLeftButtonUp(MouseButtonEventArgs e)
+   в System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   в System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   в System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   в System.Windows.UIElement.ReRaiseEventAs(DependencyObject sender, RoutedEventArgs args, RoutedEvent newEvent)
+   в System.Windows.UIElement.OnMouseUpThunk(Object sender, MouseButtonEventArgs e)
+   в System.Windows.RoutedEventArgs.InvokeHandler(Delegate handler, Object target)
+   в System.Windows.RoutedEventHandlerInfo.InvokeHandler(Object target, RoutedEventArgs routedEventArgs)
+   в System.Windows.EventRoute.InvokeHandlersImpl(Object source, RoutedEventArgs args, Boolean reRaised)
+   в System.Windows.UIElement.RaiseEventImpl(DependencyObject sender, RoutedEventArgs args)
+   в System.Windows.UIElement.RaiseTrustedEvent(RoutedEventArgs args)
+   в System.Windows.Input.InputManager.ProcessStagingArea()
+   в System.Windows.Input.InputManager.ProcessInput(InputEventArgs input)
+   в System.Windows.Input.InputProviderSite.ReportInput(InputReport inputReport)
+   в System.Windows.Interop.HwndMouseInputProvider.ReportInput(IntPtr hwnd, InputMode mode, Int32 timestamp, RawMouseActions actions, Int32 x, Int32 y, Int32 wheel)
+   в System.Windows.Interop.HwndMouseInputProvider.FilterMessage(IntPtr hwnd, WindowMessage msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   в System.Windows.Interop.HwndSource.InputFilterMessage(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   в MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   в MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   в System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   в System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   в System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   в MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   в MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   в MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   в System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   в System.Windows.Window.ShowHelper(Object booleanBox)
+   в System.Windows.Window.ShowDialog()
+   в MultiInstanceManagerMVVM.App.OnStartup(StartupEventArgs e)
+   в System.Windows.Application.<.ctor>b__1_0(Object unused)
+   в System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   в System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   в System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   в MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   в System.Windows.Threading.DispatcherOperation.Invoke()
+   в System.Windows.Threading.Dispatcher.ProcessQueue()
+   в System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   в MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   в MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   в System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   в System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   в System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   в MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   в MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   в MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   в System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   в System.Windows.Application.RunDispatcher(Object ignore)
+   в System.Windows.Application.RunInternal(Window window)
+   в MultiInstanceManagerMVVM.App.Main(String[] args)
+
+2020-11-26 22:57:02.291 14956:00000001 (HD-Agent) INFO: PID 14956, CLR version 14956
+2020-11-26 22:57:02.292 14956:00000001 (HD-Agent) INFO: IsAdministrator: False
+2020-11-26 22:57:02.293 14956:00000001 (HD-Agent) INFO: Agent already running
+2020-11-26 22:57:02.294 14956:00000001 (HD-Agent) INFO: Global\BlueStacks_HDAgent_Lockbgp64 running.
+2020-11-26 22:57:02.294 14956:00000001 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2861/sysTrayVisibility
+2020-11-26 22:57:02.298 14956:00000001 (HD-Agent) WARNING: WARNING: This network call is from UI Thread and its stack trace is    в BlueStacks.Common.BstHttpClient.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Agent.HDAgent.HandleAlreadyRunning()
+   в BlueStacks.Agent.HDAgent.Main(String[] args)
+
+2020-11-26 22:57:02.327 18556:0000000D (HD-Agent) INFO: Request received /sysTrayVisibility
+2020-11-26 22:57:02.900 1356:0000000A (HD-MultiInstanceManager) INFO: Checking vm state of vm: Global\BlueStacks_Client_Instance_Androidbgp64_Lock
+2020-11-26 22:57:02.900 1356:0000000A (HD-MultiInstanceManager) INFO:  Checking Owned = False
+2020-11-26 22:57:07.620 18556:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:57:07.622 18556:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:57:07.622 18556:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:57:07.622 18556:0000000E (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:57:07.622 18556:0000000E (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:57:07.622 18556:0000000E (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart.MarketPageGrid
+2020-11-26 22:57:07.623 18556:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart.MarketPageGrid")
+2020-11-26 22:57:07.623 18556:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:57:07.626 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:57:07.639 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:57:07.700 18556:00000010 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:57:07.700 18556:00000010 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:57:07.893 18556:0000000E (HD-Agent) INFO: Request received /configFileChanged
+2020-11-26 22:57:07.894 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:57:07.894 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:07.894 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:07.894 18556:0000000E (HD-Agent) INFO: Got value: .config.db
+2020-11-26 22:57:07.895 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2871/configFileChanged
+2020-11-26 22:57:07.956 18556:00000010 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:07.959 18556:00000010 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:07.959 18556:00000010 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:07.959 18556:00000010 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:07.959 18556:00000010 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:07.980 18556:00000010 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:57:08.043 18556:00000010 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:57:08.205 18556:00000006 (HD-Agent) INFO: Request received /PostHttpUrl
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got name: guid
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got value: f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got name: oem
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got value: bgp64
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got name: device_id
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got value: c7d6206c-ac1e-48f6-9170-69bf91151d99
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got name: prod_ver
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got value: 4.240.30.4004
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got name: url
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: Got value: https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: guid = f260f47f-7f3e-4460-ba7c-e729e0257530
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: oem = bgp64
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: device_id = c7d6206c-ac1e-48f6-9170-69bf91151d99
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: prod_ver = 4.240.30.4004
+2020-11-26 22:57:08.206 18556:00000006 (HD-Agent) INFO: url = https://cloud.bluestacks.com/bs4/android_settings_at_boot
+2020-11-26 22:57:08.339 18556:0000000D (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:57:08.340 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:57:09.847 18556:00000010 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:57:09.930 1356:00000001 (HD-MultiInstanceManager) WARNING: Returning a null image for instancemanagerlogo_hover
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:10.032 18556:00000006 (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:57:10.033 18556:00000006 (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:57:10.083 18556:0000000D (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) INFO: HTTPHandler: Showing notification for android
+2020-11-26 22:57:10.087 18556:0000000E (HD-Agent) WARNING: Systray: Notifying app android not found!
+2020-11-26 22:57:22.992 18556:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:22.993 18556:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:57:22.993 18556:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:22.993 18556:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:22.993 18556:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:22.993 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:22.993 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:57:22.993 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:22.993 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:22.993 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:22.994 18556:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:22.994 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:22.999 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:23.198 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:23.198 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:57:23.198 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:23.198 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:23.198 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:23.199 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.013 18556:00000010 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.404 18556:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.404 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.414 18556:00000010 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.414 18556:00000010 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.415 18556:00000010 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.415 18556:00000010 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.415 18556:00000010 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.415 18556:00000010 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.591 18556:0000000D (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:57:24.597 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:03.441 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:03.442 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:03.448 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:03.449 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:58:03.449 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:03.449 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:03.449 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:03.449 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:03.585 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:04.700 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:05.155 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:05.156 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:58:05.156 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:05.156 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:05.156 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:05.156 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:05.158 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:05.165 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: Creating part
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:05.307 18556:0000000E (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: Request received /notification
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: Creating part
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: Got name: result
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: No file in this part
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: Value hidden
+2020-11-26 22:58:05.313 18556:00000006 (HD-Agent) INFO: HTTPHandler: Not showing notification for com.android.vending
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: Key: callingPackage, Value: com.bluestacks.BstCommandProcessor
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:58:44.613 18556:0000000E (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.DroidInfo
+2020-11-26 22:58:44.614 18556:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.DroidInfo")
+2020-11-26 22:58:44.614 18556:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:58:44.621 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:58:44.655 18556:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:44.655 18556:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:44.670 18556:00000006 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:44.670 18556:00000006 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:44.689 18556:0000000D (HD-Agent) INFO: Request received /logappclick
+2020-11-26 22:58:44.689 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:58:44.694 18556:00000006 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:44.694 18556:00000006 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:44.731 18556:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:44.731 18556:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:44.970 18556:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: Key: callingPackage, Value: com.inkwired.droidinfo
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo.TestGL
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo.TestGL
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo.TestGL")
+2020-11-26 22:58:44.971 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.TestGL
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.TestGL
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.TestGL")
+2020-11-26 22:58:45.020 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:58:45.117 18556:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:45.117 18556:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:58:45.117 18556:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:58:45.117 18556:00000006 (HD-Agent) INFO: Key: activityName, Value: com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:58:45.117 18556:00000006 (HD-Agent) INFO: Key: packageName, Value: com.inkwired.droidinfo
+2020-11-26 22:58:45.118 18556:00000006 (HD-Agent) INFO: packageName = com.inkwired.droidinfo, activityName = com.inkwired.droidinfo/.DroidInfo
+2020-11-26 22:58:45.118 18556:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.inkwired.droidinfo","com.inkwired.droidinfo/.DroidInfo")
+2020-11-26 22:58:45.118 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:58:49.553 18556:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:49.553 18556:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:49.567 18556:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:49.567 18556:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:49.567 18556:0000000D (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:49.567 18556:0000000D (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:61147
+2020-11-26 22:58:49.576 18556:00000006 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:58:49.576 18556:00000006 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:58:49.590 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:59:05.246 18556:0000000E (HD-Agent) INFO: Request received /notificationStatsOnClosing
+2020-11-26 22:59:05.258 18556:00000006 (HD-Agent) INFO: Request received /instanceStopped
+2020-11-26 22:59:05.260 18556:0000000E (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:59:05.260 18556:0000000E (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:59:05.270 1356:00000001 (HD-MultiInstanceManager) WARNING: Returning a null image for ToggleOff_dis
+2020-11-26 22:59:05.270 1356:00000001 (HD-MultiInstanceManager) WARNING: Returning a null image for menu_help_dis
+2020-11-26 22:59:05.334 18556:00000006 (HD-Agent) INFO: Request received /FrontendStatusUpdate
+2020-11-26 22:59:05.334 18556:00000006 (HD-Agent) INFO: HTTPHandler: Got HandleFrontendStatusUpdate POST request from 127.0.0.1:60934
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Data
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Key: activityName, Value: com.android.internal.app.ShutdownActivity
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: packageName = android, activityName = com.android.internal.app.ShutdownActivity
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","com.android.internal.app.ShutdownActivity")
+2020-11-26 22:59:05.435 18556:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:59:05.436 18556:00000006 (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:59:05.436 18556:00000006 (HD-Agent) INFO: Data
+2020-11-26 22:59:05.436 18556:00000006 (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:59:05.436 18556:00000006 (HD-Agent) INFO: Key: activityName, Value: android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:59:05.437 18556:00000006 (HD-Agent) INFO: Key: packageName, Value: android
+2020-11-26 22:59:05.437 18556:00000006 (HD-Agent) INFO: packageName = android, activityName = android/com.android.internal.app.ShutdownActivity
+2020-11-26 22:59:05.437 18556:00000006 (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("android","android/com.android.internal.app.ShutdownActivity")
+2020-11-26 22:59:05.437 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Request received /topActivityInfo
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Data
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Key: callingPackage, Value: 
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Key: activityName, Value: com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Key: packageName, Value: com.bluestacks.appmart
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: packageName = com.bluestacks.appmart, activityName = com.bluestacks.appmart/.MarketPageGrid
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: HTTPHandler:SendAppDataToFE("com.bluestacks.appmart","com.bluestacks.appmart/.MarketPageGrid")
+2020-11-26 22:59:05.443 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:2881/appDataFeUrl
+2020-11-26 22:59:06.271 1356:0000000A (HD-MultiInstanceManager) INFO: Checking vm state of vm: Global\BlueStacks_Client_Instance_Androidbgp64_Lock
+2020-11-26 22:59:06.271 1356:0000000A (HD-MultiInstanceManager) INFO:  Checking Owned = True
+2020-11-26 22:59:06.271 1356:0000000A (HD-MultiInstanceManager) INFO: Waiting for signal from Android_bgp64
+2020-11-26 22:59:07.457 18556:0000000D (HD-Agent) ERROR: Exception in SendAppDataToFE: System.Net.WebException: Базовое соединение закрыто: Непредвиденная ошибка при приеме. ---> System.IO.IOException: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetResponse()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Agent.HTTPHandler.SendAppDataToFE(String package, String activity, String callingPackage, String vmName)
+2020-11-26 22:59:07.458 18556:0000000E (HD-Agent) ERROR: Exception in SendAppDataToFE: System.Net.WebException: Базовое соединение закрыто: Непредвиденная ошибка при приеме. ---> System.IO.IOException: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetResponse()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Agent.HTTPHandler.SendAppDataToFE(String package, String activity, String callingPackage, String vmName)
+2020-11-26 22:59:07.458 18556:00000006 (HD-Agent) ERROR: Exception in SendAppDataToFE: System.Net.WebException: Базовое соединение закрыто: Непредвиденная ошибка при приеме. ---> System.IO.IOException: Не удается прочитать данные из транспортного соединения: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetResponse()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Agent.HTTPHandler.SendAppDataToFE(String package, String activity, String callingPackage, String vmName)
+2020-11-26 22:59:24.474 18556:0000000E (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 22:59:26.521 18556:0000000E (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 22:59:36.615 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 22:59:38.657 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 22:59:47.543 18556:0000000B (HD-Agent) INFO: Checking for announcement
+2020-11-26 22:59:47.833 18556:0000000B (HD-Agent) INFO: Announcement get resp: 
+2020-11-26 22:59:48.160 18556:00000006 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 22:59:50.175 18556:00000006 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:00:57.582 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:00:59.614 18556:0000000D (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:01:07.072 18556:0000000D (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:01:09.109 18556:0000000D (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:01:12.204 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:01:14.249 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:01:45.448 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:01:47.494 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:01:57.980 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:01:59.993 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:02:26.337 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:02:28.382 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:05:05.079 18556:00000007 (HD-Agent) INFO: Sending POST to http://127.0.0.1:9999/clipboard
+2020-11-26 23:05:07.118 18556:00000007 (HD-Agent) ERROR: Exception in Sending ClipboardCommand System.Net.WebException: Невозможно соединиться с удаленным сервером ---> System.Net.Sockets.SocketException: Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение 127.0.0.1:9999
+   в System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   в System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   в System.Net.HttpWebRequest.GetRequestStream()
+   в BlueStacks.Common.HTTP.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.HTTP.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, NameValueCollection headerCollection, String userAgent)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendRequestToGuest(String route, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, String oem)
+   в BlueStacks.Agent.ClipboardMgr.<>c__DisplayClass13_0.<ProcessClipboardData>b__0(Object obj)
+2020-11-26 23:05:48.421 1356:00000001 (HD-MultiInstanceManager) INFO: Quit bluestacks called with args: False, False
+2020-11-26 23:05:48.430 1356:00000001 (HD-MultiInstanceManager) INFO: Exiting application
+2020-11-26 23:05:48.471 19096:00000001 (HD-Quit) INFO: Invoking Process Details: (Name: HD-MultiInstanceManager, Pid: 1356)
+2020-11-26 23:05:48.474 19096:00000001 (HD-Quit) INFO: Quit: Killing all processes
+2020-11-26 23:05:48.483 19096:00000001 (HD-Quit) INFO: Will send request shutdown
+2020-11-26 23:05:48.500 19096:00000001 (HD-Quit) INFO: Killing Agent
+2020-11-26 23:05:48.500 19096:00000001 (HD-Quit) INFO: Removing agent icon from system tray
+2020-11-26 23:05:48.501 19096:00000001 (HD-Quit) INFO: Sending POST to http://127.0.0.1:2861/sysTrayVisibility
+2020-11-26 23:05:48.505 19096:00000001 (HD-Quit) WARNING: WARNING: This network call is from UI Thread and its stack trace is    в BlueStacks.Common.BstHttpClient.PostInternal(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, Int32 retries, Int32 sleepTimeMSecs, Int32 timeout, String vmName, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.BstHttpClient.Post(String url, Dictionary`2 data, Dictionary`2 headers, Boolean gzip, String vmName, Int32 timeout, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Common.HTTPUtils.SendHTTPRequest(String url, Dictionary`2 data, String vmName, Int32 timeout, Dictionary`2 headers, Boolean printResponse, Int32 retries, Int32 sleepTimeMSec, Boolean isOnUIThreadOnPurpose, String oem)
+   в BlueStacks.Quit.Quit.QuitAll()
+   в BlueStacks.Quit.Quit.Main(String[] args)
+
+2020-11-26 23:05:48.534 18556:00000005 (HD-Agent) INFO: Request received /sysTrayVisibility
+2020-11-26 23:05:48.559 19096:00000001 (HD-Quit) INFO: Quit: Killed all processes. Exiting BlueStacks

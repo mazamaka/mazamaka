@@ -1,0 +1,242 @@
+{
+	"category": [
+	{
+		"id": "LaggyGamePlay",
+			"value": "Laggy Game Play",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "BlueStacks not responding on launch",
+				"showdropdown": "0"
+			},
+			{
+				"id": "BluestacksRunningSlow",
+				"value": "BlueStacks running Slow",
+				"showdropdown": "0"
+			},
+			{
+				"id": "AppFreezing",
+				"value": "App Freezing/laggy",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "BlueStacks is Stuck on Loading screen",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "Stuck on loading screen",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckOnGreyScreen",
+			"value": "Stuck on grey screen",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "App related issue",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "App is crashing",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "Unable to download app",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppFreezing",
+			"value": "App freezing",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "Distorted graphics on apps",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "Keymapping does not work",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "App not found on play store",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "App not compatible with the device",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "BTV issues/Streaming issues",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "BTV (twitch)login issues",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileBroadcasting",
+			"value": "issues while streaming/broadcasting videos",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "Issues while viewing videos",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "Other",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Issues with Google play",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "Stuck on downloading app",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "Error retrieving information(RPC issue / DL-DF-15)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "Other",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "Unable to create account on Bluestacks",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "Unable to complete (setup bluestacks account) step",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "unable to complete (enable app sync) step",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "Could not establish reliable connection",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "Error communicating with google server",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "Other",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "Black Screen Issues",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "Black screen upon launching Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "Black screen within app",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "Unable to Resize Screen",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "Issues with Bluestacks resolution",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "App orientation(landscape/portrait) issues",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "Other",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CantStartBlueStacks",
+			"value": "Cannot start BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "PC keyboard unresponsive on Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "PC mouse unresponsive on Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "Camera Not Working",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "No Sound",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "Unable to locate postition/GPS not working",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "Some other issue",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

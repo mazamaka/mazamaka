@@ -1,0 +1,262 @@
+{
+    "category": [
+      {
+        "id": "LaggyPerformance",
+        "value": "Kinerja Laggy",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BluestacksNotResponding",
+            "value": "BlueStacks tidak merespons saat peluncuran",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "BlueStacks berjalan lambat sementara Streaming",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "Aplikasi laggy",
+			"showdropdown": "1"
+          },
+          {
+            "id": "BSTUpgrade",
+            "value": "Bluestacks lambat setelah pemutakhiran",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "StuckAtInitializing",
+        "value": "BlueStacks Macet di layar Pemuatan",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnLoading",
+            "value": "Macet di layar pemuatan",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GreyScreen",
+            "value": "Layar abu-abu",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "AppNotWorking",
+        "value": "Masalah terkait aplikasi",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "AppCrash",
+            "value": "Aplikasi lumpuh",
+			"showdropdown": "1"
+          },
+          {
+            "id": "RPCError",
+            "value": "Tidak dapat mengunduh aplikasi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "Aplikasi Laggy",
+			"showdropdown": "1"
+          },
+          {
+            "id": "DistortedGraphics",
+            "value": "Grafis pada aplikasi terdistorsi",
+			"showdropdown": "1"
+          },
+          {
+            "id": "KeymappingIssue",
+            "value": "Keymapping tidak berfungsi",
+			"showdropdown": "1"
+          },
+          {
+            "id": "AppNotFoundOnPlayStore",
+            "value": "Aplikasi tidak ditemukan di play store",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppNotCompatible",
+            "value": "Aplikasi tidak kompatibel dengan perangkat",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "Streaming",
+        "value": "Masalah streaming",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BTVLoginIssues",
+            "value": "Masalah twitch login",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "Mesin menjadi lambat saat streaming",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "BTVFilters",
+            "value": "Masalah dengan Filter TV Bluestacks",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "MicAndCamera",
+            "value": "Mic &amp; Kamera tidak berfungsi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "IssuesWhileViewingVideos",
+            "value": "Masalah saat melihat video",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherStreamingIssue",
+            "value": "Lainnya",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "IssueWithGoogle",
+        "value": "Masalah dengan Google play",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnDownloadingApp",
+            "value": "Macet saat mengunduh aplikasi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "RPCError",
+            "value": "Galat mengambil informasi (masalah RPC)",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "RPCError_DF_DLA",
+            "value": "Galat DF-DLA-15",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "Other_RPC",
+            "value": "Lainnya",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "LoginIssue",
+        "value": "Tidak dapat membuat akun di Bluestacks",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "UnableToSetupBluestacksAccount",
+            "value": "Tidak dapat menyetel akun BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StuckAtEnableAppSync",
+            "value": "tidak dapat menyelesaikan langkah (mengaktifkan sinkronisasi aplikasi)",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "CouldNotEstablishReliableConnection",
+            "value": "tidak dapat membuat sambungan terpercaya",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "ErrorCommunicatingGoogleServer",
+            "value": "Galat saat berkomunikasi dengan server google",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "OtherLoginIssue",
+            "value": "Lainnya",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "BlackScreen",
+        "value": "Masalah Layar Hitam",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BlackScreenOnLaunch",
+            "value": "Layar hitam saat peluncuran Bluestacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "BlackScreenWithinApp",
+            "value": "Layar hitam di dalam aplikasi",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Resizing",
+        "value": "Tidak Dapat Mengubah Ukuran Layar",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "IssuesWithBluestacksResolution",
+            "value": "Masalah dengan resolusi Bluestacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppOrientationIssue",
+            "value": "Masalah orientasi aplikasi (landscape/portrait)",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Other",
+        "value": "Lainnya",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "CannotStartBlueStacks",
+            "value": "Tidak dapat membuka BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "KeyboardIssue",
+            "value": "keyboard tidak berfungsi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "MouseIssue",
+            "value": "Mouse tidak berfungsi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "CameraIssue",
+            "value": "Kamera Tidak Berfungsi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "NoSound",
+            "value": "Tidak Ada Suara di Bluestacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GPSIssue",
+            "value": "Tidak dapat menemukan posisi/GPS tidak berfungsi",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherIssue",
+            "value": "Beberapa masalah lain",
+			"showdropdown": "0"
+          }
+        ]
+      }
+    ]
+}

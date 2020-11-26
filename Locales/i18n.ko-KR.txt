@@ -1,0 +1,3643 @@
+﻿STRING_RESTART = 재시작
+
+STRING_QUIT_BLUESTACKS = 그만하기
+
+STRING_UPLOAD_DEBUG_LOGS = 문제 보고
+
+STRING_INSTALL_UPDATES = 업데이트 설치
+
+STRING_APPS = 앱
+
+STRING_APP = 앱
+
+STRING_INSTALLED = 설치완료
+
+STRING_FULL_SCREEN_BUTTON_TOOLTIP = 전체화면 전환
+
+STRING_LOADING_MESSAGE = 로딩 중
+
+STRING_SYSTEM_APP = 시스템 앱
+
+STRING_BROWSER_APP = 브라우저
+
+STRING_SETTINGS = 설정
+
+STRING_SETTING_APP = 설정
+
+STRING_CAMERA_APP = 카메라
+
+STRING_GOOGLE_PLAY_GAMES_APP = 구글 플레이 게임
+
+STRING_MEDIA_MANAGER_APP = 미디어 매니저
+
+STRING_GOOGLE_PLAY_STORE_APP = Google Play 스토어
+
+STRING_RETURN_APP = 뒤로
+
+STRING_HELP_CENTER_APP = 고객지원
+
+STRING_INSTANCE_MANAGER_APP = 인스턴스 매니저
+
+STRING_MACRO_RECORDER_APP = 매크로 레코더
+
+STRING_INITIALIZING = 초기화 중
+
+STRING_FULL_SCREEN_TOAST = 전체 화면 모드를 사용중입니다. 전체 화면을 종료하려면 F11 키를 눌러주세요.
+
+STRING_SNAPSHOT_ERROR_TOAST = 스크린샷 공유 프로그램이 설치되어 있지 않습니다.
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT_CAPTION = "호환되지 않는 프로그램이 실행 중입니다."
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT = @@STRING_PRODUCT_NAME@@ 실행에 문제가 있으니 컴퓨터의 안티 바이러스 프로그램이나 보안 프로그램을 중지 하십시오.
+
+STRING_BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_INSTALL_SUCCESS = 설치되었습니다.
+
+STRING_UNINSTALL_SUCCESS = 삭제되었습니다.
+
+STRING_INSTALL_FAIL = 설치 실패
+
+STRING_USER_WAIT = apk 설치중
+
+STRING_FORM = 앱 플레이어 지원 도구
+
+STRING_ATTACHMENT_SIZE_EXCEEDS_LIMIT = 첨부하려는 파일이 최대 용량 4MB를 초과합니다. 다른 파일을 선택하세요.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = 첨부하려는 파일은 이미지가 아닙니다. 관련 스크린샷을 첨부하고 다시 시도하십시오.
+
+STRING_STATUS_INITIAL = 수집 시작중
+
+STRING_STATUS_COLLECTING_PRODUCT = 제품 정보 수집 중
+
+STRING_STATUS_COLLECTING_HOST = 호스트 정보 수집 중
+
+STRING_STATUS_COLLECTING_GUEST = 안드로이드 정보 수집 중
+
+STRING_STATUS_ARCHIVING = 지원 아카이브 생성 중
+
+STRING_STATUS_SENDING = 문제 보고 중
+
+STRING_APP_NAME = 앱 이름을 입력합니다
+
+STRING_FINISH_CAPT = 지원 도구 완료
+
+STRING_FINISH_REPORT_SEND = 문제를 보고하였습니다. 곧 연락 드리겠습니다.
+
+STRING_PROMPT = 문제를 보고할 수 없습니다. BlueStacks-Support.zip라는 이름의 파일이 바탕 화면에 생성되었습니다. 설명과 함께 해당 파일을 이메일 주소 support@bluestacks.com으로 보내주십시오.
+
+STRING_RPC_FORM = 구글 로그인 에러 해결하기
+
+STRING_STUCK_AT_INITIALIZING_FORM = @@STRING_PRODUCT_NAME@@ 초기화면 멈춤 문제 진단
+
+STRING_WORK_DONE = 모두 완료되었습니다. 문제가 지속되면 알려주십시오.
+
+STRING_PROGRESS = 기다려주십시오. 문제를 해결 방법을 찾고 있습니다.
+
+STRING_TROUBLESHOOTER = 문제를 진단하고 자동으로 해결합니다
+
+STRING_LOGCOLLECTOR_RUNNING = 이미 문제 보고 툴이 실행 중입니다.
+
+STRING_CATEGORY = 카테고리
+
+STRING_ZIP_NAME = BlueStacks-Support.zip
+
+STRING_RESTART_UTILITY_TITLE = @@STRING_PRODUCT_NAME@@ 재시작 유틸리티
+
+STRING_RESTART_UTILITY_RESTARTING = @@STRING_PRODUCT_NAME@@ 재시작
+
+STRING_RESTART_UTILITY_CANNOT_START = @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다.
+
+STRING_RESTART_UTILITY_UNHANDLED_EXCEPTION = 처리되지 않은 예외를 확인했습니다. 자세한 내용은 로그를 확인하십시오.
+
+STRING_APKINSTALLER_ALREADY_RUNNING = 앱이 이미 설치되고 있습니다. 설치 완료하는 동안 잠시 기다려주십시오.
+
+STRING_UPDATER_UTILITY_NO_UPDATE_TITLE = @@STRING_PRODUCT_NAME@@ 업데이터
+
+STRING_UPDATER_UTILITY_ASK_TO_INSTALL = @@STRING_PRODUCT_NAME@@의 최신 버전으로 업데이트 하시겠습니까?
+
+STRING_UPDATE_SUCCESS = 업데이트 되었습니다.
+
+STRING_MINIMIZE_TOOLTIP = 최소화
+
+STRING_CLOSE = 닫기
+
+STRING_SET_LOCATION = 위치 설정
+
+STRING_TOOLBAR_CAMERA = 스크린샷 캡처
+
+ANDROID = 안드로이드
+
+STRING_FINISH = 완료
+
+STRING_START_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 시작
+
+STRING_DOWNLOADING = 다운로드 중입니다.
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+STRING_BACK = 뒤로가기
+
+STRING_EXIT = 종료
+
+STRING_WELCOME_TO_BLUESTACKS = @@STRING_PRODUCT_NAME@@에 오신 것을 환영합니다.
+
+STRING_BLUESTACKS_APK_HANDLER_TITLE = @@STRING_PRODUCT_NAME@@ apk 핸들러
+
+STRING_SNAPSHOT_SHARE_STRING = @@STRING_PRODUCT_NAME@@ 앱플레이어 (www.bluestacks.com)를 통해 공유
+
+STRING_LOADING_SCREEN_APP_TITLE = @@STRING_PRODUCT_NAME@@ 앱플레이어
+
+STRING_CLOSE_MESSAGE_PROMPT = 방송을 종료하시겠습니까?
+
+STRING_CLOSE_WHILE_STREAMING_TOOLTIP = 방송 종료
+
+STRING_BLACKSCREEN_FORM = 검은 화면 문제 해결
+
+STRING_SELECT_APP_NAME = 앱 이름 선택
+
+STRING_SELECT = 선택
+
+STRING_CREATE_BLUESTACKS_REGISTRY = @@STRING_PRODUCT_NAME@@ 레지스트리 만들기
+
+STRING_CREATE_SHORTCUTS = @@STRING_PRODUCT_NAME@@ 바로가기 생성 중
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = 복원에 실패 하였습니다.
+
+STRING_CORRUPT_INSTALLATION_MESSAGE = 안타깝게도 @@STRING_PRODUCT_NAME@@을 시작할 수 없으며 다시 설치해야합니다. @@STRING_PRODUCT_NAME@@을 제거하고 https://bluestacks.com 에서 최신 버전을 다시 설치하십시오.
+
+STRING_SUBCATEGORY = 하위 분류
+
+STRING_FILTER_UPDATE_TITLE = @@STRING_PRODUCT_NAME@@ 필터 업데이터
+
+STRING_INITIALIZING_DOWNLOADER = 다운로더 초기화 중
+
+STRING_DOWNLOADING_0_of_1 = {0} / {1}다운로드 중
+
+STRING_DOWNLOADED = 다운로드가 완료됨
+
+STRING_APPLYING = 테마를 적용중입니다. 잠시만 기다려주세요.
+
+STRING_LATER_BUTTON = 나중에
+
+STRING_DOWNLOAD_ERROR = 오류가 발생했습니다. 필터는 다음 실행 시에 업데이트됩니다
+
+STRING_STOP_STREAMING_REQUIRED = 이 업데이트를 위해서는 스트리밍을 중지해야 합니다
+
+STRING_OBS_ERROR = 문제가 발생하였습니다! 다시 시도하시겠습니까?
+
+STRING_OBS_ALREADY_RUNNING = 다른 방송이 진행중입니다. 먼저 다른 진행중인 방송을 종료하세요.
+
+STRING_RESTORE_BUTTON = 복원
+
+STRING_RECOMMENDED = 추천
+
+STRING_BLUESTACKS_WARNING_PROMPT = @@STRING_PRODUCT_NAME@@ 경고
+
+STRING_SELECT_BACKUP = 백업을 만들 폴더를 선택하십시오.
+
+STRING_SELECT_RESTORE = 복원 할 폴더를 선택하십시오.
+
+STRING_QUITTING = @@STRING_PRODUCT_NAME@@ 종료 중
+
+STRING_ANDROID_BACKUP = 안드로이드 백업 생성 중
+
+STRING_ANDROID_RESTORE = 안드로이드 백업 복원
+
+STRING_USER_DATA_BACKUP = 사용자 데이터 백업 만들기
+
+STRING_USER_DATA_RESTORE = 사용자 데이터 백업 복원
+
+STRING_BACKUP_COMPLETE = 백업 완료
+
+STRING_RESTORE_COMPLETE = 복원 완료
+
+STRING_BACKUP_FAILED = 백업하지 못했습니다. 나중에 다시 시도 해주십시오.
+
+STRING_RESTORE_FAILED = 복원에 실패 하였습니다.
+
+STRING_DATA_MANAGER = @@STRING_PRODUCT_NAME@@ 데이터 관리자
+
+STRING_APP_PLAYER_ONLINE = 앱 플레이어 온라인
+
+STRING_MANAGE_NOTIFICATION = 알림 관리
+
+STRING_MUTE_NOTIFICATION_TOOLTIP = 음소거
+
+STRING_HOUR = 1 시간
+
+STRING_WEEK = 1 주일
+
+STRING_DAY = 1 일
+
+STRING_FOREVER = 영원히
+
+STRING_CLEAR = 삭제
+
+STRING_NO_NEW_NOTIFICATION = 알림 끄기
+
+STRING_NOTIFICATION = 알림
+
+STRING_SHOW = 보여주기
+
+STRING_AUTO_HIDE = 알림 자동 숨김
+
+STRING_SHOW_NOTIFICATIONS = 전체 알림 표시
+
+STRING_AUTO_HIDE_TOOLTIP = 알림은 10 초 후에 숨겨집니다.
+
+STRING_DISMISS_TOOLTIP = 해제
+
+STRING_SHOW_NOTIFICATION_TOOLTIP = 알림 표시
+
+STRING_RESET_APPS_AND_DATA = 모든 앱과 데이터를 재설정합니다.
+
+STRING_AUTO = 자동
+
+STRING_WEBCAM_SOURCE_STRING = 웹캠
+
+STRING_STREAM_QUALITY_DETAILS = 이 기능은 왼쪽의 프리뷰 화면에는 영향을 주지 않습니다.
+
+STRING_STREAM_QUALITY = 스트리밍 품질
+
+STRING_SERVER_LOCATION = 가장 가까운 위치의 서버를 선택하십시오.
+
+STRING_LBL_RESTORE_DEFAULT = 초기화
+
+STRING_LBL_COMPUTER_SOUND = 컴퓨터 사운드
+
+STRING_LBL_MICROPHONE_SOUND = 마이크 사운드
+
+STRING_LBL_MICROPHONE_SOURCE = 마이크 장치
+
+STRING_LABEL_STREAM_AUDIO_SOURCE = 스트림 오디오 장치
+
+STRING_LABEL_STREAM_AUDIO_SOURCE_DETAIL = 뷰어에서 들리는 사운드에만 영향을 줍니다.
+
+STRING_LBL_ADVANCED_STREAM_SETTINGS = 스트림 고급 설정
+
+STRING_AUDIO_BUTTON = 오디오
+
+STRING_VIDEO_BUTTON = 비디오
+
+STRING_OTHER_BUTTON = 기타
+
+STRING_VIDEO_BUTTON_TOOLTIP = 라이브 중에는 비디오 설정을 변경할 수 없습니다.
+
+STRING_OTHER_BUTTON_TOOLTIP = 라이브 중에는 기타 설정을 변경할 수 없습니다.
+
+NONE = 없음
+
+STRING_ACCOUNT = 계정
+
+STRING_NAVIGATE_FAILED = 변경에 실패하였습니다.
+
+STRING_RETRY = 다시시도
+
+STRING_INCORRECT_LOGIN_DETAILS = 데이터 복원에 실패하였습니다. 백업된 데이터의 계정정보와 현재 로그인된 계정정보가 다릅니다.
+
+STRING_INCORRECT_PATH = 복원에 실패 하였습니다. 올바른 경로를 선택해주세오.
+
+STRING_RESTORE_FAILURE = 데이터 복원 실패
+
+STRING_BACKUP_SUCCESSFUL = 백업이 정상적으로 진행 되었습니다. 백업 위치:
+
+STRING_RESTORE_SUCCESSFUL = 데이터 복원이 성공하였습니다.
+
+STRING_ADVANCED_SETTINGS = 고급 설정
+
+STRING_EXIT_BLUESTACKS = @@STRING_PRODUCT_NAME@@을 종료 하시겠습니까?
+
+STRING_YES = 예
+
+STRING_NO = 아니요
+
+STRING_HOME = 홈
+
+STRING_SHAKE = 흔들기
+
+STRING_LOCATION = 위치
+
+STRING_LOADING_ENGINE = 엔진 시작 중
+
+STRING_SEARCH = 검색
+
+STRING_APP_CENTER = 앱 센터
+
+STRING_GIFT = 사전예약/쿠폰
+
+STRING_FEEDBACK = FAQ 및 문제 보고
+
+STRING_ENGINE_VERSION = 엔진 버전
+
+STRING_OK = OK
+
+STRING_SAVE = 저장
+
+STRING_CPU_CORES = CPU 코어
+
+STRING_MEMORY = 메모리
+
+STRING_APPLY = 적용
+
+STRING_GOOGLE_LOGIN_MESSAGE = @@STRING_PRODUCT_NAME@@을 시작하려면 Google 계정으로 로그인하십시오.
+
+STRING_MORE_GOOGLE_SEARCH_RESULT = 더 많은 구글 검색 결과
+
+STRING_F11_EXIT_FULL_SCREEN = F11 키를 눌러 전체 화면을 종료하십시오.
+
+STRING_ESC_EXIT_FULL_SCREEN = Esc 키를 눌러 전체 화면을 종료하십시오.
+
+STRING_WARNING = 경고
+
+STRING_BEGINNERS_GUIDE = 사용안내
+
+STRING_VOLUME_CONTROL = 볼륨조절
+
+STRING_ALWAYS_ON_TOP = 창 맨 위에
+
+STRING_KEY_MAPPING_ENABLED = 키맵핑 켜기
+
+STRING_KEY_MAPPING_DISABLED = 키맵핑 끄기
+
+STRING_MULTIINSTANCE_DELETE = 멀티 앱플레이어를 삭제하시겠습니까?
+
+STRING_UNINSTALL_APP_ASK = 앱을 삭제하시겠습니까?
+
+STRING_MAP = 위치정보
+
+STRING_SOME_ERROR_OCCURED = 에러가 발생하였습니다. 다시 시도해주십시오.
+
+STRING_DATA_PATH = @@STRING_PRODUCT_NAME@@ 데이터 경로
+
+STRING_INSTALL_NOW = 지금 설치
+
+STRING_SPACE_REQUIRED = 필요 설치 공간
+
+STRING_SPACE_AVAILABLE = 사용 가능 공간
+
+STRING_FOLDER = 폴더
+
+STRING_INSTALL_DONE = 설치 완료
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = 설치를 취소하시겠습니까?
+
+STRING_SELECT_FOLDER = 다른 폴더를 선택하여 주십시오.
+
+STRING_AGREE_WITH_LICENSE = 계속 진행하려면 이용 약관에 동의해야합니다.
+
+STRING_PRE_INSTALL_CHECKS = 설치를 위한 시스템 확인
+
+STRING_INSTALLING_ENGINE = 엔진 설치
+
+STRING_EXTRACTING_FILES = 파일 압축 풀기
+
+STRING_INSTALL_FINISH = 설치 완료
+
+STRING_CUSTOM = 사용자 설치
+
+STRING_SOFTWARE_LICENSE = 소프트웨어 라이선스
+
+STRING_AGREE = 동의
+
+STRING_UNINSTALL_FINISHED = 삭제 완료
+
+STRING_CANCEL = 취소
+
+STRING_UNINSTALL = 제거
+
+STRING_ENGINE_UNINSTALL = 엔진 제거
+
+STRING_CLIENT_UNINSTALL = 프로그램 제거
+
+STRING_FINISHED = 완료
+
+STRING_THANKS_FOR_USING_BLUESTACKS = @@STRING_PRODUCT_NAME@@을 이용해 주셔서 감사합니다.
+
+STRING_REASON_FOR_UNINSTALL = @@STRING_PRODUCT_NAME@@을 설치 제거한 이유를 알려주십시오.
+
+STRING_INSTALL_ENGINE_FAIL = 엔진을 설치할 수 없습니다.
+
+STRING_INSTALL_GAME_FAIL = 게임을 설치할 수 없습니다.
+
+STRING_CONFLICT_WITH_OTHERS = 다른 소프트웨어와 충돌
+
+STRING_START_ENGINE_FAIL = 엔진 시작 실패
+
+STRING_GAME_LAG = 게임 플레이가 느림
+
+STRING_BLACK_SCREEN = 검은 화면
+
+STRING_CANNOT_FIND_GAME = 게임을 찾을 수 없습니다.
+
+STRING_APP_CRASH = 앱 강제 종료
+
+STRING_EXE_CRASH = 실행 파일 강제 종료
+
+STRING_OTHER_REASON = 다른 원인이나 게임 이름과 같은 기타 정보.
+
+STRING_INSTANCE_ALREADY_RUNNING_DELETE_IT = 앱플레이어가 이미 실행 중입니다! 삭제하시겠습니까?
+
+STRING_GUEST_NOT_BOOTED = 엔진을 준비중입니다. 기다려주세요.
+
+STRING_MULTIINSTANCE = 멀티 앱플레이어
+
+STRING_INSTALL_APK = apk 설치
+
+STRING_UNINSTALL_APP = 앱 삭제
+
+STRING_DELETE = 삭제
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_01 = 이 앱에서 키맵핑을 사용할 수 있습니다.
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_02 = 여기를 클릭하여 확인하거나 수정하십시오.
+
+STRING_DOWNLOAD_GOOGLE_APP_POPUP_STRING_04 = 다시 보여주지 않기
+
+STRING_UPGRADE_NOW = 지금 업데이트
+
+STRING_INSTALLATION_ERROR = 설치 오류
+
+STRING_TRY_RESTARTING_MACHINE = 컴퓨터를 재시작 하십시오.
+
+STRING_MULTI_INSTANCE_CREATE_ERROR = @@STRING_PRODUCT_NAME@@ 인스턴스를 만들 수 없습니다.
+
+STRING_ARE_YOU_SURE = 확실합니까?
+
+STRING_RESTART_MACHINE_PROMPT = 컴퓨터를 재시작하시겠습니까?
+
+STRING_OPEN_KEYMAPPING_UI = 키 맵핑 열기
+
+STRING_MAXIMIZE_TOOLTIP = 최대화
+
+STRING_VERION_DOWNGRADE = 다운 그레이드
+
+STRING_VERSION_ALREADY_INSTALLED = 이미 최신버전으로 설치되었습니다.
+
+STRING_CANT_USE_THIS_FOLDER = 선택한 폴더를 사용하여@@STRING_PRODUCT_NAME@@을 설치할 수 없습니다.
+
+STRING_NO_DISK_SPACE = 디스크 공간이 부족합니다.
+
+STRING_MULTI_INSTANCE_CREATE_BUSY = 새로운 앱플레이어가 설치되고 있습니다. 설치 완료하는 동안 잠시 기다려주십시오.
+
+STRING_MULTI_INSTANCE_DELETE_BUSY = 앱플레이어가 삭제 중입니다. 삭제를 완료하는 동안 잠시 기다려주십시오.
+
+STRING_UNINSTALL_BLUESTACKS = @@STRING_PRODUCT_NAME@@을 제거 하시겠습니까?
+
+STRING_CLIENT_VERSION = 클라이언트 버전
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = 최소 시스템 요구 사항이 충족되지 않습니다.
+
+STRING_RESTART_NOW = 지금 재시작
+
+STRING_EXIT_INSTANCE = 이 인스턴스를 닫으시겠습니까?
+
+STRING_INSTANCE_CLOSE_TITLE = 인스턴스 닫기
+
+STRING_BLUESTACKS_UPDATE_AVAILABLE = @@STRING_PRODUCT_NAME@@ 업데이트가 가능합니다.
+
+STRING_DOWNLOADING_BLUESTACKS_UPDATE = 업데이트 다운로드
+
+VERSION = 버전
+
+STRING_ERROR = 오류
+
+STRING_SCREEN1_TEXT1 = 오른쪽 >(화살표)를 클릭하여 사용안내를 읽어 보세요. @@STRING_PRODUCT_NAME@@ 기능을 이해하는데 도움이 됩니다.
+
+STRING_DIRECTX = 스피드 모드 (DirectX)
+
+STRING_OPENGL = 호환성모드 (OpenGL)
+
+STRING_ENGINE_FAIL_HEADER = 엔진 시작 실패
+
+STRING_ENGINE_RESTART = 엔진 재시작을 하거나 컴퓨터를 재시작 하세요
+
+STRING_CREATING_BACKUP = 백업 만들기
+
+STRING_BACKUP_PLEASE_WAIT = @@STRING_PRODUCT_NAME@@ 데이터를 선택한 폴더에 백업하는 동안 잠시 기다려주십시오.
+
+STRING_RESTORE_BACKUP = 백업된 데이터로 복구
+
+STRING_RESTORING_BACKUP = 백업에서 복구
+
+STRING_RESTORE_PLEASE_WAIT = 선택한 폴더에서 @@STRING_PRODUCT_NAME@@ 데이터를 복원하는 동안 잠시 기다려주십시오.
+
+STRING_MAKE_SURE_LATEST_WARNING = 다른 백업 데이터로부터 복구를 진행하기 전에 최신 @@STRING_PRODUCT_NAME@@ 데이터(설치된 게임, 게임 데이터, 게임 키매핑, 설정 등)를 백업하십시오. 그렇지 않으면 저장된 현재 데이터를 모두 잃게 되며 복구 불가능 하게 됩니다.
+
+STRING_BACKUP_WARNING = 백업 경고
+
+STRING_BLUESTACKS_BACKUP_PROMPT = 이 과정에서 @@STRING_PRODUCT_NAME@@을 사용할 수 없으니 계속 진행 하시겠습니까?
+
+STRING_QUITTING_BLUESTACKS_WHILE_BACKUP_PROMPT = 현재 진행 중인 백업 작업을 종료하시겠습니까?
+
+STRING_BLANK_NOTIFICATION = 앱에 알림이 있습니다.
+
+STRING_QUITTING_BLUESTACKS_WHILE_RESTORE_PROMPT = @@STRING_PRODUCT_NAME@@을 종료할때까지 잠시만 기다려 주십시오. 복원이 완료되면 자동으로 재시작됩니다.
+
+STRING_SUCCESS = 성공
+
+STRING_LAUNCHING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 시작하는 중
+
+STRING_RUNNING_COMMANDS = 명령 실행 중
+
+STRING_COMMANDS_ERROR = 오류가 발생하였습니다. 발생한 오류는
+
+STRING_TOOL_SUCCESS = 정상적으로 완료되었습니다.
+
+STRING_DELETING_BACKUP = 백업 삭제 중
+
+STRING_DELETING_BACKUP_INFO = 백업을 취소하는 동안 잠시만 기다려 주십시오.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMPT_TEXT1 = 이미 실행중인 @@STRING_PRODUCT_NAME@@이 있습니다.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMPT_TEXT2 = 현재 사용 중인 @@STRING_PRODUCT_NAME@@을 종료하고 진행하려면 확인을 클릭하여 주십시오.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = 이 위치에서 백업을 가져 오지 못했습니다. 쓰기 권한이 없습니다.
+
+STRING_BACKUP_FAILURE = 백업 실패
+
+STRING_DATA_MANAGER_INVALID_OEM = 복원에 실패하였습니다. 기존 @@STRING_PRODUCT_NAME@@ 버전과 일치하지 않는 백업에서 복원하려고합니다.
+
+STRING_UNINSTALL_TITLE = @@STRING_PRODUCT_NAME@@ 삭제하기
+
+STRING_UNINSTALL_BLUESTACKS_WARNING = 데이터가 손실됩니다. 설정> 백업 및 복원으로 이동하여 데이터를 백업하십시오.
+
+STRING_BLUESTACKS_UPDATE = @@STRING_PRODUCT_NAME@@ 업데이트
+
+STRING_RESTART_PC = 컴퓨터 재시작
+
+STRING_RESTART_ENGINE = 재시작
+
+STRING_INVALID_PATH = 경로가 맞지 않습니다. 파일 확장자는 jpg나 jpeg만 사용 가능 합니다.
+
+STRING_INVALID_CHARACTER = 키 설정이 잘못되었습니다. 일반 키만 사용 가능 합니다.
+
+STRING_BOOT_TIME = PC 성능에 따라 약간의 시간이 필요할 수 있습니다.
+
+STRING_BOOTING_ENGINE = @@STRING_PRODUCT_NAME@@를 시작중입니다. 잠시 기다려주세요.
+
+STRING_FIRST_BOOT = 설치 후 처음 부팅하는데 약 2-3분 정도 소요되며 사용하시는 컴퓨터의 사양에 따라 달라질 수 있습니다.
+
+STRING_INSTANCE = 멀티 앱플레이어
+
+STRING_DYNAMIC_RAM = 메모리 자동 설정
+
+STRING_CONNECTION_ISSUE_TEXT1 = 연결에 문제가 발생하였습니다.
+
+STRING_CONNECTION_ISSUE_TEXT2 = 다시 시도해 보시기 바랍니다.
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = 재시도
+
+STRING_REMOVE_ACCOUNT_ON_EXIT = @@STRING_PRODUCT_NAME@@에서 Google 계정과 모든 관련 콘텐츠를 삭제하시겠습니까?
+
+STRING_CLOSING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 닫기
+
+STRING_EXIT_BLUESTACKS3 = @@STRING_PRODUCT_NAME@@ 종료
+
+STRING_PERF_WARNING = 성능 경고
+
+STRING_MIN_REQ_NOT_MET = @@STRING_PRODUCT_NAME@@을 효율적으로 실행하기 위한 최소 요구 사항을 충족하지 못합니다. 성능이 저하될 수 있습니다.
+
+STRING_CREATE_INSTANCE = 멀티 앱플레이어 생성
+
+STRING_CLONE_INSTANCE = 멀티 앱플레이어 복제
+
+STRING_DONT_CREATE = 생성 취소
+
+STRING_SPEEDUP_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 성능 향상
+
+STRING_SPEEDUP_SUGGESTION_INSTANCE = 만약 가상화(Vtx)가 비활성화된 상태에서 멀티 앱플레이어를 사용시 성능이 저하될 수 있습니다. 가상화(Vtx)를 활성화하여 @@STRING_PRODUCT_NAME@@ 성능을 향상시킬 수 있습니다.
+
+STRING_INSTALLATION_ROLLBACK = 설치 복구
+
+STRING_UNINSTALLING_WAIT = @@STRING_PRODUCT_NAME@@을 삭제 중입니다. 잠시만 기다려 주십시오.
+
+STRING_CLEANER_TITLE = @@STRING_PRODUCT_NAME@@ 클리너
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = 설치하기
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = 현재 버전 유지
+
+STRING_REC_MEM = 추천
+
+STRING_DISPLAY_SETTINGS = 디스플레이
+
+STRING_ENGINE_SETTING = 엔진
+
+STRING_BOSSKEY_SETTING = 보스키
+
+STRING_NOTIFICATION_SETTING = 알림 세팅
+
+STRING_BACKUPRESTORE_SETTING = 백업 & 복구
+
+STRING_UPDATE_SETTING = 업데이트
+
+STRING_ABOUT_SETTING = 버전 정보
+
+STRING_DEVICEPROFILE_SETTING = 장치 프로필
+
+STRING_KEEP_BLUESTACKS_UPDATED = 최신 @@STRING_PRODUCT_NAME@@을 이용하시면 게임을 더 빠르게 최신 기능들을 실행하실 수 있습니다.
+
+STRING_LATEST_VERSION = 최신 버전을 사용하고 있습니다.
+
+STRING_LATEST_VERSION_INSTALLED = 이미 @@STRING_PRODUCT_NAME@@ 최신버전이 설치되어 있습니다.
+
+STRING_CHECK_UPDATES = 업데이트 확인
+
+STRING_NEW_UPDATE = 새로운 업데이트 사용 가능 합니다.
+
+STRING_DOWNLOAD = 다운로드하기
+
+STRING_ASPECT_RATIO_NEW = 게임 해상도
+
+STRING_DPI = DPI
+
+STRING_SYSTEM_DEFAULT = 시스템 기본설정
+
+STRING_CUSTOM_SIZE = 사용자 설정
+
+STRING_LOW = 낮음
+
+STRING_HIGH = 높음
+
+STRING_CREATE_BACKUP = 백업 만들기
+
+STRING_VERSION_FOUR = 버전 4
+
+STRING_ABOUT_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 정보
+
+STRING_RESTORE_BLUESTACKS_DATA = 현재 사용중인 @@STRING_PRODUCT_NAME@@ 데이터 설치된 게임, 게임 데이터, 게임 키매핑, 설정 등을 복원하기.
+
+STRING_CHANGES_APPLY_RESTART = 변경된 내용은 재시작하면 적용됩니다.
+
+STRING_PREFERENCES = 설정
+
+STRING_PLATFORM_SETTINGS = 플랫폼 설정
+
+STRING_ADD_ICONS = 설치된 앱의 바탕화면 아이콘 생성
+
+STRING_SETUP_BOSSKEY = 보스키 설정
+
+STRING_BOSSKEY_SHORTCUT = Ctrl + Alt +
+
+STRING_BOSSKEY_DESCRIPTION = 보스 키는 @@STRING_PRODUCT_NAME@@을 빠르게 숨기거나 표시할 수 있습니다.\n
+
+STRING_CHOOSE_GRAPHICS_MODE = 그래픽 모드 설정
+
+STRING_BETTER_GRAPHICS = 향상된 그래픽
+
+STRING_MORE_COMPATIBLE = 호환성 확보
+
+STRING_CPU_AND_RAM_ALLOCATION = CPU & 메모리 설정
+
+STRING_CHOOSE_BETWEEN_ONE_TO = 선택 1-
+
+STRING_CHANGELOG = 변경 내용
+
+STRING_CHANGES_APPLY_AUTOMATIC = 변경 내용은 자동 저장됩니다.
+
+STRING_DOWNLOAD_UPDATE = 업데이트 다운로드
+
+STRING_CONTINUE_PRESENT = 계속 진행
+
+STRING_INSTALL_UPDATE = 업데이트 설치
+
+STRING_NEW_UPDATE_READY = @@STRING_PRODUCT_NAME@@의 새 버전이 다운로드되어 설치할 준비가되었습니다. 설치 하시겠습니까?
+
+STRING_UPDATE_NEXT_BOOT = 다음 시작 시에 업데이트하기
+
+STRING_INSTALLED_APPS = 설치된 앱
+
+STRING_CUSTOM_NOTIFICATION_SETTING = 설치된 앱의 알림 기능 사용
+
+STRING_REPORT_A_PROBLEM = 문제 보고
+
+STRING_CREATE_DESKTOP_SHORTCUT = 바탕화면 바로가기 만들기
+
+STRING_DELETE_INSTANCE = 앱플레이어 삭제
+
+STRING_RESTART_INSTANCE = 앱플레이어 재시작
+
+STRING_RUNNING_DOTED = 실행중...
+
+STRING_BOOTING_DOTED = 시작중...
+
+STRING_CLOSING_DOTED = 종료중...
+
+STRING_LASTBOOTEDON = 중지됨, 마지막으로 부팅됨
+
+STRING_INSTANCES = 앱플레이어
+
+STRING_START = 시작
+
+STRING_STOP = 중지
+
+STRING_NEW_FRESH_INSTANCE = 새 인스턴스
+
+STRING_NEW_FRESH_INSTANCE_MESSAGE = 다시 로그인하여 전부 설치해야 합니다.
+
+STRING_CLONE_SAME_ACCOUNT = 인스턴스 복제
+
+NAME = 이름
+
+STRING_CREATE = 생성
+
+STRING_ANTIVIRUS_WARNING_STRING = 설치에 방해되는 경우 PC 바이러스 백신을 비활성화하십시오.
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  설치를 방해하는 경우 PC 바이러스 백신 일시 중지해주세요
+
+STRING_BACKUP_DESKTOP = 업데이트 전에 바탕화면으로 백업
+
+STRING_TAKE_10MIN = 약 10분 정도가 소요됩니다.
+
+STRING_HIDE = 진행 상황 숨기기
+
+STRING_RESTARTING = 재시작
+
+STRING_SUPPORT = 고객지원
+
+STRING_WEBSITE = 웹 사이트
+
+STRING_SUPPORT_EMAIL = 고객지원 이메일
+
+STRING_CHOOSE_NEW = 신규 선택
+
+STRING_RESTORE_DEFAULT = 기본 설정으로 복구
+
+STRING_WALLPAPER = 배경화면
+
+STRING_CHANGE_WALLPAPER = 배경화면 변경
+
+STRING_RESTORE_DEFAULT_WALLPAPER = 기본 배경화면으로 변경하시겠습니까?
+
+STRING_PREMIUM_FEATURE = 프리미엄 서비스 항목
+
+STRING_PREMIUM_FEATURE_POPUP = 이 기능을 사용하시려면 @@STRING_PRODUCT_NAME@@ 프리미엄에 가입하셔야 합니다.
+
+STRING_ENABLE_VT = @@STRING_PRODUCT_NAME@@의 속도를 높이기 위해 하드웨어 지원 가상화 사용
+
+STRING_LEARN_MORE = 더 알아보기
+
+STRING_SPEED_UP_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 가속화
+
+STRING_SPEED_UP_TIPS = 성능 향상 팁
+
+STRING_ENABLE_VIRT = 하드웨어 지원 가상화 활성화
+
+STRING_ENABLE_VIRT_BODY = 하드웨어 지원 가상화는 앱을 보다 빠르게 동작하도록 지원합니다.
+
+STRING_ENABLE_VIRT_HYPERLINK = 가상화를 어떻게 활성화합니까?
+
+STRING_UPGRADE_SYSTEM = 컴퓨터를 업그레이드하십시오.
+
+STRING_UPGRADE_SYSTEM_BODY = 보다 많은 메모리와 빠른 CPU를 사용하도록 컴퓨터를 업그레이드하면 @@STRING_PRODUCT_NAME@@ 성능이 향상 됩니다. 좋은 디스프레이와 트랙패트, 마우스 등을 사용하면 보다 개선된 게임환경을 경험할 수 있습니다.
+
+STRING_UPGRADE_SYSTEM_HYPERLINK = 추천하는 시스템 사양은 어떻게 됩니까?
+
+STRING_CONFIGURE_ANTIVIRUS = 안티바이러스 프로그램 비활성화
+
+STRING_CONFIGURE_ANTIVIRUS_BODY = 일부 안티바이러스 프로그램의 기능은 시스템 자원을 많이 소모하도록 설계되어 있습니다. @@STRING_PRODUCT_NAME@@을 사용하는 동안 안티바이러스 프로그램을 꺼놓으면 성능 개선에 도움이 됩니다.
+
+STRING_CONFIGURE_ANTIVIRUS_HYPERLINK = 안티바이러스 프로그램을 어떻게 설정해야 합니까?
+
+STRING_DISABLE_HYPERV = 가상화 기능(Hyper-V) 사용 안함
+
+STRING_DISABLE_HYPERV_BODY = @@STRING_PRODUCT_NAME@@은 가상화 기술을 사용하기 때문에 Hyper-V, VirtualBox 또는 VMWare와 같은 다른 가상화 프로그램이 실행 중이면 정상적인 이용에 문제가 될 수 있습니다. @@STRING_PRODUCT_NAME@@ 사용 전에 다른 가상화 프로그램을 모두 종료하시를 권해드립니다.
+
+STRING_DISABLE_HYPERV_HYPERLINK = 다른 가상화 프로그램을 어떻게 종료 합니까?
+
+STRING_NOT_ENOUGH_RAM = 멀티 앱플레이어를 실행하기에는 메모리가 부족합니다. 메모리를 추가하면 멀티 앱플레이어 사용이 가능 합니다.
+
+STRING_LOGOUT_BUTTON = 로그아웃
+
+STRING_LOGOUT_BLUESTACKS3 = @@STRING_PRODUCT_NAME@@ 로그아웃
+
+STRING_REMOVE_GOOGLE_ACCOUNT = Google Play에서 로그아웃 하시겠습니까?
+
+STRING_APP_UPGRADE = 이 앱을 업데이트 하시겠습니까?
+
+STRING_PLAY_NOW = 지금 플레이하기
+
+STRING_RESTORE_INFO = 복원하기 전에 백업을 고려해 주십시오. 복원은 기존 데이터를 덮어쓰며 그 데이터는 손실됩니다.
+
+STRING_BACKUP_INFO = 설치된 게임에 따라 최대 5 분이 소요될 수 있습니다.
+
+STRING_BTV_WARNING = 스트리밍이나 비디오 녹화 등은 게임을 플레이하는데 느려질 수 있습니다.
+
+STRING_BTV_DOWNLOAD = @@STRING_PRODUCT_NAME@@ TV 다운로드 중
+
+STRING_BTV_INSTALL_WAIT = @@STRING_PRODUCT_NAME@@ TV와 비디오 관련 제품을 다운로드 받는 동안 잠시만 기다려 주십시오.
+
+STRING_BTV_DOWNLOAD_CANCEL = @@STRING_PRODUCT_NAME@@ TV를 다운로드 중입니다. 다운로드 프로세스를 취소 하시겠습니까?
+
+STRING_LANGUAGE_SETTING = 언어 설정
+
+STRING_DOWNLOAD_NOW = 다운로드
+
+STRING_HYPERV_ENABLED_MESSAGE = @@STRING_PRODUCT_NAME@@은 Hyper-V가 활성화되어있을 때 하드웨어 지원 가상화를 사용할 수 없습니다. 제어판에서 Hyper-V를 비활성화하십시오. 자세한 내용은 FAQ를 확인하십시오.
+
+STRING_SHOW_GUIDE = FAQ 보기
+
+STRING_UPGRADE_NOT_SUPPORTED = 아쉽게도 @@STRING_PRODUCT_NAME@@의 기존 버전을 최신 버전으로 업그레이드 할 수 없습니다.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = 현재 빌드를 제거하고 @@STRING_PRODUCT_NAME@@을 다시 설치하십시오.
+
+STRING_AVAILABLE_TO_DOWNLOAD = 다운로드 가능
+
+STRING_XPAC_PERF_BOOST = 퍼포먼스 부스팅
+
+STRING_XPAC_DEF_KEYMAP = 기본 키보드 설정
+
+STRING_XPAC_SPECIAL_THEMES = 특별한 테마
+
+STRING_XPAC_GUIDE_TUTORIALS = 튜토리얼 보기
+
+STRING_XPAC_SPECIAL_GIFTS = 특별 선물
+
+STRING_XPAC_DESCRIPTION = 엑스팩(xPacks)은 @@STRING_PRODUCT_NAME@@에서 특별한 게이밍 경험을 제공하기 위하여 여러가지 툴이 제공됩니다.
+
+STRING_XPAC_GET_FREE = 무료로 즐기기
+
+STRING_XPAC_APPLY_THEME = 엑스팩(xPack) 테마 적용
+
+STRING_XPAC_REVERT_THEME = 기본 테마로 돌아가기
+
+STRING_XPAC_INSTALLED = 엑스팩(xPack)이 설치됨
+
+STRING_CAPTURE_ERROR = 화면을 캡쳐할 수 없습니다. 다이렉트 엑스를 사용하도록 변경하려면 FAQ를 참고하십시오.
+
+STRING_DIRECTX_DOWNLOAD = @@STRING_PRODUCT_NAME@@ TV에 필요한 DirectX 구성 요소가 시스템에 없습니다. 다운로드하시겠습니까?
+
+STRING_CHANGE_SKINS = 스킨 변경
+
+STRING_BLUESTACKS_SKIN = @@STRING_PRODUCT_NAME@@ 스킨
+
+STRING_CHANGE_SKIN = 스킨변경
+
+STRING_ICON_REMOVE = 아이콘을 삭제하시겠습니까?
+
+STRING_SOME_ERROR_OCCURED_DOWNLOAD = 업데이트를 성공적으로 다운로드 할 수 없습니다. 다시 시도하거나 @@STRING_PRODUCT_NAME@@ 지원팀에 문의하십시오.
+
+STRING_MAPS = 플레이하고 당첨에 도전하세요!
+
+STRING_DELETING_DOTED = 삭제 중
+
+STRING_AUTO_START_ON_FINISH = 완료 후 시작
+
+STRING_PIKA_POINTS = BlueStacks 포인트
+
+STRING_APPLIED = 적용됨
+
+STRING_REDEEM = 보상
+
+STRING_INVALID_APK_BLACKLISTED_ERROR = 이 앱은 현재 @@STRING_PRODUCT_NAME@@ 버전에 설치할 수 없습니다.
+
+STRING_MACRO_RUNNING = 현재 매크로가 실행 중입니다.
+
+STRING_REROLL_APP_PREFIX = 재도전 하기
+
+STRING_START_REROLL = {0}에서 캐릭터와 아이템을 다시 등록하시겠습니까?
+
+STRING_REROLL_COMPLETED = 다시 등록하기 완료
+
+STRING_GL3_SWITCH = @@STRING_PRODUCT_NAME@@ 호환성 모드로 전환
+
+STRING_GL3_WINDOW_TITLE = 아쉽게도, 해당 게임을 플레이 할 수 없습니다.
+
+STRING_GL3_WINDOW_BODY_DIRECTX = 그래픽 카드는 현재 모드에서이 게임을 지원하지 않습니다. 이 게임을 실행하려면 @@STRING_PRODUCT_NAME@@ 그래픽 모드를 호환성 모드로 전환하십시오.
+
+STRING_SWITCH_OPENGL_MODE = 게임을 플레이하려면 호환성 모드로 전환하십시오.
+
+STRING_GL_MODE_RESTART = 그래픽 모드를 전환하려면 @@STRING_PRODUCT_NAME@@을 다시 시작해야합니다.
+
+STRING_GL3_WINDOW_BODY_OPENGL = 아쉽지만, 사용하시는 그래픽카드나 그래픽카드 드라이버가 이 게임을 지원하지 않습니다.
+
+STRING_GL3_UPDATE_DRIVER = 그래픽 드라이버를 업데이트하여 게임을 즐기십시오.
+
+STRING_IMPORTANT_UPDATES = 중요 업데이트
+
+STRING_VIEW_XPACK = 엑스팩 보기
+
+STRING_NOTIFICATION_CENTER = 알림 센터
+
+STRING_CLEAR_ALL = 모두 삭제
+
+STRING_XPACK = 엑스팩
+
+STRING_GET_XPACKS = 엑스팩 가져오기
+
+STRING_SHOW_RIBBON = 리본 공지 알림 표시
+
+STRING_PRECAUTION_BEFORE_UPGRADE = 업그레이드에 실패한 경우 데이터를 보호 수단으로 백업하는 것이 좋습니다.
+
+STRING_HOW_TO_TAKE_BACKUP = 어떻게 백업하나요?
+
+STRING_BEFORE_YOU_UPDATE = 업데이트 하기 전
+
+STRING_CONTINUE = 계속하기
+
+STRING_VIEW_XPACK_TOOLTIP = 더 나은 게임 플레이를 위하여 엑스팩(xPack) 파워업 보기 및 기능 향상 하기
+
+STRING_GET_XPACK_TOOLTIP = 엑스팩(xPack)을 다운로드하면 파워업을 통해 게임 성능을 향상시키고 더 멋진 플레이를 경험하실 수 있습니다.
+
+STRING_APP_CANNOT_START = 앱 시작 실패
+
+STRING_ADVANCED_GRAPHIC_ENGINE_REQUIRED = 이 앱은 고급 호환성 엔진이 필요합니다.
+
+STRING_SWITCH_TO_ADVANCED_ENGINE_RESTART = 이 앱을 플레이 하려면 고급 그래픽 엔진으로 전환하십시오. @@STRING_PRODUCT_NAME@@에 변경 내용을 적용 하기위하여 다시 시작해야합니다. 설정 -> 엔진에서 그래픽 엔진을 변경할 수도 있습니다.
+
+STRING_SWITCH_RESTART = 변경하고 재시작 하기
+
+STRING_ADVANCE_GRAPHICS_ENGINE_SETTING = 고급 그래픽 엔진 모드 사용
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = 롤백 완료
+
+STRING_INSTALLER_PROPERTIES_INIT_FAILED_BODY = 설치 프로그램의 속성을 초기화하는 동안 오류가 발생했습니다.
+
+STRING_CLICK_HERE = 여기 클릭하여 다운로드 하기
+
+STRING_DIRECTX_WARNING_TITLE = 이 버전에서는 호환성 모드가 스피드모드 보다 잘 작동합니다.
+
+STRING_DIRECTX_WARNING = 더 나은 성능과 게임 플레이를 위해 호환성 모드로 전환하십시오. 그래도 스피드 모드를 사용하려면 @@STRING_PRODUCT_NAME@@3를 설치하십시오.
+
+STRING_LATEST_VERSION_REQUIRED = 이 앱은 최신 버전의 @@STRING_PRODUCT_NAME@@이 필요합니다.
+
+STRING_LATEST_VERSION_REQUIRED_DETAILED = 이 게임은 @@STRING_PRODUCT_NAME@@의 기존 버전과 호환되지 않습니다. 이 게임을 즐기려면 @@STRING_PRODUCT_NAME@@의 최신 버전을 다운로드하여 설치하십시오.
+
+STRING_KITKAT_VERSION_REQUIRED = 이 앱은 @@STRING_PRODUCT_NAME@@3에서만 호환됩니다.
+
+STRING_NOUGAT_VERSION_REQUIRED = 이 앱은 @@STRING_PRODUCT_NAME@@N에서만 호환됩니다.
+
+STRING_NOUGAT_VERSION_REQUIRED_DETAILED = 이 앱은 최신 @@STRING_PRODUCT_NAME@@N에서만 지원됩니다. @@STRING_PRODUCT_NAME@@N의 최신 버전을 다운로드하여 설치하십시오.
+
+STRING_DX_SWITCH = @@STRING_PRODUCT_NAME@@ 그래픽 모드를 DirectX 모드로 전환하십시오.
+
+STRING_ADX_SWITCH = @@STRING_PRODUCT_NAME@@ 그래픽 모드를 고급 DirectX 모드로 전환하십시오.
+
+STRING_DX_WINDOW_BODY_DIRECTX = 그래픽 카드가 현재 모드에서 이 게임을 지원하지 않습니다. 이 게임을 실행하려면 @@STRING_PRODUCT_NAME@@ 그래픽 모드를 DirectX 모드로 전환하십시오.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = 이 버전의 @@STRING_PRODUCT_NAME@@ 설치프로그램은 사용중인 윈도우 버전과 호환되지 않습니다. @@STRING_PRODUCT_NAME@@의 {0} 버전을 다운로드하고 다시 시도하십시오.
+
+STRING_VTX_DISABLED_WARNING_MESSAGE = @@STRING_PRODUCT_NAME@@은 성능 향상을 위해 하드웨어 지원 가상화를 사용할 수 없습니다. BIOS 설정을 확인하고 활성화되어 있는지 확인하십시오. AVAST 또는 360 바이러스 백신을 사용하는 경우 바이러스 백신 설정을 확인하고 하드웨어 지원 가상화를 사용하지 않도록 설정하십시오. 자세한 내용은 FAQ를 확인하십시오.
+
+STRING_VTX_UNAVAILABLE_WARNING_MESSAGE = 귀하의 PC는 하드웨어 지원 가상화를 지원하지 않습니다. 이는 @@STRING_PRODUCT_NAME@@에 대한 귀하의 경험에 영향을 줄 수 있습니다.
+
+STRING_DISABLED_VT_TITLE = 가상화를 사용하지 않기 때문에 성능이 저하됩니다.
+
+STRING_DISABLED_VT = 안타깝게도 하드웨어 가상화 기술 (VT)이 PC의 CPU에서 비활성화되어 성능이 저하됩니다. VT를 사용하려면이 FAQ를 참조하십시오.
+
+STRING_RAM_NOTIF_TITLE = RAM으로 인해 성능이 느립니다.
+
+STRING_RAM_NOTIF = PC의 메모리가 4GB 이하이므로 성능이 저하 될 수 있습니다. @@STRING_PRODUCT_NAME@@의 시스템 요구 사항을 확인해주세요.
+
+STRING_CONTINUE_ANYWAY = 계속 진행하기
+
+STRING_RUNNING_CHECKS = 호환성 체크 실행하기
+
+STRING_OPENGL_NOTSUPPORTED_BODY = 안타깝게도, 귀하의 PC 그래픽카드는 호환성 모드를 지원하지 않습니다. 계속 버튼을 클릭하고 게임을 진행하십시오.
+
+STRING_OPENGL_NOT_SUPPORTED = 호환성 모드는 지원되지 않습니다.
+
+STRING_UNFORTUNATELY_COULDNT_INSTALL = PC에 @@STRING_PRODUCT_NAME@@이 설치될 수 없습니다.
+
+STRING_ERROR_CODE_COLON = 에러 코드:
+
+STRING_PREINSTALL_FAIL = 귀하의 PC는 @@STRING_PRODUCT_NAME@@을 설치하기 위한 최소 요구 사항을 충족시키지 못합니다.
+
+STRING_INSUFFICIENT_DISKSPACE = 디스크 저장 공간이 부족합니다. @@STRING_PRODUCT_NAME@@은 다음 저장 공간이 필요합니다:
+
+STRING_OLD_INSTALLATION_INTERFERING = @@STRING_PRODUCT_NAME@@의 기존 설치가 @@STRING_PRODUCT_NAME@@을 설치하려는 현재의 시도를 방해하고 있는 것으로 보입니다.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = @@STRING_PRODUCT_NAME@@이 이전 데이터를 복원할 수 없습니다.
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = 일부 파일을 배포하는 동안 @@STRING_PRODUCT_NAME@@에서 오류가 발생했습니다.
+
+STRING_COULDNT_RESTORE_UNUSABLE = @@STRING_PRODUCT_NAME@@을 이전 상태로 복원 할 수 없으며 사용할 수 없습니다.
+
+STRING_KITKAT_VERSION_REQUIRED_DETAILED = 이 앱은 @@STRING_PRODUCT_NAME@@4에서 지원되지 않습니다. @@STRING_PRODUCT_NAME@@3의 최신 버전을 다운로드하여 설치하십시오.
+
+STRING_CHECK_FAQ = FAQ 확인
+
+STRING_INSTALLER = © Bluestack Systems, Inc., 2011년부터 2020년까지, 전세계 판권 소유
+
+STRING_PERFORMANCE_SETTINGS = 성능 설정
+
+STRING_SWITCH_HOME = 앱 간의 표준 안드로이드 전환
+
+STRING_CLEAN_BLUESTACKS = 이렇게하면 기존 @@STRING_PRODUCT_NAME@@과 로컬에 저장된 게임 데이터가 완전히 지워집니다.
+
+STRING_HYPERV_ENABLED_WARNING = Hyper-V가 활성화되어 있으면 @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다.
+
+STRING_IMPROVE_PERFORMANCE = 성능 향상
+
+STRING_IMPROVE_PERFORMANCE_WARNING = @@STRING_PRODUCT_NAME@@이 느려지거나 반응이 없을 수 있습니다.
+
+STRING_PROMO_INFO = 부팅 후 게임이 설치됩니다.
+
+STRING_INSTALL = 설치
+
+STRING_PLAY = 실행
+
+STRING_MOST_SEARCHED_APPS = 가장 많이 검색된 앱
+
+STRING_PREREGISTER = 사전 등록
+
+STRING_KILL_WEBTAB = 게임을 실행할 때 웹 페이지 끄기
+
+STRING_LOW_AVAILABLE_RAM_TITLE = PC의 사용 가능한 RAM이 부족합니다.
+
+STRING_LOW_AVAILABLE_RAM_TEXT1 = 사용 가능한 RAM이 부족하여 @@STRING_PRODUCT_NAME@@의 성능이 저하될 수 있습니다.
+
+STRING_LOW_AVAILABLE_RAM_TEXT2 = 일부 프로그램을 종료하고 계속 진행해주십시오.
+
+STRING_CHANGE_DEVICE_PROFILE = 이 게임을 재생하려면 기기 프로필을 업데이트하십시오.
+
+STRING_CHANGE_DEVICE_PROFILE_BODY = 이 게임은 기기에서 실행되지 않을 수 있습니다. 게임을 계속하려면 장치를 변경하십시오.
+
+STRING_SWITCH_PROFILE = 프로필 전환
+
+STRING_SWITCHING_PROFILE = 프로필 전환중
+
+STRING_SWITCH_PROFILE_FAILED = 장치 프로필을 전환하지 못했습니다.
+
+STRING_SWITCH_PROFILE_UPDATED = 장치 프로필을 성공적으로 업데이트했습니다.
+
+STRING_SETUP = Google 설정
+
+STRING_OLD_KEYMAPPINGS_CANNOT_USE = 업그레이드 후에 사용할 수 없도록 저장된 사용자 정의 키맵이 있습니다.
+
+STRING_WOULD_LIKE_TO_CONTINUE = 계속하시겠습니까?
+
+STRING_CLOSE_GAME = 게임 종료
+
+STRING_CLOSE_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 닫기
+
+STRING_GAME_CONTROLS_CONTROL_SCHEME = 컨트롤 파일
+
+STRING_BTV = BTV
+
+STRING_REVERT = 되돌리기
+
+STRING_EDIT_KEYS = 수정
+
+STRING_SAVE_KEYS = 저장
+
+STRING_GAME_CONTROLS_WINDOW_HEADER = 게임 컨트롤
+
+STRING_GAME_CONTROLS_WINDOW_EDIT_HEADER = 게임 컨트롤 편집
+
+STRING_BLUESTACKS_GAME_CONTROLS = @@STRING_PRODUCT_NAME@@ 게임 컨트롤
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER1 = 언제라도이 화면을 보려면 {0}을 누르십시오.
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER2 = 보여주지 않기
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER3 = 팁 - 새로운 키로 변경하시려면 마우스 클릭으로 새로운 키 수정 후, 상단의 저장 버튼을 눌러 저장해 주세요.
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_HEADER = 바인드 키를 위해 스크린에서 동작을 클릭하거나 드래그하십시오. 미세 조정 설정은 마우스 오른쪽 버튼을 클릭하십시오.
+
+STRING_UNSAVED_CHANGES = 저장되지 않은 변경 사항이 있습니다. 저장하고 종료 하시겠습니까?
+
+STRING_UNSAVED_CHANGES_CLOSE_WINDOW = 저장되지 않은 변경 사항이 있습니다. 저장하고 닫으시겠습니까?
+
+STRING_UNSAVED_CHANGES_CLOSE = 게임 컨트롤의 변경 사항을 저장하고 닫으시겠습니까?
+
+STRING_CLEAR_CHANGES = 변경 사항이 삭제되었습니다.
+
+STRING_REVERT_CHANGES = 변경 사항 되돌리기
+
+STRING_CHANGES_SAVED = 변경 사항이 저장되었습니다.
+
+STRING_USING_SCHEME = 파일 사용
+
+STRING_MOBA_HERO_DUMMY = 히어로 더미를 교정을 위해 화면 중앙에 배치하십시오.
+
+STRING_MOBA_SKILL_CANCEL = 포인트를 취소 키에 놓습니다.
+
+STRING_LOOK_AROUND_MODE = 가능한 경우 컨트롤 주변을 볼 수 있도록 눈 아이콘을 배치합니다.
+
+STRING_SHOOT_MODE = 불 아이콘을 화면의 불 무기 컨트롤 위에 놓습니다.
+
+STRING_AAVIDEO = 튜토리얼
+
+Imap_string_MouseRButton = 마우스 오른쪽 버튼으로 클릭
+
+Imap_string_MouseLButton = 왼쪽 클릭
+
+Imap_string_MouseMButton = 가운데 클릭
+
+IMAP_STRING_Fields = 필드
+
+IMAP_STRING_CATEGORY_Shooting_Mode = 슈팅 모드
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_PROFILEHEADER = 컨트롤 파일
+
+IMAP_Video_Element_Body = @@STRING_PRODUCT_NAME@@에서만 사용 가능한 최적화 된 게임 플레이 팁과 트릭에 대한 독점적인 게임 튜토리얼을 확인해 보십시오.
+
+IMAP_Video_Element_Header = 독점적 게임 비디오
+
+IMAP_MOBA_Video_Element_Body = 모바일 전투 게임에서 마우스를 사용하여 게임 플레이 경험을 향상시키세요.
+
+IMAP_MOBA_Video_Element_Header = 마우스로 움직이기 & 마법쓰기
+
+IMAP_Pan_Video_Element_Body = 모바일 FPS 또는 슈팅 게임에서 마우스로 더 편하게 게임을 즐기세요.
+
+IMAP_Pan_Video_Element_Header = 마우스로 조준 및 팬
+
+STRING_SHOW_GAMING = 가까운 곳에 게임 요약 표시
+
+STRING_SUBMIT = 제출
+
+STRING_TROUBLE_LOGGING = 로그인하는 데 문제가 있습니까?
+
+STRING_LET_HELP = 도움말 보기
+
+STRING_OUTLINE_ISSUE = 아래에 문제점에 관해 설명 부탁드립니다.
+
+STRING_DESC_ISSUE = 문제 설명
+
+STRING_HOW_ISSUE = 어떤 경험을 하고 계십니까?
+
+STRING_YOUR_EMAIL = 이메일 주소
+
+STRING_YOUR_PHONE = 전화 번호
+
+STRING_TEN_PHONE_NUMBER = 국가 번호를 포함한 전화 번호를 입력해 주십시오. (참고: 한국 +82)
+
+STRING_APPRECIATE_FEEDBACK = @@STRING_PRODUCT_NAME@@을 선택해 주셔서 감사합니다. 저희 고객 지원팀에서 곧 연락 드리겠습니다.
+
+STRING_THANK_YOU = 감사합니다.
+
+STRING_RESTART_BLUESTACKS_AFTER_GRAPHICS_CHANGE = @@STRING_PRODUCT_NAME@@을 다시 시작하여 {0}에서 부팅하십시오.
+
+STRING_CHECKING_GRAPHICS_COMPATIBILITY = {0} 호환성 확인 중
+
+STRING_GRAPHICS_NOT_SUPPORTED_ON_MACHINE = {0}은 PC에서 지원되지 않습니다.
+
+STRING_GUIDANCE_CATEGORY = 안내 카테고리
+
+STRING_ENHANCEMENTS = 향상
+
+STRING_TAGS = 태그 (선택 사항)
+
+STRING_ENABLE_MODE = 모드 사용
+
+STRING_FIRE_WITH_MOUSE_LEFT = 마우스 왼쪽으로 발사
+
+STRING_CANCEL_SKILL = 스킬 취소
+
+STRING_ENABLE_FEATURES = 기능 사용
+
+STRING_LOOK_AROUND_MODE_HEADER_TEXT = 주변 둘러보기 모드
+
+STRING_MOBA_CONTROL_MODE = MOBA 제어 모드
+
+IMAP_STRING_UP = 위로
+
+IMAP_STRING_MOBADPAD_KEYMOVE = 움직임
+
+IMAP_STRING_DOWN = 아래로
+
+IMAP_STRING_LEFT = 왼쪽
+
+IMAP_STRING_RIGHT = 오른쪽
+
+IMAP_STRING_TAP = 탭
+
+IMAP_STRING_ZOOM_IN = 확대
+
+IMAP_STRING_ZOOM_OUT = 축소
+
+IMAP_STRING_CATEGORY_ZOOM = 확대/축소
+
+IMAP_STRING_TOGGLE_SHOOTING_ = 슈팅 모드 전환
+
+IMAP_STRING_SUSPEND_SHOOTING_MODE = 슈팅 모드 일시 중지
+
+IMAP_STRING_PAN_TWEAKS = 수정
+
+IMAP_STRING_TAP_KEY = 탭 키
+
+STRING_MISC = 기타
+
+IMAP_STRING_SWIPE_UP = 위로 스와이프
+
+IMAP_STRING_SWIPE_DOWN = 아래로 스와이프
+
+IMAP_STRING_SWIPE_LEFT = 왼쪽으로 스와이프
+
+IMAP_STRING_SWIPE_RIGHT = 오른쪽으로 스와이프
+
+IMAP_STRING_Tap_Settings = 탭 설정
+
+IMAP_STRING_Dpad_Settings = D-pad 설정
+
+IMAP_STRING_DPAD_XRadius = 반경
+
+IMAP_STRING_DPAD_KeyUp = 위로
+
+IMAP_STRING_DPAD_KeyDown = 아래로
+
+IMAP_STRING_DPAD_KeyLeft = 왼쪽
+
+IMAP_STRING_DPAD_KeyRight = 오른쪽
+
+IMAP_STRING_TILT_KeyUp = 위로
+
+IMAP_STRING_TILT_KeyDown = 아래로
+
+IMAP_STRING_TILT_KeyLeft = 왼쪽
+
+IMAP_STRING_TILT_KeyRight = 오른쪽
+
+IMAP_STRING_DPAD_KeySpeedModifier1 = 속도 수정 1
+
+IMAP_STRING_DPAD_XRadius1 = 반경 1
+
+IMAP_STRING_DPAD_KeySpeedModifier2 = 속도 수정 2
+
+IMAP_STRING_DPAD_XRadius2 = 반경 2
+
+IMAP_STRING_DPAD_ActivationTime = 활성 시간
+
+IMAP_STRING_DPAD_ActivationSpeed = 작동 속도
+
+IMAP_STRING_DPAD_Speed = 속도
+
+IMAP_STRING_MOBADPAD_CharSpeed = 영웅의 속도
+
+IMAP_STRING_MOBADPAD_OriginX = 영웅 위치 X
+
+IMAP_STRING_MOBADPAD_OriginY = 영웅 위치 Y
+
+IMAP_STRING_Zoom_Settings = 줌 설정
+
+IMAP_STRING_ZOOM_Radius = 반경
+
+IMAP_STRING_ZOOM_KeyIn = 확대
+
+IMAP_STRING_ZOOM_KeyOut = 축소
+
+IMAP_STRING_ZOOM_KeyModifier = 수정 키
+
+IMAP_STRING_ZOOM_Mode = 모드
+
+IMAP_STRING_ZOOM_Override = 재정의
+
+IMAP_STRING_Pan_Settings = 팬 설정
+
+IMAP_STRING_PAN_KeyStartStop = 시작 멈춤
+
+IMAP_STRING_PAN_KeySuspend = 일시 중단
+
+IMAP_STRING_PAN_Sensitivity = 마우스 감도 X
+
+IMAP_STRING_PAN_KeyLookAround = 자유롭게 보기
+
+IMAP_STRING_PAN_LookAroundX = 자유롭게 보기 위치 X
+
+IMAP_STRING_PAN_LookAroundY = 자유롭게 보기 위치 Y
+
+IMAP_STRING_PAN_KeyAction = 액션
+
+IMAP_STRING_PAN_LButtonX = 액션 위치 X
+
+IMAP_STRING_PAN_LButtonY = 액션 위치 Y
+
+IMAP_STRING_MOBASkill_DeadZoneRadius = 사각 지대 반경
+
+IMAP_STRING_MOBASkill_XRadius = 반경
+
+IMAP_STRING_MOBASkill_Settings = MOBA 스킬 설정
+
+IMAP_STRING_MOBASKILL_KeyActivate = 활성화
+
+IMAP_STRING_MOBASKILL_KeyAutocastToggle = 오토 캐스트 토글
+
+IMAP_STRING_MOBASKILL_CancelSpeed = 취소 속도
+
+IMAP_STRING_MOBASKILL_KeyCancel = 취소
+
+IMAP_STRING_Swipe_Settings = 스와이프 설정
+
+IMAP_STRING_SWIPE_X1 = X
+
+IMAP_STRING_SWIPE_Y1 = Y
+
+IMAP_STRING_MOBASKILL_X = X
+
+IMAP_STRING_MOBASKILL_Y = Y
+
+IMAP_STRING_TAP_X = X
+
+IMAP_STRING_TAP_Y = Y
+
+IMAP_STRING_ZOOM_X = X
+
+IMAP_STRING_ZOOM_Y = Y
+
+IMAP_STRING_DPAD_X = X
+
+IMAP_STRING_DPAD_Y = Y
+
+IMAP_STRING_PAN_X = X
+
+IMAP_STRING_PAN_Y = Y
+
+IMAP_STRING_SWIPE_Hold = 스와이프 그리고 멈추기
+
+IMAP_STRING_SWIPE_True = 진실
+
+IMAP_STRING_SWIPE_False = 거짓
+
+IMAP_STRING_SWIPE_KeyUp = 위로 스와이프
+
+IMAP_STRING_SWIPE_KeyDown = 아래로 스와이프
+
+IMAP_STRING_SWIPE_KeyLeft = 왼쪽으로 스와이프
+
+IMAP_STRING_SWIPE_KeyRight = 오른쪽으로 스와이프
+
+IMAP_STRING_TILT_Settings = 기울이기 설정
+
+IMAP_STRING_TILT_Speed = 속도
+
+IMAP_STRING_ZOOM_Speed = 속도
+
+IMAP_STRING_SWIPE_Speed = 속도
+
+IMAP_STRING_SWIPE_Radius = 반지름
+
+IMAP_STRING_TILT_MaxAngle = 최대 경사각
+
+IMAP_STRING_TILT_AutoReset = 자동 재설정
+
+IMAP_STRING_MOBASkill_Header_Edit_UI = MOBA 스킬 패드
+
+IMAP_STRING_MOBASkill_Description_Edit_UI = 이 특별한 D-Pad를 사용하여 주문의 방향을 잡아냅니다.
+
+IMAP_STRING_Dpad_Header_Edit_UI = D-pad
+
+IMAP_STRING_Dpad_Description_Edit_UI = 키보드로 캐릭터 또는 게임용 아날로그 스틱의 움직임을 매핑하십시오.
+
+IMAP_STRING_Tilt_Header_Edit_UI = 기울이기
+
+IMAP_STRING_Tilt_Description_Edit_UI = 기울이거나 회전해야하는 경우, 이 컨트롤을 사용하십시오.
+
+IMAP_STRING_Swipe_Header_Edit_UI = 스와이프
+
+IMAP_STRING_Swipe_Description_Edit_UI = 스와이프를 키보드 키에 매핑합니다.
+
+IMAP_STRING_Pan_Header_Edit_UI = 조준, 카메라 조정, 슛
+
+IMAP_STRING_Pan_Description_Edit_UI = 이동하는 동안 마우스를 이용하여 조준과 슈팅을 하십시오.
+
+IMAP_STRING_Zoom_Header_Edit_UI = 확대/축소
+
+IMAP_STRING_Zoom_Description_Edit_UI = 확대/축소를 지원하는 화면에 확대 또는 축소를 추가하십시오.
+
+IMAP_STRING_Tap_Header_Edit_UI = 탭 스팟
+
+IMAP_STRING_Tap_Description_Edit_UI = 마우스를 사용할 필요가 없도록 이 작업으로 스팟을 지정하십시오.
+
+STRING_ENTER_GUIDANCE_TEXT = 안내 텍스트 입력
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = 선택한 경로에는 다음 문자가 포함될 수 없습니다.
+
+STRING_INSTANCE_MANAGER = 인스턴스 매니저
+
+STRING_DELETE_APPS = 앱 삭제
+
+STRING_NEW_INSTANCE = 새 인스턴스
+
+IMAP_STRING_CATEGORY_SWIPE = 스와이프
+
+IMAP_STRING_CATEGORY_AIM & 쏘기 = 조준하고 쏘기
+
+IMAP_STRING_CATEGORY_SHOOTING 모드 = 슈팅 모드
+
+IMAP_STRING_CATEGORY_CAMERA = 카메라
+
+IMAP_STRING_ZOOM = 확대/축소
+
+IMAP_STRING_TILT_LEFT = 왼쪽으로 기울이기
+
+IMAP_STRING_TILT_RIGHT = 오른쪽으로 기울이기
+
+IMAP_STRING_CATEGORY_CONTROL = 카메라 = 카메라 제어
+
+IMAP_STRING_SWAP = 변경
+
+IMAP_STRING_FREE_LOOK = 자유롭게 보기
+
+IMAP_STRING_FIRE = 발사
+
+IMAP_STRING_TILT_UP = 위로 기울이기
+
+IMAP_STRING_TILT_DOWN = 아래로 기울이기
+
+IMAP_STRING_CATEGORY_TILT = 기울이기
+
+IMAP_STRING_SPEED_MODIFIER = 속도 수정 1
+
+IMAP_STRING_CATEGORY_SWAP = 변경
+
+IMAP_STRING_SPLIT = 나누기
+
+IMAP_STRING_SHOOT/SPLIT = 쏘기 / 나누기
+
+IMAP_STRING_CATEGORY_SHOOTING = 모드 = 슈팅 모드
+
+STRING_HOT_PINK_THEME = 핫핑크
+
+STRING_LINEAGE2_REVOLUTION_THEME = 리니지 2 레볼루션
+
+STRING_COOL_BLUE_THEME = 쿨블루
+
+STRING_GET_XPACKS_TITLE = xPack을 다운로드 받으려면 클릭하세요
+
+STRING_VIEW_XPACK_TITLE = xPack을 보려면 클릭하세요
+
+STRING_DUPLICATE_KEY_WARNING = 이 키는 이미 다른 작업에 할당되어 있지만 이제 이 키를 두 작업에 모두 사용할 수 있습니다.
+
+STRING_WAIT_WHILE_UPDATE_BLUESTACKS = @@STRING_PRODUCT_NAME@@이 업데이트 될 때까지 기다려주십시오
+
+STRING_DONT_LAUNCH_BS_WHILE_UPDATING = 데이터 손실을 방지하기 위해 @@STRING_PRODUCT_NAME@@를 시작하거나 업데이트 프로세스를 종료하지 마십시오.
+
+STRING_UPDATING = @@STRING_PRODUCT_NAME@@ 업데이트
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_UPGRADE = 저장한 키보드 컨트롤을 업그레이드할 수 없게 되어 데이터를 손실되었습니다
+
+IMAP_STRING_VEHICLE_BOOST = 차량 부스트
+
+STRING_BLUESTACKS_STORE = @@STRING_PRODUCT_NAME@@ 스토어
+
+IMAP_STRING_SPACE = 스페이스
+
+STRING_BEFORE_YOU_RESTORE  =  복원하기 전에
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_RESTORE = 주의! 사용자 지정 키보드 컨트롤이있는 경우 복원에 의해 덮어 쓰여져 사라집니다.
+
+STRING_DATA_MANAGER_INFO_FILE_MISSING = 유감스럽게도 @@STRING_PRODUCT_NAME@@의 이전 버전을 사용하여 만든 백업에서 최신 버전으로 데이터를 복원 할 수 없습니다.
+
+STRING_OVERLAY = 온 스크린
+
+STRING_SHOW_ON_OVERLAY = 온 스크린에 키 표시
+
+STRING_POWER_PLAN = 전원 관리 옵션 설정 조정
+
+STRING_POWER_PLAN_BODY = @@STRING_PRODUCT_NAME@@을 가속화하기 위해 전원 계획 설정을 고성능으로 조정하십시오.
+
+STRING_POWER_PLAN_HYPERLINK = 지금 전원 관리 옵션 변경하기
+
+STRING_TERMS_OF_USE =  © BlueStack Systems, Inc., 2011년부터 2020년까지 판권 소유. BlueStacks를 사용함으로써 귀하는 해당 내용을 동의한 것으로 간주됩니다.
+
+STRING_TERMS_OF_USE_LINK = 이용 약관
+
+STRING_AUDIO_SERVICE_FAILURE = 오디오를 초기화할 수 없습니다.
+
+STRING_AUDIO_SERVICE_FAILUE_FIX = 컴퓨터를 재부팅하여 문제를 해결하십시오.
+
+STRING_AUDIO_SERVICE_FAILURE_ALTERNATE_FIX = 문제가 지속되면 시스템 오디오 드라이버를 업데이트하십시오.
+
+STRING_READ_MORE = 더 보기
+
+STRING_MORE_APPS = 더 많은 앱
+
+STRING_ANTIVIRUS_ISSUE = 바이러스 백신 충돌
+
+STRING_ANTIVIRUS_ISSUE_HEADER = PC의 바이러스 백신 소프트웨어에 대한 일부 설정이 네트워크 연결을 방해합니다.
+
+STRING_TECHNICAL_TIP =	기술 팁 -
+
+STRING_ANTIVIRUS_ISSUE_FIX = 보안 연결을 위해 HTTPS 검사 및 차단에 대한 바이러스 백신 설정을 비활성화하고 PC를 다시 시작하십시오.
+
+STRING_SEE_HOW_TO_FIX = 수정 방법 보기
+
+STRING_DELETE_COMBO_HEADER = 저장 내용을 삭제하시겠습니까?
+
+STRING_DELETE_COMBO_BODY = 이 순서는 사라집니다. 계속하려면 다시 기록해야합니다. 삭제 하시겠습니까?
+
+STRING_SAVE_COMBO_HEADER = 키 순서 저장
+
+STRING_SAVE_COMBO_BODY = 순서에 이름과 바로 가기 키를 지정합니다. 수행 작업을 기억하는데 도움되는 이름을 설정해 주십시오.
+
+STRING_COMBO_DESCRIPTION = 순서 이름
+
+STRING_COMBO_SHORTCUT_KEY = 바로가기 키
+
+STRING_NO_SEQUENCES = 순서 없음
+
+STRING_RECORD_SEQUENCE = 순서를 기록하려면 [+] 아이콘을 사용하십시오.
+
+STRING_RECORD_NEW_SEQUENCE_TITLE = 새 순서 기록
+
+STRING_RECORD_NEW_SEQUENCE_BODY = 녹화하는 동안 기존의 키보드 컨트롤을 사용할 수도 있습니다.
+
+STRING_START_RECORDING = 기록 시작
+
+STRING_STOP_RECORDING = 기록 중지
+
+IMAP_STRING_MOBASKILL_NOCANCELONSWITCH = 스위치 취소 없음
+
+IMAP_STRING_PAN_SENSITIVITYRATIOY = 마우스 감도 Y
+
+STRING_POST_OTS_SUCCESS_MESSAGE = 로그인이 성공적으로 완료 되었습니다.
+
+STRING_POST_OTS_SUCCESS_BUTTON_MESSAGE = @@STRING_PRODUCT_NAME@@ 시작
+
+STRING_POST_OTS_SYNCING_MESSAGE = @@STRING_PRODUCT_NAME@@ 계정 동기화 중
+
+STRING_POST_OTS_SYNCING_BUTTON_MESSAGE = 잠시만 기다려 주십시오.
+
+STRING_POST_OTS_FAILED_MESSAGE = 데이터를 동기화할 수 없습니다.
+
+STRING_POST_OTS_FAILED_BUTTON_MESSAGE = 재시도
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = 인터넷 연결을 확인하고 다시 시도하십시오.
+
+STRING_KEY_SEQUENCE = 키 순서
+
+STRING_COMBO_SEQUENCES_LIST = 탭 / 콤보 순서가 ​​여기에 나열됩니다.
+
+STRING_DISCARD = 그만하기
+
+STRING_DISCARD_COMBO_HEADER = 저장 내용을 버리시겠습니까?
+
+STRING_DISCARD_COMBO_BODY = 이 순서에 대해 진행한 모든 과정이 손실됩니다. 현재 레코딩을 취소 하시겠습니까?
+
+STRING_ADD = 더하다
+
+IMAP_STRING_MOUSEXBUTTON1  = X 버튼 1
+
+IMAP_STRING_MOUSEXBUTTON2 = X 버튼 2
+
+STRING_CHANGE_LOG = 새로운 기능
+
+STRING_RESTORE_NOT_PERMITTED = 당사는 새로운 버전의 @@STRING_PRODUCT_NAME@@ 백업에서 이전 버전으로의 데이터 복원을 지원하지 않습니다.
+
+STRING_RESTORE_WARNING = 이전 버전의 @@STRING_PRODUCT_NAME@@ 백업에서 더 새로운 버전으로 데이터를 복원하려고합니다. 복원이 성공하지 못할 수도 있습니다.
+
+STRING_RESTORE_NOT_POSSIBLE = 유감스럽게도 @@STRING_PRODUCT_NAME@@의 이전 버전을 사용하여 만든 백업에서 최신 버전으로 데이터를 복원 할 수 없습니다.
+
+STRING_BACKUP_AND_RESTORE = 백업 & 복구
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_DETAIL = 백업을 생성하거나 사용자 데이터, 설치된 게임, 키보드 컨트롤 및 설정의 기존 백업을 복원하십시오.
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_WARNING = 백업은 생성된 버전으로만 성공적으로 복원할 수 있습니다.
+
+STRING_BACKUP_CURRENT_DATA = 현재 데이터 백업
+
+STRING_RESTORE_AN_EXISTING_BACKUP = 기존 백업 복원
+
+STRING_ON_SCREEN_CONTROLS_TITLE = 온 스크린 컨트롤
+
+STRING_ON_SCREEN_CONTROLS_BODY = 눈 아이콘을 클릭하거나 {0}을 눌러 이 게임의 주요 컨트롤을 확인하세요.
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = 업그레이드가 성공하지 못했습니다. @@STRING_PRODUCT_NAME@@을 업그레이드가 시작되기 전의 상태로 되돌립니다.
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = 유감스럽지만 업그레이드와 후속 롤백 모두 실패했습니다. 업그레이드가 시작되기 전의 상태로 @@STRING_PRODUCT_NAME@@을 복원할 수 없습니다.  기존 버전의 @@STRING_PRODUCT_NAME@@을 제거하고 웹사이트에서 @@STRING_PRODUCT_NAME@@ 최신 버전을 설치해 사용해 주십시오.
+
+STRING_USE_2GB = 2GB를 사용합니다.
+
+STRING_CANCEL_COMBO = 실행중인 콤보를 취소하려면 F12 키를 누릅니다.
+
+STRING_ADD_TOUCH_CONTROLS = 컨트롤 추가하기
+
+STRING_CONFIGURATION_ACTIONS = 현재 구성 작업
+
+STRING_DOWNLOADING_INSTALLING_GAME = 게임 다운로드 및 설치
+
+STRING_DONT_CLOSE_WINDOW_WHILE_DOWNLOADING_GAME = 게임 데이터를 다운로드하는 동안 앱을 닫거나 인터넷 연결을 끊지 마십시오.
+
+STRING_ERROR_WHILE_DOWNLOADING_GAME = 게임 데이터를 다운로드하는 중에 오류가 발생했습니다.
+
+STRING_UPGRADE_BST_FULL = 이 게임을 설치하면 PC에 이미 내장되어있는 @@STRING_PRODUCT_NAME@@이 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드됩니다.
+
+STRING_UPGRADE_SINGLE_GAME_TO_FULL = 이 게임을 설치하면 PC에 이미 내장되어있는 @@STRING_PRODUCT_NAME@@이 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드됩니다.
+
+STRING_GAME_DOWNLOADED_SUCCESS = 게임이 성공적으로 다운로드되었습니다.
+
+STRING_PLAY_GAME = 게임하다
+
+STRING_THIS_WILL_UPGRADE_SINGLE_GAME_TO_FULL = 이 게임을 설치하면 PC에 이미 내장되어 있는 @@STRING_PRODUCT_NAME@@이 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드됩니다.
+
+STRING_LAUNCH_BLUESTACKS_FROM_DESK_SHORTCUT = 현재 실행중인 게임이 종료된 후 바탕 화면에서 @@STRING_PRODUCT_NAME@@을 실행하십시오.
+
+STRING_UPGRADING_TEXT = 업그레이드
+
+STRING_CONTAINS_INVALID_CHARACTER = 입력한 이름에 하나 이상의 잘못된 문자가 포함되어 있습니다. 다음 문자를 포함하지 않는 유효한 이름을 입력하십시오:
+
+STRING_CANCEL_RECORDING = 레코딩 취소
+
+STRING_CANCEL_CONFIG_CHANGES = 저장되지 않은 컨트롤이 있습니다. 폐기하시겠습니까?
+
+STRING_RESTORE_CHANGES = 변경 사항 복원됨
+
+STRING_INSTALL_GAME = 게임 설치
+
+STRING_UPGRADE_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 업그레이드
+
+STRING_UPGRADE_TO_STANDARD_BST = 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드
+
+STRING_UPGRADE_TEXT = 업그레이드
+
+STRING_GAME_INSTALL_CURRENT_INSTANCE_OF_BST = 이 게임은 PC에 이미있는 @@STRING_PRODUCT_NAME@@에 설치됩니다. 계속 하시겠습니까?
+
+STRING_GAME_INSTALL_IN_EMBEDDED_BST = 이 게임을 설치하면 PC에 이미 내장되어있는 @@STRING_PRODUCT_NAME@@이 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드됩니다.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST_UPGRADE = @@STRING_PRODUCT_NAME@@을 설치하면 PC에 이미 포함되어 있는 @@STRING_PRODUCT_NAME@@이 최신 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드됩니다.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST = @@STRING_PRODUCT_NAME@@을 설치하면 PC에 이미 설치된 @@STRING_PRODUCT_NAME@@을 표준으로 업그레이드할 수 있습니다.
+
+STRING_GAME_REQUIRES_NEW_BST = 이 게임에는 @@STRING_PRODUCT_NAME@@의 새 버전이 필요합니다. @@STRING_PRODUCT_NAME@@을 업그레이드하고 게임을 설치하시겠습니까?
+
+STRING_INSUFFICIENT_PHYSICALMEMORY = @@STRING_PRODUCT_NAME@@은 최소 2 GB의 메모리(RAM)를 필요로 합니다.
+
+STRING_OS_VERSION_NOT_SUPPORTED = @@STRING_PRODUCT_NAME@@은 현 PC에서 실행중인 윈도우 버전에 지원되지 않습니다.
+
+STRING_GL_UNSUPPORTED = 그래픽 카드 또는 해당 드라이버가 @@STRING_PRODUCT_NAME@@을 지원하지 않습니다.
+
+STRING_REGISTRY_EDITING_DISABLED = @@STRING_PRODUCT_NAME@@은 설치를 위해 레지스트리 수정 권한을 필요로 합니다
+
+STRING_UPGRADE_FAILED = 업그레이드 실패
+
+STRING_CONTINUING_WILL_UPGRADE_TO_STD_BST = 계속해서 PC에 이미 설치되어 있는 @@STRING_PRODUCT_NAME@@을 표준 @@STRING_PRODUCT_NAME@@으로 업그레이드할 수 있습니다.
+
+STRING_MULTIINSTANCE_MANAGER = @@STRING_PRODUCT_NAME@@ 멀티 매니저
+
+STRING_SELECT_ALL = 모두 선택
+
+STRING_BATCH = 일괄작업
+
+STRING_ARRANGE = 정렬
+
+STRING_STOPPED = 중지됨
+
+STRING_RUNNING = 실행중
+
+IMAP_STRING_TapRepeat_Header_Edit_UI = 반복된 탭
+
+IMAP_STRING_TapRepeat_Description_Edit_UI = 이 옵션을 사용하여 하나의 키로 연사키를 추가하십시오.
+
+IMAP_STRING_TAPREPEAT_X = X
+
+IMAP_STRING_TAPREPEAT_Y = Y
+
+IMAP_STRING_TAPREPEAT_Key = 키
+
+IMAP_STRING_TAPREPEAT_Count = 횟수
+
+IMAP_STRING_TAPREPEAT_Delay = 지연
+
+IMAP_STRING_CATEGORY_TAPREPEEAT = 탭 반복
+
+IMAP_STRING_TAPREPEAT_Settings = 탭 반복 설정
+
+STRING_SELECTED_INSTANCE_RUNNING_WHILE_CLONING = 인스턴스를 실행하는 동안 복제할 수 없습니다. 복제를 진행하기 전에 실행중인 인스턴스를 닫아주시겠습니까?
+
+STRING_MACRO_TOOL = @@STRING_PRODUCT_NAME@@ 매크로 기록
+
+STRING_MACRO_TOOL_HEADER = 지루한 반복 작업을 자동화하고 릴렉스!
+
+STRING_MACRO_TOOL_RECORD_1 = 마우스 클릭, 키보드 입력, 텍스트 기록.
+
+STRING_MACRO_TOOL_RECORD = 기계적인 작업을 자동화합니다. 마우스 클릭, 키보드 입력 및 텍스트 문자열을 기록합니다.
+
+STRING_MACRO_TOOL_RECORD_2 = 상단의 새로운 매크로 기록하기 버튼을 사용해 매크로 기록을 시작하십시오.
+
+STRING_INTERACT_TO_RECORD = BlueStacks에 클릭 및 상호작용해 게임 마우스 클릭, 키 누르기 및 텍스트 문자열 기록하기.\n
+
+STRING_NO_SCRIPTS_AVAILABLE = 내보낼 수 있는 스크립트가 없음
+
+STRING_FILE_FORMAT_NOT_SUPPORTED = 가져오려는 파일 유형이 지원되지 않습니다.
+
+STRING_RECORD_NEW_MACRO = 새 매크로 기록하기
+
+STRING_OPEN_SCRIPTS = 스크립트 폴더 열기
+
+STRING_LOOP = 반복
+
+STRING_TIMES = 횟수
+
+STRING_SHORTCUT = 숏컷
+
+STRING_SCRIPT_NAME = 스크립트 이름
+
+STRING_EXECUTION_LOOP = 반복 실행
+
+STRING_EXECUTING_MACRO = 매크로 실행 중, 멈추려면 클릭하십시오.
+
+STRING_PAUSED_MACRO = 녹화가 일시 중지된 경우, 여기를 클릭하여 다시 시작하거나 중지하십시오.
+
+STRING_MACRO_ITERATION_TIMES = 횟수
+
+STRING_AT = 에서
+
+STRING_HOURS_SHORTFORM = 시간
+
+STRING_MINUTES_SHORTFORM = 분
+
+STRING_SECONDS_SHORTFORM = 초
+
+STRING_PRESS_STOP_BUTTON = 매크로를 멈추려면 중지 버튼을 누르십시오.
+
+STRING_LOOP_INTERVAL = 반복 간격
+
+STRING_SECONDS = 초
+
+STRING_OTHER_SETTINGS = 다른 설정
+
+STRING_ACCELERATION = 가속
+
+STRING_EXECUTE_SCRIPT_ON_RESTART = 플레이어가 시작하면 매크로를 실행합니다.
+
+STRING_RESTART_PLAYER_AFTER = 시간, @@STRING_PRODUCT_NAME@@ 다시 시작하기
+
+STRING_BATCH_NEW = 새로운 일괄 처리
+
+STRING_BATCH_CLONE = 일괄 복제
+
+STRING_START_SELECTED = 선택한 항목 시작
+
+STRING_STOP_SELECTED = 중지 선택됨
+
+STRING_DELETE_SELECTED = 삭제 선택됨
+
+STRING_INSTANCE_OPTIONS = 인스턴스 옵션
+
+STRING_FPS = FPS
+
+STRING_FPS_CHANGE_MESSAGE = FPS를 낮추면 더 많은 멀티 인스턴스 실행할 수 있습니다.
+
+STRING_DISABLE_AUDIO_MESSAGE = 멀티 인스턴스를 실행할 때 오디오 사용안함
+
+STRING_REDUCES_CPU_USAGE = CPU 사용량 감소
+
+STRING_ARRANGE_SETTINGS = 인스턴스 정렬
+
+STRING_SPREAD_ALIGN = 스프레드 정렬
+
+STRING_OVERLAY_ALIGN = 대각선 정렬
+
+STRING_INSTANCES_PER_ROW = 행당 인스턴스
+
+STRING_BATCH_OPERATIONS = 일괄 작업 기본값
+
+STRING_START_INTERVAL = 시작 간격
+
+STRING_BATCH_NUMBER = 일괄 인스턴스 생성
+
+STRING_REMOVE = 제거
+
+STRING_RENAME = 이름 바꾸기
+
+STRING_MINUTES = 분
+
+STRING_TILL_LOOP_NUMBER = 반복 횟수
+
+STRING_TILL_LOOP_TIME = 기간 동안
+
+STRING_TILL_MANUAL = 무한
+
+STRING_DELETE_SCRIPT = 선택한 매크로를 삭제하시겠습니까?
+
+STRING_MACRO_RECORDER = 매크로 레코더
+
+STRING_PLAYING_MACRO = 매크로 재생 중
+
+STRING_INTERVAL = 간격
+
+STRING_PLAYERS = 플레이어
+
+STRING_EXECUTING_SCRIPT = 매크로 실행 중
+
+STRING_SCRIPT_SETTINGS = 매크로 설정 편집
+
+STRING_EDIT_COMBO_HEADER = 키 시퀀스 편집
+
+IMAP_STRING_SCRIPT_Header_Edit_UI = 스크립트
+
+STRING_FARM = 절전
+
+STRING_INSTANCE_SETTINGS = 인스턴스 설정
+
+STRING_CLOSE_CONFIRMATION = 선택한 인스턴스를 닫으시겠습니까?
+
+STRING_SHORTCUT_ADDED_SUCCESS = 바로 가기가 바탕 화면에 성공적으로 추가되었습니다.
+
+STRING_CONFIRM = 확인
+
+STRING_CLONE_FROM_MAIN_INSTANCE_WARNING = 에서 복제가 완료되었습니다.
+
+STRING_BATCH_INSTANCE_CLOSE_CONFIRMATION = 선택한 인스턴스를 닫으시겠습니까?
+
+STRING_STOP_RECORDING_TOOLTIP = 여기에서 매크로 기록을 중단할 수 있습니다
+
+STRING_PAUSE_RECORDING_TOOLTIP = 매크로 녹화 중지를 위해 여기를 클릭하세요.
+
+STRING_NO_OPERATION_MESSAGE = 오류 : 작업이 수행되지 않았습니다.
+
+STRING_MACRO_NOT_SAVED_MESSAGE = 오류 : 같은 이름의 매크로가 이미 존재합니다.
+
+STRING_MACRO_NAME_NULL_MESSAGE = 매크로의 이름을 입력해 주세요. 변경 내용이 저장되지 않았습니다.
+
+STRING_BATCH_INSTANCE_DELETE_CONFIRMATION = 선택한 인스턴스를 삭제하시겠습니까?
+
+STRING_BETA = 베타
+
+STRING_STREAM_MODE = 스트리밍 모드
+
+STRING_USE_DEDICATED_GPU = 그래픽 카드의 GPU 자원을 사용
+
+IMAP_STRING_DPAD_GamepadStick = 게임 패드 스틱
+
+STRING_INSTALLATION_FAILED = 안탑깝게도 @@STRING_PRODUCT_NAME@@을 설치할 수 없습니다.
+
+IMAP_STRING_MOBASkill_YAxisRatio = Y 축 비율
+
+IMAP_STRING_MOBASkill_NoCancelTime = 취소 시간 없음
+
+IMAP_STRING_MOBASkill_AutoAttack = 자동 공격
+
+IMAP_STRING_MOBASkill_StopMOBADpad = MOBA Dpad 중지
+
+STRING_CONNECT_DISCORD_BST = @@STRING_PRODUCT_NAME@@이 디스코드와 연결하도록 허용
+
+STRING_PROBLEM_TYPE = 문제 형태
+
+STRING_APP_DETAILS = 앱 세부사항
+
+STRING_APPLICATION_NAME = 앱 이름
+
+STRING_APP_NAME_WATERMARK = 여기에 앱이름을 입력하십시오.
+
+STRING_DESCRIBE_PROBLEM = 문제 내용
+
+STRING_SCREENSHOT = 스크린샷
+
+STRING_CHOOSE = 선택
+
+STRING_SUBMIT_REPORT = 문제 보고하기
+
+STRING_BST_SUPPORT_UTILITY = @@STRING_PRODUCT_NAME@@ 지원 유틸리티
+
+STRING_CHOOSE_SCREENSHOT_FOLDER_TEXT = 스크린샷 저장을 위해 폴더 선택
+
+STRING_RECOMMENDED_BTN_TOOLTIP = 추천영역
+
+STRING_RECOMMENDED_WINDOW_TITLE_TEXT = 추천하는 영역
+
+STRING_BOOT_PROGRESS_TEXT = 엔진 부팅이 진행 중입니다. 잠시만 기다려 주세요.
+
+STRING_UPDATED_FULLSCREEN_BUTTON_TOOLTIP = 전체화면 전환
+
+STRING_QUIT_TEXT = 그만하기
+
+STRING_NO_INSTANCE_FOUND = @@STRING_PRODUCT_NAME@@ 인스턴스가 없습니다.
+
+STRING_SYNC_OPERATIONS = 동기화 작업
+
+STRING_NO_INSTANCE_RUNNING = 실행중인 다른 인스턴스가 없습니다.
+
+STRING_START_OTHER_INSTANCES = 다른 인스턴스를 시작하여 현재 인스턴스의 작업을 인스턴스와 동기화하십시오.
+
+STRING_SYNC_SELECTED = 선택한 항목 동기화
+
+STRING_SYNC_HELP = 동기화에 도움이 필요하세요?
+
+STRING_STOP_SYNCING = 동기화 중지
+
+STRING_FRAME_RATE_SETTING = 프레임 속도
+
+STRING_RECOMMENDED_FPS = 권장 FPS
+
+STRING_FPS_FOR_GAMERS = 60 FPS :더 부드러운 게임 플레이할 때 사용(저사양 PC의 경우 게임 성능에 영향을 줌)
+
+STRING_FPS_FOR_MULTIINSTANCE = 20 FPS: 멀티 인스턴스의 경우 추천 (일부 게임은 원활하게 실행되지 않을 수 있음)
+
+STRING_GAMEPAD_SUPPORT = 게임 패드 지원
+
+STRING_GAMEPAD_POPUP_TEXT = @@STRING_PRODUCT_NAME@@에서 게임 패드로 게임을 지원하는 게임에서 게임 패드 아이콘을 찾으십시오.
+
+STRING_GAMEPAD_CONNECTED = 연결된 게임 패드
+
+STRING_GAMEPAD_DISCONNECTED = 게임 패드 연결이 끊어졌습니다.
+
+STRING_GAMEPAD = 게임 패드
+
+STRING_KEYBOARD_MOUSE = 키보드 및 마우스
+
+STRING_ENABLE_ADB = ADB (Android 디버그 브릿지) 사용
+
+STRING_ENABLE_ADB_WARNING = 이 설정을 사용시 @@STRING_PRODUCT_NAME@@이 완전히 보호되지 않을 수 있습니다. 나중에 사용 중지하는 것이 좋습니다.
+
+IMAP_STRING_GamepadDpadUp = 위로
+
+IMAP_STRING_GamepadDpadDown = 아래로
+
+IMAP_STRING_GamepadDpadLeft = 왼쪽
+
+IMAP_STRING_GamepadDpadRight = 오른쪽
+
+IMAP_STRING_GamepadStart = 시작
+
+IMAP_STRING_GamepadStop = 뒤로가기
+
+IMAP_STRING_GamepadLeftThumb = L3
+
+IMAP_STRING_GamepadRightThumb = R3
+
+IMAP_STRING_GamepadLeftShoulder = LB
+
+IMAP_STRING_GamepadRightShoulder = RB
+
+IMAP_STRING_GamepadA = A
+
+IMAP_STRING_GamepadB = B
+
+IMAP_STRING_GamepadX = X
+
+IMAP_STRING_GamepadY = Y
+
+IMAP_STRING_GamepadLStickUp = LS 위
+
+IMAP_STRING_GamepadLStickDown = LS 아래
+
+IMAP_STRING_GamepadLStickLeft = LS 왼쪽
+
+IMAP_STRING_GamepadLStickRight = LS 오른쪽
+
+IMAP_STRING_GamepadRStickUp = RS 위
+
+IMAP_STRING_GamepadRStickDown = RS 아래
+
+IMAP_STRING_GamepadRStickLeft = RS 왼쪽
+
+IMAP_STRING_GamepadRStickRight = RS 오른쪽
+
+IMAP_STRING_GamepadLTrigger = LT
+
+IMAP_STRING_GamepadRTrigger = RT
+
+IMAP_STRING_LeftStick = 왼쪽 스틱
+
+IMAP_STRING_RightStick = 오른쪽 스틱
+
+STRING_OPEN_GAMEPAD_UI = 게임 패드 컨트롤 UI 열기
+
+IMAP_STRING_Rotate_KeyClock = 시계방향
+
+IMAP_STRING_Rotate_KeyAntiClock = 반시계방향
+
+IMAP_STRING_Rotate_X = 원본 X
+
+IMAP_STRING_Rotate_Y = 원본 Y
+
+IMAP_STRING_Rotate_XRadius = X 반경
+
+IMAP_STRING_Rotate_Speed = 속도
+
+IMAP_STRING_Rotate_ActivationTime = 활성화 시간
+
+STRING_UPDATE_AVAILABLE = 업데이트 사용 가능
+
+STRING_DETAILED_CHANGELOG = 자세한 변경 내역보기
+
+STRING_INVALID_FORMAT_HEADER = 형식이 잘못되었습니다.
+
+STRING_SAVE_KEY_SEQUENCE_ERROR = 이 키열은 인식할 수없는 형식으로 업데이트가 불가능합니다. 유효한 JSON 텍스트인지 확인 부탁드립니다.
+
+STRING_WAIT_DURING_UPDATE = 새 버전을 다운로드하는 중 입니다. 다운로드가 진행되는 동안에도 @@STRING_PRODUCT_NAME@@을 계속 사용할 수 있습니다.
+
+STRING_INSTALL_NEXT_BOOT = 다음 부팅시 설치
+
+STRING_NEW_UPDATE_READY_WARNING = 업데이트 중 @@STRING_PRODUCT_NAME@@을 사용할 수 없습니다.
+
+IMAP_Gamepad_Video_Element_Header = 게임 패드로 게임을 컨트롤 해보세요!
+
+IMAP_Gamepad_Video_Element_Body = 게임 콘솔로 FPS게임을 플레이하고, 최고가 되어보십시오!
+
+STRING_HELP_AND_SUPPORT = 도움말
+
+STRING_POWER_UPS = 파워 업
+
+STRING_CUSTOMISE = 사용자 정의
+
+STRING_DOWNLOADING_UPDATE = 업데이트 다운로드 중
+
+STRING_SHOW_TOAST = 토스트 공지 알림 표시
+
+IMAP_STRING_STATE_Key = 상태 키
+
+IMAP_STRING_STATE_Name = 이름
+
+IMAP_STRING_STATE_Model = 모델
+
+IMAP_STRING_STATE_Header_Edit_UI = 상태
+
+STRING_DEVICEPROFILE_SETTING_DETAIL = 장치 프로필을 사용하면 @@STRING_PRODUCT_NAME@@ 인스턴스에 대한 장치 프로비저닝 프로필을 설정할 수 있습니다.
+
+STRING_KEYMAPPING_ENABLED = 키맵핑 켜기
+
+STRING_KEYMAPPING_DISABLED = 키맵핑 끄기
+
+STRING_PREDEFINED_DEVICEPROFILE_TEXT = 미리 정의 된 프로필 선택
+
+STRING_CUSTOM_DEVICEPROFILE_TEXT = 사용자 정의 프로필 작성
+
+STRING_SAVE_CHANGES = 변경내용 저장
+
+IMAP_STRING_PAN_MOUSEACCELERATION = 마우스 가속화
+
+STRING_DISABLE_GAME_CONTROL_MESSAGE = 게임 컨트롤 화면 사용 중지
+
+STRING_DEVICEPROFILE_CHANGE_WARNING = 변경 사항은 안드로이드 프레임워크 데이터를 삭제합니다.
+
+STRING_CUSTOM_DEVICEPROFILE_LOADING = 클라우드에서 디바이스 프로필 가져오기
+
+STRING_DEVICEPROFILE_INTERNET_WARNING = 프로필을 가져 오는 중 오류가 발생했습니다. 인터넷 연결이 작동하는지 확인하십시오.
+
+IMAP_STRING_TAPREPEAT_RepeatUntilKeyUp = 키를 올릴 때까지 반복하십시오.
+
+STRING_TAP_MODE = 꼭지
+
+STRING_LONG_PRESS_MODE = 길게 누르기
+
+STRING_KEYBOARD_MODE = 키보드
+
+STRING_MOUSE_MODE = 마우스
+
+IMAP_STRING_FREELOOK_HEADER_EDIT_UI = 자유롭게 보기
+
+IMAP_STRING_FREELOOK_DESCRIPTION_EDIT_UI = 이 컨트롤을 사용하면 지원되는 게임에서 주위를 빠르게 둘러볼 수 있습니다.
+
+IMAP_STRING_FREELOOK_X = X
+
+IMAP_STRING_FREELOOK_Y = Y
+
+IMAP_STRING_FREELOOK_KEY = 키
+
+IMAP_STRING_FREELOOK_KEYLEFT = 왼쪽 키
+
+IMAP_STRING_FREELOOK_KEYRIGHT = 오른쪽 키
+
+IMAP_STRING_FREELOOK_KEYUP = 위쪽 키
+
+IMAP_STRING_FREELOOK_KEYDOWN = 아래쪽 키
+
+IMAP_STRING_FREELOOK_DEVICETYPE = 기기 타입
+
+STRING_DELETING = 삭제 중
+
+STRING_STOPPING = 멈추는 중
+
+STRING_CREATING = 생성 중
+
+STRING_AVAILABLE_INSTANCES = 사용 가능한 인스턴스
+
+STRING_CONFIGURING = 구성 중
+
+STRING_STARTING = 시작하는 중
+
+STRING_DISK_CLEANUP_MESSAGE = @@STRING_PRODUCT_NAME@@에서 디스크를 정리합니다. 시작하기 전에 모든 인스턴스가 닫힙니다. 이 프로세스는 PC의 성능에 따라 다소 시간이 걸릴 수 있습니다.
+
+STRING_PLEASE_DO_NOT_LAUNCH = 프로세스가 완료될 때까지 @@STRING_PRODUCT_NAME@@를 실행하지 말아 주십시오.
+
+STRING_DISK_CLEANUP_PROGRESS = 디스크 정리가 진행 중입니다.
+
+STRING_DISK_CLEANUP_SUCCESSFUL = 디스크 정리를 성공적으로 완료했습니다.
+
+STRING_DISK_SUCCESSFULLY_CLEANDED = 디스크가 성공적으로 정리되었습니다.
+
+STRING_INSTANCE_LAUNCH_CONFIRMATION = 해당 인스턴스를 시작하시겠습니까?
+
+STRING_DISK_CLEANUP = 디스크 정리
+
+STRING_CONTINUE_CONFIRMATION = 계속 하시겠습니까?
+
+STRING_VERSION_NOT_SUPPORTED = 죄송합니다. 현재 버전을 지원하지 않습니다
+
+STRING_DISK_CLEANUP_ERROR = 죄송합니다. 디스크 정리 프로세스 중에 오류가 발생했습니다. 나중에 다시 시도해 주세요.
+
+STRING_MANUFACTURER = 제조사
+
+STRING_BRAND = 브랜드
+
+STRING_MODELNUMBER = 모델 번호
+
+STRING_ROOT_ACCESS = 루트 권한
+
+STRING_ROOT_ACCESS_DETAIL = 이 기능을 사용하면 게임 호환성 문제가 발생할 수 있습니다. 데이터를 위험에 빠뜨릴 수 있으며 향후 지원 서비스가 지원되지 않을 수도 있습니다.
+
+STRING_ENABLE_ROOT_ACCESS = 루트 권한 사용
+
+STRING_ROOT_ACCESS_FAILURE = 루트 권한을 활성화하지 못했습니다.
+
+STRING_ADVANCED = 고급 기능 설정
+
+STRING_SYNCHRONISER = 동기화하다
+
+IMAP_STRING_FREELOOK_SETTINGS = 프리룩 설정
+
+IMAP_STRING_FREELOOK_SENSITIVITY = 감도
+
+IMAP_STRING_FREELOOK_MOUSEACCELERATION = 가속
+
+IMAP_STRING_FREELOOK_SPEED = 스와이프 속도
+
+IMAP_STRING_FREELOOK_DELAY = 엣지 리셋 지연
+
+STRING_BLUESTACKS_INSTALLER = @@STRING_PRODUCT_NAME@@ 설치 프로그램
+
+STRING_GOOGLE_SIGNIN_INFO = 최신 안드로이드 앱, 게임, 영화, 음악 등을 찾으려면 로그인하십시오.
+
+STRING_SIGNIN = 로그인
+
+STRING_DO_IT_LATER = 나중에 진행하겠습니다.
+
+STRING_TROUBLE_STARTING_BLUESTACKS = 도와드릴까요?
+
+STRING_STUCK_AT_BOOT_SCREEN = 도와드릴까요?
+
+STRING_SEE_SOLUTION = 솔루션 보기
+
+STRING_SLOW_PERFORMANCE = 느리게 작동하나요?
+
+STRING_SOMETHING_ELSE_WENT_WRONG = 뭔가 잘못된 것 같나요?
+
+STRING_WHY_GOOGLE_ACCOUNT = 왜 로그인해야합니까?
+
+STRING_TROUBLE_SIGNING_IN = 로그인하는데 문제가 있습니까?
+
+STRING_YOU_ARE_ONE_STEP_AWAY = 계정 로그인 문제가 있습니까?
+
+STRING_BLUESTACKS_HAS_SUCCESSFULLY_LOADED = @@STRING_PRODUCT_NAME@@이 성공적으로 시작되었습니다.
+
+STRING_DISPLAY_FPS_DURING_GAMEPLAY = 좌측 하단에 FPS 표시
+
+STRING_LAUNCH_INSTANCE_MANAGER = 인스턴스 관리자 시작
+
+STRING_SYNC_OPERATION_ON = 동기화 작업이 켜져 있습니다.
+
+STRING_SYNC_PERFORM_ACTIONS = 이 인스턴스에서 수행하는 작업은 다른 인스턴스에서도 수행됩니다.
+
+STRING_CLICK_FOR_ACTIONS = 추가 작업을 보려면 클릭하십시오.
+
+STRING_DOWNLOADING_PART_0_OF_1 = {1}의 {0} 부분을 다운로드 중입니다.
+
+STRING_WAITING_FOR_INTERNET = 인터넷 연결 대기 중
+
+STRING_INSTALLATION_START_WHEN_DOWNLOAD_FINISHES = 다운로드가 완료되면 바로 설치가 시작됩니다.
+
+STRING_BLUESTACKS_ALREADY_BEING_DOWNLOADED = @@STRING_PRODUCT_NAME@@은 설치를 위해 다운로드 중입니다. 설치가 완료될 때까지 기다려주세요.
+
+STRING_SORRY_ERROR_INSTALLING_BLUESTACKS = 죄송합니다. @@STRING_PRODUCT_NAME@@을 설치 중 오류가 발생했습니다.
+
+STRING_ERROR_INSTALLING_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 설치 오류
+
+STRING_RESTART_TRY_AGAIN = PC를 재부팅하고 설치를 다시 시도 해주실 것을 권장합니다.
+
+STRING_ADMINISTRATIVE_RIGHTS_REQUIRED = 관리자 권한 필요
+
+STRING_INSTALL_REQUIRES_ADMIN = 설치하려면 @@STRING_PRODUCT_NAME@@이 Windows 관리자 권한이 있어야합니다. 계속 진행 하시겠습니까?
+
+STRING_CLEAR_SPACE_RETRY = 디스크 공간을 만들고 설치를 다시 시도해 주시겠습니까?
+
+STRING_DOWNLOAD_FAILED = 다운로드 실패
+
+STRING_ERROR_WHILE_DOWNLOADING_BS = @@STRING_PRODUCT_NAME@@을 다운로드하는 중에 오류가 발생했습니다.
+
+STRING_MILLION_GAMES_WAITING = 수백만 게임이 여러분을 기다리고 있습니다.
+
+STRING_CONTINUE_IN_BACKGROUND = 백그라운드에서 @@STRING_PRODUCT_NAME@@을 계속 다운로드하시겠습니까?
+
+STRING_MINIMIZE_INSTALLER = 설치 프로그램을 최소화하시겠습니까?
+
+STRING_INSUFFICIENT_MEMORY = 메모리가 부족합니다.
+
+STRING_PC_HAS_LESS_MEMORY = 유저분의 PC는 @@STRING_PRODUCT_NAME@@이 실행하는 데 필요한 {0} GB 미만의 메모리가 있습니다.
+
+STRING_BS_REQUIRES_DISK_INSTALL = @@STRING_PRODUCT_NAME@@을 설치하려면 {0} GB의 디스크 공간이 필요합니다. 공간을 확보하고 다시 시도하십시오.
+
+STRING_CLOSE_TAB = 탭 닫기
+
+STRING_INSUFFICIENT_STORAGE = 저장 공간 부족
+
+STRING_PRESS_TO_AIM_AND_SHOOT = 팁 : 마우스로 둘러보기 하시려면 {0}을 눌러주세요.
+
+STRING_LAUNCH = 설치
+
+STRING_USE_CURRENT = 현재 폴더 사용
+
+STRING_CHOOSE_CUSTOM = 맞춤 선택
+
+STRING_CHOOSE_FOLDER_TEXT = 미디어는 Android 갤러리와 아래 폴더에 자동으로 저장됩니다. 사용자 정의 폴더를 선택할 수 있습니다.
+
+STRING_SCREENSHOT_FOLDER = 스크린샷 폴더
+
+STRING_SCREENSHOT_SAVED = 스크린샷 저장 됨
+
+STRING_PERFORMING_ACTIONS = 액션 수행하기
+
+STRING_IMPORT = 가져오기
+
+STRING_EXPORT = 내보내기
+
+STRING_OPEN_FOLDER = 폴더 열기
+
+STRING_IMPORT_CONTROLS_TITLE = 구성 파일 가져오기
+
+STRING_IMPORT_CONTROL_MESSAGE = 사용자정의 된 키보드 컨트롤이 있는 경우, 외부 구성 파일을 가져올 때 이를 덮어 씁니다.
+
+STRING_GRM_EXCEPTION_MESSAGE = 죄송합니다만 필요한 작업을 수행하는 중에 오류가 발생했습니다. 추가 도움을 받으려면 @@STRING_PRODUCT_NAME@@ support에 문의하십시오.
+
+STRING_ENABLE_HIGH_FPS = 높은 프레임 속도 사용
+
+STRING_USE_DEFAULT = 기본값 사용
+
+STRING_SCREENSHOT_INVALID_PATH = @@STRING_PRODUCT_NAME@@ 에는 선택한 폴더에 저장할 수 있는 권한이 없습니다.
+
+STRING_SCREENSHOT_USE_DEFAULT = 다른 폴더를 선택하거나 기본 폴더를 사용하여 스크린샷을 저장해주세요.
+
+STRING_IMPORT_CONTROL_MESSAGE1 = 계속하시겠습니까?
+
+STRING_UNSUPPORTED_FILE_FORMAT = 지원되지 않는 파일 형식
+
+STRING_IMPORT_ANOTHER = 다른 것 가져오기
+
+STRING_IMPORT_ERROE_MESSAGE = 가져오려는 파일 형식이 지원되지 않는 형태이거나 손상되었습니다.
+
+STRING_IMPORT_ERROR_MESSAGE1 = 다른 것을 가져오시겠습니까?
+
+STRING_CONTROLS_IMPORTED = 컨트롤을 성공적으로 가져왔습니다.
+
+STRING_CHOOSE_ANOTHER = 다른 것 고르기
+
+STRING_CONTROLS_EXPORTED = 컨트롤이 성공적으로 내보냈습니다.
+
+STRING_LOCK_CURSOR_SHORTCUT = 게임 내 커서 잠금 (F8)
+
+STRING_LOCK_CURSOR = 게임 내 커서 잠금
+
+STRING_UNLOCK_CURSOR = 마우스 커서를 놓으려면 {0}을 누르십시오
+
+STRING_ALLOW_CUSTOM_CURSOR = 게임 플레이 중 마우스 커서 변경
+
+STRING_ENABLE_GAMEPAD = 게임 패드 감지 사용
+
+STRING_MORE_BUTTON = 더 보기
+
+STRING_0_OF_1 = {1} 중 {0}
+
+STRING_0_MINS_LEFT = {0} 분 남음
+
+STRING_0_SECS_LEFT = {0} 초 남음
+
+STRING_0_COMMA_1 = {0}, {1}
+
+STRING_MANUAL_MODE = 수동 시전
+
+STRING_AUTOCAST = 자동 시전
+
+STRING_QUICK_CAST = 빠른 캐스트
+
+STRING_MANUAL_MODE_SKILL_CAST = 컨트롤 키를 눌렀다 떼고 마우스 왼쪽 버튼을 클릭하여 주문을 시전하십시오.
+
+IMAP_STRING_MOBASKILL_ADVANCEDMODE = 고급 모드
+
+IMAP_STRING_MOBASKILL_AUTOCASTENABLED = 오토 캐스팅 사용
+
+STRING_AUTOCAST_SKILL_DESCRIPTION = 컨트롤 키를 눌렀다 떼면 가장 가까운 적에게 주문을 시전합니다.
+
+STRING_QUICK_CAST_SKILL_DESCRIPTION = 컨트롤 키를 눌렀다 떼면 주문을 시전합니다.
+
+STRING_ROOT_ACCESSS_DETAIL = 이 기능을 사용하면 게임 호환성 문제가 발생할 수 있습니다. 데이터를 위험에 노출될수 있으며, 서비스 지원이 되지 않을수 있습니다.
+
+STRING_CHANGE_PATH = 경로 변경
+
+STRING_QUICK_SETTINGS = 설정 나가기
+
+STRING_BRACKETS_0_COMMA_1 = ({0}, {1})
+
+STRING_MEMORY_LOWERCASE = 메모리
+
+STRING_MEDIUM = 중간
+
+STRING_CUSTOM1 = 사용자 지정
+
+STRING_CLOSE_CURRENT_INSTANCE = 현재 실행 중인 @@STRING_PRODUCT_NAME@@ 인스턴스를 닫습니다.
+
+STRING_CLOSE_ALL_RUNNING_INSTANCES = @@STRING_PRODUCT_NAME@@의 실행 중인 모든 인스턴스를 닫습니다.
+
+STRING_RESTART_CURRENT_INSTANCE = 현재 실행 중인 @@STRING_PRODUCT_NAME@@ 인스턴스를 다시 시작합니다.
+
+STRING_EXIT_OPTIONS = 고급 종료 옵션
+
+STRING_PUBG_MOBILE = 펍지 모바일
+
+STRING_GAMING_RESOLUTION = 게임 내 해상도
+
+STRING_720RESOLUTION = HD 720p
+
+STRING_720RESOLUTION_MESSAGE = 기본 게임 해상도
+
+STRING_1080RESOLUTION = FHD 1080p
+
+STRING_1080RESOLUTION_MESSAGE = GTX 660 이상 설치된 고성능 컴퓨터
+
+STRING_2KRESOLUTION = QHD 1440p
+
+STRING_2KRESOLUTION_MESSAGE = GTX 1060 이상 설치된 최고 성능의 컴퓨터
+
+STRING_4KRESOLUTION = UHD 2160p
+
+STRING_GRAPHICS_QUALITY = 그래픽 품질
+
+STRING_SMOOTH = 낮음
+
+STRING_BALANCED = 중간
+
+STRING_HD = 높음
+
+STRING_GAME_SETTINGS = 게임 설정
+
+STRING_RESTART_PUBG = 펍지 모바일 재시작
+
+STRING_RESTART_OBJECT = 재시작 {0}
+
+STRING_SETTING_CHANGED_RESTART_APP_MESSAGE = 변경 내용이 저장되었습니다. 적용하고 적용 가능한지 확인하려면 {0}으로 다시 시작하십시오.
+
+STRING_CHANGES_SAVED_RESTART_APP = 변경 내용이 저장되었습니다. 적용하고 적용 가능한지 확인하려면, {0}으로 다시 시작하십시오.
+
+STRING_CUSTOM_PUBG_APP_WARNING = 디스플레이 설정을 변경하면 키보드 컨트롤이 변경될 수 있습니다. PUBG Mobile을 플레이하기 전에 검토하십시오.
+
+STRING_CUSTOM_SETTING_APP_WARNING = 디스플레이 설정을 변경하면 키보드 컨트롤이 변경될 수 있습니다. 게임을 하기 전에 검토해 주십시오.
+
+STRING_KNOW_MORE = 더 알아보기
+
+STRING_RECORD_SCREEN_PLAYING = 플레이 중 스크린 녹화
+
+STRING_RECORD_SCREEN = 녹화 화면 (베타)
+
+STRING_RECORDING_STARTED = 녹화를 시작함
+
+STRING_RECORDING_SAVED = 녹화 저장됨
+
+STRING_CLICK_TO_SEE_VIDEO = 비디오를 보려면 클릭하세요
+
+STRING_RECORDER_REQUIRED = 화면녹화 필요
+
+STRING_VIDEO_RECORDER_DOWNLOAD_BODY = @@STRING_PRODUCT_NAME@@ 화면 녹화를 다운로드하여 게임 플레이를 녹화 하시겠습니까?
+
+STRING_DOWNLOAD_BODY = 비디오를 녹화하려면 @@STRING_PRODUCT_NAME@@은 추가 파일을 다운로드 받아야 합니다.
+
+STRING_DOWNLOAD_ADDITIONAL = 추가 파일을 다운로드합니다.
+
+STRING_NOT_CLOSE_DOWNLOAD_COMPLETE = @@STRING_PRODUCT_NAME@@ 다운로드가 완료될 때까지 창을 닫지 마십시오.
+
+STRING_RECORDER_DOWNLOADED = 화면 녹화 프로그램 다운로드
+
+STRING_RECORDER_READY_BODY = 화면 녹화가 준비가되었습니다. 화면 녹화 아이콘을 클릭하여 녹화를 시작해 주세요.
+
+STRING_ERROR_RECORDER_DOWNLOAD = 파일을 다운로드하는 동안 오류가 발생했습니다. 인터넷 연결을 확인하고 다시 시도하세요.
+
+STRING_DOWNLOAD_NOT_COMPLETE = 다운로드가 완료되지 않았습니다. 정말 취소하시겠습니까?
+
+STRING_MEDIA_FOLDER = 미디어 폴더
+
+STRING_RECORDING_ERROR = 녹화 오류
+
+STRING_RECORDING_ERROR_BODY = 화면 녹화를 하려면 @@STRING_PRODUCT_NAME@@을 다시 시작해아합니다. 재시작 및 다시 녹화를 실행 하시겠습니까?
+
+STRING_DISCOVER_APPS = 앱 찾기
+
+STRING_NO_APPRECOMMENDATIONS_LEFT_MESSAGE = 게임 검색 채널의 잠금을 해제했습니다. 해제할 것이 더 남아 있습니다.
+
+STRING_DISK_CLEANUP_DESCRIPTION = @@STRING_PRODUCT_NAME@@에서 사용하지 않는 공간을 확보하여 PC의 다른 Windows 앱에서 사용할 수 있습니다.
+
+STRING_FREE_UP_SPACE = 여유 공간
+
+STRING_BACKUP_RESTORE_DESCRIPTION = 새 백업을 생성하거나 사용자 데이터, 설치된 게임, 게임 제어 및 설정의 기존 백업을 복원하세요.
+
+STRING_USER_DATA_SETTINGS = 유저 데이터
+
+STRING_DOWNLOAD_BACKGROUND = 백그라운드에서 다운로드
+
+STRING_TOGGLE_CONTROLS_TOOLTIP = 게임 제어 전환
+
+STRING_STREAMING_WINDOW_TITLE = @@STRING_PRODUCT_NAME@@에서 게임 스트리밍
+
+STRING_DISK_CLEANUP_MULTIPLE_RUN_HEADING = 디스크 정리를 시작할 수 없습니다.
+
+STRING_DISK_CLEANUP_MULTIPLE_RUN_MESSAGE = 디스크 청소를 이미 실행하고 있습니다. 나중에 다시 시도해주세요.
+
+STRING_SOME_WINDOW_FILES_MISSING = 화면 녹화에는 추가 Windows 응용 프로그램이 필요합니다. 아래 링크에서 DirectX를 다운로드하고 다시 녹화하시겠습니까?
+
+STRING_EXIT_BLUESTACKS_DUE_TO_DISK_COMPACTION_HEADING = @@STRING_PRODUCT_NAME@@ 를 시작할 수 없습니다.
+
+STRING_EXIT_BLUESTACKS_DUE_TO_DISK_COMPACTION_MESSAGE = @@STRING_PRODUCT_NAME@@를 시작하기 전에 디스크 정리 프로세스가 완료될 때까지 기다려 주십시오.
+
+STRING_NOT_START_RECORDER = 화면 녹화를 시작할 수 없습니다.
+
+STRING_RECORDER_ALREADY_RUNNING = 화면 녹화기의 인스턴스가 이미 실행 중입니다. 녹화가 완료된 후 다시 시작하십시오.
+
+STRING_OPEN_SIDEBAR = 사이드바 열기
+
+STRING_CLOSE_SIDEBAR = 사이드바 닫기
+
+STRING_INCREASE_VOLUME = 볼륨 높이기
+
+STRING_DECREASE_VOLUME = 볼륨 줄이기
+
+STRING_MUTE_VOLUME = 음소거 볼륨
+
+STRING_OPEN_MI_MANAGER = 멀티 인스턴스 매니저 열기
+
+STRING_ASK_ON_CLOSING = 클로징 요청
+
+STRING_CHANGE_KEYS_VISIBILITY = 키보드 컨트롤 투명도 변경
+
+STRING_SCREEN_ROTATE_BUTTON_TOOLTIP = @@STRING_PRODUCT_NAME@@ 스크린 회전
+
+STRING_ANDROID_BOOT_FAILED = 안드로이드 부팅 실패
+
+STRING_ERROR_IN_STARTING_ANDROID_AUTO_FIX = 안드로이드가 잠들었으니 깨워주세요! @@STRING_PRODUCT_NAME@@에서 안드로이드를 다시 시작하시겠습니까?
+
+STRING_NO_TIMER_SET = 매크로를 실행하도록 타이머가 설정되지 않음
+
+STRING_NO_LOOP_ITERATION_SET = 매크로 루프는 1 회 이상 실행해야합니다.
+
+STRING_STOP_THE_SCRIPT = 다른 것을 실행하려면 현재 실행 중인 매크로를 중지해주십시오.
+
+STRING_ALREADY_IN_USE_MESSAGE = 해당 키가 다른 바로가기 키로 이미 사용중입니다.
+
+STRING_OPEN_MEDIA_FOLDER = 미디어 폴더 열기
+
+STRING_BOOKMARK_MACRO_WARNING = 5 개의 매크로까지 즐겨찾기할 수 있습니다
+
+STRING_BLUESTACKS_XAPK_HANDLER_TITLE = @@STRING_PRODUCT_NAME@@ xapk 핸들러
+
+STRING_STOP_MACRO_SCRIPT = 한 번에 하나의 매크로 만 실행 할 수 있습니다. 다른 매크로를 실행하려면 현재 실행중인 매크로를 중지하십시오.
+
+STRING_BST_INSTALLER_ALREADY_RUNNING = @@STRING_PRODUCT_NAME@@ 설치 프로그램의 또 다른 인스턴스가 이미 실행되고 있습니다.
+
+STRING_OPEN_MACRO_TOOL = 매크로 도구 열기
+
+STRING_EXPORT_MACRO = 매크로 내보내기
+
+STRING_NO_MACRO_SELECTED = 내보낼 매크로를 하나 이상 선택하세요.
+
+STRING_NO_MACRO_AVAILABLE = 먼저 매크로를 기록하거나 가져오기 하세요.
+
+STRING_UNMUTE_VOLUME = 볼륨 음소거 해제
+
+STRING_START_STREAMING = 스트리밍 시작하기
+
+STRING_UPDATES_READY_TO_INSTALL = 업데이트를 설치할 준비가 되었습니다.
+
+STRING_CHANGE_VOLUME = 볼륨 변경하기
+
+STRING_MUTE_ALL_INSTANCES = 모든 인스턴스 음소거하기
+
+STRING_SAVE_KEY_SEQUENCE_ERROR2 = 키 시퀀스를 인식할 수 없는 형식으로 업데이트할 수 없습니다. 해당 키 시퀀스가 유효한지 확인해 주세요.
+
+STRING_MACRO_SETTINGS = 매크로 설정
+
+STRING_TOGGLE_FULLSCREEN = 전체 화면
+
+STRING_TOGGLE_MUTE_STATE = 음소거/음소거 취소
+
+STRING_TOGGLE_VIDEO_RECORDING_STATE = 비디오 레코더
+
+STRING_TOGGLE_KEYMAPPING_STATE = 게임 컨트롤 전환
+
+STRING_TOGGLE_KEYMAP_WINDOW = 게임 가이드
+
+STRING_TOGGLE_FARM_MODE = 에코 모드 (멀티 인스턴스 매니저)
+
+STRING_TOGGLE_OVERLAY = 화면 컨트롤 표시 / 숨기기
+
+STRING_TOGGLE_LOCK_CURSOR = 잠금/잠금 해제 커서
+
+STRING_TOGGLE_MULTIINSTANCE_WINDOW = 멀티 인스턴스 매니저
+
+STRING_TRANSLATOR_TOOL = 자동 번역
+
+STRING_RESET_TO_DEFAULT = 기본값으로 재설정
+
+STRING_DUPLICATE_SHORTCUTS_WARNING = 이 바로 가기는 다른 작업에서 이미 사용 중입니다.
+
+STRING_SHORTCUT_KEY_SETTINGS = 바로가기 키
+
+STRING_WINDOW_ACTIONS = 윈도우 작업
+
+STRING_SYSTEM_ACTIONS = 시스템 작업
+
+STRING_ANDROID_ACTIONS = 안드로이드 작업
+
+STRING_GAME_CONTROLS = 통제 수단
+
+STRING_GAMEPAD_CONTROLS = 게임패드 컨트롤 창
+
+STRING_MISCELLANEOUS = 기타
+
+STRING_ROTATE = 회전하기
+
+STRING_RESTORE_SHORTCUTS = 키보드 단축키를 기본값으로 복원 하시겠습니까?
+
+STRING_RAN_X_TIMES = {0} 번 실행
+
+STRING_WARN_BEFORE_DELETING_MACRO = 매크로 스크립트 삭제 전 경고 메세지 보여주기
+
+STRING_RESET = 재설정
+
+STRING_RESTORE_DEFAULTS = 기본값 복원
+
+STRING_PERFORMANCE = 퍼포먼스
+
+STRING_SCREEN_LOCKED = 스크린이 잠겨있습니다.
+
+STRING_FULLSCREEN = 전체 화면
+
+STRING_AUTOMATIC_SORTING = 자동 정렬합니다.
+
+STRING_PIN_TOP = 위에 고정합니다.
+
+STRING_RESUME = 다시 시작하기
+
+STRING_PAUSE = 중지
+
+STRING_BOOKMARK = 북마크
+
+STRING_MACRO_RESTART_INTERVAL_NULL = 재시작 시간은 0보다 커야합니다.
+
+STRING_RUNNING_X_TIME = {0} 번 실행
+
+STRING_BACKUP_DISK_SPACE_FULL_MESSAGE = @@STRING_PRODUCT_NAME@@ 백업을 저장하는 드라이브에 디스크 공간이 부족합니다. 드라이브에 최소 5GB의 여유 디스크 공간이 있어야 함을 권장합니다. 그러나 백업 파일 크기는 설치한 게임의 크기에 따라 달라질 수 있습니다.
+
+STRING_BACKUP_DISK_SPACE_FULL_WARNING = 디스크 공간이 충분하지 않습니다.
+
+STRING_CHANGE_LOCATION = 위치 변경하기
+
+STRING_LOW_DISK_SPACE = 디스크 공간 부족
+
+STRING_LOW_DISK_SPACE_MESSAGE = 원활한 게임 환경을 위해 최소 1GB의 여유 디스크 공간을 확보하는 것을 권장드립니다.
+
+STRING_LOW_DISK_SPACE_WARNING = PC에 사용 가능한 디스크 공간이 부족합니다.
+
+STRING_LIVE = 라이브
+
+STRING_FULLSCREEN_EXIT_POPUP_TEXT = 전체 화면을 나가려면 {0} 키를 누르십시오.
+
+STRING_CLICK_TO_SEE_SCREENSHOT = 스크린샷을 보려면 클릭하십시오.
+
+STRING_NVIDIA_ONLY = (NVIDIA only)
+
+STRING_NO_SCHEME_SELECTED = 내보내기를 위해 최소 1개 이상의 파일을 선택하십시오.
+
+STRING_NO_SCHEME_AVAILABLE = 먼저 파일을 생성해주십시오.
+
+STRING_AUTO_ALIGN = 자동 정렬
+
+STRING_BLANK = [BLANK]
+
+STRING_SCRIPT_EDITOR = 스크립트 편집하기
+
+STRING_CLICK_PICK_XY_COORDINATES = 게임에서 원하는 지점을 마우스 오른쪽 버튼으로 클릭하여 해당 X, Y 좌표를 삽입하십시오.
+
+STRING_INTERACT_WITH_LEFT_CLICK = 왼쪽 클릭으로 게임과 상호작용하기
+
+STRING_NO_CHANGES_SAVE = 저장할 변경사항이 없습니다.
+
+STRING_REPEAT_ACTION_INFINITE = 멈추기까지 무한정 소요
+
+STRING_INTERVAL_BETWEEN_EXECUTION = 실행 간격
+
+STRING_PLAYBACK_SPEED = 재생 속도
+
+STRING_AFTER = 이후
+
+STRING_REPEAT_ACTION = 동작 반복
+
+STRING_MACRO_IMPORT_NAME = 매크로 다음으로 내보내기
+
+STRING_DUPLICATE_MACRO_NAME_WARNING = 스크립트가 존재함, 새로운 이름 들어가기
+
+STRING_IMPORT_MACRO = 매크로 불러오기
+
+STRING_NEW_PROFILE = 새로운 파일 생성
+
+STRING_IMPORT_SCHEMES = 파일 불러오기
+
+STRING_EXPORT_SCHEMES = 파일 내보내기
+
+STRING_SCHEME_IMPORT_NAME = 파일을 다음으로 가져옵니다.
+
+STRING_DUPLICATE_SCHEME_NAME_WARNING = 파일이 이미 존재합니다. 새로운 이름 입력하기
+
+STRING_VIDEO_RECORDING = 비디오 녹화
+
+STRING_SHOOTING_MODE_TOOLTIP_SMART_CONTROL = 스마트 컨트롤 가능. 중단하려면 {0} 사용하기
+
+STRING_WINDOW_ACTION_ERROR = 윈도우 바로가기 사용불가함
+
+STRING_SMART_CONTROLS = 스마트 컨트롤
+
+STRING_FREEFIRE = Garena 프리 파이어
+
+STRING_UNDO_ALL = 모두 취소
+
+STRING_CREATE_CUSTOMIZED_SCRIPT = 버튼을 클릭하여 일련의 동작을 수행하는 사용자 지정 스크립트를 생성하십시오.
+
+STRING_SCRIPT_GUIDE = 스크립트 가이드
+
+STRING_TOGGLE_SMART_CONTROLS = 스마트 컨트롤 활성화
+
+STRING_SMART_CONTROLS_DESCRIPTION = 스마트 컨트롤은 게임플레이 중 중요한 키보드 컨트롤만 볼 수 있게 해줍니다.
+
+STRING_UNDO_CHANGES = 변경 취소
+
+STRING_INVALID_SCHEME_NAME = 오류 : 유효하지 않은 파일 이름
+
+STRING_NO_IMPORT_MACRO_SELECTED = 내보내기 위해 최소 1개 이상의 매크로를 선택하십시오.
+
+STRING_PLAYING = 플레이 중
+
+STRING_STOP_PLAYING_MACRO = 매크로 플레이 멈추기
+
+STRING_MACRO_RECORDING_IN_PROGRESS = 매크로 녹화가 진행 중
+
+STRING_PAUSE_MACRO_RECORDING = 매크로 기록 일시 중지
+
+STRING_RESUME_MACRO_RECORDING = 매크로 기록 복구
+
+STRING_STOP_RECORDING_MACRO = 매크로 기록 중단하기
+
+STRING_DELETE_CONFIRMATION = 선택한 인스턴스를 삭제하시겠습니까?
+
+STRING_WARN_BEFORE_DELETING_SCHEME = 컨트롤 파일 삭제 전 경고 메세지 보여주기
+
+STRING_CUSTOMIZE_CONTROL_BST = 메뉴
+
+STRING_STOP_RECORDING_FIRST = 먼저 녹화를 중지하십시오.
+
+STRING_RECORD_SCREEN_WITHOUT_BETA = 스크린 녹화하기
+
+STRING_MACRO_NAME_ERROR = 오류 : 매크로 이름에는 다음 문자를 포함할 수 없음
+
+STRING_ENABLE_SMART_CHECKBOX = 슈팅모드 자동으로 들어가기 혹은 나가기
+
+STRING_OPTIMIZE_INGAME_SETTINGS = 게임 설정 최적화
+
+STRING_BEST_FOR_PC = PC에 가장 적합
+
+STRING_NO_MACROS_GRID = 귀하는 매크로를 가지고 있지 않습니다. 매크로를 녹화하거나 가져오면 여기에 나타날 것입니다.
+
+STRING_SCHEME_INVALID_CHARACTERS = 오류: 파일 이름은 '-' 문자를 포함할 수 없습니다
+
+STRING_DELETE_SCHEME_CONFIRMATION = 이 컨트롤 파일을 삭제하시겠습니까?
+
+STRING_BOOKMARK_SCHEMES_WARNING = 5가지 파일에만 즐겨찾기할 수 있습니다
+
+STRING_DISK_CLEANUP_COULD_NOT_COMPLETE = 죄송하지만 디스크 정리 과정에서 오류가 발생하여 완료할 수 없습니다.
+
+STRING_PLEASE_RESTART_PC_TRY_AGAIN = @@STRING_PRODUCT_NAME@@ 혹은 귀하의 PC에서 다시 시작하고 재시도 하십시오.
+
+STRING_MACRO_FILE_NAME_ERROR = 오류: 보류된 파일 이름입니다.
+
+STRING_INVALID_FILES_LIST = 오류 : 유효하지 않은 파일: {0}
+
+STRING_FREEFIRE_NOTIFICATION_MESSAGE = {0}에 대한 컨트롤이 스마트 컨트롤로 전환되었습니다. 스마트 컨트롤은 게임이 시작될 때 자동으로 슈팅 모드로 전환됩니다.
+
+STRING_FREEFIRE_NOTIFICATION_LINK = 자세히 보기>
+
+STRING_FREEFIRE_NOTIFICATION_DETAIL = 고급 게임 컨트롤에서 이전 컨트롤로 되돌릴 수 있습니다.
+
+STRING_MULTIPLE = 복수
+
+STRING_SINGLE = 단일
+
+STRING_BULK_ACTIONS = 큰 액션
+
+STRING_CLICK_ICON_TO_MODIFY = 보기 혹은 수정하려면 아이콘을 클릭하십시오.
+
+STRING_ORIENTATION_LANDSCAPE = 태블릿 (Tablet mode)
+
+STRING_ORIENTATION_PORTRAIT = 스마트폰 (Phone mode)
+
+STRING_WIDTH = 폭
+
+STRING_HEIGHT = 높이
+
+STRING_SYNC_STARTED = 동기화가 시작되었습니다
+
+STRING_NEVER_SHOW_AGAIN = 다시 보지 않기
+
+STRING_STOP_ALL = 모두 중지하기
+
+STRING_BATCH_DELETE_WARNING_MESSAGE = 실행 중인 인스턴스와 기본 인스턴스는 삭제되지 않는다는 점에 유의하십시오.
+
+STRING_RECOMMENDED_FOR_PC = PC 권장사항
+
+STRING_CLOSE_ALL_INSTANCES_CONFIRMATION = 실행 중인 모든 인스턴스를 닫으시겠습니까?
+
+STRING_INVALID_CFG = 대상 경로가 유효하지 않습니다. 내 보낸 구성의 파일 이름은 cfg 확장자입니다.
+
+STRING_INSUFFICIENT_SPACE_WARNING = 죄송합니다. PC에 BlueStack을 업데이트하기에 충분한 디스크 공간이 없습니다. @@STRING_PRODUCT_NAME@@ 디스크 정리 유틸리티를 실행하고 업데이트 프로세스를 다시 시도하십시오.
+
+STRING_LOGCOLLECTOR_DESCRIPTION_WARNING = 설명에 10 자 이상을 입력해주세요.
+
+STRING_MOBILE_NETWORK_PROVIDER = 모바일 네트워크 제공 업체
+
+STRING_MOBILE_NETWORK_SETUP = 모바일 네트워크가 필요한 게임이 제대로 작동하도록 모바일 네트워크 이름 설정
+
+STRING_FREE_DISK_SPACE = 디스크 정리 유틸리티를 실행하는 방법은 무엇입니까?
+
+STRING_INSUFFICIENT_SPACE = 디스크 공간 부족
+
+STRING_CORE = 코어
+
+STRING_CONTROLS = 컨트롤
+
+STRING_READ_ARTICLE = 읽어보기
+
+STRING_NEED_CONTROL_ON_GAME_CONTROLS = 게임 컨트롤에 대한 추가 컨트롤이 필요하십니까?
+
+STRING_OPEN_ADVANCED_CONTROLS = 고급 제어 열기
+
+STRING_HOW_TO_PLAY_ON_BLUESTACKS = @@STRING_PRODUCT_NAME@@에서 게임하는 방법
+
+STRING_MERGE = 병합
+
+STRING_INTERVAL_SEC = 간격(초)
+
+STRING_MACRO = 매크로
+
+STRING_EXECUTION_SPEED = 실행 속도
+
+STRING_DELAY_NEXT_SEC = 다음 스크립트를 (초) 지연합니다.
+
+STRING_HOW_MERGE_MACRO = 매크로를 병합하는 방법은 무엇입니까?
+
+STRING_PLUS_TO_ADD = +를 클릭하여 왼쪽 목록에서 매크로를 추가합니다.
+
+STRING_REORDER_DRAG = 원하는 목적을 달성하려면 매크로를 끌어 다시 정렬합니다.
+
+STRING_MERGE_NAME_CLICK = 병합된 매크로 이름을 지정하고 병합을 클릭합니다.
+
+STRING_DEFAULT = 기본
+
+STRING_MERGE_MACROS = 매크로를 병합합니다
+
+STRING_EXISTING_MACROS = 존재하는 매크로
+
+STRING_MACROS_TO_MERGE = 병합을 위한 매크로
+
+STRING_NAME_MERGED_MACRO = 병합된 매크로의 이름
+
+STRING_UNIFY = 통합하기
+
+STRING_CHECKING_UPDATES = 업데이트를 확인하는 중입니다
+
+STRING_ABI_SETTING = ABI 설정
+
+STRING_ABI_CHANGE_WARNING = 해당 기기의 구글 플레이 데이터가 지워집니다. 작동하려면 일부 앱을 다시 설치해야합니다.
+
+STRING_ASTC_TEXTURE = ASTC 텍스처 (베타)
+
+STRING_ASTC_Disabled = 기능삭제
+
+STRING_ASTC_SOFTWARE = 소프트웨어 디코딩
+
+STRING_ASTC_SOFTWARE_CACHING = 캐싱을 사용하도록 설정합니다
+
+STRING_ASTC_SOFTWARE_CACHING_WARNING = (캐시에 디스크 공간이 일부 소요됩니다.)
+
+STRING_ASTC_HARDWARE = 하드웨어 디코딩
+
+STRING_MERGE_SETTINGS = 병합 설정
+
+STRING_DELETE_DEPENDENT_MACRO = 종속 매크로를 삭제합니까?
+
+STRING_MACRO_IN_USE_BY_OTHER_MACROS = 삭제하려는 매크로가 현재 다른 매크로에서 사용되고 있습니다
+
+STRING_MACRO_LOSE_CONFIGURABILITY = {0}을 계속 삭제하면 다른 매크로의 구성 가능성이 손실됩니다.
+
+STRING_DELETE_ANYWAY = 어쨋든 삭제합니다
+
+STRING_DONT_DELETE = 삭제하지 마십시오
+
+STRING_IMPORT_DEPENDENT_MACRO = 종속 매크로를 가져옵니다.
+
+STRING_IMPORT_DEPENDENT_MACRO_UNIFIED = 가져오려는 매크로가 병합된 매크로입니다. 종속 매크로 파일도 가져오시겠습니까? 아니면 통합 파일로 가져오시겠습니까?
+
+STRING_IMPORT_ALL_MACROS = 모든 매크로를 가져옵니다
+
+STRING_IMPORT_UNIFIED = 새 게임 플레이 설정을 적용하려면 게임을 다시 시작해야 합니다.
+
+STRING_OPTIONS = 옵션
+
+STRING_GROUP = 그룹
+
+STRING_UNGROUP = 그룹 해제
+
+STRING_EDIT_MERGED_MACRO = 병합된 매크로를 편집합니다
+
+STRING_GAMEPLAY_SETTINGS = 게임플레이 설정
+
+STRING_RESTART_TO_APPLY_GAMEPLAY_SETTINGS = 새 게임 플레이 설정을 적용하려면 게임을 다시 시작해야 합니다.
+
+STRING_INVALID_SCRIPT_COMMANDS = 스크립트 명령 목록이 잘못되었습니다.
+
+STRING_TOGGLE_ADVANCED_KEYMAP_WINDOW = 고급 게임 컨트롤
+
+STRING_UNIFY_0 = {0} 통합하기
+
+STRING_UNIFIYING_LOSE_CONFIGURE = 통합 매크로에 대한 설정을 구성할 수 없습니다
+
+STRING_DEPENDENT_MACRO_IMPORTED_AS = 종속 매크로를 다음과 같이 가져옵니다.
+
+STRING_IMPORTING_CANCELLED = 매크로 가져오기가 취소되었습니다
+
+STRING_EMPTY_DEVICE_PROFILE = 기기 프로필을 선택하십시오
+
+STRING_ASTC_INFO_MESSAGE = 앱을 실행하기 전에 데이터와 캐시를 삭제해 주십시오.
+
+STRING_DRAG_TO_SORT = 드레그해서 분류
+
+STRING_DONT_SHOW_AGAIN = 다시 표시하지 않습니다.
+
+STRING_DISCARD_KEYMAPPING_CHANGES = 저장되지 않은 키매핑 변경 사항이 있습니다. 폐기 하시겠습니까?
+
+STRING_CHANGES_AUTO_SAVE = {0}에 변경 내용이 저장되었습니다.
+
+STRING_MACRO_COMMUNITY = 매크로 커뮤니티
+
+STRING_MACRO_SHARE_TEXT = BlueStacks 커뮤니티에서 매크로를 가져와서 공유할 수 있습니다.
+
+STRING_OPEN_COMMUNITY = 커뮤니티 열기
+
+STRING_GET_MACRO = 매크로 얻기
+
+STRING_NO_MACRO = 매크로가 없음
+
+STRING_NO_MACRO_TEXT = 녹화 버튼을 눌러 새로운 매크로 패턴을 만들어보세요. 또는 다운로드 버튼을 통해 BlueStacks 공식 카페에서 유용한 매크로를 받아보세요.
+
+STRING_MACRO_NAME = 매크로 이름
+
+STRING_CREATED_ON = 생성되었습니다
+
+STRING_ACTIONS = 액션
+
+STRING_MERGE_MACRO = 선택한 스크립트를 병합하여 단일 스크립트를 생성합니다.
+
+STRING_LAUNCH_BLUESTACKS_AFTER_GRAPHICS_CHANGE = {0}에서 부팅하려면 @@STRING_PRODUCT_NAME@@를 실행합니다.
+
+STRING_NO_GUIDE = 게임 가이드 없음
+
+STRING_USE_OVERLAY_SCHEME_GUIDE = 도움을 받으려면 화면 컨트롤을 사용하거나 다른 파일로 전환하여 가이드를 확인해주세요.
+
+STRING_SAVE_AND_RESTART = 저장 후 다시 시작
+
+STRING_SAVE_AND_RESTART_INFO = 변경되었습니다. {0}을 저장하고 다시 시작하시겠습니까?
+
+STRING_MACRO_ALREADY_EXISTS = 이름이 같은 매크로가 존재합니다, 다음을 진행하시겠습니까?
+
+STRING_REPLACE_EXISTING = 기존 버전을 바꿉니다.
+
+STRING_MACRO_IMPORT_SUCCESS = 매크로를 성공적으로 가져왔습니다.
+
+STRING_OPEN_COMMUNITY_PAGE = 매크로 커뮤니티 페이지를 엽니다.
+
+STRING_REMEMBER_WINDOW_POSITION_MESSAGE = 윈도우 위치를 기억합니다.
+
+STRING_CUSTOM_WIDTH_MESSAGE = 지원 너비 해상도:
+
+STRING_CUSTOM_HEIGHT_MESSAGE = 지원 높이 해상도:
+
+STRING_COPY_KEYS = 복사
+
+STRING_MACRO_IMPORT_STOPPED_WARNING = 새 매크로를 가져오려고 하면 실행 중인 매크로가 중지됩니다.
+
+STRING_IMPORT_WARNING = 가져오기 경고
+
+IMAP_STRING_Dpad_DpadTitle = D패드 제목
+
+STRING_SYNC_STOPPED = 동기화 중지됨
+
+IMAP_STRING_MouseWheelUp = 마우스 휠 위로
+
+IMAP_STRING_MouseWheelDown = 마우스 휠 아래로
+
+STRING_GPU_SETTINGS = GPU 설정
+
+STRING_GPU_IN_USE = 사용중인 GPU :
+
+STRING_MACRO_WARNING = 새 매크로를 가져 오기 위해 실행중인 매크로가 중지됩니다.
+
+STRING_REROLL_0 = 재 등록 {0}
+
+STRING_CHANGES_NOT_APPLIED = 변경 사항이 적용되지 않음
+
+STRING_REMOVE_ICON = 아이콘 삭제
+
+STRING_KEEP = 건너뛰기
+
+STRING_UNINSTALL_0_BS = @@STRING_PRODUCT_NAME@@에서 {0}을 제거하시겠습니까?
+
+STRING_UNINSTALL_0 = {0} 삭제
+
+STRING_ADDITIONAL_FILES_REQUIRED = 추가 파일이 필요합니다
+
+STRING_DOWNLOADING_ADDITIONAL_FILES = 추가 파일 다운로드
+
+STRING_DOWNLOAD_IN_PROGRESS = 다운로드 진행 중
+
+STRING_INSTANCE_CREATION_ERROR = 인스턴스 생성 오류
+
+STRING_INSTANCE_ALREADY_RUNNING = 인스턴스가 이미 실행 중입니다
+
+STRING_CANNOT_RUN_MACRO = 매크로를 실행할 수 없습니다
+
+STRING_REROLL_COMPLETED_SUCCESS = 재등록이 성공적으로 완료되었습니다.
+
+STRING_DELETE_MACRO = 매크로 삭제
+
+STRING_IMPORT_MACRO_WARNING = 매크로 경고 가져오기
+
+STRING_STOP_IMPORT = 중지 및 가져오기
+
+STRING_INVALID_NAME = 잘못된 이름
+
+STRING_SAVE_CHANGES_QUESTION = 변경내용을 저장하시겠습니까?
+
+STRING_BACKUP = 백업
+
+STRING_CORRUPT_INSTALLATION = 손상된 설치
+
+STRING_SMART_CONTROLS_ENABLED_0 = {0}에 스마트 컨트롤 사용
+
+STRING_EXPORT_WARNING = 내보내기 경고
+
+STRING_DISCARD_CHANGES = 변경 사항을 취소
+
+STRING_DELETE_SCHEME = 파일 삭제
+
+STRING_REMOVE_CLOSE = 제거하고 닫으기
+
+STRING_INCOMPATIBLE_INSTALLER = 호환되지 않는 설치 프로그램
+
+STRING_CANNOT_USE_FOLDER = 폴더를 사용할 수 없습니다
+
+STRING_SELECT_AGAIN = 다시 선택하기
+
+STIRNG_ACCEPT_TNC = 이용 약관 동의
+
+STRING_SELECTED_DRIVE_INSUFFICIENT_DISKSPACE = 아쉽게도 선택한 드라이브에 @@STRING_PRODUCT_NAME@@을 설치하기에 충분한 디스크 공간이 없습니다.
+
+STRING_CHOOSE_AGAIN = 다시 선택
+
+STRING_EXIT_INSTALLER = 설치 프로그램 종료
+
+STRING_REPORT_SENT_SUCCESS = 성공적으로 전송되었습니다
+
+STRING_RESOLVE_AUTOMATIC = 자동 해결사
+
+STRING_ATTACHMENT_SIZE_EXCEEDED = 첨부 파일 크기 초과
+
+STRING_INVALID_IMAGE = 잘못된 이미지
+
+STRING_CANNOT_CLONE_INSTANCE = 인스턴스를 복제할 수 없습니다
+
+STRING_CLOSE_SELECTED = 선택한 항목 닫기
+
+STRING_SHORTCUT_CREATED = 바로 가기 생성
+
+STRING_CLOSE_ALL = 모두 닫기
+
+STRING_CREATE_INSTANCE_ERROR = 인스턴스 생성 오류
+
+STRING_UNSUPPORTED_VERSION = 지원되지 않는 버전
+
+STRING_MACRO_WINDOW_ON_FINISH = 실행이 완료되면 매크로 창을 표시하지 않습니다
+
+STRING_VTX_DISABLED_WARNING = 하드웨어 지원 가상화가 비활성화되면 @@STRING_PRODUCT_NAME@@를 시작할 수 없습니다.
+
+STRING_VTX_UNAVAILABLE_ERROR_MESSAGE = PC가 하드웨어 가상화를 지원하지 않아@@STRING_PRODUCT_NAME@@ 를 시작할 수 없습니다. 자세한 내용은 FAQ를 확인해 주세요.
+
+STRING_VTX_DISABLED_ENABLEIT_BODY = BIOS에서 활성화 할 수 있습니다. Avast 또는 360 바이러스 백신을 사용하는 경우 해당 설정에서 하드웨어 지원 가상화 사용을 비활성화해주세요. 자세한 내용은 FAQ를 확인해 주세요.
+
+STRING_ADVANCE_GRAPHICS_MODE = 고급 그래픽 엔진 모드
+
+STRING_LEGACY_GRAPHICS_MODE = 기본 그래픽 엔진 모드
+
+STRING_DONE = 완료
+
+STRING_DELETE_INSTANCES = 인스턴스 삭제
+
+STRING_CLOSE_INSTANCES = 인스턴스 닫기
+
+STRING_COULDNT_BOOT_TRY_RESTART = 드라이버 오류로 인해 @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다. PC를 재부팅후 다시 시작해보십시오.
+
+STRING_LANGUAGE_CHANGE_APPLY_RESTART = 재시작시 언어가 변경됩니다
+
+STRING_USE_NATIVE_GAMEPAD = 게임에 내장 된 게임 패드 컨트롤 사용
+
+STRING_NATIVE_GAMEPAD_INFO = 게임 내장 컨트롤 선택으로 BlueStacks에서 제공하는 게임 패드 컨트롤은 더 이상 모든 게임에 적용되지 않습니다.
+
+STRING_GAME_CONTROLS_SETTINGS = 게임 컨트롤 세팅
+
+STRING_INSTALLER_CANNOT_STOP_AFTER_START = 설치 프로세스는 일단 시작되면 중지될 수 없습니다. 완료될 때까지 기다려주세요.
+
+STRING_NOT_SURE_WHERE_START = 어디부터 시작해야할지 모르겟나요?
+
+STRING_VIEW_TOP_GAMES = 상위 게임 보기 
+
+STRING_ISSUES_INSTALLING_GAME = 게임을 설치 / 실행하는 동안 문제가 발생했나요?
+
+STRING_READ_SOLUTION = 솔루션 보기
+
+STRING_FACING_OTHER_TROUBLE = 다른 문제가 있으세요?
+
+STRING_HAVING_TROUBLE_INSTALLING_GAME = 게임 설치에 문제가 있으신가요?
+
+STRING_RETURN_BLUESTACKS = @@STRING_PRODUCT_NAME@@로 돌아 가기
+
+STRING_GAME_CONTROLS_SETTINGS = 게임 컨트롤 세팅
+
+STRING_BLUESTACKS_GUIDANCE_WINDOW = @@STRING_PRODUCT_NAME@@ @@STRING_CONTROLS@@
+
+STRING_DISCARD_GUIDANCE_CHANGES = 구성표의 변경 사항을 삭제 하시겠습니까? 복원할 수 없습니다.
+
+STRING_RESET_SCHEME_CHANGES = 선택한 구성표는 BlueStacks에서 제공하는 기본 구성표로 재설정되며 모든 변경 사항이 손실됩니다.
+
+STRING_SCHEME = 표
+
+STRING_ADB_CONNECTED_PORT_0 = ADB는 127.0.0.1:{0}에서 연결할 수 있습니다.
+
+STRING_GUIDANCE_EDIT_KEYS = 키 편집
+
+STRING_ATTACH_FILES = 파일 첨부
+
+STRING_TOTAL_ATTACHMENT_SIZE_EXCEEDED_LIMIT = 첨부 된 총 파일이 최대 허용 한도 인 25MB를 초과합니다. 다른 파일을 선택해주세요.
+
+STRING_ATTACHMENT_COUNT_EXCEEDED = 첨부 파일 수 초과
+
+STRING_TOTAL_ATTACHMENT_COUNT_EXCEEDED_LIMIT = 최대 10개까지 파일을 첨부할 수 있습니다.
+
+STRING_INVALID_FILE = 유효하지 않은 파일
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION_BAT_EXE = 확장자가 .bat 및 .exe 인 파일은 허용되지 않습니다.
+
+STRING_HAVING_TROUBLE_STARTING_GAME = 게임을 시작할 수 없습니까?
+
+STRING_ISSUES_INSTALLING_A_GAME = 게임을 설치할 수 없습니까?
+
+STRING_KEEP_CHANGES = 변경 사항 유지
+
+STRING_INSUFFICIENT_RECORDING_SPACE = 미디어 폴더에 저장할 수있는 충분한 디스크 공간이 없습니다. 계속하려면 새 경로를 선택하거나 디스크 공간을 확보하십시오.
+
+STRING_EDIT_CONTROLS = 컨트롤 편집
+
+STRING_CLONE_INSTANCE_MESSAGE = 선택한 인스턴스의 모든 데이터 및 설정이 복사됩니다
+
+STRING_CLONE = 클론
+
+STRING_FRESH = 새로고침
+
+STRING_CLONE_FROM = 복제
+
+STRING_RAM = RAM(MB)
+
+STRING_WIDTH_HEIGHT = 너비 x 높이
+
+STRING_INSTANCE_COUNT = 인스턴스 갯수
+
+STRING_STOP_MOVEMENT = 멈추기
+
+STRING_CHANGE_SKILL_SETTINGS = 설정
+
+STRING_SKILL_SETTINGS = 스킬 설정
+
+STRING_ENABLE_ANDROID_DEBUG_WARNING = 이 설정을 사용하면 게임 플레이에 부정적인 영향을 줄 수 있습니다. 나중에 끄는 것을 고려해주세요.
+
+STRING_CHOOSE_OPTION_MESSAGE = 원하는 것을 선택하십시오
+
+STRING_KEEP_RECEIVING_NOTIFICATION = 모든 앱이 닫히고 게임 알림이 계속 수신됩니다.
+
+STRING_QUIT_BLUESTACKS_MESSAGE = @@STRING_PRODUCT_NAME@@ 종료
+
+STRING_BLUESTACKS_WILL_CLOSE_COMPLETELY = @@STRING_PRODUCT_NAME@@가 완전히 종료됩니다.
+
+STRING_MINIMIZE_TO_SYSTEM_TRAY = 시스템 트레이로 최소화
+
+STRING_SHOW_MINIMIZE_CONFIRMATION =  닫는 동안 @@STRING_PRODUCT_NAME@@을 종료하거나 최소화 팝업 표시
+
+STRING_SHOW_ALL_INSTANCES = 모든 인스턴스 보기
+
+STRING_CHANGE_SETTINGS_LATER = 이 설정은 나중에 바꾸실 수 있습니다.
+
+STRING_INSTANCE_NAME_ERROR = 오류 : 인스턴스 이름은 다음 문자를 포함할 수 없습니다
+
+STRING_CONTROLS_EDITOR = 컨트롤 편집기
+
+STRING_STOP_MOVEMENT_DESCRIPTION = 이 옵션을 선택하면, 주문을 시전하자마자 영웅이 움직이지 않습니다.
+
+STRING_CUSTOM_RAM_MESSAGE = 현 PC의 RAM(메모리):
+
+IMAP_STRING_PAN_GAMEPADSTICK = 게임 패드 스틱
+
+IMAP_STRING_PAN_GAMEPADSENSITIVITY = 게임 패드 감도
+
+STRING_SAME_MACRO_EXISTS = UserScripts 폴더에서 매크로를 가져올 수 없습니다
+
+STRING_ERROR_IN_IMPORTING_MACRO = 에러: 매크로 파일을 가져올 수 없습니다
+
+STRING_ERROR_IN_MERGE_MACRO = 오류 : 매크로를 찾을 수 없습니다
+
+STRING_RECEIVE_EMAIL_NOTIFICATION = 이메일 알림 받기
+
+IMAP_STRING_PAN_GAMEPADSENSITIVITY = 게임 패드 감도
+
+STRING_SKIP = 건너뛰기
+
+STRING_OKAY = OK
+
+STRING_NEXT = 다음
+
+STRING_SELECTED_MODE = 선택된 모드
+
+STRING_SELECTED_MODE_MESSAGE = 선호도에 따라 {0}이 선택되었습니다. 원하는 경우 여기에서 다른 시스템으로 전환할 수 있습니다.
+
+STRING_RESTART_BLUESTACKS = @@STRING_PRODUCT_NAME@@ 재시작
+
+STRING_RESTART_BLUESTACKS_MESSAGE = 변경 사항 중 일부는 다시 시작하려면 @@STRING_PRODUCT_NAME@@이 필요합니다. 지금 다시 시작 하시겠습니까?
+
+STRING_CHANGES_ARE_NOT_SAVED = 변경 사항을 취소하시겠습니까?
+
+STRING_SETTING_CLOSE_MESSAGE = 변경 사항을 취소하고 설정을 닫으시겠습니까?
+
+STRING_SETTING_TAB_CHANGE_MESSAGE = 변경 사항을 삭제하고 이 탭을 그대로 두시겠습니까?
+
+STRING_NO_THANKS = 아니요
+
+STRING_LANDSCAPE = 범위
+
+STRING_PORTRAIT = 세로모드
+
+STRING_GAME_CONTROLS_HEADER = 내 게임 가이드
+
+STRING_GAME_CONTROLS_MESSAGE = 게임 컨트롤 등을 확인하려면 여기를 클릭해주세요.
+
+STRING_PLAY_BIGGER_HEADER = 전체화면
+
+STRING_PLAY_BIGGER_MESSAGE = 여기를 클릭하세요
+
+STRING_PLAY_BIGGER_FULL_SCREEN_MESSAGE = 전체화면 전환
+
+STRING_VIEW_CONTROLS_HEADER = 컨트롤 보기
+
+STRING_VIEW_CONTROLS_MESSAGE = 가이드 아이콘을 클릭하면 게임 컨트롤을 다시 볼 수 있습니다.
+
+IMAP_STRING_ROTATE_TWEAKS = 회전 수정하기
+
+IMAP_STRING_ROTATE_HEADER_EDIT_UI = 회전하기
+
+IMAP_STRING_ROTATE_SETTINGS = 회전 세팅
+
+STRING_RECOMMENDED_RESOLUTION = 권장 해상도
+
+PLAY_LANDSCAPE = 가로 모드로 플레이
+
+IMAP_STRING_ROTATE_STARTINGANGLE = 시작 각도
+
+STRING_SHOW_POINTER_LOCATION_FOR_TOUCH_DATA = 현재 터치 데이터로 포인터 위치 표시
+
+STRING_SHOW_VISUAL_FEEDBACK_FOR_TAPS = 탭에 대한 시각적 피드백 표시
+
+STRING_EXIT_FULL_SCREEN = 전체화면 나가기
+
+STRING_SHOW_TOOLBAR = 툴바 보이기
+
+STRING_VIEW_OPTIONS = 옵션 보기
+
+STRING_ALL_GAMES = 모든 게임
+
+STRING_CURSOR = 커서
+
+STRING_VIEW_AND_CUSTOMIZE_GAME_CONTROLS = 게임 컨트롤보기 및 사용자 정의
+
+STRING_RECOMMENDED_SETTING = 내 PC 하드웨어에 따라 최상의 게임 설정을 자동으로 선택
+
+STRING_CANNOT_OPEN_SETTING = 게임 컨트롤을 편집하는 동안 설정 창을 열 수 없습니다.
+
+STRING_INPUT_DEBUGGING = 디버깅 입력
+
+PLAY_PORTRAIT = 세로 모드로 플레이
+
+STRING_RECOMMENDED_LANDSCAPE_MODE = 가로 모드에서 게임과 해당 게임 컨트롤을 항상 시작하려면 이 설정을 활성화해주세요.
+
+STRING_RECOMMENDED_PORTRAIT_MODE = 게임과 게임 컨트롤을 항상 세로 모드로 시작하려면이 설정을 사용해주세요.
+
+STRING_ASK_CANCEL_DOWNLOAD = 다운로드 취소?
+
+STRING_ASK_CANCEL_DOWNLOAD_MESSAGE = 다운로드를 취소하시겠습니까?
+
+STRING_CHOOSE_ANDROID_RUNTIME = 안드로이드 버전 선택
+
+STRING_INSTALLING = 설치 중
+
+STRING_DOWNLOADING_RUNTIME_MESSAGE = 선택한 Android 버전을 다운로드 중입니다. 완료 될 때까지 기다려주세요.
+
+STRING_SELECTED_RUNTIME_NOT_INSTALLED = 선택한 Android 엔진이 다운로드되어 설치됩니다.
+
+STRING_UPDATE_CHECKER  = 업데이트 체크
+
+STRING_CHECK_FOR_UPDATE	= 업데이트 확인
+
+STRING_UPDATE_MESSAGE = BlueStacks 업데이트로 인해 멀티 계정을 안전하고 빠르게 실행하며, 최신 게임 기능을 더 빠르게 실행할 수 있도록 도와드립니다.
+
+STRING_CHECK_FOR_UPDATES  = 업데이트 확인
+
+STRING_ANDROID_RUNTIME = 안드로이드 런타임
+
+STRING_STATUS = 상태
+
+STRING_UPDATE_AVAILABLE = 업데이트 사용 가능
+
+STRING_UP_TO_DATE = 지금까지
+
+STRING_LEARN_HOW_TO_UPDATE_YOUR_INSTANCE = 인스턴스(계정)를 업데이트하는 방법에 대해 확인해보세요.
+
+STRING_SHOW_GAME_GUIDE = 가이드 보기
+
+STRING_CHANGE_SENSITIVITY = 현재 체계의 감도 변경
+
+STRING_DEFAULT_IN_GAME_RESOLUTION = 게임 해상도의 기본값
+
+STRING_IN_GAME_RESOLUTION = 게임 내 해상도
+
+STRING_COMPATIBILITY = 호환성
+
+STRING_GRAPHICS_ENGINE_MODE = 그래픽 엔진
+
+STRING_GRAPHICS_RENDERER = 그래픽 렌더러
+
+STRING_CANT_EDIT = 메인 인스턴스의 이름을 바꿀 수 없습니다.
+
+STRING_CANT_DELETE = 메인 인스턴스를 삭제할 수 없습니다.
+
+STRING_ADVANCED_MODE = 고급 모드
+
+STRING_LEGACY_MODE = 레거시 모드
+
+STRING_FAILED_DOWNLOAD_RETRY = 다운로드를 완료할 수 없습니다. 인터넷 연결을 확인하고 다시 시도하십시오
+
+STRING_VIDEO_TUTORIAL_BLURB_HEADER = 플레이 방법
+
+STRING_VIDEO_TUTORIAL_BLURB_MESSAGE = 여기를 클릭하여 게임방법을 알아보기
+
+STRING_HOW_TO_PLAY = 게임 방법
+
+STRING_QUICKLY_LEARN = 빨리 배우기
+
+STRING_WATCH_TUTORIAL_VIDEO = 튜토리얼 보기
+
+STRING_READ_SUPPORT_ARTICLE = 도움말 보기
+
+STRING_PROMOTIONAL_TEASER = 멀티 인스턴스 매니저를 사용하여 안드로이드 64 비트 게임을 즐기십시오.
+
+STRING_PLEASE_WAIT = 잠시만 기다려 주십시오.
+
+STRING_ANDROID_DOWNLOAD_IS_IN_PROGRESS = 선택한 Android 구성 요소를 다운로드 중입니다. 완료될 때까지 기다려주세요.
+
+STRING_CPU_CORE = CPU 코어
+
+STRING_BRACKETS_0 = ({0})
+
+STRING_CPU_CORES  =  CPU 코어
+
+STRING_RAM  = RAM(MB)
+
+STRING_MEMORY_GB = GB
+
+STRING_CUSTOM_MB = 커스텀 (MB)
+
+STRING_COLLECTS_LOGS_FROM_ALL_INSTANCES = 모든 인스턴스에서 로그 수집
+
+STRING_PROCESS_MIGHT_TAKE_LONG = 시간이 좀 걸릴 수 있습니다
+
+STRING_REFRESH = 새로고침
+
+STRING_START_ALL_INSTANCES = 모든 인스턴스를 시작하기
+
+STRING_MULTI_INSTANCE_DOWNLOAD_CANCEL = 멀티 인스턴스 관리자를 닫으면 다운로드가 취소됩니다
+
+STRING_CHECKING_ENGINE_COMPATIBILITY = {0} 호환성 확인 중
+
+STRING_32BIT_ANDROID = 32비트 안드로이드
+
+STRING_64BIT_ANDROID = 64비트 안드로이드
+
+STRING_CORES = 코어
+
+STRING_COLLECT_LOGS = 로그 수집
+
+STRING_MENU = 메뉴
+
+STRING_NOTIFICATION_MODE = 알림 모드
+
+STRING_ENABLE_NOTIFICATION_MODE = 알림모드 활성화하기
+
+STRING_NOTIFICATION_MODE_INFO = @@STRING_PRODUCT_NAME@@이 잠겨있어도 실시간 알림으로 업데이트 상태를 유지하십시오.
+
+STRING_NOTIFICATION_DETAILS_INFO = 알림 모드에서 @@STRING_PRODUCT_NAME@@은
+
+STRING_ALWAYS_MINIMIZE = 닫기 버튼을 클릭할 때 항상 시스템 트레이로 최소화
+
+STRING_LOW_POWER_MODE = 저전력 모드로 자동 전환
+
+STRING_FREE_UP_RESOURCES = 불필요한 앱을 닫아 리소스 확보
+
+STRING_REALTIME_NOTIFICATIONS = 앱과 게임에 대한 실시간 알림 받기
+
+STRING_NOTIFICATION_MODE_TOAST = 알림 모드가 켜져 있습니다. 작업 표시줄, 시스템 트레이에서 블루스택을 찾을 수 있습니다.
+
+STRING_NOTIFICATION_EXIT_POPUP_INFO = 이벤트 및 업데이트 알림을 놓치지 마세요.
+
+STRING_ENABLE_NOTIFICATION_MODE_TO = 알림 모드 활성화
+
+STRING_SWITCH_LOW_POWER = 저전력 모드로 전환
+
+STRING_LIVE_NOTIFICATIONS = 실시간 알림 받기
+
+STRING_CHOOSE_CLOSE_BS = 아니요, @@STRING_PRODUCT_NAME@@을 종료합니다.
+
+STRING_FORCE_ON = Force on
+
+STRING_FORCE_OFF = Force off
+
+IMAP_STRING_EdgeScroll_Header_Edit_UI = 가장자리 스크롤
+
+IMAP_STRING_EDGESCROLL_XVELOCITY = X축 속도
+
+IMAP_STRING_EDGESCROLL_YVELOCITY = Y축 속도
+
+IMAP_STRING_EDGESCROLL_XACTIVEMARGIN = X축 활성 여백
+
+IMAP_STRING_EDGESCROLL_YACTIVEMARGIN = Y축 활성 여백
+
+IMAP_STRING_EDGESCROLL_RESETDELAY = 지연 재설정
+
+IMAP_STRING_EDGESCROLL_SETTINGS = 가장자리 스크롤 설정
+
+STRING_HYPERV_DISABLED_MESSAGE = Hyper-V가 비활성화되어 있습니다. @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다. Windows 제어판에서 Microsoft Hyper-V를 활성화한 후  다시 시도하십시오. 활성화 방법에 대해서는 블루스택 FAQ를 방문하십시오.
+
+STRING_HYPERV_DISABLED_WARNING = Hyper-V가 비활성화되어 있으면 @@STRING_PRODUCT_NAME@@을 시작할 수 없습니다.
+
+STRING_HYPERV_ADMIN_GROUP = 현재 사용자에게 Hyper-V 사용 권한을 허용하시겠습니까? 이 변경을 적용하려면 다시 시작해야합니다.
+
+STRING_HYPERV_INACCESSIBLE = Hyper-V에 액세스할 수 없습니다.
+
+STRING_GRANT_RESTART_LATER = 권한 부여하고 나중에 재시작
+
+STRING_GRANT_RESTART = 권한 부여 및 재시작
+
+STRING_NOT_ABLE_TO_BOOT_HYPERV_DISABLED_WARNING = @@STRING_PRODUCT_NAME@@은 하드웨어 지원 가상화를 사용하지 않으면 부팅할 수 없습니다.
+
+STRING_HYPERV_COMPUTE_PLATFORM_DISABLED_WARNING = PC에서 Hyper-V를 사용할수 없어서 @@STRING_PRODUCT_NAME@@을 (를) 시작할 수 없습니다.
+
+IMAP_STRING_EDGESCROLL_SPEEDUPFACTOR = 성능 향상 요소
+
+IMAP_STRING_EDGESCROLL_SPEEDUPWAITTIME = 대기 시간 단축
+
+IMAP_STRING_EDGESCROLL_X = X
+
+IMAP_STRING_EDGESCROLL_Y = Y
+
+STRING_INSTANCE_NAME_ALREADY_EXISTS = 같은 이름의 인스턴스가 이미 있습니다.
+
+STRING_REMEMBER_PREFERENCE = 환경 설정 저장하기
+
+STRING_DO_NOT_SHOW_NM_POPUP = 알림 모드 팝업을 표시하지 않습니다.
+
+STRING_NOTIFICATION_PREFERENCES = 알림 환경 설정
+
+STRING_MANAGE_NOTIFICATIONS = 알림 설정 관리
+
+STRING_NOTIFICATION_SOUNDS = 알림 사운드
+
+STRING_RIBBON_NOTIFICATIONS = 리본 배너 알림
+
+STRING_TOAST_NOTIFICATIONS = 토스트 베너 알림
+
+STRING_APP_SPECIFIC_NOTIFICATIONS = 앱 알림
+
+STRING_CHOOSE_APP_SPECIFIC_NOTIFICATIONS = 앱 알람 표시
+
+STRING_PACKAGE_SNOOZED = {1}에 대해 {0} 알림이 일시 중지됨
+
+IMAP_STRING_ON = 켜기
+
+IMAP_STRING_OFF = 끄기
+
+IMAP_STRING_EDGESCROLL_EDGESCROLLENABLED = 활성화
+
+STRING_GET_HELP = 도움 받기
+
+STRING_INSTALL_GPLAY = Google Play에서 설치
+
+STRING_RIBBON_NOTIFICATIONS_INFO = 퀘스트를 완료하면 오른쪽 상단에 알림이 표시됩니다.
+
+STRING_TOAST_NOTIFICATIONS_INFO = 게임 패드 연결, 스크린 샷 찍기 등의 동작이 화면에 표시됩니다. 이것을 "On"으로 유지하기를 권장합니다.
+
+STRING_VIEW_DETAILS = 세부 정보 보기
+
+STRING_TRANSLATED_IMAGE = 번역된 이미지
+
+IMAP_STRING_MOBASKILL_MINSKILLTIME = 최소 스킬 타임
+
+IMAP_STRING_MOBASKILL_MINSKILLHOLDTIME = 최소 유지 시간
+
+IMAP_STRING_MOBASKILL_MINSWIPERADIUS = 최소 스와이프 범위
+
+IMAP_STRING_DPAD_DEADZONERADIUS = 사각 지대 반경
+
+STRING_ENABLE_MEMORY_TRIM = 주기적 메모리 트리밍 가능
+
+STRING_ENABLE_MEMORY_TRIM_WARNING = 게임 플레이 또는 FPS 속도가 느려질 수 있습니다.
+
+STRING_LEARN_WHATS_NEW = 새로운 기능 알아보기
+
+IMAP_STRING_MOBASKILL_SPEED = 기술 속도
+
+STRING_INITIATING_PERFORMANCE_BOOST = 설치 후 완료 단계
+
+STRING_NOT_SURE = 확실하지 않으신가요?
+
+STRING_MAX_CORE_WARNING = 모든 CPU 코어를 @@STRING_PRODUCT_NAME@@에 할당하면 전체 시스템이 지연되거나 느려집니다.
+
+STRING_ACCESS_WINDOWS_FOLDER = Windows 사진 및 문서 폴더에 액세스하려면 @@STRING_PRODUCT_NAME@@을 사용 설정하세요.
+
+STRING_SORT_BY_NAME = 이름으로 정렬
+
+STRING_SORT_BY_ENGINE = 엔진으로 정렬
+
+STRING_UNLOCK_MOUSE = 커서 잠금 해제
+
+STRING_UNLOCK_MOUSE_POPUP_TEXT = 팁 : {0}을 눌러 마우스 커서를 잠금 해제하십시오.
+
+STRING_FARMING_SETTINGS = 파밍 설정
+
+STRING_FARM_FPS = 에코 FPS
+
+STRING_ONE_TO_THIRTY = (1-30)
+
+STRING_UTC_CONVERTER = UTC 시간 컨버터
+
+STRING_UPDATE_CONTROL_SCHEMES = 컨트롤 파일 업데이트
+
+STRING_UPDATE_CONTROL_SCHEME_WARNING = @@STRING_PRODUCT_NAME@@에서 제공하는 모든 컨트롤 파일이 업데이트 됩니다. 이전에 수정한 내용은 모두 사라집니다.
+
+STRING_CFG_UPDATED = CFG가 업데이트 되었습니다
+
+STRING_UNEXPECTED_ERROR = 컨트롤을 업데이트하는 동안 예상치 못한 오류가 발생했습니다.
+
+STRING_CFG_NOT_AVAILABLE = 현재 이 앱에 사용할 수 있는 컨트롤 파일이 없습니다.
+
+STRING_UTC_BLURB_HEADER = UTC 컨버터
+
+STRING_UTC_BLURB_BODY = UTC 시간을 현지 시간으로 변환하려면 여기를 클릭하십시오.
+
+STRING_TIP_ZOOM = 게임 내에서 확대 / 축소하려면 CTRL + 마우스 휠 위 / 아래를 누르세요.
+
+STRING_TIP_SCREENSHOT = 스크린 샷을 찍고 CTRL + SHIFT + S를 누르세요.
+
+STRING_TIP_APK_DRAG_DROP = 앱을 설치하고 apk 파일을 홈 화면으로 끌어다 놓으세요.
+
+STRING_TIP_HELP = 도움말 및 지원을 받으려면 상단 표시줄에서 "?"를 클릭하십시오. 
+
+STRING_TIP_ICONSIZE = 앱 아이콘 크기를 변경하고 홈 화면에서 개인 설정을 클릭한 다음 크기를 클릭하십시오.
+
+STRING_TIP_FPSCOUNTER = 게임 내 FPS를 확인하고 설정의 엔진 탭에서 FPS 카운터를 활성화합니다.
+
+STRING_TIP_GAMEPAD = 향상된 게임 체험을 위해 게임 패드를 연결하십시오.
+
+STRING_TIP_BACKUP = 필요시 복원할 수 있도록 데이터를 백업하십시오.
+
+STRING_TIP_FULLSCREEN = 전체 화면으로 재생하고 F11 키를 눌러 몰입도를 더욱 높여보세요
+
+STRING_TIP_PLAY_AND_WIN = 메인 또는 사이드 퀘스트를 플레이하여 흥미진진한 상품을 받아보세요. "Play and Win"을 확인하세요.
+
+STRING_TIP_SHOOTINGMODE = 촬영 모드로 들어가거나 나가려면 F1을 누르세요.
+
+STRING_TIP_OVERLAY = 화면 컨트롤 표시 / 숨기기, Ctrl + Shift + F6을 누릅니다.
+
+STRING_ECO_MODE = 에코 모드
+
+STRING_ECO_MODE_HELP = 더 많은 멀티 태스킹을 수행할 수 있도록 BlueStacks에서 소비하는 리소스를 줄입니다.
+
+STRING_SOUND = 사운드
+
+STRING_ECO_MODE_SETTINGS = 에코 모드 설정
+
+STRING_ECO_MODE_SETTINGS_MESSAGE = 여기에서 이 인스턴스의 에코 모드 설정을 변경합니다.
+
+STRING_CHOOSE_GAME_CONTROLS = 게임 컨트롤 선택
+
+STRING_SHOW_GAME_CONTROLS = 게임 컨트롤 표시
+
+STRING_OPEN_CONTROLS_EDITOR = 컨트롤 편집기 열기
+
+STRING_BOOKMARKS = 북마크
+
+STRING_GAMEPAD_CONNECTED_DESKTOP_NOTIFICATION = 게임 패드가 연결되었습니다. @@STRING_PRODUCT_NAME@@에서 게임 패드로 플레이하는 방법을 알아보려면 여기를 클릭하세요. 가만히 앉아서 엄지손가락 하나로 처리하세요.
+
+STRING_SHOW_GAMEPAD_NOTIFICATIONS = 게임 패드 알림
+
+STRING_GAMEPAD_NOTIFICATIONS_INFO = 게임 패드가 연결되어 사용할 준비가 되었을 때 강조 표시하기 위한 알림입니다.
+
+STRING_ONSCREEN_CONTROLS = 온 스크린 컨트롤
+
+STRING_CONTROLS_FOR = 컨트롤
+
+STRING_OPACITY = 불투명
+
+STRING_VIEW_EDIT_GAME_CONTROLS = 게임 컨트롤 보기 / 편집
+
+STRING_OPEN_ADVANCED_EDITOR = 고급 편집기 열기
+
+STRING_SWITCH_OVERLAY_CONTROLS = 화면 컨트롤 전환
+
+STRING_KEYBOARD_ICON_ONBOARDING_BODY_TEXT = 이 메뉴를 통해 화면 컨트롤을 표시하거나 숨깁니다.
+
+STRING_CANCEL_CHANGES = 변경 취소
+
+STRING_REORDER_SIDETOOLBAR = 사이드 툴바에 아이콘 정렬
+
+STRING_REORDER_SIDETOOLBAR_MESSAGE = 아이콘을 드래그하여 선호도에 맞게 재정렬 하십시오.
+
+STRING_RESET_ORDER = 주문 재설정
+
+STRING_SEE_MACRO_TOUCH_POINTS = 매크로 터치 포인트가 보이십니까?
+
+STRING_BELL = 벨
+
+STRING_DESKTOP = 데스크탑
+
+IMAP_STRING_Scroll_Header_Edit_UI = 스크롤
+
+IMAP_STRING_SCROLL_X = 스크롤 X
+
+IMAP_STRING_SCROLL_Y = 스크롤 Y
+
+IMAP_STRING_SCROLL_SPEED = 속도
+
+IMAP_STRING_SCROLL_AMPLITUDE = 스크롤 폭
+
+IMAP_STRING_SCROLL_OVERRIDE = 기각하다
+
+IMAP_STRING_SCROLL_SETTINGS = 스크롤 세팅
+
+STRING_SHOW_BLUE_HIGHLIGHTER = 전체 화면에 블루 하이라이터 표시
+
+STRING_ENABLE_TOUCH_SOUND = 입력하는 동안 소리 활성화
+
+STRING_ON = 켜기
+
+STRING_OFF = 끄기
+
+IMAP_STRING_MOBASKILL_GAMEPADSTICK = 게임 패드 스틱
+
+STRING_DISABLED_ABI_TOOLTIP = {0}에 대한 인스턴스를 만드는 동안 ABI 설정을 변경할 수 없습니다.
+
+STRING_IMAGE_UPLOADED_INFO = 이미지가 성공적으로 업로드되었습니다. 여기에서 이미지를 보고 선택하려면 이 화면을 다시 여십시오.
+
+STRING_VIEW_WINDOWS_FOLDER = Windows 폴더에서 보기
+
+STRING_VIEW_IN_GALLERY = 갤러리에서 보기
+
+STRING_LINK = 링크
+
+STRING_UNLINK = 링크 해제
+
+STRING_MOUSE_SENSITIVITY = 마우스 감도
+
+STRING_BELL_NOTIFICATIONS_TOOLTIP = 이 알림은 BlueStacks 창 상단의 벨 아이콘에 표시됩니다.
+
+STRING_DESKTOP_NOTIFICATIONS_TOOLTIP = 이 알림은 시스템 트레이 위의 화면 오른쪽 하단에 표시됩니다.
+
+STRING_ENABLE_VSYNC = VSync 활성화 (화면 깨짐 방지)
+
+IMAP_STRING_PAN_KeyWheel = 마우스 컨트롤
+
+IMAP_STRING_MOBADpad_Settings = MOBA D-pad 설정
+
+IMAP_STRING_MOBADpad_Header_Edit_UI = MOBA D-pad
+
+STRING_TOGGLE_MICROPHONE_MUTE_STATE = 마이크 음소거 / 음소거 해제
+
+STRING_GROUPCALL_ACTIONS = 그룹 통화 (베타)
+
+STRING_SIGN_IN_WITH_DIFFERENT_ACCOUNT_FOR_FARMING = 파밍을 시작하려면 다른 Gmail 주소로 로그인하세요.

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FeatureManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsGiftPackEnabled>false</IsGiftPackEnabled>
+  <IsFriendsEnabled>false</IsFriendsEnabled>
+  <IsWallpaperChangeAllowed>false</IsWallpaperChangeAllowed>
+  <IsBTVDisabled>true</IsBTVDisabled>
+  <IsMapsTabVisible>true</IsMapsTabVisible>
+  <DefaultTab>maps</DefaultTab>
+  <IsMacroRecorderEnabled>true</IsMacroRecorderEnabled>
+  <IsOperationsSyncEnabled>true</IsOperationsSyncEnabled>
+  <IsCustomCursorEnabled>true</IsCustomCursorEnabled>
+</FeatureManager>

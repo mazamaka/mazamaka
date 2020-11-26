@@ -1,0 +1,262 @@
+{
+	"category": [
+	{
+		"id": "LaggyPerformance",
+			"value": "卡頓性能",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "BlueStacks在啟動時未回應",
+				"showdropdown": "0"
+			},
+			{
+				"id": "StreamingPerformance",
+				"value": "直播时Bluestacks运行慢",
+				"showdropdown": "0"
+			},
+			{
+				"id": "LaggyGameplay",
+				"value": "應用卡頓",
+				"showdropdown": "1"
+			},
+			{
+				"id": "BSTUpgrade",
+				"value": "Bluestacks在更新後變慢",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "BlueStacks卡在載入畫面",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "卡在了載入畫面",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GreyScreen",
+			"value": "灰屏",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "應用相關問題",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "應用崩潰",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "無法下載應用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "LaggyGameplay",
+			"value": "應用卡頓",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "應用畫面扭曲",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "映射快捷键无法使用",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "未在play商店找到應用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "应用和装置不兼容",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "直播问题",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "twitch登入問題",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StreamingPerformance",
+			"value": "直播时机器变慢",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BTVFilters",
+			"value": "Bluestacks TV篩選器問題",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MicAndCamera",
+			"value": "麥克風和攝像頭不起作用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "觀看視頻時出現問題",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "其他",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Google play問題",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "卡在下載應用上",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "擷取資訊時出錯（RPC問題）",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError_DF_DLA",
+			"value": "DF-DLA-15錯誤",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "其他",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "無法在Bluestacks上建立帳戶",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "無法設定bluestacks帳戶",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "無法完成（啟用應用同步）步驟",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "无法建立可靠连接",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "與google服务器通訊時出錯",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "其他",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "黑屏問題",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "启动Bluestacks时黑屏",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "應用內黑屏",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "無法調整螢幕大小",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "Bluestacks 分辨率问题",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "應用方向（橫向/縱向）問題",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "其他",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CannotStartBlueStacks",
+			"value": "無法啟動BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "键盘无法使用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "鼠标无法使用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "相机无法使用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "Bluestacks無聲音",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "無法定位/GPS不起作用",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "一些其他問題",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

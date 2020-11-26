@@ -1,0 +1,262 @@
+{
+    "category": [
+      {
+        "id": "LaggyPerformance",
+        "value": "Hiệu suất chậm",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BluestacksNotResponding",
+            "value": "BlueStacks không hồi đáp",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "BlueStacks chạy chậm trong khi phát trực tuyến",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "Ứng dụng chạy chậm",
+			"showdropdown": "1"
+          },
+          {
+            "id": "BSTUpgrade",
+            "value": "Bluestacks chạy chậm sau khi nâng cấp",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "StuckAtInitializing",
+        "value": "BlueStacks bị kẹt ở màn hình tải",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnLoading",
+            "value": "Bị kẹt ở màn hình tải",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GreyScreen",
+            "value": "Màn hình màu xám",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "AppNotWorking",
+        "value": "Vấn đề liên quan đến ứng dụng",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "AppCrash",
+            "value": "Ứng dụng đóng bất ngờ",
+			"showdropdown": "1"
+          },
+          {
+            "id": "RPCError",
+            "value": "Không thể tải xuống ứng dụng",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "Ứng dụng chạy chậm",
+			"showdropdown": "1"
+          },
+          {
+            "id": "DistortedGraphics",
+            "value": "Đồ họa bị méo trên các ứng dụng",
+			"showdropdown": "1"
+          },
+          {
+            "id": "KeymappingIssue",
+            "value": "Sơ đồ phím không hoạt động",
+			"showdropdown": "1"
+          },
+          {
+            "id": "AppNotFoundOnPlayStore",
+            "value": "Không tìm thấy ứng dụng trên Play Store",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppNotCompatible",
+            "value": "Ứng dụng không tương thích với thiết bị",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "Streaming",
+        "value": "Vấn đề về phát trực tuyến",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BTVLoginIssues",
+            "value": "Vấn đề với đăng nhập twitch",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "Máy trở nên chậm trong khi phát trực tuyến",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "BTVFilters",
+            "value": "Vấn đề với bộ lọc BlueStacks TV",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "MicAndCamera",
+            "value": "Micrô &amp; máy ảnh không hoạt động",
+			"showdropdown": "0"
+          },
+          {
+            "id": "IssuesWhileViewingVideos",
+            "value": "Vấn đề khi xem video",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherStreamingIssue",
+            "value": "Khác",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "IssueWithGoogle",
+        "value": "Vấn đề với Google Play",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnDownloadingApp",
+            "value": "Bị kẹt khi tải xuống ứng dụng",
+			"showdropdown": "0"
+          },
+          {
+            "id": "RPCError",
+            "value": "Có lỗi khi truy xuất thông tin (vấn đề về RPC)",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "RPCError_DF_DLA",
+            "value": "Lỗi DF-DLA-15",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "Other_RPC",
+            "value": "Khác",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "LoginIssue",
+        "value": "Không thể tạo tài khoản trên BlueStacks",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "UnableToSetupBluestacksAccount",
+            "value": "Không thể thiết lập tài khoản BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StuckAtEnableAppSync",
+            "value": "Không thể hoàn thành bước (cho phép đồng bộ hóa ứng dụng)",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "CouldNotEstablishReliableConnection",
+            "value": "Không thể thiết lập kết nối đáng tin cậy",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "ErrorCommunicatingGoogleServer",
+            "value": "Có lỗi khi kết nối với máy chủ Google",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "OtherLoginIssue",
+            "value": "Khác",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "BlackScreen",
+        "value": "Vấn đề màn hình bị đen",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BlackScreenOnLaunch",
+            "value": "Màn hình bị đen khi khởi chạy BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "BlackScreenWithinApp",
+            "value": "Màn hình bị đen bên trong ứng dụng",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Resizing",
+        "value": "Không thể thay đổi kích thước màn hình",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "IssuesWithBluestacksResolution",
+            "value": "Vấn đề với độ phân giải BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppOrientationIssue",
+            "value": "Vấn đề về hướng (ngang/dọc) của ứng dụng",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Other",
+        "value": "Khác",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "CannotStartBlueStacks",
+            "value": "Không thể khởi động BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "KeyboardIssue",
+            "value": "bàn phím không hoạt động",
+			"showdropdown": "0"
+          },
+          {
+            "id": "MouseIssue",
+            "value": "Chuột không hoạt động",
+			"showdropdown": "0"
+          },
+          {
+            "id": "CameraIssue",
+            "value": "Camera không hoạt động",
+			"showdropdown": "0"
+          },
+          {
+            "id": "NoSound",
+            "value": "Không có âm thanh trên BlueStacks",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GPSIssue",
+            "value": "Không thể xác định vị trí/GPS không hoạt động",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherIssue",
+            "value": "Một số vấn đề khác",
+			"showdropdown": "0"
+          }
+        ]
+      }
+    ]
+}

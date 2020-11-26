@@ -1,0 +1,400 @@
+RESTOREFACTORYSETTINGS = استعادة إعدادات الإرساء
+
+RESTARTBLUESTACKS = إعادة التشغيل
+
+QUITBLUESTACKS = إنهاء
+
+STOPBLUESTACKS = إيقاف
+
+ROTATEPORTRAITAPPS = تدوير تطبيقات الصور الشخصية
+
+UPLOADDEBUGLOGS = أبلغ عن مشكلة
+
+FREEDURINGBETA = مجاناً أثناء فترة البيتا
+
+SMSSETUPMENU = إعدادات مزامنة الرسائل القصيرة
+
+PAUSESYNC = إيقاف المزامنة مؤقتاً
+
+RESUMESYNC = استئناف المزامنة
+
+CHECKFORUPDATES = التحقق من وجود تحديثات
+
+DOWNLOADINGUPDATES = تحميل التحديثات
+
+INSTALLUPDATES = تثبيت التحديثات
+
+APPS = التطبيقات
+
+APP = التطبيق
+
+INSTALLED = المثبت
+
+DISKUSAGEUNAVAILABLE = استخدام القرص غير متاح
+
+OF = من
+
+DISKUSED = القرص المستخدم
+
+BACKBUTTONTOOLTIP = رجوع
+
+MENUBUTTONTOOLTIP = إظهار القائمة
+
+HOMEBUTTONTOOLTIP = الصفحة الرئيسية
+
+SETTINGSBUTTONTOOLTIP = الإعدادات
+
+SHAREBUTTONTOOLTIP = مشاركة اللقطة
+
+FULLSCREENBUTTONTOOLTIP = تبديل ملء الشاشة
+
+CLOSEBUTTONTOOLTIP = إغلاق
+
+RESIZEMESSAGEBOXCAPTION = تغيير حجم @@STRING_PRODUCT_NAME@@ App Player
+
+RESIZEMESSAGEBOXTEXT = ملاحظة: في إصدار بيتا-1 الحالي، يتعين إغلاق التطبيق لتغيير حجمه. الرجاء إعادة تشغيل التطبيق بعد تغيير الحجم. شكراً!
+
+INITIALIZING = تهيئة
+
+INITIALIZINGGAME = تهيئة اللعبة
+
+DOWNLOADINGGAMEDATA = تحميل بيانات اللعبة
+
+CANNOTSTART = لا يمكن بدء تشغيل @@STRING_PRODUCT_NAME@@. الرجاء الاتصال على support@bluestacks.com
+
+FULLSCREENTOASTTEXT = تم تفعيل ملء الشاشة. اضغط على F11 للخروج من وضع ملء الشاشة.
+
+SNAPSHOTERRORTOASTTEXT = لا يوجد تطبيق مثبت لمشاركة اللقطات
+
+GRAPHICSDRIVEROUTDATEDERROR = يبدو أن برامج تشغيل الرسومات الخاصة بك قديمة. يتطلب @@STRING_PRODUCT_NAME@@ تشغيل برامج التشغيل محدثة. التحديث الآن؟
+
+GRAPHICSDRIVEROUTDATEDWARNING = يبدو أن برامج تشغيل الرسومات الخاصة بك قديمة. ننصحك بتحديث برامج التشغيل للحصول على الأداء الأمثل. التحديث الآن؟
+
+GRAPHICSDRIVERUPDATEDMESSAGE = تم تحديث برامج تشغيل الرسومات الخاصة بك. يجب إعادة تشغيل الكمبيوتر لتصبح هذه التغييرات نافذة المفعول.\n\nهل تريد إعادة تشغيل الكمبيوتر الآن؟
+
+NETWORKAVAILABLEICONTEXT = @@STRING_PRODUCT_NAME@@ Agent متصل
+
+NETWORKUNAVAILABLEICONTEXT = @@STRING_PRODUCT_NAME@@ Agent
+
+BALLOONTITLE = @@STRING_PRODUCT_NAME@@
+
+OKBUTTONTEXT = موافق
+
+CANCELBUTTONTEXT = إلغاء
+
+INSTALLSUCCESS = تم تثبيته
+
+UNINSTALLSUCCESS = تم إلغاء تثبيته
+
+UNINSTALLFAILED = فشل إلغاء التثبيت
+
+UNINSTALLINGWAIT = جار إلغاء تثبيت التطبيق...
+
+CLOUDCONNECTTITLE = @@STRING_PRODUCT_NAME@@ CloudConnect
+
+CLOUDCONNECTEDMSG = متصل
+
+CLOUDDISCONNECTEDMSG = غير متصل
+
+INSUFFICIENTSTORAGEMESSAGE = بطاقة SD الداخلية في النسخة المجانية من @@STRING_PRODUCT_NAME@@ App Player التي تستخدمها ممتلئة. ندعوك لإلغاء تثبيت تطبيق واحد أو أكثر لإخلاء مساحة.
+
+INSTALLFAIL = فشل التثبيت
+
+USERWAITTEXT = تثبيت APK...
+
+NC_ONLY_FORM_TEXT = أداة دعم Notification Center
+
+FORM_TEXT = أداة دعم App Player
+
+BUTTON_TEXT = إرسال
+
+EMAIL_LABEL = عنوان البريد الإلكتروني
+
+ZENDESK_ID_TEXT = معرف Zendesk (اختياري)
+
+DESCRIPTION_LABEL = وصف المشكلة
+
+STATUS_INITIAL = بدء تشغيل جامع المعلومات
+
+STATUS_COLLECTING_PRODUCT = جمع معلومات المنتج
+
+STATUS_COLLECTING_HOST = جمع معلومات المضيف
+
+STATUS_COLLECTING_GUEST = جمع معلومات Android
+
+STATUS_ARCHIVING = إنشاء أرشيف الدعم
+
+STATUS_SENDING = إرسال تقرير المشكلة
+
+APP_NAME = Enter App Name
+
+FINISH_CAPT = اكتملت أداة الدعم
+
+FINISH_TEXT = تم إرسال تقرير المشكلة. سوف نعود إليك قريباً.
+
+PROMPT_TEXT = لا يمكن إرسال تقرير المشكلة. تم إنشاء ملف يسمى BlueStacks-Support.zip على سطح المكتب. الرجاء إرسال هذا الملف بالبريد الالكتروني  مع وصف موجز لمشكلتك إلى support@bluestacks.com.
+
+DESC_MISSING_TEXT = الرجاء إدخال وصف لمشكلتك.
+
+ZENDESK_INVALID_ID_TEXT = الرجاء إدخال معرف zendesk صحيح
+
+SELECT_CATEGORY_TEXT = الرجاء تحديد فئة المشكلة.
+
+EMAIL_MISSING_TEXT = البريد الإلكتروني غير صحيح. الرجاء إدخال عنوان بريد إلكتروني صحيح.
+
+RPC_FORM_TEXT = Troubleshoot RPC Error
+
+WORK_DONE_TEXT = All Done, If the issue still persists then please report a problem
+
+TROUBLESHOOTER_TEXT = Troubleshoot and try to fix my problem automatically
+
+LOGCOLLECTOR_RUNNING_TEXT = Report Problem already running
+
+LOGCOLLECTOR_PROBLEMS = Category:Category, @@STRING_PRODUCT_NAME@@ stuck at initializing:@@STRING_PRODUCT_NAME@@ stuck at initializing, @@STRING_PRODUCT_NAME@@ crash:@@STRING_PRODUCT_NAME@@ crash, System restart/crash:System restart/crash, App not working:App not working, Other:Other
+
+CATEGORY = Category
+
+APP_MISSING_TEXT = Enter App Name
+
+ZIP_NAME = BlueStacks-Support.zip
+
+RESTART_UTILITY_TITLE_TEXT = @@STRING_PRODUCT_NAME@@ Restart Utility
+
+RESTART_UTILITY_USAGE_TEXT = Usage
+
+RESTART_UTILITY_RESTARTING_TEXT = Restarting @@STRING_PRODUCT_NAME@@
+
+RESTART_UTILITY_CANNOT_STOP_TEXT = Cannot Stop @@STRING_PRODUCT_NAME@@
+
+RESTART_UTILITY_CANNOT_START_TEXT = Cannot Start @@STRING_PRODUCT_NAME@@
+
+RESTART_UTILITY_EXIT_TEXT = Exit
+
+RESTART_UTILITY_UNHANDLED_EXCEPTION_TEXT = Caught unhandled exception. Please check the log for details.
+
+APKINSTALLER_ALREADY_RUNNING = An app is already being installed. Please wait while it finishes installing.
+
+UPDATER_UTILITY_NO_UPDATE_TITLE = @@STRING_PRODUCT_NAME@@ Updater
+
+UPDATER_UTILITY_NO_UPDATE_TEXT = No new updates available
+
+UPDATER_UTILITY_ASK_TO_INSTALL_TITLE = Update Available
+
+UPDATER_UTILITY_ASK_TO_INSTALL_TEXT = Would you like to update to the latest version of @@STRING_PRODUCT_NAME@@?
+
+UPDATER_UTILITY_ASK_TO_INSTALL_NOW = Install Now
+
+UPDATER_UTILITY_ASK_TO_INSTALL_REMIND_LATER = Remind Me Later
+
+UPDATESUCCESS = has been updated
+
+SETTINGSTOOLTIP = إعدادات
+
+MINIMIZETOOLTIP = تصغير لشريط المهام
+
+CLOSETOOLTIP = إغلاق
+
+YESTEXT = نعم
+
+NOTEXT = لا
+
+MYACCOUNTTEXT = حسابي
+
+LOCATIONTEXT = حدد مكانك
+
+TOOLBARSHAKE = هزّ
+
+TOOLBARCAMERA = التقاط صورة
+
+ANDROID = Android
+
+FINISH = إنهاء
+
+STARTBLUESTACKS = بدء تشغيل @@STRING_PRODUCT_NAME@@
+
+INSTALLCOMPLETED = اكتمل التثبيت
+
+STARTSERVICE = بدء تشغيل الخدمة
+
+INSTALLRUNTIME = وقت تشغيل التثبيت. يتبقى بضع ثوان...
+
+DOWNLOADING = التحميل
+
+INSTALLER = المثبت
+
+BLUESTACKS = @@STRING_PRODUCT_NAME@@
+
+PROGRESS = ...
+
+BLUESTACKSINSTALLER = مثبت @@STRING_PRODUCT_NAME@@
+
+BROWSE = استعراض
+
+INSTALL = تثبيت
+
+BACK = السابق
+
+EXIT = خروج
+
+APPSTORE = الوصول إلى متجر التطبيقات
+
+GROUPRESOLUTIONTITLE = הגדרות רזולוציית
+
+GROUPBOSSKEYTITLE = הגדרות מקש מוביל
+
+LANDSCAPEMODE960 = רזולוציית מסך Landscape 960 x 720
+
+LANDSCAPEMODE1280 = רזולוציית מסך Landscape 1280 x 960
+
+LANDSCAPEMODE1440 = רזולוציית מסך Landscape 1440 x 900
+
+PORTRAITMODE720 = רזולוציית מסך דיוקן 720 x 960
+
+PORTRAITMODE960 = רזולוציית מסך דיוקן 960 x 1280
+
+PORTRAITMODE900 = רזולוציית מסך דיוקן 900 x 1440
+
+CUSTOMIZERESOLUTIONSETTING = התאמה אישית של הגדרות
+
+CUSTOMIZERESOLUTIONSETTINGPROMPT = (רחב x גובה)
+
+BOSSKEYLABLENAME = התאמה אישית של המקש המוביל
+
+BOSSKEYINPUTPROMPT = * נא להשתמש בלוח המקשים כדי להזין את הבחירות
+
+CUSTOMERSERVICEQQ = QQ: 3033957406
+
+CUSTOMERSERVICEQQGROUP = @@STRING_PRODUCT_NAME@@ QQ קבוצה: 399011190
+
+PROMPTSETBOSSKEY = נא הגדר שוב את המקש המוביל המותאם אישית
+
+CUSTOMIZERESOLUTIONNOTNULL = אין להשאיר ריקה את הגדרת הרזולוציה הנבחרת!
+
+WIDTHORHIGHTNOTRIGHT = הגדרת רזולוציה נבחרת זו עלולה לגרום לתקלות, נא הקלד שוב.
+
+RESOUTIONCAUSEDEFORMATION = הרזולוציה עשויה לגרום תצוגה לא תקינה, אשר כדי לשנות?
+
+REBOOTAFTERCHANGERESOLUTION = שינית את הרזולוציה, יש לאתחל שוב את @@STRING_PRODUCT_NAME@@?
+
+RESTARTNOWBTN = הפעל מחדש כעת
+
+RESTARTLATERBTN = הפעל מחדש מאוחר יותר
+
+BOSSKEYREGISTERFAILED = hotkey רשום כבר על ידי תוכנה אחרת, נא להגדיר מחדש.
+
+STUCK_AT_INITIALIZING_FORM_TEXT = פתרון בעיות של עצירה בעת אתחול
+
+PROGRESS_TEXT = נא להמתין, אנחנו מנסים לפתור את הבעיה
+
+WELCOMETOBLUESTACKS = ברוכים הבאים ל @@STRING_PRODUCT_NAME@@
+
+BLUESTACKSAPKHANDLERTITLE = @@STRING_PRODUCT_NAME@@ Apk Handler
+
+COMMONAPPTITLETEXT = נגן אפליקציות @@STRING_PRODUCT_NAME@@
+
+SNAPSHOTSHARESTRING = שיתוף באמצעות  נגן אפליקציות App @@STRING_PRODUCT_NAME@@ (www.bluestacks.com)
+
+LOADINGSCREENAPPTITLE = נגן אפליקציות @@STRING_PRODUCT_NAME@@
+
+GENERAL = כללי
+
+THEMES = ערכות נושא
+
+TEXT = טקסט
+
+TAB = טאב
+
+BORDER = גבול
+
+APPLY = התקן
+
+CLOSEMESSAGEPROMPT = סגירת חלון זה תעצור את הסטרימינג שלך.\nהאם ברצונך לסיים את הסטרימינג שלך?
+
+CLOSEWHILESTREAMINGTOOLTIP = הפסק את הסטרימינג
+
+VMX_IN_USE = למרבה הצער, @@STRING_PRODUCT_NAME@@ (beta-1) לא יכול לפעול במחשב שבו נמצאת בשימוש מכונה וירטואלית (VM). אתה יכול להסיר את ה-VM, לאתחל, ואז להפעיל מחדש את  @@STRING_PRODUCT_NAME@@ או להמתין לגרסה עתידית של @@STRING_PRODUCT_NAME@@ שבו מגבלה זו הוסרה.
+
+HYPERV_ENABLED = למרבה הצער, @@STRING_PRODUCT_NAME@@ (beta-1) לא יכול לפעול במחשב שבו פעילות תוכנות וירטואליזציה (VMWare/VirtualBox/Hyper-V). ההתקנה תיפסק כעת.
+
+SYSTEM_UPGRADED_ERROR = נראה כי המערכת שלך שודרגה. נא לחץ על אישור כדי להגדיר ולהפעיל את נגן האפליקציות @@STRING_PRODUCT_NAME@@.
+
+BLACKSCREEN_FORM_TEXT = פתרון בעיות מסך שחור
+
+SELECT_APP_NAME = בחר שם אפליקציה
+
+APP_NOT_SELECTED_TEXT = אנא בחר שם אפליקציה
+
+SELECT = בחר...
+
+ANDROID_DATA_BACKUP_FAILED = אה - הייתה בעיה כלשהי בעת הניסיון לשמר את הנתונים שלך. להמשיך בכל מקרה?
+
+UNINSTALLATION_CONFIRMATION = האם אתה בטוח שברצונך להסיר את נגן האפליקציות @@STRING_PRODUCT_NAME@@?
+
+PRESERVE_BSDATA_ON_UNINSTALL = האם ברצונך לשמור את כל היישומים והנתונים שלך?\nהערה: זה עלול לתפוס זיכרון במערכת שלך בהתאם לנפח הנתונים של האפליקציות שיש לך כרגע
+
+UNINSTALLATION_FORM_MSG = נא המתן בעת שנגן האפליקציות @@STRING_PRODUCT_NAME@@ יוסר.\nאנא האר את עינינו איך אנחנו יכולים לשפר אותו ב- www.bluestacks.com
+
+CREATE_BLUESTACKS_REGISTRY = יצירת מבנה תיקיית הקבצים של @@STRING_PRODUCT_NAME@@
+
+CREATE_SHORTCUTS = יצירת קיצורי דרך של @@STRING_PRODUCT_NAME@@
+
+SETTINGS = הגדרות
+
+LOCATION = מיקום
+
+INSUFFICIENT_DISKSPACE = אין מספיק שטח דיסק פנוי. @@STRING_PRODUCT_NAME@@ דורש
+
+UPGRADE_FAILED = השדרוג נכשל
+
+INSTALLATIONCORRUPTTITLE = ההתקנה של @@STRING_PRODUCT_NAME@@ פגומה.
+
+INSTALLATIONCORRUPTMESSAGE = התקנת נגן האפליקציות @@STRING_PRODUCT_NAME@@ פגומה. נא להוריד ולהתקין את הגירסה העדכנית ביותר מאתר  www.bluestacks.com
+
+SELECT_SUBCATEGORY_TEXT = אנא בחר קטגוריית משנה לבעיה.
+
+SUBCATEGORY = קטגוריית משנה
+
+HYPERVALERTMESSAGE = Hyper-V מופעלת. נא לכבות אותה כדי להפעיל את @@STRING_PRODUCT_NAME@@.
+
+FILTER_UPDATE_TITLE = פילטר העדכונים של @@STRING_PRODUCT_NAME@@
+
+INITIALIZING_TEXT = מאתחל את מתקין ההורדה...
+
+DOWNLOADING_TEXT = הורדת   {0} מתוך {1}.....
+
+DOWNLOADED_TEXT = ההורדה הושלמה...
+
+APPLYING_TEXT = החלת ערכת נושא...
+
+APPLY_BUTTON_TEXT = התקן
+
+LATER_BUTTON_TEXT = מאוחר יותר
+
+DOWNLOAD_ERROR_TEXT = אופס! התרחשה שגיאה הפילטרים יעודכנו בעת ההרצה הבאה
+
+STOP_STREAMING_REQUIRED = עדכון זה יחייב לעצור את הסטרימינג
+
+OBS_ERROR_TEXT = אופס! אירעה שגיאה. האם ברצונך לנסות שנית?
+
+OBS_ALREADY_RUNNING = מופע נוסף של OBS פועל כבר! יש לסגור אותו קודם לפני מעבר לשידור חי.
+
+HIDETABS = הסתר לשוניות במסך מלא
+
+SHOWLEFTTOOLBAR = הצג תמיד את סרגל הפקודות השמאלי לפעולות מהירות
+
+BLUESTACKSCLOSEWARNING = הזהר תמיד לפני סגירת @@STRING_PRODUCT_NAME@@
+
+RESTOREBUTTONTEXT = שחזר
+
+ANDROIDDPI = אנדרואיד DPI
+
+BLUESTACKSWARNINGPROMPT = אזהרה מ @@STRING_PRODUCT_NAME@@
+
+CLOSEBUTTONTEXT = סגור
+
+ACCOUNTTEXT = حساب
+
+NAVIGATEFAILEDTEXT = فشل في التنقل
+
+RETRYTEXT = إعادة المحاولة
+

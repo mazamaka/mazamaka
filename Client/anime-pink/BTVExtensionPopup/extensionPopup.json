@@ -1,0 +1,10 @@
+{
+	"Title" : "BTV_EXT_TITLE",
+	"SubTitle" : "BTV_EXT_SUBTITLE",
+	"TagLine" : "BTV_EXT_TAGLINE",
+	"Description" : "BTV_EXT_DESCRIPTION",
+	"FeaturesText" : "BTV_EXT_FEATURE",
+	"features" : ["BTV_EXT_FEATURE1", "BTV_EXT_FEATURE2", "BTV_EXT_FEATURE3", "BTV_EXT_FEATURE4", "BTV_EXT_FEATURE5"],
+	"ExtensionDetailText" : "BTV_EXT_DETAIL",
+	"ExtensionDetails" : { "BTV_EXT_DETAILKEY1": "BTV_EXT_DETAILVALUE1", "BTV_EXT_DETAILKEY2": "BTV_EXT_DETAILVALUE2" }
+}

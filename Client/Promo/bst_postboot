@@ -1,0 +1,133 @@
+{
+  "GameNotificationAppPackages": {
+    "NotificationModeAppPackages": {
+      "app_pkg_list": [
+        {
+          "app_pkg": "~com.android.vending",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "~com.bluestacks.settings",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "~com.android.camera2",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "~com.android.chrome",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "*",
+          "extra_info": {}
+        }
+      ]
+    },
+    "consecutive_session_count_number": 3
+  },
+  "OnBoardingInfo": {
+    "OnBoardingAppPackages": {
+      "app_pkg_list": []
+    },
+    "skip_button_timer": 5
+  },
+  "AppSpecificCustomCursorInfo": {
+    "CustomCursorAppPackages": {
+      "app_pkg_list": [
+        {
+          "app_pkg": "com.mobile.legends",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.plarium.raidlegends",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.riotgames.league.wildrift",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.supercell.brawlstars",
+          "extra_info": {}
+        }
+      ]
+    }
+  },
+  "IgnoredActivitiesForTabs": [
+    "com.google.android.finsky.billing.acquire.BottomSheetUiBuilderHostActivity"
+  ],
+  "GameAwareOnboardingInfo": {},
+  "UtcConverterInfo": {
+    "UtcConverterAppPackages": {
+      "app_pkg_list": [
+        {
+          "app_pkg": "com.kingsgroup.sos",
+          "extra_info": {
+            "red_dot_visibility_days": "2"
+          }
+        },
+        {
+          "app_pkg": "com.lilithgame.roc.gp",
+          "extra_info": {
+            "red_dot_visibility_days": "2"
+          }
+        }
+      ]
+    }
+  },
+  "DesktopNotificationsChatPackages": {
+    "ChatApplicationPackages": {
+      "app_pkg_list": [
+        {
+          "app_pkg": "com.whatsapp",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.instagram.android",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.zhiliaoapp.musically",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.facebook.katana",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.whatsapp.w4b",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.facebook.orca",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "us.zoom.videomeetings",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "org.telegram.messenger",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.facebook.lite",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.tencent.mobileqq",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.tencent.mm",
+          "extra_info": {}
+        },
+        {
+          "app_pkg": "com.discord",
+          "extra_info": {}
+        }
+      ]
+    }
+  }
+}

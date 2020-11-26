@@ -1,0 +1,262 @@
+{
+	"category": [
+	{
+		"id": "LaggyPerformance",
+			"value": "Gecikmeli peformans",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "Bluestacks başlangıçta yanıt vermiyor",
+				"showdropdown": "0"
+			},
+			{
+				"id": "StreamingPerformance",
+				"value": "Yayın sırasında Bluestacks yavaş çalışıyor",
+				"showdropdown": "0"
+			},
+			{
+				"id": "LaggyGameplay",
+				"value": "Uygulama gecikmeli çalışıyor",
+				"showdropdown": "1"
+			},
+			{
+				"id": "BSTUpgrade",
+				"value": "BlueStacks sürüm yükseltmeden sonra yavaşladı",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "BlueStacks yükleme ekranında takılı kaldı",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "Yükleme ekranında takıldı",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GreyScreen",
+			"value": "Gri ekran",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "Uygulama ile ilgili sorun",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "Uygulama çöküyor",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "Uygulama indirilemiyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "LaggyGameplay",
+			"value": "Uygulama gecikmeli çalışıyor",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "Uygulamada çarpık grafikler bulunuyor",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "Tuşeşleme çalışmıyor",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "Uygulama play store&#39;da bulunamadı",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "Uygulama bu cihazla uyumlu değil",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "Akış problemleri",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "Twitch girişiyle ilgili problem",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StreamingPerformance",
+			"value": "Yayın sırasında makine yavaşlıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BTVFilters",
+			"value": "BlueStacks TV Filtreleri ile ilgili problemler",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MicAndCamera",
+			"value": "Mikrofon ve Kamera çalışmıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "Videoları görüntükerken yaşanan problemler",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "Diğer",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Google play ile ilgili sorunlar",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "Uygulama indirme esnasında takılıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "Bilgi alınırken hata (RPC sorunu)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError_DF_DLA",
+			"value": "DF-DLA-15 hatası",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "Diğer",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "BlueStacks hesabı oluşturulamıyor",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "Bluestacks hesabı kurulamıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "Adım tamamlanamıyor ( uygulama senkronize etmeyi etkinleştirme )",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "güvenilir bağlantı kurulamadı",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "google sunucusu ile iletişim hatası",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "Diğer",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "Siyah Ekran Sorunları",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "Bluestacks başlangıcında siyah ekran",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "uygulama içinde siyah ekran",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "Ekran yeniden boyutlandırılamıyor",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "BlueStacks çözünürlüğü ile ilgili sorunlar",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "Uygulama oryantasyon (yatay / dikey) sorunları",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "Diğer",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CannotStartBlueStacks",
+			"value": "BlueStacks başlatılamıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "Klavye çalışmıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "Fare çalışmıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "Kamera Çalışmıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "BlueStacks&#39;de ses yok",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "Konum bulunamıyor  / GPS çalışmıyor",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "Başka bir konu",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

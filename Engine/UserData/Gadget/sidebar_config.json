@@ -1,0 +1,17 @@
+﻿{
+  "00": "sidebar_fullscreen",
+  "01": "sidebar_volume",
+  "02": "sidebar_lock_cursor",
+  "03": "sidebar_controls",
+  "04": "sidebar_macro",
+  "05": "sidebar_installapk",
+  "06": "sidebar_screenshot",
+  "07": "sidebar_video_capture",
+  "08": "sidebar_media_folder",
+  "09": "sidebar_utc_converter",
+  "10": "sidebar_mm",
+  "11": "sidebar_location",
+  "12": "sidebar_shake",
+  "13": "sidebar_rotate",
+  "14": "sidebar_farmmode_inactive"
+}

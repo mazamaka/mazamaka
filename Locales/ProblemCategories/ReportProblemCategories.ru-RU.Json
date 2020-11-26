@@ -1,0 +1,262 @@
+{
+	"category": [
+	{
+		"id": "LaggyPerformance",
+			"value": "Задержки в работе BlueStacks",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "Bluestacks не реагирует при запуске",
+				"showdropdown": "0"
+			},
+			{
+				"id": "StreamingPerformance",
+				"value": "BlueStacks медленно работает при стриминге",
+				"showdropdown": "0"
+			},
+			{
+				"id": "LaggyGameplay",
+				"value": "Игра/приложение работает с задержками",
+				"showdropdown": "1"
+			},
+			{
+				"id": "BSTUpgrade",
+				"value": "Bluestacks притормаживает после обновления",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "BlueStacks зависает на запуске",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "Зависание на экране загрузки",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GreyScreen",
+			"value": "Серый экран",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "Проблема, связанная с приложением",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "Сбой в работе приложения",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "Не удается загрузить приложение",
+			"showdropdown": "0"
+		},
+		{
+			"id": "LaggyGameplay",
+			"value": "Приложение работает с задержками",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "Искаженная графика в приложении",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "Раскладки клавиатуры не работают",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "Приложение не найдено в магазине приложений",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "Приложение не совместимо с устройством",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "Проблемы, связанные со стримингом",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "Проблема с данными для входа в Twitch",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StreamingPerformance",
+			"value": "Компьютер подвисает при потоковой передаче",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BTVFilters",
+			"value": "Проблемы с фильтрами Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MicAndCamera",
+			"value": "Микрофон и камера не работают",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "Проблемы при просмотре видео",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "Другое",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Проблемы, связанные с Google Play",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "Зависание при загрузке приложения",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "Ошибка при получении данных (проблема с RPC)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError_DF_DLA",
+			"value": "Ошибка DF-DLA-15",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "Другое",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "Невозможно создать учетную запись Bluestacks",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "Невозможно выполнить настройку учетной записи Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "Невозможно завершить  шаг (активировать синхронизацию приложения)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "Не удалось установить надежное соединение",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "Ошибка связи с сервером Google",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "Другое",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "Проблемы в виде черного экрана",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "Черный экран при запуске Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "Черный экран в приложении",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "Невозможно изменить размер экрана",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "Проблемы с разрешением Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "Проблемы с ориентацией экрана в приложении (портрет/ пейзаж)",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "Другое",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CannotStartBlueStacks",
+			"value": "Не удается запустить BlueStacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "Клавиатура не работает",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "Мышь не работает",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "Камера не работает",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "Нет звука в Bluestacks",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "Не удалось определить метоположение/ GPS не работает",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "Проблема иного характера",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

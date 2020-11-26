@@ -1,0 +1,59 @@
+[{
+		"img": "com.bluestacks.settings.png",
+		"name": "Setting",
+		"system": "1",
+		"package": "com.bluestacks.settings",
+		"appstore": "no",
+		"activity": ".SettingsActivity"
+	}, {
+		"img": "com.android.browser.png",
+		"name": "Browser",
+		"system": "1",
+		"package": "com.android.chrome",
+		"appstore": "no",
+		"activity": "org.chromium.chrome.browser.ChromeTabbedActivity"
+	}, {
+		"img": "com.android.camera2.png",
+		"name": "Camera",
+		"system": "1",
+		"package": "com.android.camera2",
+		"appstore": "no",
+		"activity": "com.android.camera.CameraLauncher"
+	}, {
+		"img": "com.google.android.play.games.png",
+		"name": "Google Play Games",
+		"system": "1",
+		"package": "com.google.android.play.games",
+		"appstore": "no",
+		"activity": "com.google.android.gms.games.ui.destination.main.MainActivity"
+	}, {
+		"img": "com.android.vending.png",
+		"name": "Google Play Store",
+		"system": "1",
+		"package": "com.android.vending",
+		"appstore": "no",
+		"activity": ".AssetBrowserActivity"
+	}, {
+		"img": "com.bluestacks.filemanager.png",
+		"name": "Media Manager",
+		"system": "1",
+		"package": "com.bluestacks.filemanager",
+		"appstore": "no",
+		"activity": "com.bluestacks.filemanager.MainActivity",
+		"version": "18"
+	}, {
+		"img": "help_center.png",
+		"name": "Help Center",
+		"system": "1",
+		"package": "help_center",
+		"appstore": "no",
+		"activity": "help_center_activity"
+	}, {
+		"img": "instance_manager.png",
+		"name": "Instance Manager",
+		"system": "1",
+		"package": "instance_manager",
+		"appstore": "no",
+		"activity": "instance_manager_activity"
+	}
+]

@@ -1,0 +1,262 @@
+{
+    "category": [
+      {
+        "id": "LaggyPerformance",
+        "value": "ประสิทธิภาพการทำงานที่ช้าอืดอาด",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BluestacksNotResponding",
+            "value": "บลูสแตคค้างไม่ตอบสนองเมื่อเริ่มเปิดใช้งาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "บลูสแตคทำงานช้าขณะที่สตรีมมิ่ง",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "ตัวแอพอืดอาด",
+			"showdropdown": "1"
+          },
+          {
+            "id": "BSTUpgrade",
+            "value": "บลูสแตคทำงานช้าลงหลังจากอัพเกรด",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "StuckAtInitializing",
+        "value": "บลูสแตคค้างบนหน้าจอที่กำลังโหลด",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnLoading",
+            "value": "หน้าจอค้างตอนกำลังโหลด",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GreyScreen",
+            "value": "หน้าจอสีเทา",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "AppNotWorking",
+        "value": "ปัญหาที่เกี่ยวกับแอพ",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "AppCrash",
+            "value": "แอพชอบเด้งออก",
+			"showdropdown": "1"
+          },
+          {
+            "id": "RPCError",
+            "value": "ไม่สามารถดาวน์โหลดแอพได้",
+			"showdropdown": "0"
+          },
+          {
+            "id": "LaggyGameplay",
+            "value": "ตัวแอพอืดอาด",
+			"showdropdown": "1"
+          },
+          {
+            "id": "DistortedGraphics",
+            "value": "กราฟิกที่เบี้ยวผิดรูปบนแอพ",
+			"showdropdown": "1"
+          },
+          {
+            "id": "KeymappingIssue",
+            "value": "การเทียบตัวอักษรของคีย์บอร์ดไม่ตรงกัน",
+			"showdropdown": "1"
+          },
+          {
+            "id": "AppNotFoundOnPlayStore",
+            "value": "ไม่พบแอพบนเพลย์ สโตร์",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppNotCompatible",
+            "value": "แอพไม่สามารถใช้งานกับอุปกรณ์ได้",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "Streaming",
+        "value": "ปัญหาการสตรีมมิ่ง",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BTVLoginIssues",
+            "value": "ปัญหาเกี่ยวกับการล็อกอินที่กระตุก",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StreamingPerformance",
+            "value": "เครื่องจะช้าในขณะที่สตรีมมิ่ง",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "BTVFilters",
+            "value": "ปัญหาเกี่ยวกับตัวกรองทีวีของบลูสแตค",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "MicAndCamera",
+            "value": "ไมค์และกล้องไม่ทำงาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "IssuesWhileViewingVideos",
+            "value": "ปัญหาในขณะที่ดูวิดีโอ",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherStreamingIssue",
+            "value": "อื่นๆ",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "IssueWithGoogle",
+        "value": "ปัญหากับกูเกิล เพลย์",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "StuckOnDownloadingApp",
+            "value": "เครื่องค้างในขณะที่ดาวน์โหลดแอพ",
+			"showdropdown": "0"
+          },
+          {
+            "id": "RPCError",
+            "value": "ข้อผิดพลาดในการเรียกข้อมูล (ปัญหา RPC)",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "RPCError_DF_DLA",
+            "value": "ข้อผิดพลาดของ DF-DLA-15",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "Other_RPC",
+            "value": "อื่นๆ",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "LoginIssue",
+        "value": "ไม่สามารถสร้างบัญชีผู้ใช้บน บลูสแตค",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "UnableToSetupBluestacksAccount",
+            "value": "ไม่สามารถตั้งค่าบัญชีผู้ใช้ของ บลูสแตค",
+			"showdropdown": "0"
+          },
+          {
+            "id": "StuckAtEnableAppSync",
+            "value": "ไม่สามารถดำเนินการ (เปิดใช้งานการซิงค์แอพ) ให้จบขั้นตอน",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "CouldNotEstablishReliableConnection",
+            "value": "ไม่สามารถสร้างการเชื่อมต่อที่เชื่อถือได้",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "ErrorCommunicatingGoogleServer",
+            "value": "มีข้อผิดพลาดในการสื่อสารกับเซิร์ฟเวอร์ของ กูเกิล",
+			"showdropdown": "0"
+          },
+		  {
+            "id": "OtherLoginIssue",
+            "value": "อื่นๆ",
+			"showdropdown": "0"
+          }
+        ]
+      },
+      {
+        "id": "BlackScreen",
+        "value": "ปัญหาหน้าจอสีดำ",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "BlackScreenOnLaunch",
+            "value": "หน้าจอเป็นสีดำเมื่อเปิดการใช้งาน บลูสแตค",
+			"showdropdown": "0"
+          },
+          {
+            "id": "BlackScreenWithinApp",
+            "value": "หน้าจอเป็นสีดำภายในแอพ",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Resizing",
+        "value": "ไม่สามารถปรับขนาดหน้าจอได้",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "IssuesWithBluestacksResolution",
+            "value": "ปัญหาเกี่ยวกับความคมชัดของ บลูสแตค",
+			"showdropdown": "0"
+          },
+          {
+            "id": "AppOrientationIssue",
+            "value": "ปัญหาในการจัดวางแนวของแอพ (แนวนอน / แนวตั้ง)",
+			"showdropdown": "1"
+          }
+        ]
+      },
+      {
+        "id": "Other",
+        "value": "อื่นๆ",
+		"showdropdown": "0",
+        "subcategory": [
+          {
+            "id": "CannotStartBlueStacks",
+            "value": "ไม่สามารถเปิดใช้ บลูสแตค",
+			"showdropdown": "0"
+          },
+          {
+            "id": "KeyboardIssue",
+            "value": "คีย์บอร์ดไม่ทำงาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "MouseIssue",
+            "value": "เมาส์ไม่ทำงาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "CameraIssue",
+            "value": "กล้องไม่ทำงาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "NoSound",
+            "value": "ไม่มีเสียงบน บลูสแตค",
+			"showdropdown": "0"
+          },
+          {
+            "id": "GPSIssue",
+            "value": "ไม่สามารถหาตำแหน่งที่ตั้ง / GPS ไม่ทำงาน",
+			"showdropdown": "0"
+          },
+          {
+            "id": "OtherIssue",
+            "value": "ปัญหาด้านอื่น ๆ",
+			"showdropdown": "0"
+          }
+        ]
+      }
+    ]
+}

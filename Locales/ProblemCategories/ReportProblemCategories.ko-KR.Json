@@ -1,0 +1,262 @@
+{
+	"category": [
+	{
+		"id": "LaggyPerformance",
+			"value": "반응 속도 관련 문제",
+			"showdropdown": "0",
+			"subcategory": [
+			{
+				"id": "BluestacksNotResponding",
+				"value": "BlueStacks 실행 시 응답하지 않음",
+				"showdropdown": "0"
+			},
+			{
+				"id": "StreamingPerformance",
+				"value": "방송 중 BlueStacks 속도 저하",
+				"showdropdown": "0"
+			},
+			{
+				"id": "LaggyGameplay",
+				"value": "앱의 반응이 느림",
+				"showdropdown": "1"
+			},
+			{
+				"id": "BSTUpgrade",
+				"value": "Bluestacks이 업그레이드 후 느려짐",
+				"showdropdown": "1"
+			}
+		]
+	},
+	{
+		"id": "StuckAtInitializing",
+		"value": "Bluestacks이 로딩 화면에서 멈춤",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnLoading",
+			"value": "로딩 화면에서 멈춤",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GreyScreen",
+			"value": "회색 화면",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "AppNotWorking",
+		"value": "앱 관련 문제",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "AppCrash",
+			"value": "앱이 충돌함",
+			"showdropdown": "1"
+		},
+		{
+			"id": "RPCError",
+			"value": "앱을 다운로드할 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "LaggyGameplay",
+			"value": "앱의 반응이 느림",
+			"showdropdown": "1"
+		},
+		{
+			"id": "DistortedGraphics",
+			"value": "앱의 그래픽이 왜곡됨",
+			"showdropdown": "1"
+		},
+		{
+			"id": "KeymappingIssue",
+			"value": "키매핑이 작동하지 않음",
+			"showdropdown": "1"
+		},
+		{
+			"id": "AppNotFoundOnPlayStore",
+			"value": "앱을 플레이 스토어에서 찾을 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppNotCompatible",
+			"value": "앱이 기기와 호환되지 않음",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "Streaming",
+		"value": "스트리밍 문제",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BTVLoginIssues",
+			"value": "트위치 로그인 문제",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StreamingPerformance",
+			"value": "스트리밍하​​는 동안 장치가 느려짐",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BTVFilters",
+			"value": "Bluestacks TV 필터 문제",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MicAndCamera",
+			"value": "마이크 및 카메라가 작동하지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "IssuesWhileViewingVideos",
+			"value": "동영상 보기 문제",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherStreamingIssue",
+			"value": "기타",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "IssueWithGoogle",
+		"value": "Google Play 문제",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "StuckOnDownloadingApp",
+			"value": "앱 다운로드 중 멈춤",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError",
+			"value": "정보 검색 오류(RPC 문제)",
+			"showdropdown": "0"
+		},
+		{
+			"id": "RPCError_DF_DLA",
+			"value": "DF-DLA-15 오류",
+			"showdropdown": "0"
+		},
+		{
+			"id": "Other_RPC",
+			"value": "기타",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "LoginIssue",
+		"value": "Bluestacks 계정을 만들 수 없음",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "UnableToSetupBluestacksAccount",
+			"value": "Bluestacks 계정을 설정할 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "StuckAtEnableAppSync",
+			"value": "(앱 동기화 활성화) 단계를 완료할 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CouldNotEstablishReliableConnection",
+			"value": "안정적인 연결을 설정할 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "ErrorCommunicatingGoogleServer",
+			"value": "구글 서버와 통신 중 오류 발생",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherLoginIssue",
+			"value": "기타",
+			"showdropdown": "0"
+		}
+		]
+	},
+	{
+		"id": "BlackScreen",
+		"value": "검은 화면 문제",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "BlackScreenOnLaunch",
+			"value": "Bluestacks 실행 시 검은 화면이 나타남",
+			"showdropdown": "0"
+		},
+		{
+			"id": "BlackScreenWithinApp",
+			"value": "앱 내에서 검은 화면이 나타남",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Resizing",
+		"value": "화면 크기를 조정할 수 없음",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "IssuesWithBluestacksResolution",
+			"value": "Bluestacks  해상도 문제",
+			"showdropdown": "0"
+		},
+		{
+			"id": "AppOrientationIssue",
+			"value": "앱 방향(가로/세로) 문제",
+			"showdropdown": "1"
+		}
+		]
+	},
+	{
+		"id": "Other",
+		"value": "기타",
+		"showdropdown": "0",
+		"subcategory": [
+		{
+			"id": "CannotStartBlueStacks",
+			"value": "BlueStacks을 시작할 수 없음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "KeyboardIssue",
+			"value": "키보드가 작동하지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "MouseIssue",
+			"value": "마우스가 작동하지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "CameraIssue",
+			"value": "카메라가 작동하지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "NoSound",
+			"value": "BlueStacks에서 소리가 나지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "GPSIssue",
+			"value": "위치를 찾을 수 없음/GPS가 작동하지 않음",
+			"showdropdown": "0"
+		},
+		{
+			"id": "OtherIssue",
+			"value": "다른 문제",
+			"showdropdown": "0"
+		}
+		]
+	}
+	]
+}

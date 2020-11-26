@@ -1,0 +1,155 @@
+{
+	"Shortcut": [{
+			"ShortcutCategory": "STRING_WINDOW_ACTIONS",
+			"ShortcutName": "STRING_BOSSKEY_SETTING",
+			"ShortcutKey": "Ctrl + Shift + X"
+		},
+		{
+			"ShortcutCategory": "STRING_WINDOW_ACTIONS",
+			"ShortcutName": "STRING_UPDATED_FULLSCREEN_BUTTON_TOOLTIP",
+			"ShortcutKey": "F11"
+		},
+		{
+			"ShortcutCategory": "STRING_WINDOW_ACTIONS",
+			"ShortcutName": "STRING_SETTINGS",
+			"ShortcutKey": "Ctrl + Shift + I"
+		},
+		{
+			"ShortcutCategory": "STRING_SYSTEM_ACTIONS",
+			"ShortcutName": "STRING_INCREASE_VOLUME",
+			"ShortcutKey": "Ctrl + Shift + Up"
+		},
+		{
+			"ShortcutCategory": "STRING_SYSTEM_ACTIONS",
+			"ShortcutName": "STRING_DECREASE_VOLUME",
+			"ShortcutKey": "Ctrl + Shift + Down"
+		},
+		{
+			"ShortcutCategory": "STRING_SYSTEM_ACTIONS",
+			"ShortcutName": "STRING_TOGGLE_MUTE_STATE",
+			"ShortcutKey": "Ctrl + Shift + M"
+		},
+		{
+			"ShortcutCategory": "STRING_SYSTEM_ACTIONS",
+			"ShortcutName": "STRING_TOOLBAR_CAMERA",
+			"ShortcutKey": "Ctrl + Shift + S"
+		},
+		{
+			"ShortcutCategory": "STRING_SYSTEM_ACTIONS",
+			"ShortcutName": "STRING_RECORD_SCREEN",
+			"ShortcutKey": "Ctrl + Shift + R"
+		},
+		{
+			"ShortcutCategory": "STRING_ANDROID_ACTIONS",
+			"ShortcutName": "STRING_HOME",
+			"ShortcutKey": "Ctrl + Shift + 1"
+		},
+		{
+			"ShortcutCategory": "STRING_ANDROID_ACTIONS",
+			"ShortcutName": "STRING_BACK",
+			"ShortcutKey": "Ctrl + Shift + 2"
+		},
+		{
+			"ShortcutCategory": "STRING_ANDROID_ACTIONS",
+			"ShortcutName": "STRING_SHAKE",
+			"ShortcutKey": "Ctrl + Shift + 3"
+		},
+		{
+			"ShortcutCategory": "STRING_ANDROID_ACTIONS",
+			"ShortcutName": "STRING_ROTATE",
+			"ShortcutKey": "Ctrl + Shift + 4"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_TOGGLE_KEYMAPPING_STATE",
+			"ShortcutKey": "Ctrl + Shift + F10"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_TOGGLE_KEYMAP_WINDOW",
+			"ShortcutKey": "Ctrl + Shift + H"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_CONTROLS_EDITOR",
+			"ShortcutKey": "Ctrl + Shift + A"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_TOGGLE_FARM_MODE",
+			"ShortcutKey": "Ctrl + Shift + F"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_TOGGLE_OVERLAY",
+			"ShortcutKey": "Ctrl + Shift + F6"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_TOGGLE_LOCK_CURSOR",
+			"ShortcutKey": "Ctrl + Shift + F8"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_GAMEPAD_CONTROLS",
+			"ShortcutKey": "Ctrl + Shift + G"
+		},
+		{
+			"ShortcutCategory": "STRING_GROUPCALL_ACTIONS",
+			"ShortcutName": "STRING_TOGGLE_MICROPHONE_MUTE_STATE",
+			"ShortcutKey": "Ctrl + Shift + Z"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_OPEN_MEDIA_FOLDER",
+			"ShortcutKey": "Ctrl + Shift + 6"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_MACRO_RECORDER",
+			"ShortcutKey": "Ctrl + Shift + 7"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_TOGGLE_MULTIINSTANCE_WINDOW",
+			"ShortcutKey": "Ctrl + Shift + 8"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_SYNCHRONISER",
+			"ShortcutKey": "Ctrl + Shift + 9"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_SET_LOCATION",
+			"ShortcutKey": "Ctrl + Shift + K"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_TRANSLATOR_TOOL",
+			"ShortcutKey": "Ctrl + Shift + L"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_UTC_CONVERTER",
+			"ShortcutKey": "Ctrl + Shift + T"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_SWITCH_OVERLAY_CONTROLS",
+			"ShortcutKey": "Ctrl + Shift + D"
+		},
+		{
+			"ShortcutCategory": "STRING_GAME_CONTROLS",
+			"ShortcutName": "STRING_UNLOCK_MOUSE",
+			"ShortcutKey": "Esc",
+			"ReadOnlyTextbox": "True"
+		},
+		{
+			"ShortcutCategory": "STRING_MISCELLANEOUS",
+			"ShortcutName": "STRING_INSTALL_APK",
+			"ShortcutKey": "Ctrl + Shift + B"
+		}
+	],
+	"DefaultModifier": "LeftCtrl,LeftShift"
+}

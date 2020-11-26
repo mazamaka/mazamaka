@@ -1,0 +1,49 @@
+{
+  "CustomThumbnails": {},
+  "DefaultThumbnails": {
+    "Special": {
+      "thumbnail_id": "df_sp",
+      "thumbnail_url": "http://cdn3.bluestacks.com/Thumbnail-images/generic_thumbnail.jpg",
+      "type": "Special",
+      "ImagePath": "C:\\ProgramData\\BlueStacks_bgp64\\Client\\Promo\\VideoThumbnail_DefaultPackage_df_sp"
+    },
+    "Moba": {
+      "thumbnail_id": "df_mb",
+      "thumbnail_url": "http://cdn3.bluestacks.com/Thumbnail-images/thumbnails_gamepad.jpg",
+      "type": "Moba",
+      "ImagePath": "C:\\ProgramData\\BlueStacks_bgp64\\Client\\Promo\\VideoThumbnail_DefaultPackage_df_mb"
+    },
+    "Pan": {
+      "thumbnail_id": "df_pan",
+      "thumbnail_url": "http://cdn3.bluestacks.com/Thumbnail-images/thumbnails_battleroyale2.jpg",
+      "type": "Pan",
+      "ImagePath": "C:\\ProgramData\\BlueStacks_bgp64\\Client\\Promo\\VideoThumbnail_DefaultPackage_df_pan"
+    },
+    "Gamepad": {
+      "thumbnail_id": "df_gamepad",
+      "thumbnail_url": "http://cdn3.bluestacks.com/Thumbnail-images/thumbnails_gamepad.jpg",
+      "type": "Gamepad",
+      "ImagePath": "C:\\ProgramData\\BlueStacks_bgp64\\Client\\Promo\\VideoThumbnail_DefaultPackage_df_gamepad"
+    }
+  },
+  "HelpArticles": {},
+  "GameSettings": [
+    {
+      "setting_type": "ApplyCfgUpdateImmediately",
+      "SettingsData": [
+        {
+          "app_pkg_list": {
+            "$type": "BlueStacks.Common.AppPackageListObject, HD-Common",
+            "app_pkg_list": [
+              {
+                "app_pkg": "*",
+                "extra_info": {}
+              }
+            ]
+          },
+          "setting": "true"
+        }
+      ]
+    }
+  ]
+}

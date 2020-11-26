@@ -1,0 +1,1744 @@
+<BluestacksUIColor xmlns="clr-namespace:BlueStacks.Common;assembly=HD-Common" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:av="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <BluestacksUIColor.DictCategory>
+    <s:String
+      x:Key="AdvancedGameControlActionHeaderForeground">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedGameControlBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedGameControlButtonGridBackground">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedGameControlHeaderBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedGameControlHeaderForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedSettingsItemPanelBackground">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedSettingsItemPanelBorder">*New Color*</s:String>
+    <s:String
+      x:Key="AdvancedSettingsItemPanelForeground">*New Color*</s:String>
+    <s:String
+      x:Key="AppIconDropShadowBrush">My Apps</s:String>
+    <s:String
+      x:Key="AppIconTextColor">My Apps</s:String>
+    <s:String
+      x:Key="ApplicationBackgroundBrush">*Global*</s:String>
+    <s:String
+      x:Key="ApplicationBorderBrush">*Global*</s:String>
+    <s:String
+      x:Key="ApplicationHighlighterColor">*MainColors*</s:String>
+    <s:String
+      x:Key="AppTabBorderBrush">BGP Tabs</s:String>
+    <s:String
+      x:Key="AppTabsPopupbackground">*Global*</s:String>
+    <s:String
+      x:Key="AppTabsPopupBorder">*Global*</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderDisabledBorderBackground">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderDisabledForeGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderDisabledGridBackGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseDownBorderBackground">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseDownForeGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseDownGridBackGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseInBorderBackground">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseInForeGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseInGridBackGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseOutBorderBackground">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseOutForeGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundBlueBorderMouseOutGridBackGround">Ghost Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundOrangeBorderMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundWhiteBorderMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundBlueDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundBlueDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundBlueDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="BackgroundDisabledBorderBackground">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundDisabledForeGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundDisabledGridBackGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseDownBorderBackground">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseDownForeGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseDownGridBackGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseInBorderBackground">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseInForeGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseInGridBackGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseOutBorderBackground">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseOutForeGround">Skin Button</s:String>
+    <s:String
+      x:Key="BackgroundMouseOutGridBackGround">Skin Button</s:String>
+    <s:String
+      x:Key="BeginnerGuideBackgroundColor">*Global*</s:String>
+    <s:String
+      x:Key="BeginnersGuideTextColor">Guides</s:String>
+    <s:String
+      x:Key="BlockerAdControlBackgroundColor">Blocker Ads</s:String>
+    <s:String
+      x:Key="BlockerAdControlForegroundColor">Blocker Ads</s:String>
+    <s:String
+      x:Key="BlockerAdControlHighlightedForegroundColor">Blocker Ads</s:String>
+    <s:String
+      x:Key="BlueDisabledBorderBackground">CTA</s:String>
+    <s:String
+      x:Key="BlueDisabledForeGround">CTA</s:String>
+    <s:String
+      x:Key="BlueDisabledGridBackGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseDownBorderBackground">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseDownForeGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseDownGridBackGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseInBorderBackground">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseInForeGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseInGridBackGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseOutBorderBackground">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseOutForeGround">CTA</s:String>
+    <s:String
+      x:Key="BlueMouseOutGridBackGround">CTA</s:String>
+    <s:String
+      x:Key="BluestacksTitleColor">*Global*</s:String>
+    <s:String
+      x:Key="BootPromotionTextColor">Blocker Ads</s:String>
+    <s:String
+      x:Key="BorderDisabledBorderBackground">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderDisabledForeGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderDisabledGridBackGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseDownBorderBackground">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseDownForeGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseDownGridBackGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseInBorderBackground">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseInForeGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseInGridBackGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseOutBorderBackground">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseOutForeGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderMouseOutGridBackGround">Ghost Button</s:String>
+    <s:String
+      x:Key="BorderRedBackground">Red Backround</s:String>
+    <s:String
+      x:Key="BottomBarColor">*Global*</s:String>
+    <s:String
+      x:Key="CanvasElementsBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="ComboBoxBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxBorderColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxForegroundColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxHorizontalScrollBarBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxItemBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxScrollBarColor">Settings</s:String>
+    <s:String
+      x:Key="ComboBoxVerticalScrollBarBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="ContextMenuItemBackgroundColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemBackgroundHighlighterColor">*New Color*</s:String>
+    <s:String
+      x:Key="ContextMenuItemBackgroundHoverColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemForegroundColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemForegroundDimColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemForegroundDimDimColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemForegroundGreenColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContextMenuItemForegroundHighlighterColor">Context Menu</s:String>
+    <s:String
+      x:Key="ContrastForegroundColor">*MainColors*</s:String>
+    <s:String
+      x:Key="ContrastThemeColor">*MainColors*</s:String>
+    <s:String
+      x:Key="CustomSliderBrush">Settings</s:String>
+    <s:String
+      x:Key="CustomSliderForegroundColor">Settings</s:String>
+    <s:String
+      x:Key="CustomSlideRoundButtonrBrush">Settings</s:String>
+    <s:String
+      x:Key="CustomSliderThumbBorderColor">Settings</s:String>
+    <s:String
+      x:Key="CustomSliderThumbColor">Settings</s:String>
+    <s:String
+      x:Key="DarkRedMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="DarkRedMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="DeleteComboTextForeground">*New Color*</s:String>
+    <s:String
+      x:Key="DimOverlayColor">Overlay</s:String>
+    <s:String
+      x:Key="DimOverlayForegroundColor">Overlay</s:String>
+    <s:String
+      x:Key="DualTextblockControlBackground">*New Color*</s:String>
+    <s:String
+      x:Key="DualTextblockControlOuterBackground">*New Color*</s:String>
+    <s:String
+      x:Key="DualTextBlockForeground">*New Color*</s:String>
+    <s:String
+      x:Key="DualTextBlockLightForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="FrontendPopupTitleColor">*Global*</s:String>
+    <s:String
+      x:Key="FullScreenTopBarBorderColor">*Global*</s:String>
+    <s:String
+      x:Key="FullScreenTopBarButtonBackgroundColor">*Global*</s:String>
+    <s:String
+      x:Key="FullScreenTopBarButtonBorderColor">*Global*</s:String>
+    <s:String
+      x:Key="FullScreenTopBarForegroundColor">*Global*</s:String>
+    <s:String
+      x:Key="GameControlCategoryGroupBoxForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlCategoryHeaderForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlContentBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlHeaderBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlNavigationBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlSchemeForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlSelectedCategoryHeaderForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowBorderColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowBottomBarForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowFooterForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowFooterTitleForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowGuidanceKeyForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowHeaderColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowHeaderForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GameControlWindowVerticalDividerColor">*New Color*</s:String>
+    <s:String
+      x:Key="GenericBrushLight">*Global*</s:String>
+    <s:String
+      x:Key="GoogleSigninPopupTextColor">*New Color*</s:String>
+    <s:String
+      x:Key="GreenDisabledBorderBackground">Success Button</s:String>
+    <s:String
+      x:Key="GreenDisabledForeGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenDisabledGridBackGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseDownBorderBackground">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseDownForeGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseDownGridBackGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseInBorderBackground">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseInForeGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseInGridBackGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseOutBorderBackground">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseOutForeGround">Success Button</s:String>
+    <s:String
+      x:Key="GreenMouseOutGridBackGround">Success Button</s:String>
+    <s:String
+      x:Key="GuidanceKeyBorderBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyTextboxBorder">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyTextboxSelectedBackground">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyTextboxSelectedBorder">*New Color*</s:String>
+    <s:String
+      x:Key="LightBandingColor">*New Color*</s:String>
+    <s:String
+      x:Key="DarkBandingColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyWarningBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceKeyWarningBorderColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceTextBorderBrush">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceTextColorForeground">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceVideoElementBackground">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceVideoElementBorder">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceVideoElementForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceVideoElementHeaderForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="HomeAppBackgroundColor">Home Tab</s:String>
+    <s:String
+      x:Key="HomeAppTabBackgroundColor">Home Tab</s:String>
+    <s:String
+      x:Key="HomeAppTabBackgroundHoverColor">Home Tab</s:String>
+    <s:String
+      x:Key="HomeAppTabButtonBaseColor">Home Tab</s:String>
+    <s:String
+      x:Key="HomeAppTabForegroundColor">Home Tab</s:String>
+    <s:String
+      x:Key="HomeAppTabForegroundHoverColor">Home Tab</s:String>
+    <s:String
+      x:Key="HyperlinkForeground">*New Color*</s:String>
+    <s:String
+      x:Key="HyperLinkForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerTextForeground">TextBoxes</s:String>
+    <s:String
+      x:Key="InstallerWindowBackground">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowBorderBrush">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowLightTextForeground">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowMouseOverTextForeground">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowTextBoxBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowTextForeground">*New Color*</s:String>
+    <s:String
+      x:Key="InstallerWindowWhiteTextColor">*New Color*</s:String>
+    <s:String
+      x:Key="KeymapCanvasWindowBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="KeymapDummyMobaForeground">*New Color*</s:String>
+    <s:String
+      x:Key="KeymapExtraSettingsWindowBackground">*New Color*</s:String>
+    <s:String
+      x:Key="KeymapExtraSettingsWindowBorder">*New Color*</s:String>
+    <s:String
+      x:Key="KeymapExtraSettingsWindowForeground">*New Color*</s:String>
+    <s:String
+      x:Key="LogCollectorWatermarkTextColor">*New Color*</s:String>
+    <s:String
+      x:Key="MacroPlayRecorderControlBorder">*New Color*</s:String>
+    <s:String
+      x:Key="MainForeGroundColor">*MainColors*</s:String>
+    <s:String
+      x:Key="MainThemeColor">*MainColors*</s:String>
+    <s:String
+      x:Key="MaterialDesignBlueBtnBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignBlueBtnBorderBrush">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignBlueBtnMouseDownBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignBlueBtnMouseOverBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignRedBtnBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignRedBtnBorderBrush">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignRedBtnMouseDownBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MaterialDesignRedBtnMouseOverBackground">*New Color*</s:String>
+    <s:String
+      x:Key="MobaGridMouseButtonDownColor">Guides</s:String>
+    <s:String
+      x:Key="MobaGridMouseEnterColor">Guides</s:String>
+    <s:String
+      x:Key="MobaGridMouseMouseButtonUpColor">Guides</s:String>
+    <s:String
+      x:Key="MOBAVideoWindowBackgroundColor">Guides</s:String>
+    <s:String
+      x:Key="MOBAVideoWindowBorderColor">Guides</s:String>
+    <s:String
+      x:Key="MOBAVideoWindowForegroundColor">Guides</s:String>
+    <s:String
+      x:Key="MOBAVideoWindowInnerBackgroundColor">Guides</s:String>
+    <s:String
+      x:Key="MOBAVideoWindowOuterBackgroundColor">Guides</s:String>
+    <s:String
+      x:Key="ModalShadowColor">Shadows</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerBackgroundColor">Instance Manager</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerBorderColor">Instance Manager</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerForegroundColor">Instance Manager</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerInstanceColor">Instance Manager</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerTextBoxBackgroundColor">Instance Manager</s:String>
+    <s:String
+      x:Key="MultiInstanceManagerTextBoxBorderColor">Instance Manager</s:String>
+    <s:String
+      x:Key="NoInternetControlBackgroundColor">Fallback</s:String>
+    <s:String
+      x:Key="NoInternetControlBorderColor">Fallback</s:String>
+    <s:String
+      x:Key="NoInternetControlForegroundColor">Fallback</s:String>
+    <s:String
+      x:Key="NoInternetControlTitleForegroundColor">Fallback</s:String>
+    <s:String
+      x:Key="OrangeDisabledBorderBackground">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeDisabledForeGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeDisabledGridBackGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseDownBorderBackground">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseDownForeGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseDownGridBackGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseInBorderBackground">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseInForeGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseInGridBackGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseOutBorderBackground">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseOutForeGround">Accent Button</s:String>
+    <s:String
+      x:Key="OrangeMouseOutGridBackGround">Accent Button</s:String>
+    <s:String
+      x:Key="OverlayLabelBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayLabelBorderColor">*New Color*</s:String>
+    <s:String
+      x:Key="PopupBorderBrush">Context Menu</s:String>
+    <s:String
+      x:Key="PopupShadowColor">Shadows</s:String>
+    <s:String
+      x:Key="PopupWindowWarningForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="ProgressBarBackgroundColor">Progress Bar</s:String>
+    <s:String
+      x:Key="ProgressBarBorderColor">Progress Bar</s:String>
+    <s:String
+      x:Key="ProgressBarForegroundColor">Progress Bar</s:String>
+    <s:String
+      x:Key="ProgressBarProgressColor">Progress Bar</s:String>
+    <s:String
+      x:Key="RedDisabledBorderBackground">Danger Button</s:String>
+    <s:String
+      x:Key="RedDisabledForeGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedDisabledGridBackGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseDownBorderBackground">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseDownForeGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseDownGridBackGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseInBorderBackground">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseInForeGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseInGridBackGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseOutBorderBackground">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseOutForeGround">Danger Button</s:String>
+    <s:String
+      x:Key="RedMouseOutGridBackGround">Danger Button</s:String>
+    <s:String
+      x:Key="ScrollViewerBackgroundHoverColor">Settings</s:String>
+    <s:String
+      x:Key="ScrollViewerBorderColor">Settings</s:String>
+    <s:String
+      x:Key="ScrollViewerDisabledBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="SearchGridBackgroundColor">Search Box</s:String>
+    <s:String
+      x:Key="SearchGridBackgroundHoverColor">Search Box</s:String>
+    <s:String
+      x:Key="SearchGridBorderColor">Search Box</s:String>
+    <s:String
+      x:Key="SearchGridForegroundColor">Search Box</s:String>
+    <s:String
+      x:Key="SearchGridForegroundFocusedColor">Search Box</s:String>
+    <s:String
+      x:Key="SearchTextBoxBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="SelectedHomeAppTabBackgroundColor">Home Tab</s:String>
+    <s:String
+      x:Key="SelectedHomeAppTabForegroundColor">Home Tab</s:String>
+    <s:String
+      x:Key="SelectedTabBackgroundColor">BGP Tabs</s:String>
+	<s:String
+      x:Key="SelectedTabBorderColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="ContextMenuItemBackgroundSelectedColor">*New Color*</s:String>
+    <s:String
+      x:Key="SelectedTabForegroundColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="HorizontalSeparator">Home Tab</s:String>
+    <s:String
+      x:Key="SettingsWindowBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowBorderBrushColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowBorderColor">Settings</s:String>
+    <s:String
+      x:Key="VerticalSeparator">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowForegroundChangeColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowForegroundDimColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowForegroundDimDimColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowForegroundDimDimDimColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemForeground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemHoverBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemLegendForeground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemSelectedBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemSelectedForeground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTabMenuItemUnderline">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTextBoxBackgroundColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTextBoxBorderColor">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTitleBarBackground">Settings</s:String>
+    <s:String
+      x:Key="SettingsWindowTitleBarForeGround">Settings</s:String>
+    <s:String
+      x:Key="SidebarBackground">*New Color*</s:String>
+    <s:String
+      x:Key="SidebarElementClick">*New Color*</s:String>
+    <s:String
+      x:Key="SidebarElementHover">*New Color*</s:String>
+    <s:String
+      x:Key="SidebarElementNormal">*New Color*</s:String>
+    <s:String
+      x:Key="SliderButtonColor">Settings</s:String>
+    <s:String
+      x:Key="StreamingTopBarColor">*New Color*</s:String>
+    <s:String
+      x:Key="GuidanceVideoDescriptionColor">*New Color*</s:String>
+    <s:String
+      x:Key="SyncHyperlinkForegroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="TabBackgroundColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="TabBackgroundHoverColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="TabForegroundColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="TextBoxBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxForegroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxHoverBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxFocussedBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxFocussedBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxFocussedForgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxErrorBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxErrorBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxWarningBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TextBoxWarningBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="WarningBoxBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="WarningBoxBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="WarningBoxForegroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="ErrorBoxBackgroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="ErrorBoxBorderColor">TextBoxes</s:String>
+    <s:String
+      x:Key="ErrorBoxForegroundColor">TextBoxes</s:String>
+    <s:String
+      x:Key="TopBarColor">BGP Tabs</s:String>
+    <s:String
+      x:Key="TransparentDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="TransparentMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="OverlayMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="ViewXpackPopupClickedColor">*New Color*</s:String>
+    <s:String
+      x:Key="ViewXpackPopupColor">*New Color*</s:String>
+    <s:String
+      x:Key="ViewXpackPopupHoverColor">*New Color*</s:String>
+    <s:String
+      x:Key="WarningGridBackgroundColor">*New Color*</s:String>
+    <s:String
+      x:Key="WarningGridBorderColor">*New Color*</s:String>
+    <s:String
+      x:Key="WASDGridMouseButtonDownColor">Guides</s:String>
+    <s:String
+      x:Key="WASDGridMouseButtonUpColor">Guides</s:String>
+    <s:String
+      x:Key="WASDGridMouseEnterColor">Guides</s:String>
+    <s:String
+      x:Key="WASDGridMouseLeaveColor">Guides</s:String>
+    <s:String
+      x:Key="WhiteDisabledBorderBackground">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteDisabledForeGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteDisabledGridBackGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseDownBorderBackground">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseDownForeGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseDownGridBackGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseInBorderBackground">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseInForeGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseInGridBackGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseOutBorderBackground">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseOutForeGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteMouseOutGridBackGround">WhiteButton</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGDisabledBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGDisabledForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGDisabledGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseDownBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseDownForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseDownGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseInBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseInForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseInGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseOutBorderBackground">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseOutForeGround">*New Color*</s:String>
+    <s:String
+      x:Key="WhiteWithGreyFGMouseOutGridBackGround">*New Color*</s:String>
+    <s:String
+      x:Key="WidgetBarBackground">My Apps</s:String>
+    <s:String
+      x:Key="WidgetBarBorder">*New Color*</s:String>
+    <s:String
+      x:Key="WidgetBarBorderBrush">My Apps</s:String>
+    <s:String
+      x:Key="WidgetBarForeground">My Apps</s:String>
+    <s:String
+      x:Key="XPackPopupColor">*New Color*</s:String>
+  </BluestacksUIColor.DictCategory>
+  <BluestacksUIColor.DictBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedGameControlActionHeaderForeground">#FFA9B9CC</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedGameControlBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedGameControlButtonGridBackground">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedGameControlHeaderBackgroundColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedGameControlHeaderForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedSettingsItemPanelBackground">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedSettingsItemPanelBorder">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AdvancedSettingsItemPanelForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AppIconDropShadowBrush">#FF02A6F4</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AppIconTextColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ApplicationBackgroundBrush">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ApplicationBorderBrush">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ApplicationHighlighterColor">#FFF87C06</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AppTabBorderBrush">#FF464A75</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AppTabsPopupbackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="AppTabsPopupBorder">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseDownBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseDownGridBackGround">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseInBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseInGridBackGround">#FF444B6F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseOutBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueBorderMouseOutGridBackGround">#C82B3255</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundBlueDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseDownBorderBackground">#FFD78200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseDownGridBackGround">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseInBorderBackground">#FFFF9F0B</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseInGridBackGround">#FF444B6F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseOutBorderBackground">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundOrangeBorderMouseOutGridBackGround">#C82B3255</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderDisabledBorderBackground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderDisabledForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderDisabledGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseDownBorderBackground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseDownGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseInBorderBackground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseInGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseOutBorderBackground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundWhiteBorderMouseOutGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseDownBorderBackground">#FF2B3255</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseDownGridBackGround">#FF2B3255</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseInBorderBackground">#FF444B6F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseInGridBackGround">#FF444B6F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseOutBorderBackground">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BackgroundMouseOutGridBackGround">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BeginnerGuideBackgroundColor">#FF283055</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BeginnersGuideTextColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlockerAdControlBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlockerAdControlForegroundColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlockerAdControlHighlightedForegroundColor">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseDownBorderBackground">#FF007CD6</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseDownGridBackGround">#FF007CD6</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseInBorderBackground">#FF0A98FF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseInGridBackGround">#FF0A98FF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseOutBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BlueMouseOutGridBackGround">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BluestacksTitleColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BootPromotionTextColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseDownBorderBackground">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseDownForeGround">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseDownGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseInBorderBackground">#FF8A92A5</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseInForeGround">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseInGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseOutBorderBackground">#FF555E73</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseOutForeGround">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderMouseOutGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BorderRedBackground">#20FF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="BottomBarColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CanvasElementsBackgroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxBorderColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxForegroundColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxHorizontalScrollBarBackgroundColor">#FF464A75</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxItemBackgroundColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ComboBoxScrollBarColor">#FF464A75</av:SolidColorBrush>
+    <av:LinearGradientBrush
+      StartPoint="0,0"
+      EndPoint="0,1"
+      x:Key="ComboBoxVerticalScrollBarBackgroundColor">
+      <av:LinearGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FF464A75"
+          Offset="0" />
+        <av:GradientStop
+          Color="#FF464A75"
+          Offset="0.2" />
+        <av:GradientStop
+          Color="#FF464A75"
+          Offset="0.8" />
+        <av:GradientStop
+          Color="#FF464A75"
+          Offset="1" />
+      </av:LinearGradientBrush.GradientStops>
+    </av:LinearGradientBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemBackgroundHighlighterColor">#FF222949</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemBackgroundHoverColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemForegroundDimColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemForegroundDimDimColor">#FF777995</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemForegroundGreenColor">#FF2BBD00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContextMenuItemForegroundHighlighterColor">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContrastForegroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ContrastThemeColor">#FF585A6C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CustomSliderBrush">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CustomSliderForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CustomSlideRoundButtonrBrush">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CustomSliderThumbBorderColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="CustomSliderThumbColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseDownBorderBackground">#FF4D0B00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseDownGridBackGround">#FF4D0B00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseInBorderBackground">#FF991700</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseInGridBackGround">#FF991700</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseOutBorderBackground">#FF671000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkRedMouseOutGridBackGround">#FF671000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DeleteComboTextForeground">#FFFF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DimOverlayColor">#A0000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DimOverlayForegroundColor">#8AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DualTextblockControlBackground">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DualTextblockControlOuterBackground">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DualTextBlockForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DualTextBlockLightForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="FrontendPopupTitleColor">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="FullScreenTopBarBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="FullScreenTopBarButtonBackgroundColor">#FF328CF2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="FullScreenTopBarButtonBorderColor">#FF328CF2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="FullScreenTopBarForegroundColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlCategoryGroupBoxForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlCategoryHeaderForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:RadialGradientBrush
+      Center="0.5,0"
+      RadiusX="0.5"
+      RadiusY="0.5"
+      GradientOrigin="0.5,0"
+      x:Key="GameControlContentBackgroundColor">
+      <av:RadialGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FF232642"
+          Offset="0" />
+        <av:GradientStop
+          Color="#FF232642"
+          Offset="1" />
+      </av:RadialGradientBrush.GradientStops>
+    </av:RadialGradientBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlHeaderBackgroundColor">#00000000</av:SolidColorBrush>
+    <av:RadialGradientBrush
+      Center="0.5,0"
+      RadiusX="5"
+      RadiusY="0.5"
+      GradientOrigin="0.5,0"
+      x:Key="GameControlNavigationBackgroundColor">
+      <av:RadialGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FF232642"
+          Offset="1" />
+      </av:RadialGradientBrush.GradientStops>
+    </av:RadialGradientBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlSchemeForegroundColor">#FFA9B9CC</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlSelectedCategoryHeaderForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowBottomBarForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowFooterForegroundColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowFooterTitleForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowGuidanceKeyForeground">#FFB80000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowHeaderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowHeaderForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GameControlWindowVerticalDividerColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GenericBrushLight">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GoogleSigninPopupTextColor">#FF858585</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseDownBorderBackground">#FF2BBD00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseDownGridBackGround">#FF2BBD00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseInBorderBackground">#FF40C319</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseInGridBackGround">#FF40C319</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseOutBorderBackground">#FF26AA00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GreenMouseOutGridBackGround">#FF26AA00</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyBorderBackgroundColor">#FF51546E</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyTextboxBorder">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyTextboxSelectedBackground">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyTextboxSelectedBorder">#FF4A90E2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="LightBandingColor">#FF292C4A</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="DarkBandingColor">#FF1E213D</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyWarningBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceKeyWarningBorderColor">#FFF09200</av:SolidColorBrush>
+    <av:LinearGradientBrush
+      StartPoint="0,0"
+      EndPoint="0,20"
+      x:Key="GuidanceTextBorderBrush">
+      <av:LinearGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FFA5A7C2"
+          Offset="0" />
+        <av:GradientStop
+          Color="#FFA5A7C2"
+          Offset="0.05" />
+        <av:GradientStop
+          Color="#FFA5A7C2"
+          Offset="0.07" />
+        <av:GradientStop
+          Color="#FFA5A7C2"
+          Offset="1" />
+      </av:LinearGradientBrush.GradientStops>
+    </av:LinearGradientBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceTextColorForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceVideoElementBackground">#FF1D1E36</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceVideoElementBorder">#FF5B5C6F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceVideoElementForegroundColor">#FFA9B9CC</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="GuidanceVideoElementHeaderForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppBackgroundColor">#FF1E2138</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppTabBackgroundColor">#FF266AB8</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppTabBackgroundHoverColor">#FF0B7DDA</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppTabButtonBaseColor">#FF151833</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppTabForegroundColor">#FF8B9FC2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HomeAppTabForegroundHoverColor">#FFC6CEE1</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HyperlinkForeground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HyperLinkForegroundColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerTextForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowBorderBrush">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowLightTextForeground">#FF777995</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowMouseOverTextForeground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowTextBoxBackgroundColor">#FF1A2147</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowTextForeground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="InstallerWindowWhiteTextColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="KeymapCanvasWindowBackgroundColor">#40000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="KeymapDummyMobaForeground">#FFFFCD41</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="KeymapExtraSettingsWindowBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="KeymapExtraSettingsWindowBorder">#FF4A90E2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="KeymapExtraSettingsWindowForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="LogCollectorWatermarkTextColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MacroPlayRecorderControlBorder">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MainForeGroundColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MainThemeColor">#FF1E2138</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignBlueBtnBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignBlueBtnBorderBrush">#FF008BFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignBlueBtnMouseDownBackground">#FF007CD6</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignBlueBtnMouseOverBackground">#FF0A98FF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignRedBtnBackground">#FFFF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignRedBtnBorderBrush">#FFFF404F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignRedBtnMouseDownBackground">#FFFF2916</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MaterialDesignRedBtnMouseOverBackground">#FFFF5749</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MOBAVideoWindowBackgroundColor">#FF283155</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MOBAVideoWindowBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MOBAVideoWindowForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MOBAVideoWindowInnerBackgroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MOBAVideoWindowOuterBackgroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ModalShadowColor">#99000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerBackgroundColor">#FF283055</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerForegroundColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerInstanceColor">#FF3E446D</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerTextBoxBackgroundColor">#FF252B4A</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="MultiInstanceManagerTextBoxBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="NoInternetControlBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="NoInternetControlBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="NoInternetControlForegroundColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="NoInternetControlTitleForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseDownBorderBackground">#FFD78200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseDownGridBackGround">#FFD78200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseInBorderBackground">#FFFF9F0B</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseInGridBackGround">#FFFF9F0B</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseOutBorderBackground">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OrangeMouseOutGridBackGround">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayLabelBackgroundColor">#FF000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayLabelBorderColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="PopupBorderBrush">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="PopupShadowColor">#99000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="PopupWindowWarningForegroundColor">#FFED5547</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ProgressBarBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ProgressBarBorderColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ProgressBarForegroundColor">#FF01D328</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ProgressBarProgressColor">#FF038CEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseDownBorderBackground">#FFFF2910</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseDownForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseDownGridBackGround">#FFFF2910</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseInBorderBackground">#FFFF5749</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseInGridBackGround">#FFFF5749</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseOutBorderBackground">#FFFF403F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseOutForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="RedMouseOutGridBackGround">#FFFF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ScrollViewerBackgroundHoverColor">#FFCBD6EF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ScrollViewerBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ScrollViewerDisabledBackgroundColor">#FFF4F4F4</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchGridBackgroundColor">#DC232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchGridBackgroundHoverColor">#1EFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchGridBorderColor">#6EFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchGridForegroundColor">#8CFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchGridForegroundFocusedColor">#FFF8F8EE</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SearchTextBoxBackgroundColor">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SelectedHomeAppTabBackgroundColor">#FF328CF2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SelectedHomeAppTabForegroundColor">#FFEAF2FB</av:SolidColorBrush>
+	<av:SolidColorBrush
+      x:Key="ContextMenuItemBackgroundSelectedColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SelectedTabBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SelectedTabBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SelectedTabForegroundColor">#B4FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="HorizontalSeparator">#50757B9F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowBorderBrushColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="VerticalSeparator">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowForegroundChangeColor">#FFDC143C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowForegroundDimColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowForegroundDimDimColor">#FF777995</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowForegroundDimDimDimColor">#FF777995</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemForeground">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemHoverBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemLegendForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemSelectedBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemSelectedForeground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTabMenuItemUnderline">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTextBoxBackgroundColor">#FF3D4566</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTextBoxBorderColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTitleBarBackground">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SettingsWindowTitleBarForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SidebarBackground">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SidebarElementClick">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SidebarElementHover">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SidebarElementNormal">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SliderButtonColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="SyncHyperlinkForegroundColor">#FF4A90E2</av:SolidColorBrush>
+    <av:LinearGradientBrush
+      StartPoint="0,0"
+      EndPoint="1,0"
+      x:Key="StreamingTopBarColor">
+      <av:LinearGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FF741BFF"
+          Offset="0" />
+        <av:GradientStop
+          Color="#FF4C07B7"
+          Offset="1" />
+      </av:LinearGradientBrush.GradientStops>
+    </av:LinearGradientBrush>
+    <av:LinearGradientBrush
+      StartPoint="0,0.38"
+      EndPoint="1,0.62"
+      x:Key="GuidanceVideoDescriptionColor">
+      <av:LinearGradientBrush.GradientStops>
+        <av:GradientStop
+          Color="#FFB909BC"
+          Offset="-0.03" />
+        <av:GradientStop
+          Color="#FF8013B3"
+          Offset="0.64" />
+      </av:LinearGradientBrush.GradientStops>
+    </av:LinearGradientBrush>
+    <av:SolidColorBrush
+      x:Key="TabBackgroundColor">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TabBackgroundHoverColor">#FF464A75</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TabForegroundColor">#8CFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxBorderColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxForegroundColor">#FFA5A7C2</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxHoverBorderColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxFocussedBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxFocussedBorderColor">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxFocussedForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxErrorBackgroundColor">#20FF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxErrorBorderColor">#FFFF402F</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxWarningBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TextBoxWarningBorderColor">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WarningBoxBackgroundColor">#1AF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WarningBoxBorderColor">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WarningBoxForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ErrorBoxBackgroundColor">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ErrorBoxBorderColor">#FFF09200</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ErrorBoxForegroundColor">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TopBarColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseDownBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseDownForeGround">#C8FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseDownGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseInBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseInGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseOutBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseOutForeGround">#96FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="TransparentMouseOutGridBackGround">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseDownBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseDownForeGround">#C8FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseDownGridBackGround">#01FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseInBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseInForeGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseInGridBackGround">#01FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseOutBorderBackground">#00FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseOutForeGround">#96FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="OverlayMouseOutGridBackGround">#01FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ViewXpackPopupClickedColor">#FF000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ViewXpackPopupColor">#99000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="ViewXpackPopupHoverColor">#BF000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WarningGridBackgroundColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WarningGridBorderColor">#FF232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseDownBorderBackground">#FFEAEAEA</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseDownForeGround">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseDownGridBackGround">#FFEAEAEA</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseInBorderBackground">#FFF1F1F1</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseInForeGround">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseInGridBackGround">#FFF1F1F1</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseOutBorderBackground">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseOutForeGround">#FF121429</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteMouseOutGridBackGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGDisabledBorderBackground">#00000000</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGDisabledForeGround">#33FFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGDisabledGridBackGround">#1AFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseDownBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseDownForeGround">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseDownGridBackGround">#33008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseInBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseInForeGround">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseInGridBackGround">#1A008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseOutBorderBackground">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseOutForeGround">#FF008BEF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WhiteWithGreyFGMouseOutGridBackGround">#FFFFFFFF</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WidgetBarBackground">#E6232642</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WidgetBarBorder">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WidgetBarBorderBrush">#FF34375C</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="WidgetBarForeground">#FF94A3C9</av:SolidColorBrush>
+    <av:SolidColorBrush
+      x:Key="XPackPopupColor">#FFFF402F</av:SolidColorBrush>
+  </BluestacksUIColor.DictBrush>
+  <BluestacksUIColor.DictGeometry>
+    <av:RectangleGeometry
+      RadiusX="0"
+      RadiusY="0"
+      Rect="0,0,68,68"
+      x:Key="AppIconRectangleGeometry" />
+  </BluestacksUIColor.DictGeometry>
+  <BluestacksUIColor.DictTransform>
+    <av:SkewTransform
+      AngleX="0"
+      AngleY="0"
+      x:Key="TabTransform" />
+    <av:SkewTransform
+      AngleX="0"
+      AngleY="0"
+      x:Key="TabTransformPortrait" />
+    <av:SkewTransform
+      AngleX="0"
+      AngleY="0"
+      x:Key="TextBoxAntiTransForm" />
+    <av:SkewTransform
+      AngleX="0"
+      AngleY="0"
+      x:Key="TextBoxTransForm" />
+  </BluestacksUIColor.DictTransform>
+  <BluestacksUIColor.DictCornerRadius>
+    <av:CornerRadius
+      x:Key="BeginnerGuideRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="ButtonCornerRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="CloseTabButtonDropDown">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="CloseTabButtonLandScape">3,3,10,3</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="MessageWindowRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="PopupRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="PreferenceDropDownRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="SearchButtonMargin">0,0,-40,8</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="SearchButtonPadding">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="SettingsWindowRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="SidebarElementCornerRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="SpeedUpTipsRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="TabMarginLandScape">2,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="TabMarginPortrait">2,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="TabRadius">0,0,0,0</av:CornerRadius>
+    <av:CornerRadius
+      x:Key="TextBoxRadius">0,0,0,0</av:CornerRadius>
+  </BluestacksUIColor.DictCornerRadius>
+  <BluestacksUIColor.DictThemeAvailable>
+    <s:String
+      x:Key="LocationUnrestricted">true</s:String>
+    <s:String
+      x:Key="ThemeDisplayName">BlueStacks</s:String>
+    <s:String
+      x:Key="themeName">Assets</s:String>
+    <s:String
+      x:Key="UserAvailable">true</s:String>
+  </BluestacksUIColor.DictThemeAvailable>
+</BluestacksUIColor>
