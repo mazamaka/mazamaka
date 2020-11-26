@@ -6,7 +6,7 @@
 ** Use VBoxManage or the VirtualBox Manager GUI to make changes.
 -->
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.14-windows">
-  <Machine uuid="{87bb8c18-a755-46c6-ba82-2a0deb17bac3}" name="Android" OSType="Linux" lastStateChange="2020-11-26T20:47:52Z">
+  <Machine uuid="{87bb8c18-a755-46c6-ba82-2a0deb17bac3}" name="Android" OSType="Linux" lastStateChange="2020-11-26T20:59:07Z">
     <MediaRegistry>
       <HardDisks>
         <HardDisk uuid="{4da0cf19-7a5d-474d-9748-2c31c11fbbd6}" location="fastboot.vdi" format="VDI" type="Readonly"/>
