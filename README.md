@@ -30,6 +30,9 @@ Some of my projects I have published or repositories I maintain:
 - 🌐 [AutoLand](https://github.com/mazamaka/AutoLand) - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images.
 - 🎤 [VoiceHelper](https://github.com/mazamaka/VoiceHelper) - Voice assistant with OpenAI GPT integration — speech recognition and AI responses.
 - 🐦 [grimace-twitter](https://github.com/mazamaka/grimace-twitter) - Twitter/X bot farm with AI-powered content generation (OpenAI GPT + automated interactions).
+- 🖥️ [ai_desktop_agent](https://github.com/mazamaka/ai_desktop_agent) - AI Desktop Agent — screen automation with Claude Computer Use API.
+- 🎭 [ai_playwright](https://github.com/mazamaka/ai_playwright) - AI-powered browser automation experiments with Playwright and LLM agents.
+- 🌐 [browser-uae-ai](https://github.com/mazamaka/browser-uae-ai) - AI browser automation with screen capture and Claude vision analysis.
 - 📋 [weekly-report-agent](https://github.com/mazamaka/weekly-report-agent) - CLI agent: git logs → Claude AI analysis → ClickUp tasks.
 - 🎬 [movie-recommender](https://github.com/mazamaka/movie-recommender) - Smart movie recommender — Lampa watch history analysis, auto torrent finder, Telegram bot.
 
@@ -45,6 +48,11 @@ Some of my projects I have published or repositories I maintain:
 - 🏢 [company_classification](https://github.com/mazamaka/company_classification) - NLP company classifier using zero-shot transformers.
 - 💚 [GreenBit](https://github.com/mazamaka/GreenBit) - Monobank-to-Binance automated crypto purchase bot with Telegram notifications.
 - 💹 [FastCopyTradeSolana](https://github.com/mazamaka/FastCopyTradeSolana) - Solana copy-trading bot — automated trade analysis and execution.
+- 🎯 [Solana-Sniper-Bot](https://github.com/mazamaka/Solana-Sniper-Bot) - Solana sniper bot — simulation API, trade storage, TP/SL strategies.
+- 💰 [Fast_Coin_Bob](https://github.com/mazamaka/Fast_Coin_Bob) - Crypto trading platform with FastAPI dashboard and Solana/Raydium integration.
+- 🚗 [Auto_ria_tg_pars](https://github.com/mazamaka/Auto_ria_tg_pars) - Auto.ria car listing parser with Telegram bot notifications.
+- 📲 [SIM_BANK](https://github.com/mazamaka/SIM_BANK) - SIM Bank management system — Flask web app with Telegram bot.
+- 📡 [Reddit_Farm](https://github.com/mazamaka/Reddit_Farm) - Reddit farm automation with admin panel, proxy support, and account management.
 
 ---
 
@@ -67,10 +75,6 @@ These are closed-source projects built for production — showing scale and expe
 - 🍎 **apple_farm** (167 .py) - Apple Developer registration pipeline — SMS providers, fingerprint analysis (IPQS/FP Pro/AntCpt), antifraud bypass
 - 🔍 **apple-checker** - Apple account verification and fingerprint quality checker
 
-**AI & Developer Tools:**
-- 🖥️ **ai_desktop_agent** - AI agent for desktop automation
-- 🤖 **ai_playwright** - AI-powered Playwright automation experiments
-
 **Telegram Bots (7+):**
 - 👥 **recruiter-bot** - Recruiting funnel with surveys, MinIO resume storage, Google Sheets export
 - 🔑 **account-issuance-bot** - Account distribution bot (Google Sheets + MySQL sync)
@@ -78,10 +82,9 @@ These are closed-source projects built for production — showing scale and expe
 - 🎬 **ugc-talent-hub-bot** - UGC creator onboarding bot
 - 📊 **daily-report-bot** - Multi-handler daily report aggregator
 - 🌍 **domain-bot** - Domain management via Cloudflare API + DNS
-- 📲 **sim-bank-bot** - SIM card automation (Flask + Telegram bot + admin panel)
+- 📲 **sim-bank-bot** - SIM card automation (Telegram bot + admin panel)
 
 **Blockchain & Trading:**
-- 🎯 **Solana sniper bot** - MVP: simulation API, trade storage, TP/SL strategies, analytics
 - 🚀 **Pump.fun trading bot** - Automated trading on pump.fun
 
 **Infrastructure:**
