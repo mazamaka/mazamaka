@@ -25,12 +25,15 @@ Some of my projects I have published or repositories I maintain:
 
 ### 🤖 AI & Automation
 
+- 🐝 [claude-swarm-system](https://github.com/mazamaka/claude-swarm-system) - Swarm system of 14 specialized AI agents for Claude Code — full-cycle Python development.
 - 🧠 [browser-automation-system](https://github.com/mazamaka/browser-automation-system) - Self-learning browser automation with AI (FastAPI + React + browser-use + Claude).
 - 📋 [weekly-report-agent](https://github.com/mazamaka/weekly-report-agent) - CLI agent: git logs → Claude AI analysis → ClickUp tasks.
+- 🎬 [movie-recommender](https://github.com/mazamaka/movie-recommender) - Smart movie recommender — Lampa watch history analysis, auto torrent finder, Telegram bot.
 
 ### 🔧 Backend & Tools
 
 - 📝 [5-google-logflow](https://github.com/mazamaka/5-google-logflow) - Centralized log collection service (FastAPI + PostgreSQL + MinIO).
+- 📞 [usphonebook-scraper](https://github.com/mazamaka/usphonebook-scraper) - USPhoneBook Docker scraper with Cloudflare Turnstile bypass.
 - 📡 [Flipper](https://github.com/mazamaka/Flipper) - FastAPI backend for Flipper Zero SubGHz control.
 - ✅ [url_validator](https://github.com/mazamaka/url_validator) - URL validation service with Prometheus/Grafana monitoring.
 - 📄 [pdf_linkchecker_docker](https://github.com/mazamaka/pdf_linkchecker_docker) - Docker-based PDF link validator with Prometheus monitoring.
@@ -48,13 +51,6 @@ These are closed-source projects built for production — showing scale and expe
 - 🎙️ **MaxBobAI** - Native Apple voice assistant (SwiftUI iOS + macOS) — real-time voice conversations with AI
 - 🔊 **maxbob-backend** - OpenAI Realtime Voice Assistant backend (WebRTC + FastAPI)
 
-**AI & Developer Tools:**
-- 🐝 **claude-swarm-system** - Swarm system of 14 specialized agents for Claude Code — full-cycle Python development
-- 🎬 **movie-recommender** - Smart movie recommender based on Lampa watch history, auto-finds torrents, posts to Telegram
-- 📞 **usphonebook-scraper** - USPhoneBook Docker scraper with Cloudflare Turnstile bypass
-- 🖥️ **ai_desktop_agent** - AI agent for desktop automation
-- 🤖 **ai_playwright** - AI-powered Playwright automation experiments
-
 **Google Ads Farm Ecosystem** — 5 services, 800+ Python files:
 - 🏗️ **google-admin** (555 .py) - Full management platform: Starlette Admin, 40+ DB tables, audit, payment providers, task engine
 - 🤖 **google-client** (126 .py) - AI task runner: browser-use + Claude/GPT via Octo Browser, LLM cost tracking
@@ -66,7 +62,10 @@ These are closed-source projects built for production — showing scale and expe
 - 🍎 **apple_farm** (167 .py) - Apple Developer registration pipeline — SMS providers, fingerprint analysis (IPQS/FP Pro/AntCpt), antifraud bypass
 - 🔍 **apple-checker** - Apple account verification and fingerprint quality checker
 - 🌐 **AutoLand** - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images
-- 📄 **white-page-generator** - Automated landing page builder with AI content
+
+**AI & Developer Tools:**
+- 🖥️ **ai_desktop_agent** - AI agent for desktop automation
+- 🤖 **ai_playwright** - AI-powered Playwright automation experiments
 
 **Telegram Bots (7+):**
 - 👥 **recruiter-bot** - Recruiting funnel with surveys, MinIO resume storage, Google Sheets export
@@ -85,7 +84,6 @@ These are closed-source projects built for production — showing scale and expe
 **Infrastructure:**
 - 🎨 **InkHub** - Full-stack content platform (FastAPI + React) + Scripts + Monitor
 - ⚙️ **Temporal workflows** - Distributed workflow orchestration for automation tasks
-- 🖥️ **AI Desktop Agent** - AI agent for desktop automation
 
 ---
 
