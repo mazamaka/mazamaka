@@ -54,6 +54,58 @@ This is my core expertise — I understand how antifraud systems work from the i
 
 ---
 
+### 🔒 Private / Production Projects
+
+These are closed-source projects built for production. Showing scale and expertise:
+
+**Google Ads Farm Ecosystem** — 5 services managing hundreds of ad accounts:
+| Project | Scale | Description |
+|---------|-------|-------------|
+| google-admin | 555 .py | Full management platform: Starlette Admin, 40+ DB tables, audit, payment providers, task engine |
+| google-client | 126 .py | AI task runner: browser-use + Claude/GPT via Octo Browser, LLM cost tracking |
+| google-client-ai | 120 .py | Next-gen AI client with advanced browser-use strategies |
+| google-logflow | 30 .py | Centralized log collection (FastAPI + PostgreSQL + MinIO) |
+| chrome-pf-api | 40 .py | Chrome behavioral factor emulation and metrics analysis |
+| checker-chrome-pf-api | 25 .py | Auto health-checker with restart for failed emulations |
+
+**Antifraud & Automation Farms:**
+| Project | Scale | Description |
+|---------|-------|-------------|
+| apple_farm | 167 .py | Apple Developer registration pipeline — SMS providers, fingerprint analysis (IPQS/FP Pro/AntCpt), antifraud bypass |
+| apple-checker | 30 .py | Apple account verification and fingerprint quality checker |
+| AutoLand | 80 .py | AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images |
+| white-page-generator | 60 .py | Automated landing page builder with AI content |
+| mobile-cloaking *(public)* | 40 .py | Mobile cloaking backend for iOS (geo-targeting, offer selection) |
+
+**Telegram Bots (7+):**
+| Project | Description |
+|---------|-------------|
+| recruiter-bot | Recruiting funnel with surveys, MinIO resume storage, Google Sheets export |
+| account-issuance-bot | Account distribution bot (Google Sheets + MySQL sync) |
+| income-vacancies-bot | Payment/vacancy approval bot with admin panel |
+| ugc-talent-hub-bot | UGC creator onboarding bot |
+| daily-report-bot | Multi-handler daily report aggregator |
+| domain-bot | Domain management via Cloudflare API + DNS |
+| sim-bank-bot | SIM card automation (Flask + Telegram bot + admin panel) |
+
+**Blockchain & Trading:**
+| Project | Description |
+|---------|-------------|
+| Solana copy-trading bot | Automated trade analysis and execution on Solana |
+| Solana sniper bot | MVP: simulation API, trade storage, TP/SL strategies, analytics |
+| Pump.fun trading bot | Automated trading on pump.fun |
+
+**Infrastructure:**
+| Project | Description |
+|---------|-------------|
+| InkHub | Full-stack content platform (FastAPI + React) |
+| InkHub-Scripts | AWS S3 image processing pipelines (parallel PNG→AVIF conversion) |
+| InkHub-Monitor | Platform health monitoring service |
+| Temporal workflows | Distributed workflow orchestration for automation tasks |
+| AI Desktop Agent | AI agent for desktop automation |
+
+---
+
 ### 📊 Tech Stack
 
 ```
