@@ -1,14 +1,15 @@
-# Hi, I'm Maksym 👋
+# Hi 👋, I'm Maksym
 
-**Python Developer | AI Automation | Antifraud & Fingerprinting | DevOps**
-
-I'm a Full-Stack Python Developer with 8+ years of experience building production systems end-to-end. Currently based in Budapest, Hungary.
+I'm a Full-Stack Python Developer with 8+ years of experience building production systems end-to-end. Originally from Kyiv, Ukraine 🇺🇦, currently based in Budapest, Hungary 🇭🇺.
 
 - 🔧 Building microservices with **FastAPI**, AI-powered browser automation with **Claude/GPT + browser-use**
-- 🛡️ Deep expertise in **antifraud systems**: fingerprint spoofing (Canvas, WebGL, Audio, TLS), bot-detection bypass, CDP-level browser manipulation
-- 🤖 AI-first development with **Claude Code** + custom 14-agent system (architect, developer, reviewer, deployer, tester, debugger, devops, and more)
+- 🛡️ Deep expertise in **antifraud & fingerprinting**: Canvas, WebGL, Audio, TLS spoofing, bot-detection bypass, CDP-level manipulation
+- 🤖 AI-first development with **Claude Code** + custom **14-agent system** (architect, developer, reviewer, deployer, tester, debugger, devops, and more)
 - 🐳 Full DevOps: Docker, GitLab CI/CD, Prometheus/Grafana, Linux servers
-- 📦 40+ production projects shipped, 3,500+ Python files
+- 📦 **40+ production projects** shipped, **3,500+ Python files**
+- 💬 Ask me about **antifraud systems, browser fingerprinting, AI automation, Python microservices**
+- 📫 Reach me: [Telegram @Mazamaka](https://t.me/Mazamaka) · [LinkedIn](https://linkedin.com/in/max-bob-python) · mazamaka603@gmail.com
+- 📄 Check out my [Resume](https://github.com/mazamaka/resume) (Full / Standard / Compact × EN / RU)
 
 ---
 
@@ -122,9 +123,11 @@ Bots:           aiogram 3, Pyrogram, Telethon
 
 ---
 
-### 📫 How to reach me
+---
 
-- 📧 Email: mazamaka603@gmail.com
-- 💬 Telegram: [@Mazamaka](https://t.me/Mazamaka)
-- 💼 LinkedIn: [max-bob-python](https://linkedin.com/in/max-bob-python)
-- 📄 [My Resume](https://github.com/mazamaka/resume) (Full / Standard / Compact × EN / RU)
+<p align="center">
+  <a href="https://t.me/Mazamaka"><img src="https://img.shields.io/badge/Telegram-@Mazamaka-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/max-bob-python"><img src="https://img.shields.io/badge/LinkedIn-max--bob--python-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mazamaka603@gmail.com"><img src="https://img.shields.io/badge/Email-mazamaka603@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mazamaka/resume"><img src="https://img.shields.io/badge/Resume-PDF%20%2F%20MD-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
