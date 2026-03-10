@@ -2,6 +2,7 @@
 
 I'm a Full-Stack Python Developer with 8+ years of experience building production systems end-to-end. Originally from Kyiv, Ukraine 🇺🇦, currently based in Budapest, Hungary 🇭🇺.
 
+- 🎙️ Currently building **MaxBob AI** — native Apple voice assistant (SwiftUI iOS + macOS + WebRTC backend)
 - 🔧 Building microservices with **FastAPI**, AI-powered browser automation with **Claude/GPT + browser-use**
 - 🛡️ Deep expertise in **antifraud & fingerprinting**: Canvas, WebGL, Audio, TLS spoofing, bot-detection bypass, CDP-level manipulation
 - 🤖 AI-first development with **Claude Code** + custom **14-agent system** (architect, developer, reviewer, deployer, tester, debugger, devops, and more)
@@ -42,6 +43,17 @@ Some of my projects I have published or repositories I maintain:
 ### 🔒 Private / Production Projects
 
 These are closed-source projects built for production — showing scale and expertise:
+
+**MaxBob AI** — my most active project (pushed daily):
+- 🎙️ **MaxBobAI** - Native Apple voice assistant (SwiftUI iOS + macOS) — real-time voice conversations with AI
+- 🔊 **maxbob-backend** - OpenAI Realtime Voice Assistant backend (WebRTC + FastAPI)
+
+**AI & Developer Tools:**
+- 🐝 **claude-swarm-system** - Swarm system of 14 specialized agents for Claude Code — full-cycle Python development
+- 🎬 **movie-recommender** - Smart movie recommender based on Lampa watch history, auto-finds torrents, posts to Telegram
+- 📞 **usphonebook-scraper** - USPhoneBook Docker scraper with Cloudflare Turnstile bypass
+- 🖥️ **ai_desktop_agent** - AI agent for desktop automation
+- 🤖 **ai_playwright** - AI-powered Playwright automation experiments
 
 **Google Ads Farm Ecosystem** — 5 services, 800+ Python files:
 - 🏗️ **google-admin** (555 .py) - Full management platform: Starlette Admin, 40+ DB tables, audit, payment providers, task engine
@@ -87,6 +99,7 @@ Antifraud:      CDP spoofing, Canvas/WebGL/Audio/TLS fingerprinting, bot-detecti
 Automation:     Playwright, Selenium, nodriver, Octo Browser API, CDP
 Frontend:       React, TypeScript, Chrome Extensions (MV3), HTMX, Jinja2
 DevOps:         Docker, GitLab CI/CD, Nginx, Portainer, Prometheus/Grafana, Linux
+Mobile:         SwiftUI (iOS + macOS), WebRTC
 Blockchain:     Solana (copy-trading bot), Web3
 Bots:           aiogram 3, Pyrogram, Telethon
 ```
