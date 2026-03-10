@@ -27,6 +27,9 @@ Some of my projects I have published or repositories I maintain:
 
 - 🐝 [claude-swarm-system](https://github.com/mazamaka/claude-swarm-system) - Swarm system of 14 specialized AI agents for Claude Code — full-cycle Python development.
 - 🧠 [browser-automation-system](https://github.com/mazamaka/browser-automation-system) - Self-learning browser automation with AI (FastAPI + React + browser-use + Claude).
+- 🌐 [AutoLand](https://github.com/mazamaka/AutoLand) - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images.
+- 🎤 [VoiceHelper](https://github.com/mazamaka/VoiceHelper) - Voice assistant with OpenAI GPT integration — speech recognition and AI responses.
+- 🐦 [grimace-twitter](https://github.com/mazamaka/grimace-twitter) - Twitter/X bot farm with AI-powered content generation (OpenAI GPT + automated interactions).
 - 📋 [weekly-report-agent](https://github.com/mazamaka/weekly-report-agent) - CLI agent: git logs → Claude AI analysis → ClickUp tasks.
 - 🎬 [movie-recommender](https://github.com/mazamaka/movie-recommender) - Smart movie recommender — Lampa watch history analysis, auto torrent finder, Telegram bot.
 
@@ -40,6 +43,8 @@ Some of my projects I have published or repositories I maintain:
 - 🦠 [virustotal-scraper](https://github.com/mazamaka/virustotal-scraper) - VirusTotal file scanner via browser automation and API.
 - 🚗 [car_iaai](https://github.com/mazamaka/car_iaai) - Async IAA auto auction scraper (aiohttp + SOCKS5 proxy).
 - 🏢 [company_classification](https://github.com/mazamaka/company_classification) - NLP company classifier using zero-shot transformers.
+- 💚 [GreenBit](https://github.com/mazamaka/GreenBit) - Monobank-to-Binance automated crypto purchase bot with Telegram notifications.
+- 💹 [FastCopyTradeSolana](https://github.com/mazamaka/FastCopyTradeSolana) - Solana copy-trading bot — automated trade analysis and execution.
 
 ---
 
@@ -61,7 +66,6 @@ These are closed-source projects built for production — showing scale and expe
 **Antifraud & Automation Farms:**
 - 🍎 **apple_farm** (167 .py) - Apple Developer registration pipeline — SMS providers, fingerprint analysis (IPQS/FP Pro/AntCpt), antifraud bypass
 - 🔍 **apple-checker** - Apple account verification and fingerprint quality checker
-- 🌐 **AutoLand** - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images
 
 **AI & Developer Tools:**
 - 🖥️ **ai_desktop_agent** - AI agent for desktop automation
@@ -77,7 +81,6 @@ These are closed-source projects built for production — showing scale and expe
 - 📲 **sim-bank-bot** - SIM card automation (Flask + Telegram bot + admin panel)
 
 **Blockchain & Trading:**
-- 💹 **Solana copy-trading bot** - Automated trade analysis and execution on Solana
 - 🎯 **Solana sniper bot** - MVP: simulation API, trade storage, TP/SL strategies, analytics
 - 🚀 **Pump.fun trading bot** - Automated trading on pump.fun
 
