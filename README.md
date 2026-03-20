@@ -17,6 +17,7 @@ Some of my projects I have published or repositories I maintain:
 ### 🛡️ Antifraud & Fingerprinting
 
 - 🔒 [nodriver-antidetect](https://github.com/mazamaka/nodriver-antidetect) - Custom antidetect browser with CDP-level fingerprint spoofing (CreepJS: headless 0%, stealth 0%).
+- 📱 [bluestacks-antidetect](https://github.com/mazamaka/bluestacks-antidetect) - BlueStacks Air antidetect manager — instance cloning, fingerprint spoofing, device cloaking, proxy bridge (FastAPI + ADB).
 - 🔍 [antifraud-spy](https://github.com/mazamaka/antifraud-spy) - Chrome Extension that monitors antifraud/fingerprinting API calls in real-time.
 - 📊 [ipqs-checker](https://github.com/mazamaka/ipqs-checker) - Fingerprint quality checker — IPQS, FingerprintPro, AntCaptcha, CreepJS (FastAPI + browser extensions).
 - 🌐 [detect-expert-client](https://github.com/mazamaka/detect-expert-client) - Python client for detect.expert with Cloudflare bypass via TLS fingerprinting.
@@ -25,6 +26,7 @@ Some of my projects I have published or repositories I maintain:
 
 ### 🤖 AI & Automation
 
+- 🎙️ [MaxBobAI](https://github.com/mazamaka/MaxBobAI) - Native Apple voice assistant (SwiftUI iOS + macOS + watchOS) — real-time voice with Claude & OpenAI WebRTC.
 - 🐝 [claude-swarm-system](https://github.com/mazamaka/claude-swarm-system) - Swarm system of 14 specialized AI agents for Claude Code — full-cycle Python development.
 - 🧠 [browser-automation-system](https://github.com/mazamaka/browser-automation-system) - Self-learning browser automation with AI (FastAPI + React + browser-use + Claude).
 - 🌐 [AutoLand](https://github.com/mazamaka/AutoLand) - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images.
@@ -49,6 +51,8 @@ Some of my projects I have published or repositories I maintain:
 - 💚 [GreenBit](https://github.com/mazamaka/GreenBit) - Monobank-to-Binance automated crypto purchase bot with Telegram notifications.
 - 💹 [FastCopyTradeSolana](https://github.com/mazamaka/FastCopyTradeSolana) - Solana copy-trading bot — automated trade analysis and execution.
 - 🎯 [Solana-Sniper-Bot](https://github.com/mazamaka/Solana-Sniper-Bot) - Solana sniper bot — simulation API, trade storage, TP/SL strategies.
+- ₿ [btc-sniper](https://github.com/mazamaka/btc-sniper) - Bitcoin price sniper — multi-source price tracking, volatility analysis, alert system.
+- 🔬 [SolanaDevNet](https://github.com/mazamaka/SolanaDevNet) - Solana DevNet toolkit — wallet management, token operations, transaction utilities.
 - 💰 [Fast_Coin_Bob](https://github.com/mazamaka/Fast_Coin_Bob) - Crypto trading platform with FastAPI dashboard and Solana/Raydium integration.
 - 🚗 [Auto_ria_tg_pars](https://github.com/mazamaka/Auto_ria_tg_pars) - Auto.ria car listing parser with Telegram bot notifications.
 - 📲 [SIM_BANK](https://github.com/mazamaka/SIM_BANK) - SIM Bank management system — Flask web app with Telegram bot.
