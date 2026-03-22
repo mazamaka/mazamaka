@@ -26,6 +26,8 @@ Some of my projects I have published or repositories I maintain:
 
 ### 🤖 AI & Automation
 
+- 📈 [polymarket-bot](https://github.com/mazamaka/polymarket-bot) - AI trading bot for Polymarket — 3 strategies: Claude mispricing detection, weather arbitrage (12K+ backtested markets), breaking news arbitrage.
+- 🔭 [alpha-scout](https://github.com/mazamaka/alpha-scout) - AI-powered trading idea aggregator — 6 sources (Reddit, GitHub, HN, Twitter, Polymarket, RSS), Claude screening + deep analysis, Telegram alerts.
 - 🐝 [claude-swarm-system](https://github.com/mazamaka/claude-swarm-system) - Swarm system of 14 specialized AI agents for Claude Code — full-cycle Python development.
 - 🧠 [browser-automation-system](https://github.com/mazamaka/browser-automation-system) - Self-learning browser automation with AI (FastAPI + React + browser-use + Claude).
 - 🌐 [AutoLand](https://github.com/mazamaka/AutoLand) - AI website auto-generator (GPT + Claude + Gemini) — landing pages with text + images.
@@ -63,11 +65,11 @@ Some of my projects I have published or repositories I maintain:
 These are closed-source projects built for production — showing scale and expertise:
 
 **MaxBob AI** — my most active project (pushed daily):
-- 🎙️ **MaxBobAI** - Native Apple voice assistant (SwiftUI iOS + macOS) — real-time voice conversations with AI
+- 🎙️ **MaxBobAI** (33K+ LOC, Swift 6) - Native Apple voice assistant for iOS, macOS & watchOS — Claude for text, OpenAI Realtime WebRTC for voice, 15 native integrations (Calendar, Music, HomeKit, Shazam, Maps, etc.)
 - 🔊 **maxbob-backend** - OpenAI Realtime Voice Assistant backend (WebRTC + FastAPI)
 
 **Google Ads Farm Ecosystem** — 5 services, 800+ Python files:
-- 🏗️ **google-admin** (555 .py) - Full management platform: Starlette Admin, 40+ DB tables, audit, payment providers, task engine
+- 🏗️ **google-admin** (555 .py) - Full management platform: FastAPI + Starlette Admin, 40+ DB tables, audit system, payment providers, task automation engine, real-time SSE updates, Excel export
 - 🤖 **google-client** (126 .py) - AI task runner: browser-use + Claude/GPT via Octo Browser, LLM cost tracking
 - 📊 **google-logflow** - Centralized log collection (FastAPI + PostgreSQL + MinIO)
 - 🖥️ **chrome-pf-api** - Chrome behavioral factor emulation and metrics analysis
