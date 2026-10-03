@@ -72,6 +72,14 @@ Some of my public projects:
 
 Selected closed-source work:
 
+**🧩 Platforms, data & infrastructure**
+
+- 🏘️ **AI Website Platform** — AI site generation, MCP, previews & deployment.
+- 🎟️ **Event Management Platform** — Guest registration, QR check-in & access control.
+- 📰 **News Intelligence** — Multi-source news API with semantic search & pgvector.
+- 📑 **Document AI Pipeline** — PDF OCR → LLM metadata, queued through RabbitMQ.
+- 📶 **Modem Control Platform** — Multi-modem management, proxy routing & recovery.
+
 **🎙️ Voice & native Apple apps**
 
 - 🎙️ **MaxBob AI** — Native iOS/macOS voice assistant with SwiftUI.
