@@ -27,12 +27,12 @@ Some of my public projects:
 - 🛡️ **[nodriver-antidetect](https://github.com/mazamaka/nodriver-antidetect)** — CDP fingerprint customization & detection checks.
 - 📱 **[BlueStacks Antidetect](https://github.com/mazamaka/bluestacks-antidetect)** — Android profiles, device fingerprints & proxies.
 - 🔍 **[Antifraud Spy](https://github.com/mazamaka/antifraud-spy)** — Chrome extension for inspecting fingerprinting calls.
-- 📊 **[IPQS Checker](https://github.com/mazamaka/ipqs-checker)** — Device-fingerprint & IP-quality checks.
-- 🌐 **[Detect Expert Client](https://github.com/mazamaka/detect-expert-client)** — Python client for DNS checks with browser-style TLS.
+- 🧪 **[IPQS Checker](https://github.com/mazamaka/ipqs-checker)** — Device-fingerprint & IP-quality checks.
+- 🧬 **[Detect Expert Client](https://github.com/mazamaka/detect-expert-client)** — Python client for DNS checks with browser-style TLS.
 - 🧠 **[Browser Automation System](https://github.com/mazamaka/browser-automation-system)** — Experimental AI task runner with FastAPI & React.
 - 🎭 **[AI Playwright](https://github.com/mazamaka/ai_playwright)** — LLM-driven Playwright workflows with AgentQL.
 - 🧭 **[Browser UAE AI](https://github.com/mazamaka/browser-uae-ai)** — LLM + browser-use automation over Chrome CDP.
-- 📲 **[Mobile Cloaking](https://github.com/mazamaka/mobile-cloaking)** — Mobile traffic routing, geo-targeting & cloaking rules.
+- 🚦 **[Mobile Cloaking](https://github.com/mazamaka/mobile-cloaking)** — Mobile traffic routing, geo-targeting & cloaking rules.
 
 ### 🛠️ Backend, Monitoring & Infrastructure
 
@@ -79,26 +79,26 @@ Selected closed-source work:
 
 **🏗️ Automation platform & supporting services**
 
-- 🏗️ **google-admin** — Admin platform: tasks, audit logs, payments & reports.
+- 🏢 **google-admin** — Admin platform: tasks, audit logs, payments & reports.
 - 🤖 **google-client** — AI browser task runner with LLM usage tracking.
-- 📊 **google-logflow** — Centralized logs with PostgreSQL & MinIO.
-- 🖥️ **chrome-pf-api** — Browser interaction emulation & metrics.
-- ✅ **checker-chrome-pf-api** — Worker health checks & recovery.
+- 🗃️ **google-logflow** — Centralized logs with PostgreSQL & MinIO.
+- 🖱️ **chrome-pf-api** — Browser interaction emulation & metrics.
+- 🩺 **checker-chrome-pf-api** — Worker health checks & recovery.
 
 **🛡️ Account & fingerprint workflows**
 
 - 🍎 **apple_farm** — Apple Developer registration & fingerprint workflows.
-- 🔍 **apple-checker** — Account verification & fingerprint-quality checks.
+- 🍏 **apple-checker** — Account verification & fingerprint-quality checks.
 
 **💬 Telegram business bots**
 
-- 👥 **recruiter-bot** — Recruiting surveys, resume storage & Sheets export.
-- 🔑 **account-issuance-bot** — Account allocation with Google Sheets & MySQL.
-- 💰 **income-vacancies-bot** — Payment & vacancy approvals with an admin panel.
-- 🎬 **ugc-talent-hub-bot** — Creator onboarding & data collection.
-- 📋 **daily-report-bot** — Daily report collection & aggregation.
+- 🧑‍💼 **recruiter-bot** — Recruiting surveys, resume storage & Sheets export.
+- 🗝️ **account-issuance-bot** — Account allocation with Google Sheets & MySQL.
+- 🧾 **income-vacancies-bot** — Payment & vacancy approvals with an admin panel.
+- 🎥 **ugc-talent-hub-bot** — Creator onboarding & data collection.
+- 🗓️ **daily-report-bot** — Daily report collection & aggregation.
 - 🌍 **domain-bot** — Domain management via Cloudflare & DNS APIs.
-- 📲 **sim-bank-bot** — SIM-card workflows via Telegram & admin panel.
+- ☎️ **sim-bank-bot** — SIM-card workflows via Telegram & admin panel.
 
 **⚙️ Other systems**
 
