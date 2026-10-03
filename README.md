@@ -1,6 +1,6 @@
 # Hi 👋, I'm Maksym
 
-I'm a Full-Stack Python Developer with 8+ years of experience building production systems end-to-end. Originally from Kyiv, Ukraine 🇺🇦, currently based in Budapest, Hungary 🇭🇺.
+I'm a Full-Stack Python Developer with 8+ years of experience building production systems end-to-end. Originally from Kyiv, Ukraine 🇺🇦, currently based in Prague, Czechia 🇨🇿.
 
 - 🎙️ Currently building **MaxBob AI** — native Apple voice assistant (SwiftUI iOS + macOS + WebRTC backend)
 - 🔧 Building microservices with **FastAPI**, AI-powered browser automation with **Claude/GPT + browser-use**
