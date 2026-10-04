@@ -10,6 +10,8 @@ I'm a **Senior Python Engineer with 8+ years of experience** building production
 
 📫 **[Telegram @Mazamaka](https://t.me/Mazamaka)** · [LinkedIn](https://linkedin.com/in/max-bob-python) · [Resume — EN / RU](https://github.com/mazamaka/resume)
 
+🌐 **[Portfolio & case studies](https://cv.maxbob.xyz/)** · [Portfolio source](https://github.com/mazamaka/maxbob-portfolio)
+
 Some of my public projects:
 
 ### 🤖 AI Agents & MCP
